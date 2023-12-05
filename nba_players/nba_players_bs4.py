@@ -16,6 +16,9 @@ for year in range(2020, 2023):
 
     temp_df = pd.DataFrame({'Player': names[1:], f"{year}/{year+1}": salary})
     
-    df = pd.concat([df, temp_df])
+    if df.empty:
+        df = temp_df
+    else:
+        df = df.merge(temp_df, 'outer')
 
 df.to_csv('data.csv', index=False)
