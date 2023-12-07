@@ -4,7 +4,7 @@ import pandas as pd
 
 df = pd.DataFrame() # Master Df
 
-for year in range(2020, 2023):
+for year in range(2010, 2023):
     
     url = f'https://hoopshype.com/salaries/players/{year}-{year+1}/'
 
@@ -21,4 +21,4 @@ for year in range(2020, 2023):
     else:
         df = df.merge(temp_df, 'outer')
 
-df.to_csv('data.csv', index=False)
+df.to_csv('data_1.csv', index=False)
