@@ -1,0 +1,31 @@
+{
+	"plid": "1655418",
+	"imgSrc": "https://photos.zillowstatic.com/fp/55fa6ef31586f66a4217d4ab178d8a1c-p_e.jpg",
+	"hasImage": true,
+	"detailUrl": "/b/3240-riverdale-ave-bronx-ny-37kB/",
+	"statusType": "FOR_SALE",
+	"statusText": "For Rent",
+	"price": "From $112,000",
+	"address": "3240 Riverdale Ave, Bronx, NY",
+	"minBeds": 1,
+	"minBaths": 1.0,
+	"minArea": 700,
+	"lotId": 131426,
+	"latLong": {
+		"latitude": 40.883232,
+		"longitude": -73.9075
+	},
+	"variableData": {},
+	"buildingId": "40.883232--73.9075",
+	"isBuilding": true,
+	"canSaveBuilding": false,
+	"has3DModel": false,
+	"isHomeRec": false,
+	"hasAdditionalAttributions": false,
+	"isFeaturedListing": false,
+	"isShowcaseListing": false,
+	"listingType": "",
+	"isFavorite": false,
+	"timeOnZillow": 11669338000,
+	"unitCount": 4
+}
