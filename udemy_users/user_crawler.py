@@ -1,15 +1,12 @@
 from bs4 import BeautifulSoup
 import re
 from collections import deque
-from selenium import webdriver
-from time import sleep
-from selenium.webdriver import ChromeOptions
+# from selenium import webdriver
+# from time import sleep
+# from selenium.webdriver import ChromeOptions
 from selenium.webdriver.support.wait import WebDriverWait
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException
 import undetected_chromedriver as uc
-from logTOtxt import setup_logging
+# from logTOtxt import setup_logging
 
 
 options= uc.ChromeOptions()
@@ -25,7 +22,6 @@ def crawl_users(startURL: str):
     '''Crawls internal links of udemy searching for users pages'''
     
     driver = uc.Chrome(options, use_subprocess=True)
-    wait = WebDriverWait(driver, 5)
     queue = deque([startURL])   #list-like object; with the ability to add & remove elems at both ends
     while queue:    #While there's still pages not crawled
         
@@ -46,6 +42,8 @@ def crawl_users(startURL: str):
                         and new_page not in users:  #New User page
                         users.add(new_page)
                         print(users)
+                        with open('users.txt', 'a') as f:
+                            f.writelines(url + '\n' for url in users)
                     else:
                         queue.append(new_page)  #Internal links searched again for probable user links
                         print(f"To queue: {new_page}")
@@ -53,18 +51,17 @@ def crawl_users(startURL: str):
                 pages_visited.add(new_page)     #Pages are marked visited 
                 print(f'To pages_visited: {new_page}')
 
-                print(f"Current sizes - pages_visited: {len(pages_visited)}, users: {len(users)}, queue: {len(queue)}")
-        # n += 1
+                print(f"Current sizes - pages_visited: {len(pages_visited)},"
+                    f"users: {len(users)}, queue: {len(queue)}")
 
     driver.quit()
-    print(queue)
 
 
 import logging
 
-setup_logging('script_log.txt')
-logging.info('This is an informational message.')
-logging.warning('This is a warning message.')
+# setup_logging('script_log.txt')
+# logging.info('This is an informational message.')
+# logging.warning('This is a warning message.')
 
 # url = "https://about.udemy.com/category/instructors/"
 url = 'https://about.udemy.com/instructors/supercharge-your-delivery-6-tips-to-improve-your-on-camera-presence/'
