@@ -8,9 +8,11 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
+import undetected_chromedriver as uc
+from logTOtxt import setup_logging
 
 
-options = ChromeOptions()
+options= uc.ChromeOptions()
 # options.add_argument('--headless')
 # options.add_argument('user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36')
 options.add_argument('--log-level=3')  # Set log level to ignore console errors
@@ -18,11 +20,11 @@ options.add_argument('--log-level=3')  # Set log level to ignore console errors
 pages_visited = set()   #Filled with pages that have been visited
 users = set()   #Users pages only
 
+
 def crawl_users(startURL: str):
     '''Crawls internal links of udemy searching for users pages'''
     
-    # n = 0
-    driver = webdriver.Chrome(options=options)
+    driver = uc.Chrome(options, use_subprocess=True)
     wait = WebDriverWait(driver, 5)
     queue = deque([startURL])   #list-like object; with the ability to add & remove elems at both ends
     while queue:    #While there's still pages not crawled
@@ -30,15 +32,7 @@ def crawl_users(startURL: str):
         currURL = queue.popleft()
         print(f"GETTING link: {currURL}")
         driver.get(currURL)
-        
-        try:        
-            wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, 'a[href="https://www.udemy.com"]')))
-        except TimeoutException:
-            wait.until(EC.element_to_be_clickable((By.XPATH, '//input[starts-with(@id, "cf-chl-widget-")]'))).click()
-
-            # wait.until(EC.presence_of_element_located((By.ID, 'input[id^="cf-chl-widget-"]'))).click()
-            print(driver.page_source)
-            wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, 'a[href="https://www.udemy.com"]')))
+        # wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, 'a[href="https://www.udemy.com"]')))
         
         soup = BeautifulSoup(driver.page_source, 'html.parser')
         links = soup.find_all('a')
@@ -64,6 +58,13 @@ def crawl_users(startURL: str):
 
     driver.quit()
     print(queue)
+
+
+import logging
+
+setup_logging('script_log.txt')
+logging.info('This is an informational message.')
+logging.warning('This is a warning message.')
 
 # url = "https://about.udemy.com/category/instructors/"
 url = 'https://about.udemy.com/instructors/supercharge-your-delivery-6-tips-to-improve-your-on-camera-presence/'
