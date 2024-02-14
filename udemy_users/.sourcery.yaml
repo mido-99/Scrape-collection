@@ -1,0 +1,3 @@
+rule_settings:
+  disable:
+  - do-not-use-bare-except
