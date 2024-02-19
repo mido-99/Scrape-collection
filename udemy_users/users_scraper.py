@@ -12,8 +12,11 @@ from pandas import DataFrame
 
 
 class UdemyUsersScraper():
-    """Extract all users page urls from a categoty on udemy.com. 
-    #TODO: add main params & main method instructions"""
+    """Extract all users page urls from a categoty on udemy.com.\n
+    - api: endpoint used by site's backend to populate pages. By the time 
+    this is written you can find it in inspect -> netwrok -> search: "all"\n
+    The main class method is GetAllData(). see help for further info about params
+    """
 
     BASE_SITE = "https://www.udemy.com"
     HEADERS = {
@@ -42,7 +45,7 @@ class UdemyUsersScraper():
             curr_page = int(query['p'][0])
             query['p'] = [f"{curr_page + 3}"]
 
-        return self.re_construct_url(query, parsed_url)
+        return self._re_construct_url(query, parsed_url)
 
     def set_query(self, api, p: int, page_size:int):
         '''Sets the value of p (page) and page_size (itmes) in the api url'''
@@ -51,9 +54,9 @@ class UdemyUsersScraper():
         query = parse_qs(parsed_url.query)
         query['p'] = [f'{p}']
         query['page_size'] = [f'{page_size}']
-        return self.re_construct_url(query, parsed_url)
+        return self._re_construct_url(query, parsed_url)
     
-    def re_construct_url(self, query, parsed_url):
+    def _re_construct_url(self, query, parsed_url):
         '''Reconstruct a full url out of its parts made by urllic.parse.urlparse()'''
 
         new_query = urlencode(query, doseq=True)
@@ -71,7 +74,7 @@ class UdemyUsersScraper():
 
     def get_api_data(self, pages:int):
         '''Retrieves data by endpoint api. Can retrieve 16 result per page (default) 
-        or up to 60. For efficacy and ability to devide by 16; 48 will be used.\n
+        or up to 60. For efficacy and not sending too many requests; 48 will be used.\n
         Expects number of pages in category being scraped.'''
         
         all_users = []    #all courses; populated on each request
@@ -91,7 +94,7 @@ class UdemyUsersScraper():
             users = [r['unit']['items'][i]['visible_instructors'][0]['url']
                     for i in range(len(r['unit']['items']))]
             all_users.extend(users)
-            reqs +=1
+            all_requests +=1
         return set(all_users) #A set to drop duplicates
         
     def get_user_data(self, users:set):
@@ -99,7 +102,7 @@ class UdemyUsersScraper():
 
         data = []
         for user in users:
-            r = requests.get(user, headers=self.HEADERS)
+            r = requests.get(self.BASE_SITE + user, headers=self.HEADERS)
             soup = BeautifulSoup(r.text, 'html.parser')
             name = soup.find('h1').text
             title = soup.find('h2', {'class': "ud-heading-md instructor-profile--instructor-title--1L6bi"})
@@ -121,21 +124,31 @@ class UdemyUsersScraper():
             data.append(row)
         return data
     
-    def export_data(self, data: list):
+    def export_data(self, data: list, export_path: str):
         '''Export final data to csv file'''
 
         df = DataFrame(data)
-        df.to_csv('data.csv', index=False, encoding='utf-8')
+        df.to_csv(export_path, index=False, encoding='utf-8')
     
-    def get_users_data(self, api, pages:int, export_path:str):
-        pass
+    def GetAllData(self, pages: int, export_path: str):
+        """
+        Main method for the class. used to gather all users data for a specific 
+        category on https://www.udemy.com.\n
+        Parameters:\n
+        - pages: number of pages for desired category.\n
+        - export_path: .csv filepath into which data will be exported.
+        """
+        
+        api_data = self.get_api_data(pages)
+        data = self.get_user_data(api_data)
+        self.export_data(data, export_path)
 
 example_cat = "https://www.udemy.com/courses/teaching-and-academics/"
 api = "https://www.udemy.com/api-2.0/discovery-units/all_courses/?p=1&page_size=48&subcategory=&instructional_level=&lang=&price=&duration=&closed_captions=&subs_filter_type=&category_id=300&source_page=category_page&locale=en_US&currency=egp&navigation_locale=en_US&skip_price=true&sos=pc&fl=cat"
 api_no_p = "https://www.udemy.com/api-2.0/discovery-units/all_courses/?page_size=16&subcategory=&instructional_level=&lang=&price=&duration=&closed_captions=&subs_filter_type=&category_id=300&source_page=category_page&locale=en_US&currency=egp&navigation_locale=en_US&skip_price=true&sos=pc&fl=cat"
 
 teaching = UdemyUsersScraper(api = api_no_p)
-teaching.get_api_data(7)
+teaching.GetAllData(5, 'data.csv')
 
 """
 #*1 The thing behind // and %
