@@ -8,13 +8,26 @@ from urllib.parse import parse_qs, urlparse, urlencode, urlunparse
 import requests
 import undetected_chromedriver as uc
 from bs4 import BeautifulSoup
+from pandas import DataFrame
 
-BASE_SITE = "https://www.udemy.com/"
-example_cat = "https://www.udemy.com/courses/teaching-and-academics/"
-api = "https://www.udemy.com/api-2.0/discovery-units/all_courses/?p=1&page_size=48&subcategory=&instructional_level=&lang=&price=&duration=&closed_captions=&subs_filter_type=&category_id=300&source_page=category_page&locale=en_US&currency=egp&navigation_locale=en_US&skip_price=true&sos=pc&fl=cat"
-api_no_p = "https://www.udemy.com/api-2.0/discovery-units/all_courses/?page_size=16&subcategory=&instructional_level=&lang=&price=&duration=&closed_captions=&subs_filter_type=&category_id=300&source_page=category_page&locale=en_US&currency=egp&navigation_locale=en_US&skip_price=true&sos=pc&fl=cat"
 
 class UdemyUsersScraper():
+    """Extract all users page urls from a categoty on udemy.com.\n
+    - api: endpoint used by site's backend to populate pages. By the time 
+    this is written you can find it in inspect -> netwrok -> search: "all"\n
+    The main class method is GetAllData(). see help for further info about params
+    """
+
+    BASE_SITE = "https://www.udemy.com"
+    HEADERS = {
+    'pragma': 'no-cache',
+    'cache-control': 'no-cache',
+    'dnt': '1',
+    'upgrade-insecure-requests': '1',
+    'user-agent': 'Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36',
+    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8',
+    }
     
     def __init__(self, api):
         self.api = api
@@ -32,19 +45,19 @@ class UdemyUsersScraper():
             curr_page = int(query['p'][0])
             query['p'] = [f"{curr_page + 3}"]
 
-        return self.re_construct_url(query, parsed_url)
+        return self._re_construct_url(query, parsed_url)
 
-    def set_query(self, api, p, page_size):
+    def set_query(self, api, p: int, page_size:int):
         '''Sets the value of p (page) and page_size (itmes) in the api url'''
 
         parsed_url = urlparse(api)
         query = parse_qs(parsed_url.query)
         query['p'] = [f'{p}']
         query['page_size'] = [f'{page_size}']
-        return self.re_construct_url(query, parsed_url)
+        return self._re_construct_url(query, parsed_url)
     
-    def re_construct_url(self, query, parsed_url):
-        '''Reconstruct a full url out of its parts made by urlparse()'''
+    def _re_construct_url(self, query, parsed_url):
+        '''Reconstruct a full url out of its parts made by urllic.parse.urlparse()'''
 
         new_query = urlencode(query, doseq=True)
         new_url = urlunparse(
@@ -59,49 +72,83 @@ class UdemyUsersScraper():
         )
         return new_url
 
-    def get_api_data(self, pages):
+    def get_api_data(self, pages:int):
         '''Retrieves data by endpoint api. Can retrieve 16 result per page (default) 
-        or up to 60. For efficacy and ability to devide by 16; 48 will be used.\n
+        or up to 60. For efficacy and not sending too many requests; 48 will be used.\n
         Expects number of pages in category being scraped.'''
         
-        all_courses = []    #all courses; populated on each request
-        all_requests = pages // 3   #requests to be made initially
-        remaining = pages % 3   #remaining pages
-        
+        all_users = []    #all courses; populated on each request
+        all_requests, remainder = divmod(pages, 3) #requests to be made initially, remaining pages
         #*1 The idea of // and % below
+        
         for _ in range(all_requests): 
             url = self.validate_query(self.api)
             r = requests.get(url).json()
-            course_links = [r['unit']['items'][i]['url'] for i in range(len(r['unit']['items']))]
-            all_courses.extend(course_links)
-        
-        for _ in range(remaining):  
-            url = self.set_query(self.api, (all_requests*3) + 1, 16)
+            users = [r['unit']['items'][i]['visible_instructors'][0]['url']
+                    for i in range(len(r['unit']['items']))]
+            all_users.extend(users)
+
+        for _ in range(remainder):  
+            url = self.set_query(self.api, (all_requests*3) + 1, 16)    #req_made*3 = curr_page
             r = requests.get(url).json()
-            course_links = [r['unit']['items'][i]['url'] for i in range(len(r['unit']['items']))]
-            all_courses.extend(course_links)
-            reqs +=1  
+            users = [r['unit']['items'][i]['visible_instructors'][0]['url']
+                    for i in range(len(r['unit']['items']))]
+            all_users.extend(users)
+            all_requests +=1
+        return set(all_users) #A set to drop duplicates
         
-        print(all_courses[48:50], len(all_courses))
-        return all_courses
-    
-    def check_duplicates(self):
-        '''Check for duplicate users before making a request to course page.'''
+    def get_user_data(self, users:set):
+        '''Get final user data from their pages'''
 
-        pass
+        data = []
+        for user in users:
+            r = requests.get(self.BASE_SITE + user, headers=self.HEADERS)
+            soup = BeautifulSoup(r.text, 'html.parser')
+            name = soup.find('h1').text
+            title = soup.find('h2', {'class': "ud-heading-md instructor-profile--instructor-title--1L6bi"})
+            tot_student, reviews = [i.text for i in soup.find_all('div', {'class': "ud-heading-xl"})]
+            social = soup.find('div', {'class': "instructor-profile--social-links--3x2ms"})
+            try:
+                links = [i['href'] for i in social.children]
+            except:
+                links = '-'
+            
+            row =  {
+                'Name': name,
+                'Title': title,
+                'Total students': tot_student,
+                'Reviews': reviews,
+                'Udemy link': self.BASE_SITE + user,
+                'Social links': links
+            }
+            data.append(row)
+        return data
     
-    def get_course_urls(self):
-        '''Get courses urls from api endpoint -rather than making hundreds of requests-.'''
+    def export_data(self, data: list, export_path: str):
+        '''Export final data to csv file'''
 
-        pass
+        df = DataFrame(data)
+        df.to_csv(export_path, index=False, encoding='utf-8')
     
-    def get_user_data(self):
-        '''Get final user data from their page'''
+    def GetAllData(self, pages: int, export_path: str):
+        """
+        Main method for the class. used to gather all users data for a specific 
+        category on https://www.udemy.com.\n
+        Parameters:\n
+        - pages: number of pages for desired category.\n
+        - export_path: .csv filepath into which data will be exported.
+        """
         
-        pass
+        api_data = self.get_api_data(pages)
+        data = self.get_user_data(api_data)
+        self.export_data(data, export_path)
+
+example_cat = "https://www.udemy.com/courses/teaching-and-academics/"
+api = "https://www.udemy.com/api-2.0/discovery-units/all_courses/?p=1&page_size=48&subcategory=&instructional_level=&lang=&price=&duration=&closed_captions=&subs_filter_type=&category_id=300&source_page=category_page&locale=en_US&currency=egp&navigation_locale=en_US&skip_price=true&sos=pc&fl=cat"
+api_no_p = "https://www.udemy.com/api-2.0/discovery-units/all_courses/?page_size=16&subcategory=&instructional_level=&lang=&price=&duration=&closed_captions=&subs_filter_type=&category_id=300&source_page=category_page&locale=en_US&currency=egp&navigation_locale=en_US&skip_price=true&sos=pc&fl=cat"
 
 teaching = UdemyUsersScraper(api = api_no_p)
-teaching.get_api_data(7)
+teaching.GetAllData(5, 'data.csv')
 
 """
 #*1 The thing behind // and %
