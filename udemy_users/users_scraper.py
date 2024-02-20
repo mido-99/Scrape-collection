@@ -9,6 +9,7 @@ import requests
 import undetected_chromedriver as uc
 from bs4 import BeautifulSoup
 from pandas import DataFrame
+from time import sleep
 
 
 class UdemyUsersScraper():
@@ -19,16 +20,7 @@ class UdemyUsersScraper():
     """
 
     BASE_SITE = "https://www.udemy.com"
-    HEADERS = {
-    'pragma': 'no-cache',
-    'cache-control': 'no-cache',
-    'dnt': '1',
-    'upgrade-insecure-requests': '1',
-    'user-agent': 'Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36',
-    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
-    'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8',
-    }
-    
+
     def __init__(self, api):
         self.api = api
         
@@ -83,36 +75,45 @@ class UdemyUsersScraper():
         
         for _ in range(all_requests): 
             url = self.validate_query(self.api)
+            self.api = url
             r = requests.get(url).json()
             users = [r['unit']['items'][i]['visible_instructors'][0]['url']
-                    for i in range(len(r['unit']['items']))]
+                    for i in range(48)]
             all_users.extend(users)
 
         for _ in range(remainder):  
             url = self.set_query(self.api, (all_requests*3) + 1, 16)    #req_made*3 = curr_page
+            self.api = url
             r = requests.get(url).json()
             users = [r['unit']['items'][i]['visible_instructors'][0]['url']
-                    for i in range(len(r['unit']['items']))]
+                    for i in range(16)]
             all_users.extend(users)
             all_requests +=1
-        return set(all_users) #A set to drop duplicates
+        return list(dict.fromkeys(all_users)) #A set to drop duplicates
         
-    def get_user_data(self, users:set):
+    def get_user_data(self, users:iter):
         '''Get final user data from their pages'''
 
         data = []
         for user in users:
-            r = requests.get(self.BASE_SITE + user, headers=self.HEADERS)
+            r = requests.get(self.BASE_SITE + user)
+            sleep(.1)
             soup = BeautifulSoup(r.text, 'html.parser')
             name = soup.find('h1').text
-            title = soup.find('h2', {'class': "ud-heading-md instructor-profile--instructor-title--1L6bi"})
-            tot_student, reviews = [i.text for i in soup.find_all('div', {'class': "ud-heading-xl"})]
-            social = soup.find('div', {'class': "instructor-profile--social-links--3x2ms"})
             try:
+                title = soup.find('h2', {'class': "ud-heading-md instructor-profile--instructor-title--1L6bi"}).text
+            except:
+                title = None
+            try:
+                tot_student, reviews = [i.text for i in soup.find_all('div', {'class': "ud-heading-xl"})]
+            except:
+                tot_student, reviews = 0, 0
+            try:
+                social = soup.find('div', {'class': "instructor-profile--social-links--3x2ms"})
                 links = [i['href'] for i in social.children]
             except:
-                links = '-'
-            
+                links = None
+
             row =  {
                 'Name': name,
                 'Title': title,
@@ -122,6 +123,7 @@ class UdemyUsersScraper():
                 'Social links': links
             }
             data.append(row)
+        print(f"Found total of {len(users)} users.")
         return data
     
     def export_data(self, data: list, export_path: str):
@@ -148,7 +150,7 @@ api = "https://www.udemy.com/api-2.0/discovery-units/all_courses/?p=1&page_size=
 api_no_p = "https://www.udemy.com/api-2.0/discovery-units/all_courses/?page_size=16&subcategory=&instructional_level=&lang=&price=&duration=&closed_captions=&subs_filter_type=&category_id=300&source_page=category_page&locale=en_US&currency=egp&navigation_locale=en_US&skip_price=true&sos=pc&fl=cat"
 
 teaching = UdemyUsersScraper(api = api_no_p)
-teaching.GetAllData(5, 'data.csv')
+teaching.GetAllData(pages=625, export_path='data.csv')
 
 """
 #*1 The thing behind // and %
