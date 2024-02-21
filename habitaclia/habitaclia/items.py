@@ -8,5 +8,5 @@ import scrapy
 
 class HabitacliaItem(scrapy.Item):
     # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+    title = scrapy.Field()
+    area = scrapy.Field()

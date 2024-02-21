@@ -1,5 +1,5 @@
 import scrapy
-
+from habitaclia.items import HabitacliaItem
 
 
 class RentSpider(scrapy.Spider):
@@ -16,7 +16,8 @@ class RentSpider(scrapy.Spider):
             yield response.follow(next_page, callback=self.parse)
 
     def parse_item(self, response):
-        yield{
-            'Title': response.css('h1::text').get(),
-            'Area': response.css('li.feature:first-of-type strong::text').get()
-        }
+        item = HabitacliaItem()
+        item['title'] = response.css('h1::text').get()
+        item['area'] = response.css('li.feature:first-of-type strong::text').get()
+        
+        yield item
