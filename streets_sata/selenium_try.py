@@ -5,6 +5,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
 from bs4 import BeautifulSoup
 import sys
+import csv
 
 
 BASE_URL = 'https://assessment.winnipeg.ca/AsmtTax/English/Propertydetails/default.stm'
@@ -31,6 +32,22 @@ doc = driver.page_source
 soup = BeautifulSoup(doc, 'html.parser')
 
 # prepare data
+propHeader = soup.find('table', {'id': 'propSubheader'})
 
+# Main data
+title = propHeader.find('h3').text
+roll_num = int(propHeader.find('h3').next_sibling.text.split(':')[1].strip())
+print(title, '\n', roll_num)
+
+# Extras
+extra_tds = propHeader.select('#propSubheader tr:nth-of-type(n+2) td')
+for td in extra_tds:
+    head = td.find("b").text or 'Extra'     # Head item
+    value = ''.join(td.find_all(string=True, recursive=False)).strip() or td.text.strip()   # value
+    # print(f'Head: {head}')
+    # print(f"Value: {value}")
 
 # Export data
+# with open('out.csv', 'w', newline='') as csvfile:
+#     writer = csv.writer(csvfile)
+    
