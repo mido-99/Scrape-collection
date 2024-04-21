@@ -73,13 +73,17 @@ for table in tables[2:]:
                                                                         # (I noticed data rows have no attrs)
     for data in section_data:   # iterate over rows dividing item from value
         item = data.select('th')[0].text.strip()
-        value = data.select('td')[0].text.strip()
+        value = data.select('td')[0]
+        
+        multiple_value = data.select('td br')
+        if multiple_value:  # Only for rows where text is separated by <br> | Actually only last row was corrupted
+            texts = list(data.select('td')[0].stripped_strings)
+            value = ' - '.join(texts)
+            print(value)
+        else:
+            value = data.select('td')[0].text.strip()
         Headers.append(item)
         All_Data.append(value)
-        #! Split words in last table's row ex: Bus RouteHeavy TrafficExternal Corner
-
-# for x, y in zip_longest(Headers, All_Data):
-#     print(f"{x} ---> {y}")
 
 # Export data
 with open(f'{STREET_NUM} {STREET_NAME}.csv', 'w', newline='') as csvfile:
