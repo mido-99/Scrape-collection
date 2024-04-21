@@ -10,8 +10,8 @@ from itertools import zip_longest
 
 
 BASE_URL = 'https://assessment.winnipeg.ca/AsmtTax/English/Propertydetails/default.stm'
-# STREET_NUM, STREET_NAME = sys.argv[1:]
-STREET_NUM, STREET_NAME = 412, 'marion'
+STREET_NUM, STREET_NAME = sys.argv[1:]
+# STREET_NUM, STREET_NAME = 412, 'marion'
 # STREET_NUM, STREET_NAME = 5, 'good'
 # args refer to street num, name respectively that will be added from cmd
 
@@ -36,15 +36,12 @@ soup = BeautifulSoup(doc, 'html.parser')
 
 # prepare data
 propHeader = soup.find('table', {'id': 'propSubheader'})
-Headers = ['Title', "Roll Number"]
-All_Data = []
 
 # Main data
 title = propHeader.find('h3').text
 roll_num = int(propHeader.find('h3').next_sibling.text.split(':')[1].strip())
-All_Data.append(title)
-All_Data.append(roll_num)
-
+Headers = ['Title', "Roll Number"]
+All_Data = [title, roll_num]
 
 # Extras
 extra_tds = propHeader.select('#propSubheader tr:nth-of-type(n+2) td')
@@ -60,14 +57,14 @@ tables = soup.find_all('table', {'class': "tblAlign"})
 # # So we'll have a little different logic for each of 1st, 2nd, other tables
 
 for table in tables[:2]:
-    section_title = table.find('th', {'class': "sectiontitle"}).text
+    section_title = table.find('th', {'class': "sectiontitle"}).text.strip()
     section_headers = table.select('tr:nth-child(2) > th')
     section_data = table.select('tr:nth-child(3) > td')
     for i in range(len(section_headers)):
-        head = f"{section_headers[i].text.strip()} {section_title}"
+        head = f"{section_headers[i].text.strip()} - {section_title}"
+        value = section_data[i].text.strip()
         Headers.append(head)
-        All_Data.append(section_data[i].text.strip())
-
+        All_Data.append(value)
 
 for table in tables[2:]:
     section_title = table.select('tbody > tr:nth-child(1)')[0].text
@@ -81,10 +78,11 @@ for table in tables[2:]:
         All_Data.append(value)
         #! Split words in last table's row ex: Bus RouteHeavy TrafficExternal Corner
 
-for x, y in zip_longest(Headers, All_Data):
-    print(f"{x} ---> {y}")
-
+# for x, y in zip_longest(Headers, All_Data):
+#     print(f"{x} ---> {y}")
 
 # Export data
-# with open('out.csv', 'w', newline='') as csvfile:
-#     writer = csv.writer(csvfile)
+with open(f'{STREET_NUM} {STREET_NAME}.csv', 'w', newline='') as csvfile:
+    writer = csv.writer(csvfile)
+    writer.writerow(Headers)
+    writer.writerow(All_Data)
