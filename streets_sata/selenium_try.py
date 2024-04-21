@@ -9,7 +9,9 @@ import csv
 
 
 BASE_URL = 'https://assessment.winnipeg.ca/AsmtTax/English/Propertydetails/default.stm'
-STREET_NUM, STREET_NAME = sys.argv[1:]
+# STREET_NUM, STREET_NAME = sys.argv[1:]
+# STREET_NUM, STREET_NAME = 412, 'marion'
+STREET_NUM, STREET_NAME = 5, 'good'
 # args refer to street num, name respectively that will be added from cmd
 
 # Setting up driver
@@ -23,7 +25,7 @@ driver.get(BASE_URL)
 street_num = WebDriverWait(driver, 3).until(EC.presence_of_element_located((By.ID, 'StreetNumber')))
 street_num.send_keys(str(STREET_NUM))
 street_name = WebDriverWait(driver, 3).until(EC.presence_of_element_located((By.ID, 'StreetName')))
-street_name.send_keys(str(STREET_NAME))
+street_name.send_keys(STREET_NAME)
 search_address = WebDriverWait(driver, 3).until(EC.presence_of_element_located((By.ID, 'SubmitAddress')))
 search_address.click()
 
@@ -33,21 +35,49 @@ soup = BeautifulSoup(doc, 'html.parser')
 
 # prepare data
 propHeader = soup.find('table', {'id': 'propSubheader'})
+ALL_DATA = []
 
 # Main data
 title = propHeader.find('h3').text
 roll_num = int(propHeader.find('h3').next_sibling.text.split(':')[1].strip())
-print(title, '\n', roll_num)
+# print(title, '\n', roll_num)
 
 # Extras
 extra_tds = propHeader.select('#propSubheader tr:nth-of-type(n+2) td')
 for td in extra_tds:
     head = td.find("b").text or 'Extra'     # Head item
-    value = ''.join(td.find_all(string=True, recursive=False)).strip() or td.text.strip()   # value
+    value = ''.join(td.find_all(string=True, recursive=False)).strip() or td.text.strip()   # fincal text
     # print(f'Head: {head}')
     # print(f"Value: {value}")
+
+# Data Tables
+tables = soup.find_all('table', {'class': "tblAlign"})
+#NOTE The first 2 tables are fixed 3 columns, Then there might be 1 or 2 tables with 2 columns
+# # So we'll have a little different logic for each of 1st, 2nd, other tables
+
+for table in tables[:2]:
+    section_title = table.find('th', {'class': "sectiontitle"}).text
+    # print(section_title)
+    section_headers = table.select('tr:nth-child(2) > th')
+    for head in section_headers:
+        # print(head.text.strip())
+        pass
+
+
+for table in tables[2:]:
+    section_title = table.select('tbody > tr:nth-child(1)')[0].text
+    # print(section_title)
+    section_data = table.select('tbody > tr')[1:]
+    section_data = [data for data in section_data if not data.attrs]    # Exclude hidden rows that has no data
+                                                                        # (I noticed data rows have no attrs)
+    for data in section_data:   # iterate over rows dividing item from value
+        # print(f"Row {section_data.index(data)}")
+        # print(data.text.strip())
+        item = data.select('th')[0].text.strip()
+        value = data.select('td')[0].text.strip()
+        print(f"Item: {item} ----> Value: {value}")
+
 
 # Export data
 # with open('out.csv', 'w', newline='') as csvfile:
 #     writer = csv.writer(csvfile)
-    
