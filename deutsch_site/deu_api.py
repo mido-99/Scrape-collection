@@ -2,18 +2,16 @@ import requests
 import csv
 
 
-BASE_URL = 'https://vlaanderenkiest.be/verkiezingen2018/#/gemeente/24045/verkozenen'
 ID = '24045'
 FULL_DATA = []
 
-get_sections_api = 'https://vlaanderenkiest.be/verkiezingen2018/api/2018/lv/gemeente/24045/entiteitLijsten.json'
-get_person_name_api = 'https://vlaanderenkiest.be/verkiezingen2018/api/2018/lv/gemeente/24045/2/lijst.json'
-get_person_num_api = 'https://vlaanderenkiest.be/verkiezingen2018/api/2018/lv/gemeente/24045/2/uitslag.json'
+get_sections_api = f'https://vlaanderenkiest.be/verkiezingen2018/api/2018/lv/gemeente/{ID}/entiteitLijsten.json'
 
 # Get numbers of sections, this number will be used to make specific request for that section
 r = requests.get(get_sections_api).json()
 # Numbers are returned negative, and we in requests they are positive
 positive_headers = [- int(negative_head) for negative_head in r["G"].keys()]
+party_names = [r['G'][key]['nm'] for key in r["G"].keys()]
 
 # Persons are identified by numbers(ids); in an api this id is used to get person's name
 # In another api; it's used to get the number needed for scraping
@@ -32,7 +30,7 @@ for num in positive_headers:
     for item in all_numbers:
         key = next(iter(item.keys()))   # Since dict_keys don't support indexing or slicing
         if item[f"{key}"]['vk'] == "1": # I noticed those with vk='1' do exist on the page
-            numbers_exist.append({key: item[f"{key}"]['ns']})
+            numbers_exist.append({key: {'votes': item[f"{key}"]['ns'], 'rank': item[f"{key}"]['vv']}})
 
     # Get names of people on page
     all_names = requests.get(name_url).json()[str(-num)]
@@ -42,14 +40,18 @@ for num in positive_headers:
         if key in all_names:
             name = all_names[key]['nm']
             names_exist.append({name: item[key]})
+    FULL_DATA.append(party_names[positive_headers.index(num)])
     FULL_DATA.extend(names_exist)
-# print(FULL_DATA)
 
 # Output file
 with open(f"{ID}.csv", 'w', newline='') as csvfile:
-    headers = ['Name', "Votes"]
+    headers = ['Party', 'Rank', 'Name', "Votes"]
     writer = csv.writer(csvfile)
     writer.writerow(headers)
     for row in FULL_DATA:
-        name, votes = next(iter(row.items()))
-        writer.writerow([name, votes])
+        if isinstance(row, dict):
+            name, data = next(iter(row.items()))
+            votes, rank = data['votes'], data['rank']
+            writer.writerow(['', rank, name, votes])
+        else:
+            writer.writerow([row])
