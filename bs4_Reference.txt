@@ -1,0 +1,16 @@
+Tips:
+
+########	Retreiving Text from Elements	#########
+
+> elem.text
+All text from element and its children
+
+> elem.string
+when used on an element with a single string child, returns that string.
+It returns None if the element has no string child or if it has multiple string children.
+
+> elem.find_all(string=True, recursive=False)
+Returns text of elem ONLY (NOT children) but in a form of a list
+
+> ''.join(elem.find_all(string=True, recursive=False)).strip()
+Returns text of elem ONLY in string format

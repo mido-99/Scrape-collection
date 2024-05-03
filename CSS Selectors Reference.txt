@@ -1,0 +1,46 @@
+#########	Siblings	###########
+
++ selects the next sibling element. (only directly sibling)
+~ selects all subsequent sibling elements that match the selector.
+
+So ~ is more general
+
+#########	nth 	###########
+
+:nth-of-type(2)
+Selects only the second child of its parent
+
+:nth-of-type(n-1)
+Selects all elements except the first child of their parent
+
+:nth-of-type(n+1)
+Selects all elements starting from the second child of their parent 
+
+:nth-of-type(2n)
+Selects every second child of its parent
+
+:nth-of-type(odd)
+Selects all odd-numbered children of its parent
+
+:nth-of-type(even)
+Selects all even-numbered children of its parent
+
+######### 	Children 	#############
+
+The > direct child is extremely important; it made my head spin around for many hours before finding out that it must be used
+
+Without it the tags were found regardless of their relation to parent
+
+section_headers = table.select('tr:nth-child(2) > th')
+section_headers = table.select('tr:nth-child(2) th')
+
+Imagine that both of these select differently
+
+
+.stripped_strings
+When an element has many children each with text; we can retrieve them separtely using this
+NOTE it returns a generator. If you want'em in list:
+ls = list(elem.stripped_strings)
+or
+ls = [txt for txt in elem.stripped_strings]
+
