@@ -2,11 +2,11 @@
 ===============================================================
 Scroll to bottom:
 driver.execute_script(
-"window.scrollTo(0, 0);")
+"window.scrollTo(0, document.body.scrollHeight);")
 
 Scroll to top:
 driver.execute_script(
-"window.scrollTo(0, document.body.scrollHeight);")
+"window.scrollTo(0, 0);")
 
 You can execute the following on element located on the page.
 elem = driver.find_element(By.CLASS, 'Any-class')

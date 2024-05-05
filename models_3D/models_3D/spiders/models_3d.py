@@ -10,18 +10,26 @@ from time import sleep
 class Models3dSpider(scrapy.Spider):
     name = "models_3d"
     allowed_domains = ["www.printables.com"]
+    js_script = """window.scrollTo(0, document.body.scrollHeight);""".strip()
     
     def start_requests(self):
         url = "https://www.printables.com/model"
-        yield SeleniumRequest(url=url, callback=self.parse)
+
+        yield SeleniumRequest(url=url, 
+                            callback=self.parse, 
+                            wait_until=EC.element_to_be_clickable((By.ID, "onetrust-accept-btn-handler")),
+                            wait_time=10,
+                            )
 
     def parse(self, response):
         base_url = "https://www.printables.com"
-        driver, wait = self.setup_driver(response)
-        self.click_homePage_button(driver, wait)
-        for _ in range(10):
-            ActionChains(driver).scroll_by_amount(0, 10000).perform()
-            sleep(0.5)
+
+        self.driver = response.request.meta['driver']
+        self.click_homePage_button()
+        
+        # for _ in range(10):
+        #     ActionChains(driver).scroll_by_amount(0, 10000).perform()
+        #     sleep(0.5)
 
         for product in response.css('print-card'):
             name = product.css('a.link.clamp-two-lines::text').get()
@@ -37,15 +45,11 @@ class Models3dSpider(scrapy.Spider):
                 "Link": link
             }
     
-    def setup_driver(self, response):
+    def click_homePage_button(self):
         
-        driver = response.request.meta['driver']
-        wait = WebDriverWait(driver, 15)
-        return driver, wait
-        
-    def click_homePage_button(self, driver, wait):
-        
+        wait = WebDriverWait(self.driver, 15)
         button = wait.until(EC.element_to_be_clickable((By.ID, "onetrust-accept-btn-handler")))
-        button.click()
-
-    
+        try:
+            button.click()
+        except:
+            pass
