@@ -17,15 +17,8 @@ class InstaScraper:
     
     
     '''
+    INSTA_GRAPH_API = "https://www.instagram.com/graphql/query/?query_hash=<>&variables=<>"
     
-    headers = {
-    'accept': '*/*',
-    'accept-language': 'en-US,en;q=0.9,ar;q=0.8',
-    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
-    'x-asbd-id': '129477',
-    'x-ig-app-id': '936619743392459',
-    }
-
     def __init__(self, urls):
         if isinstance(urls, str):    # Since all the logic of the class works on lists
             self.urls = [urls]
@@ -47,11 +40,19 @@ class InstaScraper:
         Returns a generator for each url's data
         '''
         
+        headers = {
+        'accept': '*/*',
+        'accept-language': 'en-US,en;q=0.9,ar;q=0.8',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+        'x-asbd-id': '129477',
+        'x-ig-app-id': '936619743392459',
+        }
+
         for url in self.urls:
             url = self.construct_profile_api_url(url)
-            response = requests.get(url, headers=self.headers)
-            if response.status_code == 400:
-                raise Exception("HTTP status code 400. Request Blocked!")
+            response = requests.get(url, headers=headers)
+            if response.status_code != 200:
+                raise Exception(f"HTTP status code {response.status_code}. Request Failed!")
             else:
                 print(f'Successful request: {url}')
             
