@@ -1,0 +1,5 @@
+urls = ["https://www.partycheap.com/Day-Of-The-Dead-Tissue-Garland-p/00920.ht,
+"https://www.partycheap.com/Day-of-the-Dead-Mask-p/00927.htm",
+"https://www.partycheap.com/Jointed-Horse-p/50228.htm",
+"https://www.partycheap.com/Light-Up-Drinking-Cups-p/n960350-master.htm"
+]
