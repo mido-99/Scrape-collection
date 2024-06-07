@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import httpx
 import json
 import pandas as pd
-from time import sleep
+import time
 
 import requests
 
@@ -13,7 +13,10 @@ class MakeScraper:
         self.final = []
     
     def main(self):
-        pass
+        self.fetch_all_plugin_ranked()
+        self.process_response()
+        
+        
         
     def fetch_all_plugin_ranked(self):
         
@@ -45,46 +48,39 @@ class MakeScraper:
                 print("Error occured in search api in fetch_all_plugin_ranked()")
                 return response.raise_for_status()
 
-    def plugin_page(self):
+    def process_response(self):
         
-        headers = {
-            'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-            'accept-language': 'en-US,en;q=0.9,ar;q=0.8',
-            'priority': 'u=0, i',
-            'sec-ch-ua': '"Google Chrome";v="125", "Chromium";v="125", "Not.A/Brand";v="24"',
-            'sec-ch-ua-mobile': '?0',
-            'sec-ch-ua-platform': '"Windows"',
-            'sec-fetch-dest': 'document',
-            'sec-fetch-mode': 'navigate',
-            'sec-fetch-site': 'same-origin',
-            'sec-fetch-user': '?1',
-            'upgrade-insecure-requests': '1',
-            'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
-        }
-
-        with httpx.Client(headers=headers) as client:
-            self.df['Description'] = self.df['slug'].apply(lambda x: self.extract_description(client, x))
-
-    def extract_description(self, session, plugin_slug, plugin_name):
-
-        base_url = "https://www.make.com/en/integrations/"
-        attemps = 3
-        for attempt in range(attemps):
-            response = session.get(base_url + plugin_slug)
-            if response.status_code == 200:
-                soup = BeautifulSoup(response.content, 'html.parser')
-                json_str = soup.find('script', id="__NEXT_DATA__").text
-                json_data = json.loads(json_str)
-                description = json_data['props']['pageProps']['appDetails']['description'].replace(r"{name}", plugin_name)
-                return description
-            else:
-                sleep(5)
-                if attempt == attemps -1:
-                    print(response.status_code, response.text)
-                    print(f"Error in plugin page: {plugin_name}")
-                    return None
-
+        self.df = pd.DataFrame(self.entities)
+        cols_to_keep = ['Rank', 'Category', 'Name', 'Description', ]
+        self.rank()
+        self.name()
+        self.category()
+        self.link()
+        self.plugin_page_data()
+        
+    def rank(self):
+        self.df['Rank'] = self.df.index + 1
+        
+    def name(self):
+        self.df['Name'] = self.df['name']
+    
     def category(self):
+        
+        cat_col = self.df['categoriesCollection']
+        self.df['Category'] = cat_col.apply(self.extract_category)
+
+    def extract_category(self, cat_col):
+        try:
+            cat = cat_col['items'][0]['slug'].title()
+        except (IndexError, KeyError):
+            cat = "Not specified"
+        return cat
+
+    def link(self):
+        self.df['url'] = "https://www.make.com/en/integrations/" + self.df['slug']
+
+    def plugin_page_data(self):
+        
         cookies = {
             'last_touch_gclid': 'undefined',
             'first_touch_gclid': 'undefined',
@@ -143,42 +139,42 @@ class MakeScraper:
             'upgrade-insecure-requests': '1',
             'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
         }
-
         with requests.Session() as session:
             session.headers.update(headers)
             session.cookies.update(cookies)
             
-            self.df['Description'] = self.df.apply(
-                lambda row: self.extract_description(session, row['slug'], row['name']),
-                axis=1)
+            self.df['json_data'] = self.df['url'].apply(
+                lambda url: self.request_plugin_page(session, url))
+        self.df['Description'] = self.df['json_data'].apply(self.extract_description)    
 
+    def request_plugin_page(self, session, plugin_url):
+        
+            attemps = 3
+            for attempt in range(attemps):
+                response = session.get(plugin_url)
+                if response.status_code == 200:
+                    soup = BeautifulSoup(response.content, 'html.parser')
+                    json_str = soup.find('script', id="__NEXT_DATA__").text
+                    json_data = json.loads(json_str)
+                    return json_data
+                else:
+                    time.sleep(5)
+                    if attempt == attemps -1:
+                        print(response.status_code, response.text)
+                        print(f"Error in plugin page: {plugin_url}")
+                        return None
 
-    def process_response(self):
-        
-        self.df = pd.DataFrame(self.entities)
-        cols_to_keep = ['Rank', 'Category', 'Name', 'Description', ]
-        
-    
-    def rank(self):
-        self.df['Rank'] = self.df.index + 1
-    
-    def category(self):
-        def extract_category(cat_col):
-            try:
-                cat = cat_col['items'][0]['slug'].title()
-            except (IndexError, KeyError):
-                cat = "Not specified"
-            return cat
-        
-        cat_col = self.df['categoriesCollection']
-        self.df['Category'] = cat_col.apply(extract_category)
+    def extract_description(self, json_data):
 
-    def name(self):
-        self.df['Name'] = self.df['name']
-        
-    def link(self):
-        self.df['url'] = "https://www.make.com/en/integrations/" + self.df['slug']
-        
+        if not json_data:
+            return "No data available"
+        try:
+            plugin_name = json_data['props']['pageProps']['app']['name']
+            description = json_data['props']['pageProps']['appDetails']['description'].replace(r"{name}", plugin_name)
+            return description
+        except Exception as e:
+            print(f"Error: {e}")
+            return ""
 
     def rank(self):
 
