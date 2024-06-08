@@ -1,21 +1,23 @@
 from bs4 import BeautifulSoup
 import httpx
+import requests
 import json
 import pandas as pd
 import time
-
-import requests
+from markdownify import markdownify as md
 
 
 class MakeScraper:
     
     def __init__(self):
         self.final = []
+        self.cols_to_keep = ['Rank', 'Category', 'Name', 'Description', 'Readme']
+        
     
     def main(self):
         self.fetch_all_plugin_ranked()
         self.process_response()
-        
+        self.export_data()
         
         
     def fetch_all_plugin_ranked(self):
@@ -50,13 +52,14 @@ class MakeScraper:
 
     def process_response(self):
         
-        self.df = pd.DataFrame(self.entities)
-        cols_to_keep = ['Rank', 'Category', 'Name', 'Description', ]
+        self.df = pd.DataFrame(self.entities[:5])
         self.rank()
         self.name()
         self.category()
         self.link()
         self.plugin_page_data()
+        self.docs()
+        
         
     def rank(self):
         self.df['Rank'] = self.df.index + 1
@@ -144,8 +147,11 @@ class MakeScraper:
             session.cookies.update(cookies)
             
             self.df['json_data'] = self.df['url'].apply(
-                lambda url: self.request_plugin_page(session, url))
+                lambda url: self.request_plugin_page(session, url)
+                )
         self.df['Description'] = self.df['json_data'].apply(self.extract_description)    
+        self.handle_actions_columns()
+        
 
     def request_plugin_page(self, session, plugin_url):
         
@@ -153,7 +159,7 @@ class MakeScraper:
             for attempt in range(attemps):
                 response = session.get(plugin_url)
                 if response.status_code == 200:
-                    soup = BeautifulSoup(response.content, 'html.parser')
+                    soup = BeautifulSoup(response.content, 'lxml')
                     json_str = soup.find('script', id="__NEXT_DATA__").text
                     json_data = json.loads(json_str)
                     return json_data
@@ -176,16 +182,61 @@ class MakeScraper:
             print(f"Error: {e}")
             return ""
 
-    def rank(self):
+    def handle_actions_columns(self):
+        
+        # Fetch json_data series that we'll work on to extract actions
+        json_data_series = self.df['json_data']
+        # Apply extract_actions to entire data_json column fetched above
+        extracted_data = json_data_series.apply(self.extract_actions)
+        # Populate a temp_df with actinos, each row with its corresponding actions
+        extracted_df = pd.DataFrame(extracted_data.tolist())
+        # Concat temp_df with the original self.df 
+        # (axis=1 : concat column-wise, means columns aside, default 0: rows beneath)
+        self.df = pd.concat([self.df, extracted_df], axis=1)
+
+    def extract_actions(self, json_data):
+        
+        result = {}
+        for key, value in json_data['props']['pageProps']['app'].items():
+            if 'Json' in key and value != []:   # Ignore unwanted keys
+                final_key = key.rsplit('Json', 1)[0].title()
+                formatted = '\n'.join([f"{i['name']}: {i['description']}" for i in value])
+                result[final_key] = formatted
+                if final_key not in self.cols_to_keep:
+                    self.cols_to_keep.append(final_key)
+                
+        return result
+    
+    def docs(self):
+        
+        self.df['doc_url'] = "https://www.make.com/en/help/app/" + self.df['slug']
+        
+        with requests.Session() as session:
+            self.df['Readme'] = self.df['doc_url'].apply(
+                lambda doc_url: self.markdown_doc(session, doc_url)
+                )
+    
+    def markdown_doc(self,session, doc_url):
+        
+        resp = session.get(doc_url)
+        soup = BeautifulSoup(resp.text, 'lxml')
+        doc = soup.find('section', class_="section") or soup.find('section', class_="section original-topic") 
+        markdown = md(str(doc)) if doc is not None else "Docs not found"
+        return markdown
+    
+    def export_data(self):
+        
+        self.df.to_csv('Plugins_1.csv', index=False, columns=self.cols_to_keep)    
 
     def ranking(self):
+        
         """
         Global popularity ranking of the plugin as found in 
         https://www.make.com/en/integrations?community=1&verified=1
         """
         url = "https://www.make.com/en/integrations?community=1&verified=1"
-        
-        
+
+
 
         """        
         - Category: Categories (separated by a comma) where the plugin can be found (e.g., Google Sheet plugin found in "Productivity" https://www.make.com/en/integrations/category/productivity?community=1&verified=1)
@@ -197,3 +248,7 @@ class MakeScraper:
         -  Description: High-level description of the action
         - Parameter : JSON of all the parameter of the action  as found in the documentation in the correct action (e.g., https://www.make.com/en/help/app/google-sheets#actions-964718)
         """
+
+if __name__ == "__main__":
+    scraper = MakeScraper()
+    scraper.main()
