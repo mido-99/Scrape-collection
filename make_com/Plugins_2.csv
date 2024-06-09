@@ -80,3 +80,957 @@ Watch Comments: Triggers when a comment is created or updated on a selected file
 Watch Files in a Folder: Triggers when a file is created or modified in a selected folder.
 Watch Folders: Triggers when a new folder is created or modified.
 Watch Shared Drives: Triggers when a new shared drive is created.",
+6,Productivity,Notion,"Connect Notion with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like Notion to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\notion.md,"Append a Database Item Content: Appends a new database item content.
+Append a Page Content: Appends a new page content.
+Create a Database: Creates a new database as a subpage in a specified page.
+Create a Database Item: Creates a new item in a database.
+Create a Page: Creates a new page in a specified page.
+Delete a Page Content: Sets a page content/block, as archived.
+Get a Database: Gets a specified database.
+Get a Database Item: Gets a specified database item.
+Get a Page: Gets a specified page.
+Get a Page Content: Get a specified page content/block.
+Make an API Call: Performs an arbitrary authorized API call.
+Update a Database: Updates an existing database.
+Update a Database Item: Updates an existing database item.
+Update a Page: Updates an existing page.
+Update a Page Content: Updates an existing page content/block.","List Page Contents: Retrieves a list of page contents.
+List Page Property Items: Retrieves a list of paginated page property items. Possible property types are title, text, relation, and person.
+List Users: Retrieves a list of users.
+Search Objects: Searches for objects of a page, database, or database item.","Watch Database Items: Triggers when a database item is created or updated.
+Watch Databases/Pages: Triggers when a database or page is created and updated.
+Watch Page Contents: Triggers when a page content is created.",
+7,Communication,Slack,"Connect Slack with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like Slack to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\slack.md,"Add a Reaction: Adds a reaction to an item.
+Add a Star: Adds a star to a channel.
+Archive a Channel: Archives a channel.
+Complete a Reminder: Completes a reminder.
+Create a Channel: Creates a channel.
+Create a Message: Creates a message.
+Create a Reminder: Creates a reminder.
+Create a Text File: Creates a text file.
+Delete a File: Deletes a file.
+Delete a Message: Removes a message.
+Delete a Reminder: Removes a reminder.
+Download a File: Downloads a file.
+Get a Channel: Returns details about a channel.
+Get a File: Returns details about a file.
+Get a Private Channel Message: Returns a message with a given ID from a specified private channel.
+Get a Public Channel Message: Returns a message with a given ID from a specified public channel.
+Get a Reminder: Returns details about a reminder.
+Get a User: Returns details about a member of a workspace.
+Invite Users: Invites 1-30 users to a public or private channel.
+Join a Channel: Joints to an existing channel.
+Kick a User: Removes a user from a channel.
+Leave a Channel: Leaves a channel.
+Make an API Call: Performs an arbitrary authorized API call.
+Pin a Message: Pins a message to a channel.
+Remove a Reaction: Removes a reaction.
+Remove a Star: Removes a star from a channel.
+Remove Saved Item: Removes a saved item.
+Save an Item: Adds an Item to saved items.
+Set a Status: Update a user's current status.
+Set the Purpose of a Channel: Changes the purpose of a channel.
+Set the Topic of a Channel: Changes the topic of a channel.
+Unarchive a Channel: Unarchives a channel.
+Unpin a Message: Unpins a message from a channel.
+Update a Message: Updates a message.
+Upload a File: Creates or uploads a file.","List Channels: Returns a list of channels in a workspace.
+List Files: Returns a list of files within a team.
+List Members in a Channel: Retrieves members of a channel.
+List Reactions: Returns reactions a user made.
+List Reminders: List all reminders created by or for a given user.
+List Replies: Retrieves a thread of messages posted to a conversation.
+List Users: Returns a list of all users in a workspace.
+Search for Message: Returns messages matching a search query.
+Search for User: Retrieves a single user by looking them up by their registered email address.","New Event: Triggers when a new message or other events are created.
+Watch Direct Messages: Triggers when a new message is added to a direct message channel.
+Watch Files: Triggers when a new file is added.
+Watch Multiparty Direct Messages: Triggers when a new message is added to a multiparty direct message channel.
+Watch Private Channel Messages: Triggers when a new message is added to a private channel.
+Watch Public Channel Messages: Triggers when a new message is added to a public channel.
+Watch Users: Triggers when a new user is added or an existing user has changed. Only emit the latest change since the last scenario run.",
+8,Communication,Telegram Bot,"Connect Telegram Bot with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like Telegram Bot to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\telegram.md,"Answer an Inline Query: Sends answer to an inline query.
+Create a Chat Invite Link: Creates an additional invite link for a chat.
+Delete a Message: Deletes a message. A message can only be deleted if it was sent less than 48 hours ago.
+Download a File: Downloads a file from the Telegram server.
+Edit a Chat Invite Link: Edits a non-primary invite link created by the bot.
+Edit a Media Message: Edits photo or video messages.
+Edit a Message Caption: Edits a caption of a message.
+Edit a Text Message: Edits text or game messages.
+Forward a Message: Forwards messages of any kind. This module can be used to forward messages only within Telegram.
+Get the Number of Members in a Chat: Use this module to get the number of members in a chat. Returns Int on success.
+Kick a Chat Member: Use this method to kick a user from a group, a supergroup or a channel. The bot must be an administrator in the chat for this to work and must have the appropriate admin rights.
+Make an API Call: Performs an arbitrary authorized API call.
+Pin a Message: Pins a message.
+Promote a Chat Member: Use this method to promote or demote a user in a supergroup or a channel. The bot must be an administrator in the chat for this to work and must have the appropriate admin rights.
+Restrict a Chat Member: Use this method to restrict a user in a supergroup.
+Revoke a Chat Invite Link: Revokes an invite link created by the bot.
+Send a Document/Image: Sends a document or an image to your Telegram Desktop application.
+Send an Album (Media Group): Sends a group of photos or videos as an album.
+Send an Audio File: Sends an audio file to your Telegram Desktop application.
+Send an Invoice: Sends an invoice.
+Send a Photo: Sends a photo to your Telegram Desktop application.
+Send a Sticker: Sends a .webp sticker to your Telegram Desktop application.
+Send a Text Message or a Reply: Sends a text message or a reply to your Telegram Desktop application.
+Send a Video: Sends a video file to your Telegram Desktop application.
+Send a Video Note: As of v.4.0, Telegram clients support rounded square mp4 videos of up to 1 minute long. Use this method to send video messages.
+Send a Voice Message: Sends a voice message
+Send Media by URL or ID: Sends a file (document, photo, video, audio, ...) by HTTP URL or by ID that exists on the Telegram servers.
+Unpin a Message: Unpins a message.","List Administrators in a Chat: Use this modules to get a list of administrators in a chat.
+List Chats: List available Telegram chats.  By default, chats starting with the earliest unconfirmed update are returned. If you want to list more, you need to set the offset. This module cannot be used with webhooks. To use this module, you must switch off and remove all your Telegram webhooks.
+List Updates: Retrieves a list of updates from the Telegram server. By default, updates starting with the earliest unconfirmed update are returned. If you want to list more, you need to set the offset. This module cannot be used with webhooks. To use this module, you must switch off and remove all your Telegram webhooks.",Watch Updates: Triggers when there is a new update from your Telegram Desktop application.,
+9,Marketing,Facebook Lead Ads,"Connect Facebook Lead Ads with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like Facebook Lead Ads to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\facebook-lead-ads.md,"Get a Form: Returns information about the form.
+Get Lead Details: Returns the information that the user filled in, in the lead generation form. Use this action after the New Lead trigger.
+
+Unsubscribe a Webhook : The action unsubscribes a selected page from the connection to Make.",List Leads: Returns a list of leads.,"New Lead: Triggers when a new lead is created.
+Watch Leads: Triggers when a new lead is created.",
+10,Productivity,Google Calendar,"Connect Google Calendar with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like Google Calendar to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\google-calendar.md,"Clear a Calendar: Clears a primary calendar. This operation deletes all events associated with the primary calendar of an account.
+Create a Calendar: Creates a new calendar.
+Create an Access Control Rule: Creates a new access control rule.
+Create an Event: Creates a new event.
+Delete a Calendar: Deletes a calendar.
+Delete an Access Control Rule: Deletes an access control rule.
+Delete an Event: Deletes an event.
+Duplicate an Event: Duplicates an event.
+Get a Calendar: Returns metadata for a calendar.
+Get an Access Control Rule: Returns metadata of an access control rule.
+Get an Event: Returns metadata for an event in the specific calendar.
+Get Free/Busy Information: Returns free/busy information for a set of calendars.
+Make an API Call: Performs an arbitrary authorized API call.
+Update a Calendar: Updates an existing calendar.
+Update an Access Control Rule: Updates an existing access control rule.
+Update an Event: Updates an existing event.","List Access Control Rules: Returns the rules in the access control list for the calendar.
+List Calendars: Returns the calendars on the user's calendar list.
+Search Events: Searches for events on the specified calendar.","Watch Events: Triggers when an event is created, updated, deleted, started or ended in a selected calendar. ",
+11,File-Document-Management,Google Docs,"Connect Google Docs with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like Google Docs to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\google-docs.md,"Create a Document: Creates a new Google document by adding the content of HTML format.
+Create a Document from a Template: Creates a copy of an existing template document and replaces any tags e.g. {{!notfound:name}}, {{!notfound:email}}. This module also allows users to replace images by new images with URLs.
+Delete a Document: Deletes a document.
+Download a Document: Downloads a document to a required format.
+Get Content of a Document: Gets a content of a document.
+Insert an Image to a Document: Inserts a new image with URL to a document. The original size of the image is entered or the image is resized as required by the user. The original image ratio is maintained.
+Insert a Paragraph to a Document: Inserts or appends a new paragraph to an existing document.
+Make All Links in a Document Clickable: Makes all links in a document clickable.
+Make an API Call: Performs an arbitrary authorized API call.
+Replace an Image with a New Image: Replaces an existing image with a new image with URL in the document. In order to fill the original image's bounds, the new image may be scaled or cropped.
+Replace a Text in a Document: Replaces an old text by a new text in a document.",List Documents: Retrieves a list of documents.,Watch Documents: Triggers when a new document is created or modified in a specific folder.,
+12,Communication,Microsoft 365 Email,"Connect Microsoft 365 Email with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like Microsoft 365 Email to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\microsoft-email.md,"Add an Attachment: Adds an large attachement to a message.
+Create a Draft Message: Creates a new draft message.
+Create and Send a Message: Creates and sends a new message immediately.
+Delete a Message: Deletes a message.
+Download an Attachment: Downloads an attachment to a message.
+Forward a Message: Forwards a message.
+Get a Message: Gets the metadata of a specified message.
+Make an API Call: Performs an arbitrary authorized API call.
+Move a Message: Moves a message to a selected folder in the mailbox.
+Reply to a Message: Replies to the sender of a message.
+Send a Draft Message: Sends a draft message.
+Update a Message: Updates an existing message.","List Attachments: Retrieves a list of attachment to a message.
+Search Messages: Searches for the messages.",Watch Messages: Triggers when a new message is sent or received.,
+13,Productivity,Monday,"Connect Monday with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like Monday to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\monday.md,"Add a Column to a Board: Adds a new column to a specific board.
+Add a File to a File Column Value: Adds a file to a file column value.
+Add a File to an Update: Adds a file to an existing update.
+Add Board Subscribers: Adds subscribers to a board by their IDs and the board ID.
+Create a Board: Creates a new board.
+Create a Group: Creates a new group in a specific board.
+Create an Item: Creates an item.
+Create an Update: Creates a new update.
+Create a Subitem: Creates subitem of an item.
+Create or Get a Tag: The tags mutation allows you to create new tags or receive their data if they already exist.
+Delete or Archive an Item: Deletes or archives an item.
+Download a File: Downloads a file by the asset ID.
+Duplicate a Board: Duplicates a board.
+Duplicate a Group: Duplicates a group.
+Duplicate an Item: Duplicates an item.
+Execute a GraphQL Query: Performs an arbitrary authorized GraphQL query.
+Get a Board: Returns a board.
+Get a Group: Returns a group.
+Get an Item: Returns an item.
+Get an Item's Column Value: Gets a column value of an item.
+Get a Team: Returns a team.
+Get a User: Returns a user.
+Move an Item Between Groups: Moves an item between groups in the same board.
+Remove Board Subscribers: Removes subscribers from a board by their IDs and the board ID.
+Update Column Values of a Specific Item: Updates multiple columns values of a specific item.","List Board Activity Logs: Retrieves a list of board activity logs.
+List Boards: Retrieves a list of boards.
+List Board's Groups: Retrieves a list of groups in the given board.
+List Board's Items: Retrieves a list of board's items.
+List Board Subscribers: Retrieves a list of subscribers of a board by the board ID.
+List Files: Returns a list of files based on collection of assets.
+List Group's Items: Retrieves a list of group's items.
+List Item's Subscribers: Retrieves a list of item's (pulse's) subscribers.
+List Item's Updates: Retrieves a list of item's updates.
+List Team Members: Retrieves a list of members by team ID.
+List Teams: Retrieves a list of teams.
+List Updates: Retrieves a list of updates.
+List Users: Retrieves a list of users.
+Search Items in the Board by Column Values: Searches items in the board by their column values and returns data about those specific items.","Watch Board's Column Values: Triggers when the board's column values have changed.
+Watch Board's Items: Triggers when a board's item is created.
+Watch Board's Items: Triggers when an item is created/updated in the given board.
+Watch Board's Items by Column Values: Triggers when an item with the given value is created/updated in the given board.
+Watch Board's Subscribers: Triggers when a new user is subscribed to a given board.
+Watch Board's Updates: Triggers when a new board's update is created.
+Watch Events: Triggers when a new event occurs in Monday.
+Watch Group's Items: Triggers when an item is created/updated in the given group.
+Watch Item's Column Value: Triggers when an item's column value is changed.
+Watch Item's Name: Triggers when an item's name on a board has changed.
+Watch Item's Updates: Triggers when a new item's update is created.
+Watch Team's Users: Triggers when a new user has joined the given team.
+Watch Users: Triggers when a new user is created.",
+14,Crm-Sales,HubSpot CRM,"Connect HubSpot CRM with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like HubSpot CRM to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\hubspotcrm.md,"Add a Contact to a Workflow: Adds a contact to a specific workflow.
+Add Contacts to a List: Adds contact records that have already been created in the system to a contact list.
+Create a Company: Creates a company with the given properties and returns a copy of the object, including the ID.
+Create a Contact: Creates a contact with the given properties and returns a copy of the object, including the ID.
+Create a Custom Object Record: Creates a custom object with the given properties and returns a copy of the object, including the ID.
+Create a Deal: Creates a deal with the given properties and returns a copy of the object, including the ID.
+Create a Folder: Creates a folder.
+Create an Association: Associates two CRM objects.
+Create an Engagement: Creates an engagement (a note, task, or activity) on an object in HubSpot. Engagements are any interaction with a contact that should be logged inside of the CRM.
+Create a Ticket: Creates a ticket.
+Create a Timeline Event: Creates or updates a timeline event. This module can be used only with a developer connection where your user identifier, your Hubspot API Key, your Client ID and Client Secret are filled in advanced parameters. 
+Delete a Company: Moves a company to the recycling bin.
+Delete a Contact: Moves a contact to the recycling bin.
+Delete a Custom Object Record: Moves a custom object to the recycling bin.
+Delete a Deal: Moves a deal to the recycling bin.
+Delete a File: Permanently deletes a file and all related data and thumbnails from file manager.
+Delete a Folder: Marks a folder as deleted.
+Delete an Association: Deletes an association between two CRM objects.
+Delete an Engagement: Deletes an engagement (a task or activity) on an object in HubSpot.
+Delete a Ticket: Deletes an existing ticket.
+Get a Company: Returns information about a specific company.
+Get a Contact: Returns information about a specific contact.
+Get a Custom Object Record: Returns information about a specific custom object.
+Get a Deal: Returns information about a specific deal.
+Get a File Uploaded via Form: For a given file ID, return the file associated with that ID.
+Get an Owner: Returns details for an owner.
+Get a Record Property: Gets metadata for a specific record property by its (internal) name. 
+Get a Ticket: Gets a specific ticket by its ID.
+Make an API Call: Performs an arbitrary authorized API call to manage data in Hubspot CRM.
+Merge Contacts: Merges contacts
+Remove a Contact from a List: Removes a contact from a contact list.
+Remove a Contact from a Workflow: Removes a contact from a workflow.
+Submit Data to a Form: Sends form submission data to HubSpot. 
+Subscribe Contact: Subscribes a contact to the given subscription emails.
+Unsubscribe a Contact: Unsubscribes a contact from the given subscription emails. Note that you cannot subscribe the contact to the same email address again.
+Update a Company: Updates company's properties by its ID. Returns updated properties in the response.
+Update a Contact: Updates contact's properties by their ID. Returns updated properties in the response.
+Update a Custom Object Record: Updates custom object's properties by its ID. Returns updated properties in the response.
+Update a Deal: Updates a specific deal by its ID. Returns updated properties in the response.
+Update a Ticket: Updates an existing ticket by its ID.
+Update File Properties: Moves a file to a different folder.
+Upload a File: Uploads a new file to the file manager.","List Associations: Returns the IDs of CRM objects associated with a given object, based on the specified association type.
+List Contacts: Returns all contacts that have been created in the portal. The output is limited to 5000 contacts. To list previous/next contacts, you can use the advanced parameter to reset an offset ID for listing contacts after this ID.
+List Deal/Ticket Pipelines: Returns all deal/ticket pipelines for a given portal.
+List Files: Retrieves a list of files stored in file manager.
+List Forms: Retrieves a list of forms for a given portal.
+List Owners: Returns all of the owners that exist inside of HubSpot.
+List Timeline Event Templates: Retrieves a list of all timeline event types for a specific application. This module can be used only with a developer connection where your user identifier, your Hubspot API Key, your Client ID and Client Secret are filled in advanced parameters.
+Search for Companies: Lists companies based on the provided filters or a search query.
+Search for Contacts: Retrieves a list of contacts using the search query.
+Search for CRM Objects: Searches for CRM objects (contacts, companies, deals, products, tickets, line items) by custom properties or by the query. To search for products or line items use a special connection with a required custom scope, e-commerce.
+Search for Deals: Lists deals based on the provided filters or a search query.
+Search for Tickets: Retrieves a list of tickets.","Watch Companies: Triggers when a new company is created.
+Watch Contacts: Triggers when a new contact is created.
+Watch Contacts Added to a List: Triggers when a new contact is added to a list (only for users with the paid Marketing account).
+Watch CRM Objects: Triggers when a CRM object is created/updated. To watch products or line_items use a special connection with a required custom scope [e-commerce].
+Watch Deals: Triggers when a new deal is created.
+Watch Engagements: Triggers when a new engagement is created in a portal. This endpoint will only return records created in the last 30 days, or the 10k most recently created records. 
+Watch Files: Triggers when a new file is stored in file manager. 
+Watch Notifications: Triggers when a new notification about changes is sent. This module can be used only with a developer connection where your user identifier, your Hubspot API Key, your Client ID, and Client Secret are filled in advanced parameters. You can have only one webhook URL per developer application. You can create more subscriptions for this one webhook.
+Watch Submissions for a Form: Triggers when data is submitted from a given form.
+Watch Subscriptions Timeline for a Portal: Triggers when a new email timeline subscription added for the portal.
+Watch Tickets: Triggers when a new ticket is created.",
+15,Productivity,ClickUp,"Connect ClickUp with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like ClickUp to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\clickup.md,"Add a Dependency: Adds a dependency to a task.
+Add Tag to a Task: Adds tag to a task.
+Add Tracked Time: Adds time tracked to a task.
+Create a Checklist: Adds new checklist to a specific task.
+Create a Checklist Item: Creates an item in a checklist.
+Create a Folder: Creates new folder for specific space.
+Create a Folderless List: Creates a folderless list.
+Create a Goal: Creates new workspace goal.
+Create a List: Creates new list for specific folder.
+Create a Space: Creates a space.
+Create a Space Tag: Creates a new tag for specific space.
+Create a Target: Creates a goal target.
+Create a Task: Creates new task in a specific list or sub-task in a specific task.
+Create a Task (advanced): Creates a new task in a list.
+Create a Task from a Template: Creates a task from a specific template.
+Create a Time Entry: Creates a new time entry manually.
+Delete a Checklist: Deletes a specific checklist.
+Delete a Checklist Item: Deletes a specific checklist item.
+Delete a Comment: Deletes a list or task comment.
+Delete a Dependency: Removes a dependency of tasks.
+Delete a Folder: Deletes a folder.
+Delete a Goal: Deletes a specific goal.
+Delete a List: Deletes a list.
+Delete a Space: Deletes a specific space.
+Delete a Space Tag: Deletes a space tag.
+Delete a Target: Deletes a target.
+Delete a Task: Deletes a specific task.
+Delete a Time Entry: Deletes a time entry.
+Delete Time Tracked: Deletes tracked time.
+Edit a Checklist: Updates checklist name and/or position.
+Edit a Checklist Item: Updates a checklist item.
+Edit a Folder: Updates a folder.
+Edit a Goal: Updates a goal.
+Edit a List: Updates a list.
+Edit a Space: Updates a space.
+Edit a Space Tag: Updates a space tag.
+Edit a Target: Updates a goal target.
+Edit a Task: Updates a task.
+Edit a Task with Custom Fields: Updates a task.
+Edit a Task with Custom Fields (advanced): Updates a task.
+Edit Time Tracked: Updates tracked time.
+Get a Folder: Retrieves details about specific folder.
+Get a Goal: Retrieves details about specific goal.
+Get a List: Retrieves details about specific list.
+Get a Space: Retrieves details about specific space.
+Get a Task: Retrieves details about specific task or subtask.
+Get a Time Entry: Gets a specified time entry.
+Get a View: Retrieves details about specific view.
+Get a Workspace: Gets a specified workspace.
+Get Task's Time in Status: Returns how long a task has been in each status. Available only for ClickUp Business plan.
+Invite a User to a Workspace: Invites a user to a selected workspace.
+Make an API Call: Performs an arbitrary authorized API call.
+Post a Task Comment: Posts a comment to a task.
+Post a View Comment: Posts a comment to a view.
+Post List Comment: Posts a comment to a list.
+Remove Tag from a Task: Removes tag from a specific task.
+Start/Stop a Timer: Starts or stops a timer.
+Update a Comment: Updates a list or task comment.
+Update a Time Entry: Updates an existing time entry.
+Upload Task Attachment: Adds attachment to a task.","List All Accessible Custom Fields: Retrieves all custom fields for specific list.
+List All Comments: Retrieves all coments for specific task, view or list.
+List All Folderless Lists: Retrieves all space lists.
+List All Folders: Retrieves all folders for a specific space.
+List All Folder Views: Retrieves all folder views.
+List All Goals: Retrieves all workspace goals.
+List All List Members: Retrieves all list members.
+List All Lists: Retrieves all lists for specific folder.
+List All List Views: Retrieves all list views.
+List All Spaces: Retrieves all spaces belonging to a specific team.
+List All Space Tags: Retrieves all tags of a specific space.
+List All Space Views: Retrieves all space views.
+List All Task Members: Retrieves all task members.
+List All Tasks: Retrieves all tasks for specific list.
+List All Team Views: Retrieves all team views.
+List All View Tasks: Retrieves all tasks for specific view.
+List All Workspaces: Retrieves all workspaces.
+List Filtered Tasks: Retrieves tasks for specific workspace.
+List Subtasks for a Task: Retrieves all subtasks for a specified task.
+List Task Templates: Retrieves all task templates.
+List Time Entries: Retrieves a list of time entries within a date range.
+List Time Entry's Histories: Retrieves a list of time entry's histories.
+List Tracked Time: Retrieves tracked time for specific task.","Watch Folders: Triggers when a specific folder event happens.
+Watch Lists: Triggers when a specific list event happens.
+Watch Spaces: Triggers when a specific space event happens.
+Watch Tasks: Triggers when a task or subtask is created or updated.
+Watch Tasks: Triggers when a specific task or subtask event happens.",
+16,Marketing,Facebook Pages,"Connect Facebook Pages with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like Facebook Pages to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\facebook-pages.md,"Create a Comment: Creates a comment.
+Create a Post: Creates a post.
+Create a Post with Photos: Creates a multi-photo post.
+Delete a Comment: Deletes a comment.
+Delete a Photo: Deletes a photo.
+Delete a Post: Deletes a post.
+Delete a Video: Deletes a video.
+Get a Comment: Returns info about a comment.
+Get a Page: Returns details about a page.
+Get a Photo: Returns info about a photo.
+Get a Post: Returns info about a post.
+Get a Video: Returns info about a video.
+Get Post Reactions: Returns number of reactions for a post.
+Like a Post: Likes a post.
+Unlike a Post: Unlikes a post.
+Update a Comment: Updates a comment.
+Update a Page: Update details on a page, such as phone or email.
+Update a Post: Updates a post.
+Update a Video: Updates a video.
+Upload a Photo: Uploads a photo.
+Upload a Video: Uploads a video.","List Comments: Returns comments for a post.
+List Photos: Returns photos.
+List Posts: Returns posts.
+List Videos: Returns videos.","Watch Comments: Triggers when a new comment is added.
+Watch Photos: Triggers when a new photo is added.
+Watch Posts: Triggers when a new post is added.
+Watch Posts (public page): Triggers when a new post is added to the selected public page.
+Watch Videos: Triggers when a new video is added.",
+17,Communication,Discord,"Connect Discord with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like Discord to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\discord.md,"Add a Role to a Guild Member: Adds a role to a guild member.
+Create a Channel Invite: Creates a new invite for the channel. It works only with a connection with permissions to manage invites.
+Create a Channel Thread: Creates a new channel thread.
+Create a Guild Channel: Creates a new channel for the guild.
+Create a Guild Event: Creates a new guild event.
+Create a Webhook Bot: Creates a new webhook bot.
+Delete a Channel: Deletes a channel.
+Delete a Guild Event: Deletes a guild event.
+Delete a Message: Deletes a message. 
+Delete a Webhook Bot: Deletes a webhook bot permanently.
+Edit a Message: Edits a specified message.
+Get a Guild Event: Gets a specified guild event.
+Get a Message: Returns a specific message in the channel. 
+Make an API Call: Performs an arbitrary authorized API call to manage data in Discord.
+Post a Reaction with an Emoji: Posts a reaction for the message with an emoji.
+Remove a Role from a Guild Member: Removes a role from a guild member.
+Send a Message: Sends a message to a specified channel, thread, or guild member.
+Send a Message by Webhook Bot: Sends a new message by executing a (custom) webhook bot.
+Update a Channel: Updates an existing channel.
+Update a Current Bot: Updates a current and connected user's bot.
+Update a Guild Event: Updates an existing guild event.
+Update a Guild Member: Updates an existing guild member.","List Channel Invites: Returns a list of invites (with invite metadata) for the channel.
+List Channel Messages: Returns the messages for the channel.
+List Channels: Returns a list of bot's channels.
+List Guild Events: Retrieves a list of scheduled events for guild.
+List Guild Members: Returns a list of members that are members of the bot's guild.
+List Guild Members with Reactions on Message:  Returns a list of guild member that reacted with the emoji on the message.
+Search Guild Members: Searches for Guild Members.","Watch Channel Invites: Triggers when a new channel invite is created.
+Watch Channel Messages: Trigger when a new message is posted to the channel.
+Watch Guild Members: Triggers when a member has joined the bot's guild.",
+18,Marketing,Instagram for Business,"Connect Instagram for Business with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like Instagram for Business to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\instagram-business.md,"Create a Carousel Post: Uploads a carousel photos/videos as a new post.
+Create a Comment: Creates a new comment.
+Create a Photo Post: Uploads a photo as a new post.
+Create a Reel Post: Uploads and posts a new reel.
+Create a Reply: Creates a reply to a comment.
+Download a Media: Downloads media.
+Get Media: Returns details about the media.
+Get Public User Info: Returns data about another Instagram Business or Creator IG User. ","Get Album Media: Returns all media files from the album.
+Get Media Insights: Returns media insights.
+Get User Insights: Returns user insights.
+List Comment Replies: Returns a list of replies for a specific comment.
+List Media: Returns user media.
+List Media Comments: Returns a list of IG Comments on an IG Media post.
+List Public User Media: Returns media of another Instagram Business or Creator IG User. 
+List Stories: Returns user stories.","Watch Events: Triggers when the subscribed event is received.
+Watch Media: Triggers when a new media is added.
+Watch Public User Media: Triggers when a new media is added to the selected Instagram Business or Creator IG User.",
+19,Website-Building,Webflow,"Connect Webflow with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like Webflow to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\webflow.md,"Create an Asset Folder: Creates an asset folder within a given site.
+Create an Item: Creates a new item for a collection.
+Create a Product: Creates a new product item.
+Delete an Asset: Deletes an existing asset.
+Delete an Item: Deletes an existing item for a collection.
+Get a Collection: Gets details of a collection.
+Get a Form: Returns information about a given form.
+Get a Form Submission: Returns information about a given form submission.
+Get an Asset Folder: Gets details about a specific asset folder.
+Get an Item: Returns the details of an item by ID.
+Get an Item Inventory: Gets the current inventory levels for a particular SKU item.
+Get an Order: Gets details of an existing order.
+Get a Page: Returns metadata information for a single page.
+Get a Product: Gets detail of an existing product.
+Get a Site: Get details of a specific site by ID.
+Make an API Call: Performs an arbitrary authorized API call.
+Mark an Order Fulfilled/Unfulfilled/Refunded: Mark an order status as fulfilled, unfulfilled or refunded.
+Publish an Item: Publishes an existing collection item.
+Publish a Site: Publishes an existing site.
+Update a Form Submission: Updates hidden fields on a form submission.
+Update an Item: Updates an existing item for a collection.
+Update an Item Inventory: Updates the current inventory levels for a particualr SKU item.
+Update an Order: Updates an order.
+Update a Product: Updates an existing product.
+Update a Product SKU: Updates an existing product SKU.","List Asset Folders: Lists asset folders within a given site.
+List Assets: Retrieves a list of assets for a specified site.
+List Collections: Retireves a list of collections
+List Forms: Retrieves a list of forms for a given site.
+List Form Submissions: Retrieves a list of form submissions for a given form.
+List Items: Retrieves a list of items for a collection.
+List Orders: Retrieves a list of orders created for a given site.
+List Pages: Retrieves a list of pages for a given site.
+List Products: Retrieves a list of products.
+List Sites: Lists of all sites the provided access token is able to access.",Watch Events: Triggers when one of the selected events occurs.,
+20,Commerce,WooCommerce,"Connect WooCommerce with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like WooCommerce to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\woocommerce.md,"Create a Coupon: This module helps you to create a new coupon.
+Create a Customer: This module helps you to create a new customer.
+Create an Order: This module helps you to create a new order.
+Create an Order Note: This module helps you to create a new note for an order.
+Create a Product: This module helps you to create a new product.
+Create a Product Attribute: Creates a new product attribute.
+Create a Product Attribute Term: Creates a new product attribute term.
+Create a Product Category: Creates a new product category.
+Create a Product Variation: This module helps you to create a new product variation.
+Delete a Coupon: This module helps you to delete a specified coupon.
+Delete a Customer: This module helps you to delete a specified customer.
+Delete an Order: This module helps you to delete a specified order.
+Delete an Order Note: This module helps you to delete a specified order note.
+Delete a Product: This module helps you to delete a specified product.
+Delete a Product Attribute: Removes a specific product attribute and its terms.
+Delete a Product Attribute Term: Removes a specific product attribute term.
+Delete a Product Category: Removes a specific product category.
+Delete a Product Variation: This module helps you to delete a specified product variation.
+Delete Products (Batch): This module helps you batch delete multiple products.
+Get a Coupon: This module lets you retrieve a specified coupon by its ID.
+Get a Customer: This module lets you retrieve a specified customer by its ID.
+Get an Order: This module lets you retrieve a specified order by its ID.
+Get an Order Note: This module lets you retrieve a specified order note by its ID.
+Get a Product: This module lets you retrieve a specified product by its ID.
+Get a Product Attribute: Returns a specific product attribute.
+Get a Product Attribute Term: Returns a specific product attribute term.
+Get a Product Category: Returns attributes for a specific product category.
+Get a Product Variation: This module lets you retrieve a specified product variation by its ID.
+Make an API Call: Performs an arbitrary authorized API call.
+Update a Coupon: This module lets you modify a coupon.
+Update a Customer: This module lets you modify a customer.
+Update an Order: This module lets you modify an order.
+Update an Order Status: This module lets you modify an order status. Order Status Manager plugin is required.
+Update a Product: This module lets you modify a product.
+Update a Product Attribute: Updates a specific product attribute.
+Update a Product Attribute Term: Updates a new product attribute term.
+Update a Product Category: Updates a specific product category.
+Update a Product Variation: This module lets you modify a product variation.","Create Product Attributes (Batch): This module helps you to batch create multiple attributes.
+Create Product Attribute Terms (Batch): This module helps you to batch create multiple attribute terms.
+Create Products (Batch): This module helps you to batch create multiple products.
+List Order Notes: This module helps you to get all the notes from an order.
+List Product Attributes: Returns list of product attributes.
+List Product Attribute Terms: Returns list of product attribute terms.
+List Product Variations: This module helps you to get all the variations from a product.
+Search for a Coupon: This module helps you to find a coupon.
+Search for a Customer: This module helps you to find a customer.
+Search for an Order: This module helps you to find an order.
+Search for a Product: This module helps you find a product.
+Search Product Categories: Returns a list of product categories.
+Update Products (Batch): This module helps you to batch update multiple products.","New Event: Triggers when an order, customer, coupon or product is created, updated or deleted.
+Watch Coupons: Triggers when a new coupon is created.
+Watch Customers: Triggers when a new customer is created.
+Watch Orders: Triggers when a new order is created.
+Watch Products: Triggers when a new product is created.",
+21,Crm-Sales,Pipedrive CRM,"Connect Pipedrive CRM with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like Pipedrive CRM to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\pipedrive.md,"Add a Follower: Add follower to an object of selected type (deals, organizations, persons).
+Add an Installment Subscription: Adds a new installment subscription.
+Add a Participant to a Deal: Adds a participant to a deal.
+Add a Product to a Deal: Adds a product to the deal.
+Add a Recurring Subscription: Adds a new recurring subscription to a deal.
+Cancel a Recurring Subscription: Cancels a recurring subscription.
+Create a Deal: Creates a deal.
+Create a Lead: Creates a lead.
+Create an Activity: Creates an activity.
+Create an Organization: Creates an organization.
+Create a Note: Creates a note.
+Create a Person: Creates a person.
+Create a Product: Creates a product.
+Delete a Deal: Deletes a deal.
+Delete a Follower: Delete a follower from a deal.
+Delete a Lead: Deletes a lead.
+Delete a Mail Thread: Marks mail thread as deleted.
+Delete an Activity: Deletes an activity.
+Delete an Attached Product: Deletes a product attachment from a deal.
+Delete an Organization: Deletes an organization.
+Delete a Note: Deletes a note.
+Delete a Person: Deletes a person.
+Delete a Product: Deletes a product.
+Delete a Subscription: Marks an installment or a recurring subscription as deleted.
+Download a File: Downloads a file.
+Get a Deal: Returns details of a specific deal. 
+Get a Lead: Gets a lead.
+Get a Mail Thread: Returns specific mail thread.
+Get a Message: Returns data about specific mail message.
+Get an Activity: Returns details of a specific activity.
+Get an Organization: Returns details of an organization. 
+Get a Note: Returns details about a specific note.
+Get a Person: Returns details of a person.
+Get a Product: Returns data about a specific product.
+Get a Subscription: Returns details of an installment or a recurring subscription.
+Get a User: Returns data about a specific user within the company.
+Make an API Call: Performs an arbitrary authorized API call.
+Update a Deal: Updates a deal.
+Update a Lead: Updates a lead.
+Update a Mail Thread Details: Updates the properties of a mail thread.
+Update an Activity: Updates an activity.
+Update an Installment Subscription: Updates an installment subscription.
+Update an Organization: Updates an organization.
+Update an Organization Field Value: Updates an organization field value.
+Update a Note: Updates a note.
+Update a Person: Updates a person.
+Update a Product: Updates a product.
+Update a Recurring Subscription: Updates a recurring subscription.
+Update Product Attachment Details: Updates product attachment details of the deal-product (a product already attached to a deal).
+Upload a File: Lets you upload a file, and associate it with a Deal, a Person, an Organization, an Activity or a Product.","Find Subscription By Deal: Returns details of an installment or a recurring subscription by the deal ID.
+List Activities: Searches for activities.
+List Activities in a Deal: Lists activities associated with a deal.
+List Deals: Searches for deals.
+List Deals in a Pipeline: Lists deals in a specific pipeline across all its stages.
+List Deals in a Stage: Lists deals in a specific stage.
+List Files in a Deal: Lists files associated with a deal.
+List Followers: List followers of an object of selected type (deals, organizations, persons, products, users).
+List Leads: Retrieves all your leads.
+List Mail Threads: Returns mail threads in specified folder ordered by most recent message within.
+List Messages in a Thread: Get mail messages inside specified mail thread.
+List Notes: Searches for notes.
+List Organizations: Searches for organizations.
+List Payments of a Subscription: Returns all payments of an installment or recurring subscription.
+List Persons: Searches for persons.
+List Persons in a Deal: Lists all persons associated with a deal, regardless of whether the person is the primary contact of the deal, or added as a participant.
+List Pipelines: Returns data about all pipelines.
+List Products: Searches for products.
+List Products in a Deal: Lists products attached to a deal.
+List Stages: Returns data about all stages.
+List Users: Returns data about all users.
+Search Deals: Retrieves your deals filtered by criteria.
+Search for Items: Performs a search from multiple item types.
+Search Leads: Retrieves your leads filtered by criteria.
+Search Organizations: Retrieves your organizations filtered by criteria.
+Search Persons: Retrieves your persons filtered by criteria.
+Search Products: Retrieves your products filtered by criteria.","New Activity Event: Triggers when a new activity is added, updated or deleted.
+New Deal Event: Triggers when a new deal is added, updated or deleted.
+New Note Event: Triggers when a new note is added, updated or deleted.
+New Organization Event: Triggers when a new organization is added, updated or deleted.
+New Person Event: Triggers when a new person is added, updated or deleted.
+New Product Event: Triggers when a new product is added, updated or deleted.
+Watch Activities: Triggers when a new activity is added or updated.
+Watch Deals: Triggers when a new deal is added or updated.
+Watch Leads: Triggers when a new lead is added or updated.
+Watch Notes: Triggers when a new note is added or updated.
+Watch Organizations: Triggers when a new organization is added or updated.
+Watch Persons: Triggers when a new person is added or updated.
+Watch Products: Triggers when a new product is added or updated.",
+22,Commerce,Shopify,"Connect Shopify with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like Shopify to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\shopify.md,"Accept a Cancellation Request: Accepts a cancellation request for an assigned fulfillment order by its ID.
+Accept a Fulfillment Request: Accepts a fulfillment request and updates the assigned fulfillment order by its ID.
+Adjust an Inventory Level: Adjusts the inventory level of an inventory item at a single location.
+Cancel a Fulfillment Order: Cancels an assigned fulfillment order by its ID.
+Cancel an Order: Cancels an order.
+Close a Fulfillment Order: Closes an assigned fulfillment order by its ID.
+Close an Order: Closes an order.
+Connect an Inventory Item: Connects an inventory item to a location.
+Count Orders: Retrieves an order count.
+Create a Collect: Adds a product to a custom collection.
+Create a Custom Collection: Creates a new custom collection.
+Create a Customer: Creates a customer.
+Create a Discount Code: Creates a discount code.
+Create a Draft Order: Creates a draft order.
+Create a Fulfillment Event: Creates a fulfillment event (eg. change status).
+Create a Fulfillment for Fulfillment Orders: Creates a fulfillment for fulfillment orders with the same order and the same location.
+Create a Fulfillment Service: Creates a fulfillment service.
+Create a Metafield: Creates a metafield.
+Create an Article: Creates an article.
+Create an Order: Creates an order.
+Create a Page: Creates a page.
+Create a Price Rule: Creates a price rule.
+Create a Product: Creates a product.
+Create a Product Variant: Creates a product variant.
+Create a Transaction: Creates a transaction.
+Create or Update an Asset: Creates or updates an asset by the theme ID.
+Delete a Collect: Deletes a collect.
+Delete a Custom Collection: Deletes a custom collection by its ID.
+Delete a Customer: Deletes a customer.
+Delete a Discount Code: Deletes a discount code.
+Delete a Fulfillment Service: Deletes a fulfillment service.
+Delete a Metafield: Deletes a metafield.
+Delete an Article: Deletes an article.
+Delete an Asset: Deletes an asset by its key and the theme ID.
+Delete an Inventory Level: Deletes an inventory level of an inventory item at a location.
+Delete an Order: Deletes an orders.
+Delete a Page: Deletes a page.
+Delete a Product: Deletes a product.
+Delete a Product Image: Deletes a product image.
+Delete a Product Variant: Deletes a product variant.
+Get a Collect: Returns details about a collect.
+Get a Custom Collection: Retrieves a single custom collection by its ID.
+Get a Customer: Returns info about a customer.
+Get a Fulfillment: Returns info about a fulfillment.
+Get a Fulfillment Order: Retrieves a specific fulfillment order by its ID.
+Get a Metafield: Returns details about a metafield.
+Get an Article: Returns info about an article.
+Get an Asset: Retrieves the content of an asset by its key and the theme ID.
+Get an Order: Returns info about an order.
+Get a Page: Returns info about a page.
+Get a Product: Returns info about a product.
+Get a Product Variant: Returns info about a product variant.
+Get a Refund: Returns info about a refund.
+Hold a Fulfillment Order: Applies a fulfillment hold on a fulfillment order with status OPEN.
+Import a B2B Order: Imports non-Shopify B2B order into Shopify. Only available for stores on the Shopify Plus plan.
+Make a GraphQL API Call: Performs an arbitrary authorized GraphQL API call.
+Make an API Call: Performs an arbitrary authorized API call.
+Reject a Cancellation Request: Rejects a cancellation request for an assigned fulfillment order by its ID.
+Reject a Fulfillment Request: Rejects a fulfillment request and updates the assigned fulfillment order by its ID.
+Release a Fulfillment Order Hold: Releases the fulfillment hold on a fulfillment order.
+Relocate a Fulfillment Order: Moves a fulfillment order from one to another merchant managed location.
+Reopen an Order: Reopens a closed order.
+Search for Discount Codes: Searches for discount codes.
+Send a Cancellation Request: Sends a cancellation request to the fulfillment service of a fulfillment order.
+Send a Fulfillment Request: Sends a fulfillment request to the fulfillment service of a fulfillment order.
+Send an Invitation: Sends a customer invitation.
+Update a Custom Collection: Updates a custom collection by its ID.
+Update a Customer: Updates a customer.
+Update a Discount Code: Updates a discount code.
+Update a Fulfillment Service: Updates a fulfillment service.
+Update a Fulfillment Tracking: Updates the tracking information for a fulfillment.
+Update a Metafield: Updates a metafield.
+Update an Article: Updates an article specified by the ID.
+Update an Inventory Item: Updates an inventory item.
+Update an Inventory Level: Sets the inventory level for an inventory item at a location.
+Update an Order: Updates an order.
+Update a Page: Updates a page specified by the ID.
+Update a Product: Updates a product.
+Update a Product Variant: Updates a product variant.
+Upload a Product Image: Uploads a product image.","List Assets: Retrieves a list of assets by the theme ID.
+List Customer Addresses: Returns all customer addresses.
+List Fulfillment Orders: Retrieves a list of fulfillment orders for a specific order.
+List Fulfillments for a Fulfillment Order: Retrieves fulfillments associated with a fulfillment order.
+List Product Images: Returns all product images.
+List Product Variants: Returns all product variants.
+Search Assigned Fulfillment Orders: Retrieves a list of fulfillment orders on a shop for a specific app.
+Search for Abandoned Checkouts: Searches for abandoned checkouts.
+Search for Articles: Searches for articles.
+Search for Collects: Searches for collects.
+Search for Custom Collections: Retrieves a list of custom collections.
+Search for Customers: Searches for customers.
+Search for Disputes: Searches for disputes.
+Search for Fulfillments: Returns fulfillments associated with an order.
+Search for Inventory Items: Returns details about inventory items.
+Search for Inventory Levels: Searches for inventory levels.
+Search for Metafields: Searches for metafields.
+Search for Orders: Searches for orders.
+Search for Pages: Searches for pages.
+Search for Payouts: Searches for payouts.
+Search for Products: Searches for products.
+Search for Refunds: Searches for refunds.
+Search for Risks: Searches for order risks.
+Search for Transactions: Searches for transactions.","New Event: Triggers when a new order/product/etc is created, updated or deleted.
+Watch Abandoned Checkouts: Triggers when a new abandoned checkout is added.
+Watch Articles: Triggers when a new article is added.
+Watch Customers: Triggers when a new customer is added.
+Watch Orders: Triggers when a new order is added.
+Watch Pages: Triggers when a new page is added.
+Watch Products: Triggers when a new product is added.",
+23,Productivity,Trello,"Connect Trello with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like Trello to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\trello.md,"Add a Label to a Card: Adds an existing label to a card.
+Add a Member to a Card: Adds a selected member to a card.
+Add an Attachment: Adds an attachment to a card.
+Archive or Unarchive a Board: Archives or unarchives a board.
+Archive or Unarchive a Card: Archives or unarchives a card.
+Archive or Unarchive a List: Archives or unarchives a specific list.
+Assign a Member to a Board: Assigns a specific member to a board.
+Create a Board: Creates a new board.
+Create a Card: Creates a new card.
+Create a Checklist: Creates a checklist on a given card.
+Create a Checklist Item: Creates new checklist item to a specific checklist.
+Create a Comment in a Card: Creates a new comment in a specific card.
+Create a Custom Field: Creates a new custom field on a board.
+Create a Label: Creates a new label on a board.
+Create a List: Creates a new list.
+Create Export for Organizations: Creates a CSV export for a workspace and returns a ZIP file in the response. Is not available on the free plan.
+Delete a Card: Deletes a card.
+Delete a Checklist: Deletes a specified checklist.
+Delete a Comment in a Card: Deletes a comment in a specific card.
+Delete a Label: Deletes a label.
+Delete an Attachment: Deletes an attachment from a card.
+Download an Attachment: Downloads an attachment.
+Edit a Board: Edits an existing board.
+Edit a Card: Edits an existing card.
+Edit a Checklist Item: Updates an item in a checklist on a card.
+Edit a Comment in a Card: Edits an existing comment in a specific card.
+Edit a Label: Edits an existing label.
+Edit a List: Edits an existing list.
+Get a Board: Retrieves a board by ID.
+Get a Card: Retrieves a card by ID.
+Get a Checklist: Retrieves information about a specific checklist.
+Get a Custom Field: Retrieves information about a specific custom field.
+Get a Label: Gets information about a specific label.
+Get a List: Retrieves a list by ID.
+Get an Attachment: Gets a specific attachment on a card.
+Make an API Call: Performs an arbitrary authorized API call.
+Remove a Label from a Card: Removes a label from a card.
+Remove a Member from a Card: Removes a specific member from a card.
+Remove an Item from Checklist: Removes an item from checklist.
+Set a Custom Field on a Card: Sets or updates a custom field value on a card.
+Unassign a Member from a Board: Unassigns a specific member from a specific board.","Get Board Lists: Retrieves all lists from a given board.
+Get Card Checklists: Retrieves all checklists for given card.
+Get Custom Field Options: Retrieves options of dropdown custom field.
+List Attachments: Lists attachments on a card.
+List Comments in a Card: Retrieves a list of comments for a card.
+List Labels: Retrieves all labels from a board.
+Search for Boards: Returns boards matching the search query.
+Search for Cards: Returns cards matching the search query.
+Search for Members: Returns members matching the search query.
+Search for Organizations: Returns workspaces matching the search query.","Watch Activities: Triggers when a new activity occurs.
+Watch Activities: Triggers when new activity occurs.
+Watch Attachments: Triggers when a new attachment is added to a card.
+Watch Boards: Triggers when a new board is added.
+Watch Cards: Triggers when a new card is added.
+Watch Cards Moved to a List: Triggers when a card is moved to a specific list.
+Watch Comments: Triggers when a new comment is added.
+Watch Notifications: Triggers when you have a new notification.",
+24,Website-Building,WordPress,"Connect WordPress with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like WordPress to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\wordpress.md,"Create a Category: Creates a category.
+Create a Comment: Creates a comment.
+Create a Media Item: Creates a media item.
+Create a Post: Creates a post.
+Create a Tag: Creates a tag.
+Create a User: Creates a user.
+Delete a Category: Deletes a category specified by its ID.
+Delete a Comment: Deletes a comment specified by its ID.
+Delete a Media Item: Deletes a media item specified by its ID.
+Delete a Post: Deletes a post specified by its ID.
+Delete a Tag: Deletes a tag specified by its ID.
+Delete a User: Deletes a user specified by its ID.
+Get a Category: Returns info about a category specified by its ID.
+Get a Comment: Returns info about a comment specified by its ID.
+Get a Media Item: Returns info about a media item specified by its ID.
+Get a Post: Returns info about a post specified by its ID.
+Get a Tag: Returns info about a tag specified by its ID.
+Get a User: Returns info about a user specified by its ID.
+Make an API Call: Performs an arbitrary authorized API call.
+Update a Category: Updates a category specified by its ID.
+Update a Comment: Updates a comment specified by its ID.
+Update a Media Item: Updates a media item specified by its ID.
+Update a Post: Updates a post specified by its ID.
+Update a Tag: Updates a tag specified by its ID.
+Update a User: Updates a user specified by its ID.","Search Categories: Searches for specific categories.
+Search Comments: Searches for specific comments.
+Search Media Items: Searches for specific media items.
+Search Posts: Searches for specific posts.
+Search Tags: Searches for specific tags.
+Search Taxonomies: Searches for specific taxonomies.
+Search Users: Searches for specific users.","Watch Categories: Triggers when a new category is added.
+Watch Comments: Triggers when a new comment is added.
+Watch Media Items: Triggers when a new media item is added.
+Watch Posts: Triggers when a new post is added.
+Watch Posts Updated: Watches for updated posts.
+Watch Tags: Triggers when a new tag is added.
+Watch Users: Triggers when a new user is added.",
+25,File-Document-Management,Dropbox,"Connect Dropbox with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like Dropbox to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\dropbox.md,"Copy a File or Folder: Copies a file or folder to a different location in the user's Dropbox. If the source path is a folder all its contents will be copied.
+Create a File Request: Creates a file request.
+Create a Folder: Creates a new folder.
+Create/Overwrite a Text file: Creates a new text file(.doc) or overwrite an existing text file(.doc) with the provided content as plain text.
+Create/Update a Share Link: Creates or Updates a public share link to the file or folder (It allows to share the file or folder with anyone).
+Delete a File/Folder: Permanently removes a file/folder from the server.
+Delete Closed File Requests: Deletes selected file requests.
+Download a File: Downloads a file from a specified folder.
+Get a File Request: Retrieves specified file request.
+Make an API Call: Performs an arbitrary authorized API call.
+Move a File/Folder: Moves a file or folder to a different location in the user's Dropbox.
+Rename a File/Folder: Renames a file/folder in the user's Dropbox.
+Restore a File: Restores a previous file version.
+Update a File Request: Updates a file request.
+Upload a File: Uploads a file to a selected folder.","List All Files/Subfolders In a Folder: Retrieves a list of files or subforders in a specified folder.
+List File Requests: Returns a list of file requests owned by this user.
+List File Revisions: Retrieves a list of file revisions needed to recover previous content.
+Search Files/Folders: Searches for files and folders by name.",Watch Files: Triggers when a file is added in a folder being watched. This module retrieves number of files/folders till 4000.,
+26,Commerce,Stripe,"Connect Stripe with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like Stripe to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\stripe.md,"Cancel a Payment Intent: Cancels a payment intent by its ID. For payment intents with status ’requires_capture’, the remaining capturable amount will automatically be refunded.
+Cancel a Payout: Cancels a previously created payout.
+Capture a Payment Intent: Captures an existing uncaptured payment intent by its ID.
+Confirm a Payment Intent: Confirms a payment intent by its ID. Upon confirmation, the payment intent will attempt to initiate a payment.
+Create a Customer: Creates a new customer object.
+Create an Invoice: Creates a new invoice by the customer ID.
+Create an Invoice Item: Creates a new invoice item to be added to a draft invoice.
+Create a Payment Intent: Creates a Payment Intent.
+Create a Payout: To send funds to your own bank account, you create a new payout object.
+Create a Refund: Creates a new refund.
+Delete a Customer: Permanently deletes a customer. It cannot be undone.
+Delete a Draft Invoice: Permanently deletes a draft invoice. Use ""Void an Invoice"" module for finalized invoice.
+Delete an Invoice Item: Permanently deletes an invoice item which is not attached to invoices, or if it’s attached to a draft invoice.
+Finalize a Draft Invoice: Finalizes a draft invoice by its ID.
+Make an API Call: Performs an arbitrary authorized API call.
+Retrieve a Balance Transaction: Retrieves the balance transaction with the given ID.
+Retrieve a Customer: Retrieves the details of an existing customer.
+Retrieve an Invoice: Retrieves the details of an existing invoice with the given ID.
+Retrieve an Invoice Item: Retrieves the details of an existing invoice item with the given ID.
+Retrieve a Payment Intent: Retrieves the details of a Payment Intent that has previously been created.
+Retrieve a Payout: Retrieves the details of an existing payout.
+Retrieve a Refund: Retrieves the details of an existing refund.
+Retrieve Balance: Retrieves the current account balance.
+Update a Customer: Updates the specified customer by setting the values of the parameters passed.
+Update an Invoice: Updates the specified invoice by setting the values of the parameters passed.
+Update an Invoice Item: Updates the specified invoice item by setting the values of the parameters passed.
+Update a Payment Intent: Updates the specified payment intent by setting the values of the parameters passed.
+Update a Payout: Updates the specified payout by setting the values of the parameters passed.
+Update a Refund: Updates the specified refund by setting the values of the parameters passed.
+Void an Invoice: Voids a finalized invoice with the given ID. This cannot be undone.","List All Balance History: Returns a list of transactions that have contributed to the Stripe account balance.
+List All Customers: Retrieves a list of customers.
+List All Invoice Line Items: Retrieves a list of invoice line items by the invoice ID.
+List All Payouts: Returns a list of existing payouts sent to third-party bank accounts or that Stripe has sent you.
+List All Refunds: Returns a list of all refunds you’ve previously created.
+List Payment Intents: Retrieves a list of payment intents or filters by customer ID.
+List Payment Link Lines: Retrieves all lines of the specified payment link.
+Search Customers: Retrieves a list of customers filtered by criteria.
+Search Invoice Items: Retrieves a list of invoice items filtered by criteria.
+Search Invoices: Retrieves a list of invoices filtered by criteria.",Watch Events: Triggers when a given event occurs.,
+27,Marketing,ActiveCampaign,"Connect ActiveCampaign with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like ActiveCampaign to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\activecampaign.md,"Add a Contact to an Automation: Adds a contact to an automation.
+Add a Tag to a Contact: Adds a tag to a contact.
+Create a Contact: Creates a contact.
+Create a Deal: Creates a new deal.
+Create a Deal Note: Creates a new note for a deal..
+Create a Message: Creates a message.
+Create an Account: Creates a new account.
+Create a New Event: Creates a new tracking event (name only).
+Create a Note: Adds a note to an activity, a deal, a deal task or to a subscriber.
+Create/Update a Calendar Feed: Creates or updates a calendar feed.
+Create/Update a Contact: Creates a new contact or updates an existing contact.
+Create/Update a Contact's Custom Field Value: Creates or updates a custom field value for the given contact.
+Create/Update a Task: Creates a new task or updates an existing task.
+Delete a Calendar Feed: Deletes a calendar feed.
+Delete a Contact: Deletes an existing contact.
+Delete a Deal: Deletes an existing deal.
+Delete an Account: Deletes an existing account.
+Delete a Task: Deletes an existing task.
+Enable/Disable Event Tracking: Enables or disables event tracking.
+Get a Campaign: Retrieves a campaign.
+Get a Contact: Retrieves a contact.
+Get a Deal: Returns a deal.
+Get an Account: Retrieves an existing account.
+Get an Automation a Contact Is in: Retrieves an automation a contact is in.
+Get Current User: Gets information about logged-in user
+Make a Legacy API Call: Performs an arbitrary authorized legacy API call.
+Make an API Call: Performs an arbitrary authorized API call.
+Move Deals to Another Deal Stage: Moves all deals in one stage to another stage.
+Remove a Contact from an Automation: Removes a contact from an automation.
+Remove a Tag from a Contact: Removes a tag from a contact.
+Update a Deal: Updates an existing deal.
+Update Contact's List Status: Updates list status for a contact.","List Accounts: Retrieves a list of existing accounts.
+List All Automations a Contact Is in: Retrieves a list of automations a contact is in.
+List Automations: Retrieves a list of automations in the system.
+List Campaigns: Retrieves a list of campaigns.
+List Contacts: Retrieves a list of contacts.
+List Deals: Retrieves a list of deals.
+List Organizations: Retrieves a list of organizations.","Watch Accounts: Triggers when an account is created or updated.
+Watch Calendar Feeds: Triggers when a new calendar feed is created/updated.
+Watch Contacts: Triggers when a new contact is created.
+Watch Deals: Triggers when a deal is created.
+Watch Events: Triggers when a new event is fired.
+Watch Messages: Triggers when a new message is received.
+Watch Tasks: Triggers when a new task is assigned to a deal.",
+28,Marketing,Brevo,"Connect Brevo with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like Brevo to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\sendinblue.md,"Add Existing Contacts to a List: Adds existing contacts to a list. 
+Create a Contact: Creates a contact.
+Create a Folder: Creates a folder.
+Create a List: Creates a list.
+Create an Email Campaign: Creates a new campaign.
+Delete a Contact: Deletes a contact.
+Delete a Folder: Deletes a folder.
+Delete a List: Deletes a list.
+Delete an Email Campaign: Deletes an email campaign.
+Get a Contact: Return details about a contact.
+Get a Folder: Returns details about a folder.
+Get a List: Returns details about a list.
+Get an Email Campaign: Returns details about an email campaign.
+Get My Account: Return details about my account.
+Make an API Call: Performs an arbitrary authorized API call.
+Send a Campaign Report: Sends a PDF campaign report to the specific email.
+Send an Email: Sends a transactional email.
+Send an SMS: Sends a transactional SMS.
+Update a Contact: Updates a contact.
+Update a Folder: Updates a folder.
+Update a List: Updates a list.
+Update an Email Campaign: Updates an email campaign.","List Contacts: Lists all contacts.
+List Contacts in a List: Lists all contacts in a list.
+List Email Campaigns: List all email campaigns.
+List Folders: Lists all folders.
+List Lists: Lists all lists.
+List Lists in a Folder: Lists lists in a folder.","New Event: Triggers when a new email event occurs.
+Watch Contacts: Triggers when a new contact is created.
+Watch Email Campaigns: Triggers when a new email campaign is created.
+Watch Folders: Triggers when a new folder is created.
+Watch Lists: Triggers when a new list is created.",
+29,Productivity,Calendly,"Connect Calendly with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like Calendly to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\calendly.md,"Create a Scheduling Link: Creates a scheduling link.
+Get an Event: Returns information about an event.
+Get an Event Invitee: Returns information about an invitee.
+Get an Event Type: Returns information about an event type.
+Get an Organization Membership: Returns information about a user's Organization Membership.
+Invite a User to Organization: Invites a user to an organization.
+Make an API Call: Performs an arbitrary authorized API call.","List Event Invitees: Returns a list of Invitees for an event.
+List Events: Returns a list of events.
+List Event Types: Returns all event types associated with a specified user.
+List Organization Memberships: Return a list of organization memberships",Watch Events: Triggers when an event is created or canceled.,
+30,Surveys-Forms,Google Forms,"Connect Google Forms with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like Google Forms to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\google-forms.md,"Add a Response in Google Sheets: Appends a new response to the bottom of the Google Sheets table.
+Create a Form: Creates a new form.
+Delete a Response in Google Sheets: Deletes a specific response from the bottom of the Google Sheets table.
+Get a Form: Retrieves an existing form by its ID.
+Get a Response: Retrieves the details of a response by its ID.
+Make an API Call: Performs an arbitrary authorized API call.
+Move a Form to Trash: Removes a form and moves it to trash.
+Update a Form: Updates an existing form by its ID.
+Update a Response in Google Sheets: Updates a response in the Google Sheets table.","List Responses: Retrieves a list of responses.
+Search Forms: Retrieves a list of forms filtered by criteria.
+Search Responses in Google Sheets: Returns responses matching the given criteria in the Google Sheets table.
+Search Responses in Google Sheets (Advanced): Returns results matching the given criteria in the Google Sheets table. This module doesn't return a row number.","Watch Responses: Triggers when a new response is received.
+Watch Responses in Google Sheets: Watches for new responses in the Google Sheets table.",

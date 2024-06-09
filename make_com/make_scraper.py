@@ -9,7 +9,24 @@ import os
 
 
 class MakeScraper:
+    """### Scraper for public plugins data on make.com \n
+    Extract the following data for each plugin: 
+    - name
+    - rank
+    - category
+    - high-level description
+    - ctions & triggers (and any other similar fields) \n
+    Finally writes down its Docs as markdown (.md) file
     
+    - ### Usage:
+
+    scraper = MakeScraper()
+    ```
+    scraper.main('csv_file.csv', 30)    # num of items according to their rank
+    ```
+    """
+    
+
     def __init__(self):
         self.final = []
         self.cols_to_keep = ['Rank', 'Category', 'Name', 'Description', 'Readme']
@@ -18,14 +35,16 @@ class MakeScraper:
             os.mkdir(self.docs_dir)
         
     
-    def main(self, csv_name):
-        
+    def main(self, csv_name, how_many: int):
+        """Param csv_name (str): Exported data csv file name
+        """
         self.fetch_all_plugin_ranked()
-        self.process_response()
+        self.process_response(how_many)
         self.export_data(csv_name)
         
     def fetch_all_plugin_ranked(self):
-        
+        """Fetch all general data about all plugin from 1 endpoint
+        """
         search_api = "https://www.make.com/pw-api/integrations/search-apps"
         headers = {
             'accept': '*/*',
@@ -53,9 +72,14 @@ class MakeScraper:
                 print("Error occured in search api in fetch_all_plugin_ranked()")
                 return response.raise_for_status()
 
-    def process_response(self):
-        
-        self.df = pd.DataFrame(self.entities[:5])
+    def process_response(self, how_many):
+        """Process all data 
+        - Param how_many(int): How many plugins should be processed & returned in final output
+        #### if a number more than max plugins received, all plugins will be returned 
+        """
+        if how_many >= len(self.entities):
+            how_many = len(self.entities) - 1
+        self.df = pd.DataFrame(self.entities[:how_many])
         self.rank()
         self.name()
         self.category()
@@ -70,7 +94,6 @@ class MakeScraper:
         self.df['Name'] = self.df['name']
     
     def category(self):
-        
         cat_col = self.df['categoriesCollection']
         self.df['Category'] = cat_col.apply(self.extract_category)
 
@@ -85,6 +108,9 @@ class MakeScraper:
         self.df['url'] = "https://www.make.com/en/integrations/" + self.df['slug']
 
     def plugin_page_data(self):
+        """These data don't come in genral endpoint. \n
+        Thus they are fetches from a json data in each plugin page
+        """
         
         cookies = {
             'last_touch_gclid': 'undefined',
@@ -184,7 +210,11 @@ class MakeScraper:
             return ""
 
     def handle_actions_columns(self):
-        
+        """Actions, triggers, searches & those columns are variable per plugin,\n
+        so we process them on each 
+        row indivdually in a temp df made out of json_data series.\n
+        Then this temp df is added to original one
+        """
         # Fetch json_data series that we'll work on to extract actions
         json_data_series = self.df['json_data']
         # Apply extract_actions to entire data_json column fetched above
@@ -199,9 +229,10 @@ class MakeScraper:
         
         result = {}
         for key, value in json_data['props']['pageProps']['app'].items():
-            if 'Json' in key and value != []:   # Ignore unwanted keys
-                final_key = key.rsplit('Json', 1)[0].title()
-                formatted = '\n'.join([f"{i['name']}: {i['description']}" for i in value])
+            # Ignore unwanted keys, the ones of iterest are like actionsJson, searchesJson, ...
+            if 'Json' in key and value != []:
+                final_key = key.rsplit('Json', 1)[0].title()    # Originally it's returned like: "ActoinsJson"
+                formatted = '\n'.join([f"{i['name']}: {i['description']}" for i in value])      # join lists
                 result[final_key] = formatted
                 if final_key not in self.cols_to_keep:
                     self.cols_to_keep.append(final_key)
@@ -217,7 +248,8 @@ class MakeScraper:
                 )
     
     def markdown_doc(self,session, doc_url):
-        
+        """Writes down Docs as .md files in doc/ directory
+        """
         resp = session.get(doc_url)
         soup = BeautifulSoup(resp.text, 'lxml')
         doc = soup.find('section', class_="section")
@@ -233,27 +265,24 @@ class MakeScraper:
         return doc_filepath
     
     def export_data(self, csv_name: str):
-
-        self.df.to_csv(csv_name, index=False, columns=self.cols_to_keep)
-
-    def ranking(self):
         
-        """
-        Global popularity ranking of the plugin as found in 
-        https://www.make.com/en/integrations?community=1&verified=1
-        """
-        url = "https://www.make.com/en/integrations?community=1&verified=1"
-        """        
-        - Category: Categories (separated by a comma) where the plugin can be found (e.g., Google Sheet plugin found in "Productivity" https://www.make.com/en/integrations/category/productivity?community=1&verified=1)
-        - Plugin Name: Name of the plugin
-        - Plugin Description: Description of the plugin as found when clicking on it (ex: https://www.make.com/en/integrations/google-sheets)
-        - Readme : Markdown version of the plugin documentation (e.g., https://www.make.com/en/help/app/google-sheets) -- You can find it in HTML and use an HTML to Markdown converter or use chatgpt
-        - Type: Type of action (Action/Trigger/Search/etc.) (ex: https://www.make.com/en/integrations/google-sheets)
-        -  Name: Name of the action found on the list of the plugin in make
-        -  Description: High-level description of the action
-        - Parameter : JSON of all the parameter of the action  as found in the documentation in the correct action (e.g., https://www.make.com/en/help/app/google-sheets#actions-964718)
-        """
+        self.df.to_csv(csv_name, index=False, columns=self.cols_to_keep)
 
 if __name__ == "__main__":
     scraper = MakeScraper()
-    scraper.main('Plugins_2.csv')
+    scraper.main('Plugins_2.csv', 30)
+    
+"""
+Global popularity ranking of the plugin as found in 
+https://www.make.com/en/integrations?community=1&verified=1
+url = "https://www.make.com/en/integrations?community=1&verified=1"
+
+- Category: Categories (separated by a comma) where the plugin can be found (e.g., Google Sheet plugin found in "Productivity" https://www.make.com/en/integrations/category/productivity?community=1&verified=1)
+- Plugin Name: Name of the plugin
+- Plugin Description: Description of the plugin as found when clicking on it (ex: https://www.make.com/en/integrations/google-sheets)
+- Readme : Markdown version of the plugin documentation (e.g., https://www.make.com/en/help/app/google-sheets) -- You can find it in HTML and use an HTML to Markdown converter or use chatgpt
+- Type: Type of action (Action/Trigger/Search/etc.) (ex: https://www.make.com/en/integrations/google-sheets)
+-  Name: Name of the action found on the list of the plugin in make
+-  Description: High-level description of the action
+- Parameter : JSON of all the parameter of the action  as found in the documentation in the correct action (e.g., https://www.make.com/en/help/app/google-sheets#actions-964718)
+"""
