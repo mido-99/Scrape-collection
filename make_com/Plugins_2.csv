@@ -1,0 +1,82 @@
+Rank,Category,Name,Description,Readme,Actions,Searches,Triggers,Feeders
+1,Productivity,Google Sheets,"Connect Google Sheets with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like Google Sheets to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\google-sheets.md,"Add a Conditional Format Rule: Creates a new conditional format rule at the given index. All subsequent rules' indexes are incremented.
+Add a Row: Appends a new row to the bottom of the table.
+Add a Sheet: Adds a new sheet.
+Clear a Cell: Cleares a specific cell.
+Clear a Row: Clears values from a specific row.
+Clear Values from a Range: Clears a specified range of values from a spreadsheet.
+Copy a Sheet: Copies a sheet to another spreadsheet.
+Create a Spreadsheet: Creates a new spreadsheet.
+Create a Spreadsheet from a Template: Creates a new spreadsheet from a template sheet.
+Delete a Conditional Format Rule: Deletes a conditional format rule at the given index. All subsequent rules' indexes are decremented.
+Delete a Row: Deletes a specific row.
+Delete a Sheet: Deletes a specific sheet.
+Get a Cell: Gets a specific cell.
+Make an API Call: Performs an arbitrary authorized API call.
+Perform a Function - Responder: Returns processed data as a result of the MAKE_FUNCTION or INTEGROMAT function. Sheets Add-On required.
+Rename a Sheet: Renames a specific sheet.
+Update a Cell: Updates a specific cell.
+Update a Row: Updates a row.","Get Range Values: Gets a range content.
+List Sheets: Gets a list of all sheets in a spreadsheet.
+Search Rows: Returns results matching the given criteria.
+Search Rows (Advanced): Returns results matching the given criteria. This module doesn't return a row number.","Perform a Function: Receives data passed to the function MAKE_FUNCTION or INTEGROMAT used in a sheet. Sheets Add-On required.
+Watch Changes: Triggers when a cell is updated. Watches only changes made in Google Sheet app. Sheets Add-On required.
+Watch New Rows: Triggers when a new row is added.",
+2,Communication,Gmail,"Connect Gmail with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like Gmail to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\google-email.md,"Copy an Email: Copies an email or a draft into a selected folder.
+Create a Draft: Creates a new draft and adds it to a selected folder.
+Delete an Email: Removes an email or a draft from a selected folder.
+Mark an Email as Read: Marks an email or a draft in a selected directory as read by setting the ""Read"" flag.
+Mark an Email as Unread: Marks an email or draft in a selected directory as unread by setting the ""Unread"" flag.
+Modify Email Labels: Modifies labels on the specified email message.
+Move an Email: Moves a chosen email or a draft to a selected folder.
+Send an Email: Sends a new email.",,Watch Emails: Triggers when a new email is received to be processed according to specified criteria.,Iterate Attachments: Iterates through received attachments.
+3,It-Development,Airtable,"Connect Airtable with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like Airtable to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\airtable.md,"Create a Record: Creates a new record in Airtable.
+Delete a Record: Deletes a record by its ID.
+Get a Record: Retrieves a single record by its ID.
+Make an API Call: Performs an arbitrary authorized API call.
+Update a Record: Updates a record by its ID.
+Upsert a Record: Creates new or updates an existing record.",Search Records: Searches for specific records or returns all records.,"Watch Records: Returns all newly created or updated records in a view (requires ""Created Time"" or ""Last Modified Time"" fields).
+Watch Responses: Triggers when a new response is submitted.",
+4,It-Development,"OpenAI (ChatGPT, Whisper, DALL-E)","Connect OpenAI (ChatGPT, Whisper, DALL-E) with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like OpenAI (ChatGPT, Whisper, DALL-E) to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\openai-gpt-3.md,"Add Files to a Vector Store: Adds files to a specified vector store or, if not specified, creates a new vector store based on the configuration.
+Analyze Images (Vision): Analyzes images according to specified instructions.
+Create a Completion (GPT-3, GPT-3.5, GPT-4): Creates a completion for a prompt or chat.
+Create a Moderation: Classifies if text violates OpenAI's Content Policy.
+Create a Transcription (Whisper): Transcribes an audio to text.
+Create a Translation (Whisper): Translates an audio to English.
+Edit an Image: Edits or extends an image.
+Generate an Audio: Generates an audio file based on text input and settings.
+Generate an Image: Generates an image using DALL-E. 
+Make an API Call: Performs an arbitrary authorized API call.
+Message an Assistant: Adds messages to the specified or newly created thread and runs it. The module allows to send the arguments for your function calls to the specified URLs.
+Transform Text to Structured Data: Identifies information in a prompt's text and returns it as structured data.
+Upload a File: Uploads a file to be used across the OpenAI platform.",,,
+5,File-Document-Management,Google Drive,"Connect Google Drive with any of your favorite apps in just a few clicks. Design, build, and automate anything for your work by integrating apps like Google Drive to create visual automated workflows. Choose from thousands of ready-made apps or use our no-code toolkit to connect to apps not yet in our library.",docs\google-drive.md,"Copy a File: Makes a copy of an existing file.
+Create a File/Folder Shortcut: Creates a new file or folder shortcut.
+Create a File from Text: Creates a file from a text plain.
+Create a Folder: Creates a new folder.
+Create a Shared Drive: Creates a new shared drive.
+Delete a File/Folder: Permanently deletes a file or folder owned by the user without moving it to the trash. 
+Delete a File Revision: Deletes a file's revision.
+Delete a Shared Drive: Deletes a shared drive without any content.
+Download a File: Downloads a file.
+Get a File/Folder Path for an ID: Retrieves a file or folder path for an ID.
+Get a File Revision: Gets a specified file's revision.
+Get a Shared Drive: Gets a shared drive's metadata by ID.
+Get a Share Link: Gets a share link for file or folder.
+Make an API Call: Performs an arbitrary authorized API call.
+Move a File/Folder: Moves a file or folder to a different location in Google Drive.
+Move a File/Folder to Trash: Moves a file or folder to trash.
+Rename a Folder: Renames an existing folder.
+Revoke a File/Folder Access: Revokes a file or folder access.
+Update a File: Updates a file's metadata and/or content.
+Update a File/Folder Access: Updates an exisitng file or folder access.
+Update a File Revision: Updates an existing file's revision.
+Update a Shared Drive: Updates an existing shared drive. For admins only.
+Upload a File: Uploads a new file.","Get a Folder ID for a Path: Retrieves a folder ID for a folder path.
+List File Revisions: Retrieves a list of file's revisions.
+Search for Files/Folders: Searches for files or folders based on search criteria.
+Search for Shared Drives: Searches for Google Shared Drives with query options.","Watch All Files: Triggers when a file is created of modified.
+Watch Comments: Triggers when a comment is created or updated on a selected file.
+Watch Files in a Folder: Triggers when a file is created or modified in a selected folder.
+Watch Folders: Triggers when a new folder is created or modified.
+Watch Shared Drives: Triggers when a new shared drive is created.",

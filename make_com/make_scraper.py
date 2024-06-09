@@ -4,7 +4,8 @@ import requests
 import json
 import pandas as pd
 import time
-from markdownify import markdownify as md
+from markdownify import markdownify
+import os
 
 
 class MakeScraper:
@@ -12,13 +13,16 @@ class MakeScraper:
     def __init__(self):
         self.final = []
         self.cols_to_keep = ['Rank', 'Category', 'Name', 'Description', 'Readme']
+        self.docs_dir = 'docs'
+        if not os.path.exists(self.docs_dir):
+            os.mkdir(self.docs_dir)
         
     
-    def main(self):
+    def main(self, csv_name):
+        
         self.fetch_all_plugin_ranked()
         self.process_response()
-        self.export_data()
-        
+        self.export_data(csv_name)
         
     def fetch_all_plugin_ranked(self):
         
@@ -30,7 +34,6 @@ class MakeScraper:
             'referer': 'https://www.make.com/en/integrations?community=1&verified=1',
             'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
         }
-
         params = {
             'name': '',
             'limit': '3000', # high limit to get all plugins
@@ -59,7 +62,6 @@ class MakeScraper:
         self.link()
         self.plugin_page_data()
         self.docs()
-        
         
     def rank(self):
         self.df['Rank'] = self.df.index + 1
@@ -127,7 +129,6 @@ class MakeScraper:
             '_rdt_uuid': '1716808366676.355e1e32-bf41-4c7d-87c5-36507b532296',
             'poptin_session': 'true',
         }
-
         headers = {
             'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
             'accept-language': 'en-US,en;q=0.9,ar;q=0.8',
@@ -204,7 +205,6 @@ class MakeScraper:
                 result[final_key] = formatted
                 if final_key not in self.cols_to_keep:
                     self.cols_to_keep.append(final_key)
-                
         return result
     
     def docs(self):
@@ -220,13 +220,21 @@ class MakeScraper:
         
         resp = session.get(doc_url)
         soup = BeautifulSoup(resp.text, 'lxml')
-        doc = soup.find('section', class_="section") or soup.find('section', class_="section original-topic") 
-        markdown = md(str(doc)) if doc is not None else "Docs not found"
-        return markdown
-    
-    def export_data(self):
+        doc = soup.find('section', class_="section")
         
-        self.df.to_csv('Plugins_1.csv', index=False, columns=self.cols_to_keep)    
+        if doc is not None:
+            markdown = markdownify(str(doc))
+            plugin_name = doc_url.split('/')[-1]
+            doc_filepath = os.path.join(self.docs_dir, f"{plugin_name}.md")
+            with open(doc_filepath, 'w', encoding='utf-8') as f:
+                f.write(markdown)
+        else: 
+            doc_filepath = "Docs not found"
+        return doc_filepath
+    
+    def export_data(self, csv_name: str):
+
+        self.df.to_csv(csv_name, index=False, columns=self.cols_to_keep)
 
     def ranking(self):
         
@@ -235,9 +243,6 @@ class MakeScraper:
         https://www.make.com/en/integrations?community=1&verified=1
         """
         url = "https://www.make.com/en/integrations?community=1&verified=1"
-
-
-
         """        
         - Category: Categories (separated by a comma) where the plugin can be found (e.g., Google Sheet plugin found in "Productivity" https://www.make.com/en/integrations/category/productivity?community=1&verified=1)
         - Plugin Name: Name of the plugin
@@ -251,4 +256,4 @@ class MakeScraper:
 
 if __name__ == "__main__":
     scraper = MakeScraper()
-    scraper.main()
+    scraper.main('Plugins_2.csv')
