@@ -44,3 +44,14 @@ ls = list(elem.stripped_strings)
 or
 ls = [txt for txt in elem.stripped_strings]
 
+######### Matching attribute that "contains" ########
+
+To find an element whose attr (A) contains the string (aaa) we use A*.
+
+Ex:
+.show-grid [class*="span"]
+It's an attribute wildcard selector. In the sample you've given, it looks for any child element under .show-grid that has a class that CONTAINS span.
+
+another:
+soup.select('div.Layout-sc-1xcs6mc-0.ivrFkx div[data-a-target*=live]')
+selects all divs who are children of the parent div; with data-a-target CONTAINS "live"
