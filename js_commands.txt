@@ -13,3 +13,14 @@ elem = driver.find_element(By.CLASS, 'Any-class')
 
 Scroll down:
 elem.send_keys(Keys.PAGE_DOWN)
+
+Smooth Scrolling:
+page.evaluate("""
+let items=document.querySelectorAll('.tw-tower>div');
+items[items.length-1].scrollIntoView({behavior: "smooth", block: "end", inline: "end"});
+""")
+
+This is playwright "evaluate" method that executes js. It's more human-like scrolling that's more likely to trigger loading more content upon infinite scrolling pages.
+Breakdown:
+items = css query selection
+then scrolls to last item
