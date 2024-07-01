@@ -3,10 +3,8 @@ import requests
 import json
 
 
-url = "https://www.instagram.com/leomessi/?hl=en"
-
-class InstaScraper:
-    '''Scrape data from about instgram accounts. Expects a list of urls or single url.\n
+class InstaProfile:
+    '''Scrape general data about instgram accounts. Expects a single profile url.\n
     
     Typical use:\n
     : Construct an <InstaScraper> obj from url: insta = InstaScraper(url=url)\n
@@ -14,18 +12,10 @@ class InstaScraper:
     - General profile data: insta.export_profile_data_json(): general info like name, 
     bio, bio urls, followers, following, etc..\n
     
-    
-    
     '''
-    INSTA_GRAPH_API = "https://www.instagram.com/graphql/query/?query_hash=<>&variables=<>"
     
-    def __init__(self, urls):
-        if isinstance(urls, str):    # Since all the logic of the class works on lists
-            self.urls = [urls]
-        elif isinstance(urls, (list, set, tuple)):
-            self.urls = urls
-        else:
-            raise Exception("Unsupported DataType passed! Expects either str, list, dict, tuple or set.")
+    def __init__(self, url):
+        self.url = url
     
     def construct_profile_api_url(self, url):
         '''Construct api url from the username in the link passed by user
@@ -47,50 +37,92 @@ class InstaScraper:
         'x-asbd-id': '129477',
         'x-ig-app-id': '936619743392459',
         }
-
-        for url in self.urls:
-            url = self.construct_profile_api_url(url)
-            response = requests.get(url, headers=headers)
-            if response.status_code != 200:
-                raise Exception(f"HTTP status code {response.status_code}. Request Failed!")
-            else:
-                print(f'Successful request: {url}')
+        api_url = self.construct_profile_api_url(self.url)
+        response = requests.get(api_url, headers=headers)
+        if response.status_code != 200:
+            raise Exception(f"HTTP status code {response.status_code}. Request Failed!")
+        else:
+            print(f'Successful request: {url}')
             
-            yield response.json()['data']['user']
+        return response.json()['data']['user']
         
     def parse_profile_data(self):
         '''Parse profile general data returned by api into more organized form
         '''
 
-        for data in self.request_profile_api():
-            result = jmespath.search(                
-                '''{
-                name: full_name,
-                username: username,
-                bio: biography,
-                bio_links: bio_links[].url,
-                category: category_name,
-                followers: edge_followed_by.count,
-                follows: edge_follow.count,
-                posts: edge_owner_to_timeline_media.count,
-                profile_pic_url: profile_pic_url_hd,
-                private: is_private,
-                verified: is_verified,
-                business_account: is_business_account,
-                joined_recently: is_joined_recently
-                }''', data)
-            yield result
+        data = self.request_profile_api()
+        result = jmespath.search(
+            """{
+            name: full_name,
+            username: username,
+            id: id,
+            category: category_name,
+            business_category: business_category_name,
+            phone: business_phone_number,
+            email: business_email,
+            bio: biography,
+            bio_links: bio_links[].url,
+            homepage: external_url,        
+            followers: edge_followed_by.count,
+            follows: edge_follow.count,
+            facebook_id: fbid,
+            is_private: is_private,
+            is_verified: is_verified,
+            profile_image: profile_pic_url_hd,
+            video_count: edge_felix_video_timeline.count,
+            videos: edge_felix_video_timeline.edges[].node.{
+                id: id, 
+                title: title,
+                shortcode: shortcode,
+                thumb: display_url,
+                url: video_url,
+                views: video_view_count,
+                tagged: edge_media_to_tagged_user.edges[].node.user.username,
+                captions: edge_media_to_caption.edges[].node.text,
+                comments_count: edge_media_to_comment.count,
+                comments_disabled: comments_disabled,
+                taken_at: taken_at_timestamp,
+                likes: edge_liked_by.count,
+                location: location.name,
+                duration: video_duration
+            },
+            image_count: edge_owner_to_timeline_media.count,
+            images: edge_felix_video_timeline.edges[].node.{
+                id: id, 
+                title: title,
+                shortcode: shortcode,
+                src: display_url,
+                url: video_url,
+                views: video_view_count,
+                tagged: edge_media_to_tagged_user.edges[].node.user.username,
+                captions: edge_media_to_caption.edges[].node.text,
+                comments_count: edge_media_to_comment.count,
+                comments_disabled: comments_disabled,
+                taken_at: taken_at_timestamp,
+                likes: edge_liked_by.count,
+                location: location.name,
+                accesibility_caption: accessibility_caption,
+                duration: video_duration
+            },
+            saved_count: edge_saved_media.count,
+            collections_count: edge_saved_media.count,
+            related_profiles: edge_related_profiles.edges[].node.username
+            }""", data)
+        return result
 
     def export_profile_data_json(self):
         '''Export instgram profile general data as json file
         '''
         
-        for result in self.parse_profile_data():
-            username = result['username']
-            print(f"Exporting to {username}.json")
-            with open(f"{username}.json", 'w') as j:
-                json.dump(result, j)
+        result = self.parse_profile_data()
+        username = result['username']
+        print(f"Exporting to {username}.json")
+        with open(f"{username}.json", 'w') as j:
+            json.dump(result, j, indent=2)
 
 
-insta = InstaScraper(url)
+url = "https://www.instagram.com/leomessi/?hl=en"
+url = "https://www.instagram.com/cristiano/?hl=en"
+
+insta = InstaProfile(url)
 insta.export_profile_data_json()
