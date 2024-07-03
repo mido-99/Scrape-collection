@@ -21,7 +21,7 @@ class InstaPost:
             "shortcode": shortcode,  # post shortcode (from URL)
             "child_comment_count": 20,  
             "fetch_comment_count": 100,
-            "parent_comment_count": 24,
+            "parent_comment_count": 30,
             "has_threaded_comments": True
             }
         headers = {
@@ -46,7 +46,7 @@ class InstaPost:
                 id: id,
                 shortcode: shortcode,
                 dimentions: dimentions,
-                url: display_url,
+                url: shortcode,
                 src_attached: edge_sidecar_to_children.edges[].node.display_url,
                 has_audio: has_audio,
                 video_url: video_url,
@@ -86,8 +86,8 @@ class InstaPost:
         
         result = self.scrape_post()
         print(f"Exporting to {self.shortcode}.json")
-        with open(f"{self.shortcode}.json", 'w') as j:
-            json.dump(result, j, indent=2)
+        with open(f"{self.shortcode}.json", 'w', encoding='utf-8') as j:
+            json.dump(result, j, indent=2, ensure_ascii=False)
 
 
 post_url = "https://www.instagram.com/p/C8djxnMiM9P/?hl=en&img_index=1"
