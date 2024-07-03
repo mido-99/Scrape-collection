@@ -79,6 +79,7 @@ class InstaPost:
                     }
                 }
                 }''', data)
+        parsed_data['url'] = f"https://instagram.com/p/{parsed_data['url']}/?hl=en"
         return parsed_data
     
     def export_data_json(self):
@@ -88,7 +89,6 @@ class InstaPost:
         with open(f"{self.shortcode}.json", 'w') as j:
             json.dump(result, j, indent=2)
 
-    
 
 post_url = "https://www.instagram.com/p/C8djxnMiM9P/?hl=en&img_index=1"
 insta = InstaPost(post_url)
