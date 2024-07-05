@@ -4,28 +4,44 @@ import json
 
 
 class InstaProfile:
-    '''Scrape general data about instgram accounts. Expects a single profile url.\n
-    
-    Typical use:\n
-    : Construct an <InstaScraper> obj from url: insta = InstaScraper(url=url)\n
-    Available data for export:\n
-    - General profile data: insta.export_profile_data_json(): general info like name, 
-    bio, bio urls, followers, following, etc..\n
-    
+    '''Scrape instagram accounts data. This class has 2 main uses: 
+    - To get main profile data
+    - Data about all user posts
+    ## Usage:
+    ### Profile data
+    - Construct an <InstaProfile> obj from url:\n
+    insta = InstaProfile(https://www.instagram.com/world_record_egg)\n
+    (It accepts instagram usernames too)\n
+    - Get profile data like bio & bio links, followers & following, number
+    & more..:\n
+    data = insta.get_profile()
+    - Export general profile data 
+    insta.export_profile_data_json(data)
+
     '''
     
     def __init__(self, url):
-        self.url = url
+        self.url = url if 'https' in url else f"https://www.instagram.com/{url}"
     
-    def construct_profile_api_url(self, url):
+    def get_profile(self):
+        ''' Scrape an instagram profile, returns useful data like: \n
+        id, bio links, business or not, follow & followers numbers, & more..
+        '''
+        
+        profile_api = self._construct_profile_api_url(self.url)
+        user_data = self._request_profile_api(profile_api)
+        parsed_data = self._parse_profile_data(user_data)
+        return parsed_data
+
+    def _construct_profile_api_url(self, url):
         '''Construct api url from the username in the link passed by user
         '''
 
         username = url.split('/')[3]
-        api_url = f"https://www.instagram.com/api/v1/users/web_profile_info/?username={username}&hl=en"
-        return api_url
+        profile_api = f"https://www.instagram.com/api/v1/users/web_profile_info/?username={username}&hl=en"
+        return profile_api
 
-    def request_profile_api(self):
+    def _request_profile_api(self, profile_api):
         '''Sends requests to instgram endpoint api that sends us back all data\n
         Returns a generator for each url's data
         '''
@@ -38,8 +54,7 @@ class InstaProfile:
         'x-ig-app-id': '936619743392459',
         'cookie': '''csrftoken=cpBvgDRGLIQ4j3RgScGvH24w9R6cQffX; ds_user_id=18519728814; ps_n=1; ps_l=1; mid=Zl0FuQALAAHWLneH1O51KnPmZbQO; ig_did=8F185B9B-0018-4D2C-9C8B-5861E8826960; dpr=0.8640000224113464; datr=fid7ZoVfi9JAdPRsF4AUt5H9; shbid="19508\05418519728814\0541751227322:01f71e1583bc74deb0cf35aadeef14cbf22516af31cc981c85d6a595394c0fc9c9797cbb"; shbts="1719691322\05418519728814\0541751227322:01f797a9ebf1355c2fe47a789c2fca5f528433508e5c351bbb67dc69bcb3920b918ea3d3"; sessionid=18519728814%3A8CptQEBMl6lstb%3A29%3AAYfPHfaU0TD5O2F2otwE2BteTZDIh3lS8N5qbid1QQ; rur="RVA\05418519728814\0541751409798:01f7914db0d124d7da5a7af3e8dbeca4c2fc69e72380836ba0862459726e5ae2d6f8640f"; wd=1582x268'''
         }
-        api_url = self.construct_profile_api_url(self.url)
-        response = requests.get(api_url, headers=headers)
+        response = requests.get(profile_api, headers=headers)
         if response.status_code != 200:
             raise Exception(f"HTTP status code {response.status_code}. Request Failed!")
         else:
@@ -47,11 +62,10 @@ class InstaProfile:
             
         return response.json()['data']['user']
         
-    def parse_profile_data(self):
+    def _parse_profile_data(self, user_data):
         '''Parse profile general data returned by api into more organized form
         '''
 
-        data = self.request_profile_api()
         result = jmespath.search(
             """{
             name: full_name,
@@ -108,22 +122,26 @@ class InstaProfile:
             saved_count: edge_saved_media.count,
             collections_count: edge_saved_media.count,
             related_profiles: edge_related_profiles.edges[].node.username
-            }""", data)
+            }""", user_data)
         return result
 
-    def export_profile_data_json(self):
-        '''Export instgram profile general data as json file
+    def export_profile_data_json(self, profile_data):
+        '''Export instgram profile data into json file.\n
+        Expects the data in format returned by this class method: get_profile()
         '''
         
-        result = self.parse_profile_data()
-        username = result['username']
+        username = profile_data['username']
         print(f"Exporting to {username}.json")
         with open(f"{username}.json", 'w') as j:
-            json.dump(result, j, indent=2)
+            json.dump(profile_data, j, indent=2)
 
 
-url = "https://www.instagram.com/leomessi/?hl=en"
-url = "https://www.instagram.com/cristiano/?hl=en"
+if __name__ == '__main__':
+    
+    url = "https://www.instagram.com/leomessi/?hl=en"
+    url = "https://www.instagram.com/cristiano/?hl=en"
+    url = "https://www.instagram.com/world_record_egg"
 
-insta = InstaProfile(url)
-insta.export_profile_data_json()
+    insta = InstaProfile(url)
+    data = insta.get_profile()
+    insta.export_profile_data_json(data)
