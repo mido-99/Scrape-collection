@@ -22,23 +22,24 @@ class InstaProfile:
     
     def __init__(self, url):
         self.url = url if 'https' in url else f"https://www.instagram.com/{url}"
+        self.username = self.url.split('/')[3]
+        
     
     def get_profile(self):
         ''' Scrape an instagram profile, returns useful data like: \n
         id, bio links, business or not, follow & followers numbers, & more..
         '''
         
-        profile_api = self._construct_profile_api_url(self.url)
+        profile_api = self._construct_profile_api_url()
         user_data = self._request_profile_api(profile_api)
         parsed_data = self._parse_profile_data(user_data)
         return parsed_data
 
-    def _construct_profile_api_url(self, url):
+    def _construct_profile_api_url(self):
         '''Construct api url from the username in the link passed by user
         '''
 
-        username = url.split('/')[3]
-        profile_api = f"https://www.instagram.com/api/v1/users/web_profile_info/?username={username}&hl=en"
+        profile_api = f"https://www.instagram.com/api/v1/users/web_profile_info/?username={self.username}&hl=en"
         return profile_api
 
     def _request_profile_api(self, profile_api):
@@ -123,16 +124,20 @@ class InstaProfile:
             collections_count: edge_saved_media.count,
             related_profiles: edge_related_profiles.edges[].node.username
             }""", user_data)
+        self.set_user_id(result)    
         return result
+    
+    def set_user_id(self, parsed_data):
+        '''Fetche user id (instagram internal id)'''
+        self.id = parsed_data['id']
 
     def export_profile_data_json(self, profile_data):
         '''Export instgram profile data into json file.\n
         Expects the data in format returned by this class method: get_profile()
         '''
         
-        username = profile_data['username']
-        print(f"Exporting to {username}.json")
-        with open(f"{username}.json", 'w') as j:
+        print(f"Exporting to {self.username}.json")
+        with open(f"{self.username}.json", 'w') as j:
             json.dump(profile_data, j, indent=2)
 
 
