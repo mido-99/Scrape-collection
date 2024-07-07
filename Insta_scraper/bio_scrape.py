@@ -140,20 +140,20 @@ class InstaProfile:
         with open(f"{self.username}.json", 'w') as j:
             json.dump(profile_data, j, indent=2)
     
-    def get_all_posts(self, username, session, max_pages: int =1, page_size = 12):
+    def get_all_posts(self, max_pages: int =1, page_size = 12):
         
-        username = username or self.username
-        with requests.Session as session:
+        all_posts = []
+        with requests.Session() as session:
             session.headers.update(self.headers)
 
             _page_num = 1
-            while _page_num >= max_pages:
+            while _page_num <= max_pages:
                 # Variables for each posts page
                 variables = {'data': {'count': page_size,
                     'include_relationship_info': True,
                     'latest_besties_reel_media': True,
                     'latest_reel_media': True},
-                    'username': username,
+                    'username': self.username,
                     '__relay_internal__pv__PolarisFeedShareMenurelayprovider': False
                 }
                 data = {
@@ -161,20 +161,21 @@ class InstaProfile:
                     'doc_id': '8721952884485930',
                 }
                 resp_json = self._request_all_posts_graphql(session, data=data)
-                # Handle posts
-                posts = resp_json['data']['xdt_api__v1__feed__user_timeline_graphql_connection']['edges']
-                print(f'Scraping {len(posts)} posts on page: {_page_num}')
-                
 
+                # Handle posts
+                posts = resp_json['edges']
+                print(f'Scraping {len(posts)} posts on page: {_page_num}')
+                all_posts.extend(self._parse_post(post) for post in posts)
+                
                 # Handle pagination
                 if not resp_json['page_info']['has_next_page']:
                     break
                 variables['data']['after'] = resp_json['page_info']['end_cursor']
-                
                 _page_num += 1
+        return all_posts
     
     def _request_all_posts_graphql(self, session, data):
-        
+
         response = session.post('https://www.instagram.com/graphql/query', headers=self.headers, data=data)
         if response.status_code != 200:
             raise Exception(f"HTTP status code {response.status_code}. Request Failed!")        
@@ -182,8 +183,37 @@ class InstaProfile:
     
     def _parse_post(self, post):
         
+        parsed_data = jmespath.search('''
+            node.{
+                id: id,
+                url: code,
+                caption: caption.{
+                    text: text,
+                    created_at: created_at,
+                    has_translation: has_translation,
+                    edited: caption_is_edited
+                },
+                media_type: media_type,
+                image: image_versions2.candidates[0].url
+                video: video_versions[0].url,
+                is_paid: is_paid_partnership,
+                sponsors: sponsor_tags,
+                dimensions: [original_height, original_width],
+                comment_count: comment_count,
+                comments_disabled: comments_disabled,
+                like_count: like_count,
+                top_likers: top_likers,
+                has_audio: has_audio
+            }''', post)
+        parsed_data['url'] = f"https://instagram.com/p/{parsed_data['url']}/?hl=en"
+        parsed_data['media_type'] = 'video' if parsed_data['media_type'] == 2 else 'image'
+        return parsed_data
     
+    def export_user_posts_json(self, posts):
 
+        print(f"Exporting to {self.username}_posts.json")
+        with open(f'{self.username}_posts.json', 'w', encoding='utf-8') as f:
+            json.dump(posts, f, indent=2, ensure_ascii=False)
 
 
 if __name__ == '__main__':
@@ -193,5 +223,10 @@ if __name__ == '__main__':
     url = "https://www.instagram.com/world_record_egg"
 
     insta = InstaProfile(url)
-    data = insta.get_profile()
-    insta.export_profile_data_json(data)
+    # User Profile
+    # data = insta.get_profile()
+    # insta.export_profile_data_json(data)
+    
+    # All User Posts
+    posts = insta.get_all_posts(2, 14)
+    insta.export_user_posts_json(posts)
