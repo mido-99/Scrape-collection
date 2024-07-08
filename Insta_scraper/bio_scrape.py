@@ -1,23 +1,34 @@
 import jmespath
 import requests
 import json
+from dotenv import get_variable
 
 
 class InstaProfile:
     '''Scrape instagram accounts data. This class has 2 main uses: 
     - To get main profile data
     - Data about all user posts
-    ## Usage:
-    ### Profile data
+    # Usage:
     - Construct an <InstaProfile> obj from url:\n
-    insta = InstaProfile(https://www.instagram.com/world_record_egg)\n
-    (It accepts instagram usernames too)\n
-    - Get profile data like bio & bio links, followers & following, number
+    (It accepts an instagram username too)\n
+    ```
+    insta = InstaProfile(https://www.instagram.com/world_record_egg)
+    ```
+    ### Profile data
+    - Get profile data like bio text & bio links, followers & following, number
     & more..:\n
+    - Export data into .json\n
+    ```
     data = insta.get_profile()
-    - Export general profile data 
     insta.export_profile_data_json(data)
-
+    ```
+    ### All user's posts
+    - Get general data about all user's posts like caption, likes, comment count, image or video url if present.\n
+    - Export data into .json\n
+    ``` 
+    posts = insta.get_all_posts(2, 14)
+    insta.export_user_posts_json(posts)
+    ```
     '''
     headers = {
         'accept': '*/*',
@@ -25,7 +36,7 @@ class InstaProfile:
         'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
         'x-asbd-id': '129477',
         'x-ig-app-id': '936619743392459',
-        'cookie': '''csrftoken=cpBvgDRGLIQ4j3RgScGvH24w9R6cQffX; ds_user_id=18519728814; ps_n=1; ps_l=1; mid=Zl0FuQALAAHWLneH1O51KnPmZbQO; ig_did=8F185B9B-0018-4D2C-9C8B-5861E8826960; dpr=0.8640000224113464; datr=fid7ZoVfi9JAdPRsF4AUt5H9; shbid="19508\05418519728814\0541751227322:01f71e1583bc74deb0cf35aadeef14cbf22516af31cc981c85d6a595394c0fc9c9797cbb"; shbts="1719691322\05418519728814\0541751227322:01f797a9ebf1355c2fe47a789c2fca5f528433508e5c351bbb67dc69bcb3920b918ea3d3"; sessionid=18519728814%3A8CptQEBMl6lstb%3A29%3AAYfPHfaU0TD5O2F2otwE2BteTZDIh3lS8N5qbid1QQ; rur="RVA\05418519728814\0541751409798:01f7914db0d124d7da5a7af3e8dbeca4c2fc69e72380836ba0862459726e5ae2d6f8640f"; wd=1582x268'''
+        'cookie': get_variable('.env', 'cookie')
         }
 
     def __init__(self, url):
@@ -137,8 +148,8 @@ class InstaProfile:
         '''
         
         print(f"Exporting to {self.username}.json")
-        with open(f"{self.username}.json", 'w') as j:
-            json.dump(profile_data, j, indent=2)
+        with open(f"{self.username}.json", 'w') as f:
+            json.dump(profile_data, f, indent=2, ensure_ascii=False)
     
     def get_all_posts(self, max_pages: int =1, page_size = 12):
         
