@@ -2,6 +2,7 @@ import jmespath
 import requests
 import json
 from dotenv import get_variable
+from urllib.parse import quote
 
 
 class InstaProfile:
@@ -151,73 +152,147 @@ class InstaProfile:
         with open(f"{self.username}.json", 'w') as f:
             json.dump(profile_data, f, indent=2, ensure_ascii=False)
     
-    def get_all_posts(self, max_pages: int =1, page_size = 12):
+    #! Better more data-rice API is used in a method with same name below
+    # def get_all_posts(self, max_pages: int =1, page_size = 12):
         
+    #     all_posts = []
+    #     with requests.Session() as session:
+    #         session.headers.update(self.headers)
+
+    #         _page_num = 1
+    #         while _page_num <= max_pages:
+    #             # Variables for each posts page
+    #             variables = {'data': {'count': page_size,
+    #                 'include_relationship_info': True,
+    #                 'latest_besties_reel_media': True,
+    #                 'latest_reel_media': True},
+    #                 'username': self.username,
+    #                 '__relay_internal__pv__PolarisFeedShareMenurelayprovider': False
+    #             }
+    #             data = {
+    #                 'variables': json.dumps(variables),
+    #                 'doc_id': '8721952884485930',
+    #             }
+    #             resp_json = self._request_all_posts_graphql(session, data=data)
+
+    #             # Handle posts
+    #             posts = resp_json['edges']
+    #             print(f'Scraping {len(posts)} posts on page: {_page_num}')
+    #             all_posts.extend(self._parse_post(post) for post in posts)
+                
+    #             # Handle pagination
+    #             if not resp_json['page_info']['has_next_page']:
+    #                 break
+    #             variables['data']['after'] = resp_json['page_info']['end_cursor']
+    #             _page_num += 1
+    #     return all_posts
+    
+    # def _request_all_posts_graphql(self, session, data):
+
+    #     response = session.post('https://www.instagram.com/graphql/query', headers=self.headers, data=data)
+    #     if response.status_code != 200:
+    #         raise Exception(f"HTTP status code {response.status_code}. Request Failed!")        
+    #     return response.json()['data']['xdt_api__v1__feed__user_timeline_graphql_connection']
+    
+    # def _parse_post(self, post):
+        
+    #     parsed_data = jmespath.search('''
+    #         node.{
+    #             id: id,
+    #             url: code,
+    #             caption: caption.{
+    #                 text: text,
+    #                 created_at: created_at,
+    #                 has_translation: has_translation,
+    #                 edited: caption_is_edited
+    #             },
+    #             media_type: media_type,
+    #             image: image_versions2.candidates[0].url
+    #             video: video_versions[0].url,
+    #             is_paid: is_paid_partnership,
+    #             sponsors: sponsor_tags,
+    #             dimensions: [original_height, original_width],
+    #             comment_count: comment_count,
+    #             comments_disabled: comments_disabled,
+    #             like_count: like_count,
+    #             top_likers: top_likers,
+    #             has_audio: has_audio
+    #         }''', post)
+    #     parsed_data['url'] = f"https://instagram.com/p/{parsed_data['url']}/?hl=en"
+    #     parsed_data['media_type'] = 'video' if parsed_data['media_type'] == 2 else 'image'
+    #     return parsed_data
+    
+    def get_all_posts(self, max_pages: int =1, page_size = 12):
+        headers = {
+            'accept': '*/*',
+            'accept-language': 'en-US,en;q=0.9,ar;q=0.8',
+            'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+            'x-asbd-id': '129477',
+            'x-ig-app-id': '936619743392459',
+        }
         all_posts = []
         with requests.Session() as session:
-            session.headers.update(self.headers)
+            session.headers.update(headers)
 
             _page_num = 1
             while _page_num <= max_pages:
-                # Variables for each posts page
-                variables = {'data': {'count': page_size,
-                    'include_relationship_info': True,
-                    'latest_besties_reel_media': True,
-                    'latest_reel_media': True},
-                    'username': self.username,
-                    '__relay_internal__pv__PolarisFeedShareMenurelayprovider': False
+                # Variables for each posts page & Send request
+                variables = {
+                    "id": "1067259270",
+                    "first": 12,
+                    "after": None
                 }
-                data = {
-                    'variables': json.dumps(variables),
-                    'doc_id': '8721952884485930',
-                }
-                resp_json = self._request_all_posts_graphql(session, data=data)
-
+                endpoint = self._prepare_endpoint(variables)
+                resp = session.get(endpoint)
+                data = resp.json()['data']['user']['edge_owner_to_timeline_media']
+                
                 # Handle posts
-                posts = resp_json['edges']
+                posts = data['edges']
                 print(f'Scraping {len(posts)} posts on page: {_page_num}')
                 all_posts.extend(self._parse_post(post) for post in posts)
                 
                 # Handle pagination
-                if not resp_json['page_info']['has_next_page']:
+                if not data['page_info']['has_next_page']:
                     break
-                variables['data']['after'] = resp_json['page_info']['end_cursor']
+                variables['after'] = data['page_info']['end_cursor']
                 _page_num += 1
         return all_posts
     
-    def _request_all_posts_graphql(self, session, data):
+    def _prepare_endpoint(self, variables):
+        '''Return an api endpoint for posts data with passed variables'''
+        
+        json_str = json.dumps(variables)
+        return f"https://www.instagram.com/graphql/query/?query_hash=e769aa130647d2354c40ea6a439bfc08&variables={quote(json_str)}"
 
-        response = session.post('https://www.instagram.com/graphql/query', headers=self.headers, data=data)
-        if response.status_code != 200:
-            raise Exception(f"HTTP status code {response.status_code}. Request Failed!")        
-        return response.json()['data']['xdt_api__v1__feed__user_timeline_graphql_connection']
-    
     def _parse_post(self, post):
         
-        parsed_data = jmespath.search('''
-            node.{
+        parsed_data = jmespath.search("""node.{
+            id: id,
+            shortcode: shortcode,
+            url: shortcode,
+            dimensions: dimensions,
+            src: display_url,
+            is_video: is_video,
+            video_url: video_url,
+            views: video_view_count,
+            likes: edge_media_preview_like.count,
+            taken_at: taken_at_timestamp,        
+            tagged_users: edge_media_to_tagged_user.edges[].node.user.username,
+            captions: edge_media_to_caption.edges[].node.text,
+            comments_disabled: comments_disabled,
+            comments_count: edge_media_to_comment.count,
+            comments_next_page: edge_media_to_comment.page_info.end_cursor,
+            comments: edge_media_to_comment.edges[].node.{
                 id: id,
-                url: code,
-                caption: caption.{
-                    text: text,
-                    created_at: created_at,
-                    has_translation: has_translation,
-                    edited: caption_is_edited
-                },
-                media_type: media_type,
-                image: image_versions2.candidates[0].url
-                video: video_versions[0].url,
-                is_paid: is_paid_partnership,
-                sponsors: sponsor_tags,
-                dimensions: [original_height, original_width],
-                comment_count: comment_count,
-                comments_disabled: comments_disabled,
-                like_count: like_count,
-                top_likers: top_likers,
-                has_audio: has_audio
-            }''', post)
+                text: text,
+                created_at: created_at,
+                owner: owner.username,
+                owner_verified: owner.is_verified,
+                viewer_has_liked: viewer_has_liked
+            }
+        }""", post)
+        
         parsed_data['url'] = f"https://instagram.com/p/{parsed_data['url']}/?hl=en"
-        parsed_data['media_type'] = 'video' if parsed_data['media_type'] == 2 else 'image'
         return parsed_data
     
     def export_user_posts_json(self, posts):
