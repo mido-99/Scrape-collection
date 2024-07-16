@@ -75,7 +75,7 @@ class InstaProfile:
             
         return response.json()['data']['user']
         
-    def _parse_profile_data(self, user_data):
+    def _parse_profile_data(self, profile_data):
         '''Parse profile general data returned by api into more organized form
         '''
 
@@ -135,13 +135,13 @@ class InstaProfile:
             saved_count: edge_saved_media.count,
             collections_count: edge_saved_media.count,
             related_profiles: edge_related_profiles.edges[].node.username
-            }""", user_data)
-        self._set_user_id(result)    
+            }""", profile_data)
+        self._set_user_id(result)
         return result
     
     def _set_user_id(self, parsed_data):
         '''Fetche user id (instagram internal id)'''
-        self.id = parsed_data['id']
+        self.user_id = parsed_data['id']
 
     def export_profile_data_json(self, profile_data):
         '''Export instgram profile data into json file.\n
@@ -223,6 +223,8 @@ class InstaProfile:
     #     return parsed_data
     
     def get_all_posts(self, max_pages: int =1, page_size = 12):
+
+        all_posts = []
         headers = {
             'accept': '*/*',
             'accept-language': 'en-US,en;q=0.9,ar;q=0.8',
@@ -230,18 +232,14 @@ class InstaProfile:
             'x-asbd-id': '129477',
             'x-ig-app-id': '936619743392459',
         }
-        all_posts = []
+        # Variables for each posts page
+        variables = self._set_variables()
         with requests.Session() as session:
             session.headers.update(headers)
 
             _page_num = 1
             while _page_num <= max_pages:
-                # Variables for each posts page & Send request
-                variables = {
-                    "id": "1067259270",
-                    "first": 12,
-                    "after": None
-                }
+                # Send requests for each page
                 endpoint = self._prepare_endpoint(variables)
                 resp = session.get(endpoint)
                 data = resp.json()['data']['user']['edge_owner_to_timeline_media']
@@ -263,6 +261,17 @@ class InstaProfile:
         
         json_str = json.dumps(variables)
         return f"https://www.instagram.com/graphql/query/?query_hash=e769aa130647d2354c40ea6a439bfc08&variables={quote(json_str)}"
+
+    def _set_variables(self):
+        
+        profile_data = self.get_profile()
+        self._parse_profile_data(profile_data)
+        variables = {
+            "id": self.user_id,
+            "first": 12,
+            "after": None
+        }
+        return variables
 
     def _parse_post(self, post):
         
@@ -306,7 +315,7 @@ if __name__ == '__main__':
     
     url = "https://www.instagram.com/leomessi/?hl=en"
     url = "https://www.instagram.com/cristiano/?hl=en"
-    url = "https://www.instagram.com/world_record_egg"
+    # url = "https://www.instagram.com/world_record_egg"
 
     insta = InstaProfile(url)
     # User Profile
