@@ -233,7 +233,7 @@ class InstaProfile:
             'x-ig-app-id': '936619743392459',
         }
         # Variables for each posts page
-        variables = self._set_variables()
+        variables = self._set_variables(page_size)
         with requests.Session() as session:
             session.headers.update(headers)
 
@@ -262,13 +262,13 @@ class InstaProfile:
         json_str = json.dumps(variables)
         return f"https://www.instagram.com/graphql/query/?query_hash=e769aa130647d2354c40ea6a439bfc08&variables={quote(json_str)}"
 
-    def _set_variables(self):
+    def _set_variables(self, page_size: int):
         
         profile_data = self.get_profile()
         self._parse_profile_data(profile_data)
         variables = {
             "id": self.user_id,
-            "first": 12,
+            "first": page_size,
             "after": None
         }
         return variables
@@ -323,5 +323,5 @@ if __name__ == '__main__':
     # insta.export_profile_data_json(data)
     
     # All User Posts
-    posts = insta.get_all_posts(2, 14)
+    posts = insta.get_all_posts(3, 30)
     insta.export_user_posts_json(posts)
