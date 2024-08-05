@@ -155,7 +155,8 @@ class UserTweets:
         return all_tweets
 
     def _parse_user_tweets(self, tweets):
-        
+        '''Parse json data with tweets'''
+
         parsed_tweets = jmespath.search('''
             [].content.itemContent.tweet_results.result.{
                 id: legacy.id_str,
@@ -183,11 +184,19 @@ class UserTweets:
         return parsed_tweets
     
     def export_tweets_json(self, tweets: Dict, fileName: str=''):
-
+        '''Export parsed tweets into json files'''
+        
+        # Incrementally add int to filename end
         if not fileName:
             fileName = f"{self.username}_tweets.json"
+        i = 0
+        while os.path.exists(fileName):
+            i += 1
+            fileName = f'{self.username}_tweets_{i}.json'
+
         with open(fileName, 'w', encoding='utf-8') as f:
             json.dump(tweets, f, ensure_ascii=False, indent=2)
+            print(f"Tweets exprted to {fileName}")
 
 
 user = UserTweets('https://x.com/Scrapfly_dev')
