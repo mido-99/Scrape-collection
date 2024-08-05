@@ -2,6 +2,7 @@ import requests
 import json
 import jmespath
 from dotenv import get_variable
+from typing import Dict
 
 
 COOKIES = get_variable('.env', 'COOKIES')
@@ -159,14 +160,42 @@ class UserTweets:
     def _parse_user_tweets(self, tweets):
         
         parsed_tweets = jmespath.search('''
-                                [].content.itemContent.tweet_results.result.legacy.full_text
-                            ''', tweets)
+            [].content.itemContent.tweet_results.result.{
+                id: legacy.id_str,
+                conversation_id: legacy.conversation_id_str,
+                url: legacy.entities.media[].expanded_url,
+                created: legacy.created_at,
+                views: views.count,
+                has_translate: is_translatable,
+                bookmark_count: legacy.bookmark_count,
+                favorite_count: legacy.favorite_count,
+                tagged_hashtags: legacy.entities.hashtags[].text,
+                tagged_users: legacy.entities.user_mentions,
+                text: legacy.full_text,
+                reply_count: legacy.reply_count,
+                is_quote: legacy.is_quote_status,
+                quote_count: legacy.quote_count,
+                is_retweet: legacy.retweeted,
+                retweet_count: legacy.retweet_count,
+                language: legacy.lang,
+                user_id: legacy.user_id_str,
+                media_type: legacy.entities.media[].type,
+                attached_media: legacy.entities.media[].media_url_https
+            }
+            ''', tweets)
         return parsed_tweets
+    
+    def export_tweets_json(self, tweets: Dict, fileName: str=''):
+
+        if not fileName:
+            fileName = f"{self.username}_tweets.json"
+        with open(fileName, 'w', encoding='utf-8') as f:
+            json.dump(tweets, f, ensure_ascii=False, indent=2)
 
 
 user = UserTweets('https://x.com/Scrapfly_dev')
 # print(user.get_tweets())
 # print(user.get_profile_data())
 # print(user.get_user_id())
-for idx, tweet in enumerate(user.get_tweets(30), 1):
-    print(idx, ': ', tweet)
+tweets = user.get_tweets(10)
+user.export_tweets_json(tweets)
