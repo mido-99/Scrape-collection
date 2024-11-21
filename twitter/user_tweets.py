@@ -91,8 +91,9 @@ class UserTweets:
         return self.profile_data['user_id']
 
     def get_tweets(self, number: int = 1):
-        
-        self.user_id = self.get_user_id()
+        """Get all user tweets, parse it for the data of interest to be nicely formatted"""
+
+        self.user_id = self.get_user_id()   # internal x id used for REST api
         headers = {
             'accept': '*/*',
             'accept-language': 'en-US,en;q=0.9,ar;q=0.8',
@@ -126,12 +127,13 @@ class UserTweets:
         
         all_tweets = []
         with httpx.Client(headers= headers) as client:
-            for page in range(number // 20 + 1):
+            for page in range(number // 20 + 1):    # As each page returned by api contains roughly 20 tweets (+1 as minimum 1 page)
                 params = {
                     'variables': json.dumps(variables),
                     'features': '{"rweb_tipjar_consumption_enabled":true,"responsive_web_graphql_exclude_directive_enabled":true,"verified_phone_label_enabled":false,"creator_subscriptions_tweet_preview_api_enabled":true,"responsive_web_graphql_timeline_navigation_enabled":true,"responsive_web_graphql_skip_user_profile_image_extensions_enabled":false,"communities_web_enable_tweet_community_results_fetch":true,"c9s_tweet_anatomy_moderator_badge_enabled":true,"articles_preview_enabled":true,"responsive_web_edit_tweet_api_enabled":true,"graphql_is_translatable_rweb_tweet_is_translatable_enabled":true,"view_counts_everywhere_api_enabled":true,"longform_notetweets_consumption_enabled":true,"responsive_web_twitter_article_tweet_consumption_enabled":true,"tweet_awards_web_tipping_enabled":false,"creator_subscriptions_quote_tweet_preview_enabled":false,"freedom_of_speech_not_reach_fetch_enabled":true,"standardized_nudges_misinfo":true,"tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled":true,"rweb_video_timestamps_enabled":true,"longform_notetweets_rich_text_read_enabled":true,"longform_notetweets_inline_media_enabled":true,"responsive_web_enhance_cards_enabled":false}',
                     'fieldToggles': '{"withArticlePlainText":false}',
                 }
+                # Update params each page
                 query_params = httpx.QueryParams(params)
                 query_params = query_params.merge(query_params)
                 response = client.get(
@@ -143,14 +145,14 @@ class UserTweets:
                     return None
                 if page == 0 :
                     tweets = response.json()['data']['user']['result']['timeline_v2']['timeline']['instructions'][1]['entries']
-                else:
+                else:   #First page only has tweets in index 1, then 0
                     tweets = response.json()['data']['user']['result']['timeline_v2']['timeline']['instructions'][0]['entries']
                 parsed = self._parse_user_tweets(tweets)
                 all_tweets.extend(parsed)
 
                 # Pagination
                 print(f"{len(tweets)-2} Tweets on Page {page+1}...")
-                cursor_bottom = tweets[-1]['content']['value']
+                cursor_bottom = tweets[-1]['content']['value']  # bottom-cursor is always in last entry
                 variables['cursor'] = cursor_bottom
         return all_tweets
 
@@ -185,7 +187,7 @@ class UserTweets:
     
     def export_tweets_json(self, tweets: Dict, fileName: str=''):
         '''Export parsed tweets into json files'''
-        
+
         # Incrementally add int to filename end
         if not fileName:
             fileName = f"{self.username}_tweets.json"
@@ -198,10 +200,10 @@ class UserTweets:
             json.dump(tweets, f, ensure_ascii=False, indent=2)
             print(f"Tweets exprted to {fileName}")
 
-
-user = UserTweets('https://x.com/Scrapfly_dev')
-# print(user.get_tweets())
-# print(user.get_profile_data())
-# print(user.get_user_id())
-tweets = user.get_tweets(20)
-user.export_tweets_json(tweets)
+if __name__ == "__main__":
+    user = UserTweets('https://x.com/Scrapfly_dev')
+    # print(user.get_tweets())
+    # print(user.get_profile_data())
+    # print(user.get_user_id())
+    tweets = user.get_tweets(20)
+    user.export_tweets_json(tweets)
