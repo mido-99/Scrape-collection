@@ -1,557 +1,564 @@
-address,price,beds,baths,area,link,
-"1114 Melrose Ave, Roseville, CA 95678",525000,3,2,1328,https://www.zillow.com//homedetails/1114-Melrose-Ave-Roseville-CA-95678/17656163_zpid/,
-"327 McKelvy Ave, Clovis, CA",495000,-,-,-,"https://www.zillow.com//b/building/36.82021,-119.69247_ll/",
-"1747 N Hughes Ave, Clovis, CA 93619",609000,4,3,2721,https://www.zillow.com//homedetails/1747-N-Hughes-Ave-Clovis-CA-93619/68989682_zpid/,
-"200 S Dolliver St SPACE 292, Pismo Beach, CA 93449",109950,1,1,600,https://www.zillow.com//homedetails/200-S-Dolliver-St-SPACE-292-Pismo-Beach-CA-93449/2053090597_zpid/,
-"114 San Fernando Ave, Morro Bay, CA 93442",490000,2,2,968,https://www.zillow.com//homedetails/114-San-Fernando-Ave-Morro-Bay-CA-93442/2053121433_zpid/,
-"4700 Sonoma Hwy, Santa Rosa, CA 95409",2875000,3,10,1350,https://www.zillow.com//homedetails/4700-Sonoma-Hwy-Santa-Rosa-CA-95409/2110952806_zpid/,
-"1867 Old Mammoth Rd, Mammoth Lakes, CA 93546",998999,3,2,1360,https://www.zillow.com//homedetails/1867-Old-Mammoth-Rd-Mammoth-Lakes-CA-93546/19228022_zpid/,
-"415 N Akers St SPACE 65, Visalia, CA 93291",154000,3,2,1680,https://www.zillow.com//homedetails/415-N-Akers-St-SPACE-65-Visalia-CA-93291/16306538_zpid/,
-"30400 Simpson Ln, Fort Bragg, CA 95437",925000,3,2,1488,https://www.zillow.com//homedetails/30400-Simpson-Ln-Fort-Bragg-CA-95437/2053111424_zpid/,
-"5201 Dunsmuir Rd APT 30, Bakersfield, CA 93309",220000,2,2,1080,https://www.zillow.com//homedetails/5201-Dunsmuir-Rd-APT-30-Bakersfield-CA-93309/18983082_zpid/,
-"200 S Dolliver St SPACE 162, Pismo Beach, CA 93449",235000,1,1,399,https://www.zillow.com//homedetails/200-S-Dolliver-St-SPACE-162-Pismo-Beach-CA-93449/2057660575_zpid/,
-"4859 Owens Creek Rd, Catheys Valley, CA 95306",589000,2,2,1365,https://www.zillow.com//homedetails/4859-Owens-Creek-Rd-Catheys-Valley-CA-95306/70398933_zpid/,
-"1050 Highlands Park Dr, Ceres, CA 95307",400000,3,2,1374,https://www.zillow.com//homedetails/1050-Highlands-Park-Dr-Ceres-CA-95307/16065946_zpid/,
-"25484 N Lower Sacramento Rd, Acampo, CA 95220",367644,5,6,2898,https://www.zillow.com//homedetails/25484-N-Lower-Sacramento-Rd-Acampo-CA-95220/15254676_zpid/,
-"68 Bear Ave, Potter Valley, CA 95469",149999,2,2,900,https://www.zillow.com//homedetails/68-Bear-Ave-Potter-Valley-CA-95469/2054606098_zpid/,
-"1186 Sequoia Ave, Tulare, CA 93274",449500,3,3,1845,https://www.zillow.com//homedetails/1186-Sequoia-Ave-Tulare-CA-93274/16273072_zpid/,
-"22244 Jerusalem Grade, Middletown, CA 95461",444444,3,2,1700,https://www.zillow.com//homedetails/22244-Jerusalem-Grade-Middletown-CA-95461/19102316_zpid/,
-"21164 Thompson Canyon Rd, Caliente, CA 93518",100000,3,3,1344,https://www.zillow.com//homedetails/21164-Thompson-Canyon-Rd-Caliente-CA-93518/2062974499_zpid/,
-"3433 Cambria Ave, Madera, CA",415000,-,-,-,"https://www.zillow.com//b/building/36.920265,-120.19552_ll/",
-"323 Murphys Grade Rd, Angels Camp, CA 95222",499500,3,2,1977,https://www.zillow.com//homedetails/323-Murphys-Grade-Rd-Angels-Camp-CA-95222/52449905_zpid/,
-"490 Mindoro St, Morro Bay, CA 93442",1265000,4,3,1824,https://www.zillow.com//homedetails/490-Mindoro-St-Morro-Bay-CA-93442/15440140_zpid/,
-"26721 Airport Ct, Manteca, CA 95337",295000,2,3,1444,https://www.zillow.com//homedetails/26721-Airport-Ct-Manteca-CA-95337/129891783_zpid/,
-"570 N Birch Ave, Reedley, CA 93654",317000,2,1,1518,https://www.zillow.com//homedetails/570-N-Birch-Ave-Reedley-CA-93654/18676736_zpid/,
-"1079 Gamay Dr, El Dorado Hills, CA 95762",999000,3,3,2763,https://www.zillow.com//homedetails/1079-Gamay-Dr-El-Dorado-Hills-CA-95762/61468874_zpid/,
-"344 W Kanai Ave, Porterville, CA 93257",335000,4,2,1446,https://www.zillow.com//homedetails/344-W-Kanai-Ave-Porterville-CA-93257/16290872_zpid/,
-"135 Hazel Ct, Soquel, CA 95073",1999000,4,5,3071,https://www.zillow.com//homedetails/135-Hazel-Ct-Soquel-CA-95073/16133813_zpid/,
-"18 Diablo Oaks Way, Lafayette, CA 94549",380000,-,0,-,https://www.zillow.com//homedetails/18-Diablo-Oaks-Way-Lafayette-CA-94549/61237677_zpid/,
-"929 N D St, Madera, CA 93638",250000,2,1,804,https://www.zillow.com//homedetails/929-N-D-St-Madera-CA-93638/19120173_zpid/,
-"2307 Oakdale Rd #80, Modesto, CA 95355",175555,3,2,1600,https://www.zillow.com//homedetails/2307-Oakdale-Rd-80-Modesto-CA-95355/187904756_zpid/,
-"7104 S Navelencia Ave, Reedley, CA 93654",349999,3,2,1125,https://www.zillow.com//homedetails/7104-S-Navelencia-Ave-Reedley-CA-93654/18678906_zpid/,
-"447 Oak Crest Pl, Pittsburg, CA 94565",749000,4,3,2052,https://www.zillow.com//homedetails/447-Oak-Crest-Pl-Pittsburg-CA-94565/50918023_zpid/,
-"3950 Mack Rd SPACE 191, Sacramento, CA 95823",135000,2,2,1440,https://www.zillow.com//homedetails/3950-Mack-Rd-SPACE-191-Sacramento-CA-95823/59390162_zpid/,
-"2218 Joan Ave, Lake Isabella, CA 93240",175500,3,3,1572,https://www.zillow.com//homedetails/2218-Joan-Ave-Lake-Isabella-CA-93240/18972996_zpid/,
-"90 Segura Dr, Oroville, CA",39500,-,-,-,"https://www.zillow.com//b/building/39.458225,-121.364716_ll/",
-"2950 Old Ford Rd, Paso Robles, CA 93446",1500000,3,3,1969,https://www.zillow.com//homedetails/2950-Old-Ford-Rd-Paso-Robles-CA-93446/15417338_zpid/,
-"673 Yolo Ct, San Jose, CA 95136",630000,2,2,912,https://www.zillow.com//homedetails/673-Yolo-Ct-San-Jose-CA-95136/19706511_zpid/,
-"2030 Blackbird St, Inyokern, CA 93527",125000,3,2,1680,https://www.zillow.com//homedetails/2030-Blackbird-St-Inyokern-CA-93527/18987544_zpid/,
-"17841 Rollins View Dr, Grass Valley, CA 95945",1399000,4,3,2537,https://www.zillow.com//homedetails/17841-Rollins-View-Dr-Grass-Valley-CA-95945/89468968_zpid/,
-"2117 Angler Ave, Lake Isabella, CA 93240",142500,2,2,640,https://www.zillow.com//homedetails/2117-Angler-Ave-Lake-Isabella-CA-93240/18973644_zpid/,
-"0 Wildwood Trl, Brownsville, CA 95919",135000,0,0,-,https://www.zillow.com//homedetails/0-Wildwood-Trl-Brownsville-CA-95919/2053233527_zpid/,
-"25440 Avenue 220, Lindsay, CA 93247",455000,3,2,2079,https://www.zillow.com//homedetails/25440-Avenue-220-Lindsay-CA-93247/16278911_zpid/,
-"2782 N Knoll Ave, Fresno, CA 93722",370000,3,2,1456,https://www.zillow.com//homedetails/2782-N-Knoll-Ave-Fresno-CA-93722/18736602_zpid/,
-"148 Kingsley Ave, Palo Alto, CA 94301",9299000,7,8,5806,https://www.zillow.com//homedetails/148-Kingsley-Ave-Palo-Alto-CA-94301/19496964_zpid/,
-"553 Almondcrest St, Oakdale, CA 95361",589900,4,3,2816,https://www.zillow.com//homedetails/553-Almondcrest-St-Oakdale-CA-95361/54680504_zpid/,
-"1740 N Hornet Ave, Clovis, CA 93619",669500,3,3,2278,https://www.zillow.com//homedetails/1740-N-Hornet-Ave-Clovis-CA-93619/249309184_zpid/,
-"23841 Avenue 26, Chowchilla, CA 93610",1495000,6,8,4140,https://www.zillow.com//homedetails/23841-Avenue-26-Chowchilla-CA-93610/205239531_zpid/,
-"305 E Empire St, San Jose, CA 95112",1498000,3,2,1920,https://www.zillow.com//homedetails/305-E-Empire-St-San-Jose-CA-95112/19568448_zpid/,
-"279 Sun Valley Ct, Ripon, CA 95366",760000,4,3,2113,https://www.zillow.com//homedetails/279-Sun-Valley-Ct-Ripon-CA-95366/15380943_zpid/,
-"3022 Vermeer Ct, El Dorado Hills, CA 95762",1599000,3,4,3025,https://www.zillow.com//homedetails/3022-Vermeer-Ct-El-Dorado-Hills-CA-95762/124737427_zpid/,
-"380 C St, Biggs, CA 95917",384900,3,1,1454,https://www.zillow.com//homedetails/380-C-St-Biggs-CA-95917/18212119_zpid/,
-"1086 S Filbert Rd, Exeter, CA 93221",299999,2,2,905,https://www.zillow.com//homedetails/1086-S-Filbert-Rd-Exeter-CA-93221/157732174_zpid/,
-"200 414th, Pismo Beach, CA",291000,-,-,-,"https://www.zillow.com//b/building/35.156364,-120.65951_ll/",
-"908 Cameron Cir, Milpitas, CA 95035",1799991,4,3,2304,https://www.zillow.com//homedetails/908-Cameron-Cir-Milpitas-CA-95035/19480522_zpid/,
-"149 Lilienthal Ave, Napa, CA 94558",799900,2,1,1236,https://www.zillow.com//homedetails/149-Lilienthal-Ave-Napa-CA-94558/19394480_zpid/,
-"1647 Lombard St, San Francisco, CA 94123",2990000,5,4,3545,https://www.zillow.com//homedetails/1647-Lombard-St-San-Francisco-CA-94123/15071106_zpid/,
-"2226 N Price Ave, Fresno, CA 93703",325000,3,2,1374,https://www.zillow.com//homedetails/2226-N-Price-Ave-Fresno-CA-93703/18744333_zpid/,
-"4853 E Home Ave, Fresno, CA 93727",315000,4,2,1500,https://www.zillow.com//homedetails/4853-E-Home-Ave-Fresno-CA-93727/18751846_zpid/,
-"456 Cherry Ln #D-95337, Manteca, CA 95337",259950,2,1,-,https://www.zillow.com//homedetails/456-Cherry-Ln-D-95337-Manteca-CA-95337/2066348401_zpid/,
-"10240 Digger Pine Rd, Santa Margarita, CA 93453",920000,-,0,-,https://www.zillow.com//homedetails/10240-Digger-Pine-Rd-Santa-Margarita-CA-93453/147203352_zpid/,
-"12991 San Joaquin Ave, Clearlake, CA 95422",24500,0,0,-,https://www.zillow.com//homedetails/12991-San-Joaquin-Ave-Clearlake-CA-95422/112427169_zpid/,
-"1330 33rd Ave, San Francisco, CA 94122",1450000,3,2,1675,https://www.zillow.com//homedetails/1330-33rd-Ave-San-Francisco-CA-94122/15103509_zpid/,
-"Meadowgate Dr, Sacramento, CA 95823",699000,-,0,-,https://www.zillow.com//homedetails/Meadowgate-Dr-Sacramento-CA-95823/2082600640_zpid/,
-"1213 E Kennedy St, Madera, CA 93638",325000,3,2,1326,https://www.zillow.com//homedetails/1213-E-Kennedy-St-Madera-CA-93638/19121422_zpid/,
-"5809 & 5810 Orchard Lane, Forestville, CA 95436",1100000,6,4,-,https://www.zillow.com//homedetails/5809-5810-Orchard-Lane-Forestville-CA-95436/2055299569_zpid/,
-"5132 N Hawk St, Inyokern, CA 93527",295000,3,2,1344,https://www.zillow.com//homedetails/5132-N-Hawk-St-Inyokern-CA-93527/18910185_zpid/,
-"1053 Pomeroy Ave, Santa Clara, CA 95051",2100000,4,3,1783,https://www.zillow.com//homedetails/1053-Pomeroy-Ave-Santa-Clara-CA-95051/334416511_zpid/,
-"10035 Mills Station Rd SPACE 88, Sacramento, CA 95827",34500,2,1,500,https://www.zillow.com//homedetails/10035-Mills-Station-Rd-SPACE-88-Sacramento-CA-95827/2055591362_zpid/,
-"24522 Lowe St, Foresthill, CA 95631",380000,1,1,793,https://www.zillow.com//homedetails/24522-Lowe-St-Foresthill-CA-95631/17649246_zpid/,
-"111 Espee Ave, Richmond, CA 94801",550000,7,3,4500,https://www.zillow.com//homedetails/111-Espee-Ave-Richmond-CA-94801/2053611266_zpid/,
-"107070 Cedar Canyon Rd, Cima, CA 92323",350000,3,2,1816,https://www.zillow.com//homedetails/107070-Cedar-Canyon-Rd-Cima-CA-92323/17487854_zpid/,
-"170 Troon Way #16, Half Moon Bay, CA 94019",789000,2,2,1095,https://www.zillow.com//homedetails/170-Troon-Way-16-Half-Moon-Bay-CA-94019/15639640_zpid/,
-"1095 59th St APT 2, Oakland, CA 94608",699000,1,1,994,https://www.zillow.com//homedetails/1095-59th-St-APT-2-Oakland-CA-94608/89031934_zpid/,
-"17020 Camden Dr, Madera, CA 93638",379000,3,2,1176,https://www.zillow.com//homedetails/17020-Camden-Dr-Madera-CA-93638/19132500_zpid/,
-"2322 Shady Ln, Yuba City, CA 95991",389000,3,2,1360,https://www.zillow.com//homedetails/2322-Shady-Ln-Yuba-City-CA-95991/16090945_zpid/,
-"8612 Ironwood Ave, California City, CA 93505",300000,3,2,1618,https://www.zillow.com//homedetails/8612-Ironwood-Ave-California-City-CA-93505/81863439_zpid/,
-"1701 Dinuba Ave SPACE 81, Selma, CA 93662",137500,2,2,1900,https://www.zillow.com//homedetails/1701-Dinuba-Ave-SPACE-81-Selma-CA-93662/18804838_zpid/,
-"10493 Boren Bega Dr, Kelseyville, CA 95451",12888,-,0,-,https://www.zillow.com//homedetails/10493-Boren-Bega-Dr-Kelseyville-CA-95451/111371179_zpid/,
-"57665 Road 225, North Fork, CA 93643",795000,9,3,2856,https://www.zillow.com//homedetails/57665-Road-225-North-Fork-CA-93643/19145641_zpid/,
-"1359 Macgregor Ave, Bishop, CA 93514",135000,2,1,940,https://www.zillow.com//homedetails/1359-Macgregor-Ave-Bishop-CA-93514/18877673_zpid/,
-"706 N Trout Lake Dr, Sanger, CA 93657",699999,3,3,2875,https://www.zillow.com//homedetails/706-N-Trout-Lake-Dr-Sanger-CA-93657/18667392_zpid/,
-"32880 Sycamore Rd, Tollhouse, CA 93667",350000,-,0,-,https://www.zillow.com//homedetails/32880-Sycamore-Rd-Tollhouse-CA-93667/2054125474_zpid/,
-"209 Highland Ave, Randsburg, CA 93554",20000,2,0,696,https://www.zillow.com//homedetails/209-Highland-Ave-Randsburg-CA-93554/81863226_zpid/,
-"20572 Deerhaven Dr, Tuolumne, CA 95379",419000,4,2,2700,https://www.zillow.com//homedetails/20572-Deerhaven-Dr-Tuolumne-CA-95379/16203947_zpid/,
-"8800 Wagon Wheel Way, Lower Lake, CA 95457",150000,2,1,800,https://www.zillow.com//homedetails/8800-Wagon-Wheel-Way-Lower-Lake-CA-95457/19099482_zpid/,
-"1205 Trinity Ave, Seaside, CA 93955",895000,3,2,900,https://www.zillow.com//homedetails/1205-Trinity-Ave-Seaside-CA-93955/19338094_zpid/,
-"4368 Easy Bird Way, Wilseyville, CA 95257",649900,2,2,3000,https://www.zillow.com//homedetails/4368-Easy-Bird-Way-Wilseyville-CA-95257/2053611857_zpid/,
-"1409 Victorian Aly #1409, Sacramento, CA 95818",1099000,4,4,1686,https://www.zillow.com//homedetails/1409-Victorian-Aly-1409-Sacramento-CA-95818/2058267594_zpid/,
-"1200 Shattuck Ave, Bakersfield, CA 93305",325000,3,2,1823,https://www.zillow.com//homedetails/1200-Shattuck-Ave-Bakersfield-CA-93305/18892787_zpid/,
-"17906 Cull Canyon Rd, Castro Valley, CA 94552",1795000,3,3,2249,https://www.zillow.com//homedetails/17906-Cull-Canyon-Rd-Castro-Valley-CA-94552/2053589258_zpid/,
-"1 108th St, California City, CA 93505",4495,-,0,-,https://www.zillow.com//homedetails/1-108th-St-California-City-CA-93505/2068583662_zpid/,
-"531 D St, San Rafael, CA 94901",1695000,4,3,2425,https://www.zillow.com//homedetails/531-D-St-San-Rafael-CA-94901/80733612_zpid/,
-"40812 Oakwoods Ln #106, Shaver Lake, CA 93664",329000,2,1,835,https://www.zillow.com//homedetails/40812-Oakwoods-Ln-106-Shaver-Lake-CA-93664/2078508389_zpid/,
-"16520 Creekside Dr, Sonora, CA 95370",350000,3,2,1200,https://www.zillow.com//homedetails/16520-Creekside-Dr-Sonora-CA-95370/16202110_zpid/,
-"9784 Camanche Pkwy S, Wallace, CA 95252",390000,2,2,1612,https://www.zillow.com//homedetails/9784-Camanche-Pkwy-S-Wallace-CA-95252/52448126_zpid/,
-"842 Tarragon Ln, San Luis Obispo, CA 93401",750000,2,3,1785,https://www.zillow.com//homedetails/842-Tarragon-Ln-San-Luis-Obispo-CA-93401/112770349_zpid/,
-"26814 S Mooney Blvd, Visalia, CA 93277",60000,3,2,1248,https://www.zillow.com//homedetails/26814-S-Mooney-Blvd-Visalia-CA-93277/241539100_zpid/,
-"5350 Dunlay Dr, Sacramento, CA 95835",345000,2,1,1160,https://www.zillow.com//homedetails/5350-Dunlay-Dr-Sacramento-CA-95835/2070069093_zpid/,
-"1545 Viscaino Rd, Pebble Beach, CA 93953",5250000,4,4,3495,https://www.zillow.com//homedetails/1545-Viscaino-Rd-Pebble-Beach-CA-93953/19330647_zpid/,
-"812 W Clover Rd SPACE 51, Tracy, CA 95376",199000,2,2,1350,https://www.zillow.com//homedetails/812-W-Clover-Rd-SPACE-51-Tracy-CA-95376/249476391_zpid/,
-"2000 N Villa Ave, Palermo, CA 95968",329000,3,2,990,https://www.zillow.com//homedetails/2000-N-Villa-Ave-Palermo-CA-95968/2053367330_zpid/,
-"10479 Boren Bega Dr, Kelseyville, CA 95451",12888,-,-,-,https://www.zillow.com//homedetails/10479-Boren-Bega-Dr-Kelseyville-CA-95451/95045532_zpid/,
-"1033 Johnson St, Monterey, CA 93940",1200000,3,2,1400,https://www.zillow.com//homedetails/1033-Johnson-St-Monterey-CA-93940/136712269_zpid/,
-"5 Arriba Dr, Aromas, CA 95004",999000,5,2,2200,https://www.zillow.com//homedetails/5-Arriba-Dr-Aromas-CA-95004/15052530_zpid/,
-"10819 Gold Hill Dr, Grass Valley, CA 95945",640000,3,2,1500,https://www.zillow.com//homedetails/10819-Gold-Hill-Dr-Grass-Valley-CA-95945/19429944_zpid/,
-"2255 Buckeye Dr, Willits, CA 95490",349999,3,2,1250,https://www.zillow.com//homedetails/2255-Buckeye-Dr-Willits-CA-95490/19212934_zpid/,
-"4840 Cascade Way, Kelseyville, CA 95451",12888,-,0,-,https://www.zillow.com//homedetails/4840-Cascade-Way-Kelseyville-CA-95451/112380421_zpid/,
-"2933 Lakeview Dr, Nice, CA 95464",12888,-,0,-,https://www.zillow.com//homedetails/2933-Lakeview-Dr-Nice-CA-95464/112388286_zpid/,
-"7036 Butte St, Nice, CA 95464",28888,-,0,-,https://www.zillow.com//homedetails/7036-Butte-St-Nice-CA-95464/112394305_zpid/,
-"3254 Lee St, Nice, CA 95464",18888,-,0,-,https://www.zillow.com//homedetails/3254-Lee-St-Nice-CA-95464/109169718_zpid/,
-"1209 N D St, Madera, CA 93638",329999,4,2,1409,https://www.zillow.com//homedetails/1209-N-D-St-Madera-CA-93638/19120400_zpid/,
-"3076 Riviera Heights Dr, Kelseyville, CA 95451",16888,0,0,-,https://www.zillow.com//homedetails/3076-Riviera-Heights-Dr-Kelseyville-CA-95451/112411070_zpid/,
-"2923 Lakeview Dr, Nice, CA 95464",12888,0,0,-,https://www.zillow.com//homedetails/2923-Lakeview-Dr-Nice-CA-95464/112428468_zpid/,
-"4609 Via Terreno, Modesto, CA 95357",490000,2,2,1900,https://www.zillow.com//homedetails/4609-Via-Terreno-Modesto-CA-95357/53154267_zpid/,
-"775 Teton Ln, Tracy, CA 95376",710000,3,2.5,1436,https://www.zillow.com//homedetails/775-Teton-Ln-Tracy-CA-95376/15373992_zpid/,
-"1805 S M St, Bakersfield, CA 93304",699500,4,2.5,3657,https://www.zillow.com//homedetails/1805-S-M-St-Bakersfield-CA-93304/82396866_zpid/,
-"875 J St, Lathrop, CA 95330",170000,0,0,-,https://www.zillow.com//homedetails/875-J-St-Lathrop-CA-95330/129826903_zpid/,
-"12594 Lakeview Dr, Clearlake Oaks, CA 95423",11888,-,0,-,https://www.zillow.com//homedetails/12594-Lakeview-Dr-Clearlake-Oaks-CA-95423/112426588_zpid/,
-"19195 Pesante Rd, Salinas, CA 93907",1300000,4,4,3600,https://www.zillow.com//homedetails/19195-Pesante-Rd-Salinas-CA-93907/19361248_zpid/,
-"5830 Tudor Way, Loomis, CA 95650",510000,3,3,1432,https://www.zillow.com//homedetails/5830-Tudor-Way-Loomis-CA-95650/17674857_zpid/,
-"248 S Elm St, Pixley, CA 93256",500000,10,6,6000,https://www.zillow.com//homedetails/248-S-Elm-St-Pixley-CA-93256/2058837108_zpid/,
-"56341 Marina View Ct, Bass Lake, CA 93604",750000,3,2,6000,https://www.zillow.com//homedetails/56341-Marina-View-Ct-Bass-Lake-CA-93604/19144988_zpid/,
-"1295 Nogal Dr, Salinas, CA 93905",558000,3,3,1513,https://www.zillow.com//homedetails/1295-Nogal-Dr-Salinas-CA-93905/2093842620_zpid/,
-"10894 Northslope Dr, Kelseyville, CA 95451",14888,-,0,-,https://www.zillow.com//homedetails/10894-Northslope-Dr-Kelseyville-CA-95451/112421698_zpid/,
-"10691 Sunset Ridge Dr, Kelseyville, CA 95451",14888,0,0,-,https://www.zillow.com//homedetails/10691-Sunset-Ridge-Dr-Kelseyville-CA-95451/112422480_zpid/,
-"5657 Yuki Ct, Kelseyville, CA 95451",29888,-,0,-,https://www.zillow.com//homedetails/5657-Yuki-Ct-Kelseyville-CA-95451/112413393_zpid/,
-"1 Airway Blvd, California City, CA 93505",5995,-,0,-,https://www.zillow.com//homedetails/1-Airway-Blvd-California-City-CA-93505/2068623826_zpid/,
-"5355 Monterey Pl, Kelseyville, CA 95451",12888,-,0,-,https://www.zillow.com//homedetails/5355-Monterey-Pl-Kelseyville-CA-95451/112393424_zpid/,
-"3095 Marina Dr APT 6, Marina, CA 93933",590000,2,2,940,https://www.zillow.com//homedetails/3095-Marina-Dr-APT-6-Marina-CA-93933/19358039_zpid/,
-"3091 Riviera Heights Dr, Kelseyville, CA 95451",25888,-,0,-,https://www.zillow.com//homedetails/3091-Riviera-Heights-Dr-Kelseyville-CA-95451/112411844_zpid/,
-"8399 Thunderbird Cir, Truckee, CA 96161",2700000,4,4,3203,https://www.zillow.com//homedetails/8399-Thunderbird-Cir-Truckee-CA-96161/188130760_zpid/,
-"17000 Old Boy Scout Rd, Willits, CA",657000,-,-,-,"https://www.zillow.com//b/building/39.493656,-123.36826_ll/",
-"448 Loon Ct, Bodega Bay, CA 94923",450000,-,0,-,https://www.zillow.com//homedetails/448-Loon-Ct-Bodega-Bay-CA-94923/96058320_zpid/,
-"902 Mulberry St, Tehachapi, CA 93561",420000,3,2,1950,https://www.zillow.com//homedetails/902-Mulberry-St-Tehachapi-CA-93561/81865257_zpid/,
-"8304 Lake St, Lower Lake, CA 95457",295000,4,1.5,2113,https://www.zillow.com//homedetails/8304-Lake-St-Lower-Lake-CA-95457/19097053_zpid/,
-"4912 Skyway Dr, Fair Oaks, CA 95628",495000,2,2,1463,https://www.zillow.com//homedetails/4912-Skyway-Dr-Fair-Oaks-CA-95628/26054193_zpid/,
-"7241 E Butte St, Nice, CA 95464",14000,-,0,-,https://www.zillow.com//homedetails/7241-E-Butte-St-Nice-CA-95464/112425462_zpid/,
-"0 Rowsell Dr, Tehachapi, CA",60000,-,-,-,https://www.zillow.com//b/0-rowsell-dr-tehachapi-ca-BwWsDR/,
-"9719 Tenaya Way, Kelseyville, CA 95451",14888,-,0,-,https://www.zillow.com//homedetails/9719-Tenaya-Way-Kelseyville-CA-95451/112384075_zpid/,
-"19300 Eden Ct, Salinas, CA 93907",1325000,4,5,4610,https://www.zillow.com//homedetails/19300-Eden-Ct-Salinas-CA-93907/19361279_zpid/,
-"1345 W Tulare Ave, Visalia, CA 93277",308900,3,2,1289,https://www.zillow.com//homedetails/1345-W-Tulare-Ave-Visalia-CA-93277/16240234_zpid/,
-"2555 Leavenworth St APT 105, San Francisco, CA 94133",899000,1,1,670,https://www.zillow.com//homedetails/2555-Leavenworth-St-APT-105-San-Francisco-CA-94133/15063564_zpid/,
-"1029 San Luis Cir UNIT 638, Daly City, CA 94014",599000,1,1,655,https://www.zillow.com//homedetails/1029-San-Luis-Cir-UNIT-638-Daly-City-CA-94014/15625718_zpid/,
-"4837 Faith Home Rd SPACE 30, Ceres, CA 95307",130000,2,2,1460,https://www.zillow.com//homedetails/4837-Faith-Home-Rd-SPACE-30-Ceres-CA-95307/187901963_zpid/,
-"17100 Laurie Ln, Onyx, CA 93255",129900,3,2,1152,https://www.zillow.com//homedetails/17100-Laurie-Ln-Onyx-CA-93255/18980203_zpid/,
-"4625 Hawaina Way, Kelseyville, CA 95451",18888,-,0,-,https://www.zillow.com//homedetails/4625-Hawaina-Way-Kelseyville-CA-95451/112429105_zpid/,
-"1118 Fur Dr, Arnold, CA 95223",199000,1,1,676,https://www.zillow.com//homedetails/1118-Fur-Dr-Arnold-CA-95223/2054128777_zpid/,
-"1359 Macgregor Ave #1359, Bishop, CA 93514",135000,2,1,940,https://www.zillow.com//homedetails/1359-Macgregor-Ave-1359-Bishop-CA-93514/2055533002_zpid/,
-"0 Llano Rd, Atascadero, CA 93422",999000,-,0,-,https://www.zillow.com//homedetails/0-Llano-Rd-Atascadero-CA-93422/2082792035_zpid/,
-"10100 El Dorado Way, Kelseyville, CA 95451",11888,-,0,-,https://www.zillow.com//homedetails/10100-El-Dorado-Way-Kelseyville-CA-95451/112387978_zpid/,
-"14596 Road 192, Poplar, CA 93257",80000,1,1,391,https://www.zillow.com//homedetails/14596-Road-192-Poplar-CA-93257/16282834_zpid/,
-"4883 Iroquois Trl, Kelseyville, CA 95451",11888,-,0,-,https://www.zillow.com//homedetails/4883-Iroquois-Trl-Kelseyville-CA-95451/112395389_zpid/,
-"1719 Geary Rd, Walnut Creek, CA 94597",1035000,3,4,2697,https://www.zillow.com//homedetails/1719-Geary-Rd-Walnut-Creek-CA-94597/18408172_zpid/,
-"1080 Julie Ln #84, South Lake Tahoe, CA 96150",100000,1,1,384,https://www.zillow.com//homedetails/1080-Julie-Ln-84-South-Lake-Tahoe-CA-96150/2053347166_zpid/,
-"10161 El Capitan Way, Kelseyville, CA 95451",13888,0,0,-,https://www.zillow.com//homedetails/10161-El-Capitan-Way-Kelseyville-CA-95451/112379341_zpid/,
-"13185 Ridgewood Way, Chowchilla, CA 93610",899000,5,3,3366,https://www.zillow.com//homedetails/13185-Ridgewood-Way-Chowchilla-CA-93610/2060162244_zpid/,
-"665 Weymouth St, Cambria, CA 93428",129900,0,0,-,https://www.zillow.com//homedetails/665-Weymouth-St-Cambria-CA-93428/112777166_zpid/,
-"2410 Ronita Ln #6, Lake Isabella, CA 93240",50000,2,2,840,https://www.zillow.com//homedetails/2410-Ronita-Ln-6-Lake-Isabella-CA-93240/18973953_zpid/,
-"145 South St #C-2, San Luis Obispo, CA 93401",140000,1,1,400,https://www.zillow.com//homedetails/145-South-St-C-2-San-Luis-Obispo-CA-93401/2059484461_zpid/,
-"12867 Wildwood Rd, Wasco, CA 93280",290000,3,2,672,https://www.zillow.com//homedetails/12867-Wildwood-Rd-Wasco-CA-93280/18910401_zpid/,
-"3385 Ogden Rd, Lucerne, CA 95458",15888,-,0,-,https://www.zillow.com//homedetails/3385-Ogden-Rd-Lucerne-CA-95458/112414642_zpid/,
-"35 E Evans Rd #61, Wofford Heights, CA 93285",16500,2,1,980,https://www.zillow.com//homedetails/35-E-Evans-Rd-61-Wofford-Heights-CA-93285/18916047_zpid/,
-"102 Pistachio Ct, Chowchilla, CA 93610",400000,4,2,1200,https://www.zillow.com//homedetails/102-Pistachio-Ct-Chowchilla-CA-93610/59716868_zpid/,
-"80 Pickford Ave, San Jose, CA 95127",2100000,5,3,1811,https://www.zillow.com//homedetails/80-Pickford-Ave-San-Jose-CA-95127/19781333_zpid/,
-"9889 Emerald Dr, Kelseyville, CA 95451",13888,-,0,-,https://www.zillow.com//homedetails/9889-Emerald-Dr-Kelseyville-CA-95451/112419711_zpid/,
-"4710 Kah Bel Trl, Kelseyville, CA 95451",14888,-,0,-,https://www.zillow.com//homedetails/4710-Kah-Bel-Trl-Kelseyville-CA-95451/112415797_zpid/,
-"4615 Warm Springs Rd, Glen Ellen, CA 95442",420000,0,1,400,https://www.zillow.com//homedetails/4615-Warm-Springs-Rd-Glen-Ellen-CA-95442/15799253_zpid/,
-"5341 Monterey Pl, Kelseyville, CA 95451",13888,0,0,-,https://www.zillow.com//homedetails/5341-Monterey-Pl-Kelseyville-CA-95451/112388177_zpid/,
-"4231 Foothill Dr, Lucerne, CA 95458",14888,0,0,-,https://www.zillow.com//homedetails/4231-Foothill-Dr-Lucerne-CA-95458/112429370_zpid/,
-"829 N 6th Ave, Kingsburg, CA 93631",675000,3,2,1638,https://www.zillow.com//homedetails/829-N-6th-Ave-Kingsburg-CA-93631/95690928_zpid/,
-"4917 Iroquois Trl, Kelseyville, CA 95451",14888,-,0,-,https://www.zillow.com//homedetails/4917-Iroquois-Trl-Kelseyville-CA-95451/112409543_zpid/,
-"1683 Cressida St, Roseville, CA 95747",925000,4,3,3274,https://www.zillow.com//homedetails/1683-Cressida-St-Roseville-CA-95747/59369318_zpid/,
-"9155 Hoopa Dr, Kelseyville, CA 95451",16888,-,0,-,https://www.zillow.com//homedetails/9155-Hoopa-Dr-Kelseyville-CA-95451/112407889_zpid/,
-"1370 W Grand Ave SPACE 20, Grover Beach, CA 93433",115000,1,1,340,https://www.zillow.com//homedetails/1370-W-Grand-Ave-SPACE-20-Grover-Beach-CA-93433/2053895496_zpid/,
-"5309 Cass Ave, Clearlake, CA 95422",10000,-,0,-,https://www.zillow.com//homedetails/5309-Cass-Ave-Clearlake-CA-95422/95045320_zpid/,
-"2806 Pasadena St, Bakersfield, CA 93306",320000,3,2,1759,https://www.zillow.com//homedetails/2806-Pasadena-St-Bakersfield-CA-93306/18999491_zpid/,
-"9526 Fairway Dr, Kelseyville, CA 95451",15888,-,0,-,https://www.zillow.com//homedetails/9526-Fairway-Dr-Kelseyville-CA-95451/112398858_zpid/,
-"3080 Riviera Heights Dr, Kelseyville, CA 95451",16888,0,0,-,https://www.zillow.com//homedetails/3080-Riviera-Heights-Dr-Kelseyville-CA-95451/112384343_zpid/,
-"1116 Running Springs Rd APT 6, Walnut Creek, CA 94595",575000,2,1,1048,https://www.zillow.com//homedetails/1116-Running-Springs-Rd-APT-6-Walnut-Creek-CA-94595/18554090_zpid/,
-"18720 Palm Ave, Bakersfield, CA 93314",950000,3,5,600,https://www.zillow.com//homedetails/18720-Palm-Ave-Bakersfield-CA-93314/19012342_zpid/,
-"1435 W North Bear Creek Dr, Merced, CA 95348",398500,4,2,1750,https://www.zillow.com//homedetails/1435-W-North-Bear-Creek-Dr-Merced-CA-95348/2093794640_zpid/,
-"1009 Lake St, Bakersfield, CA 93305",339000,6,3,2250,https://www.zillow.com//homedetails/1009-Lake-St-Bakersfield-CA-93305/18889187_zpid/,
-"314 S Main St, Angels Camp, CA 95222",171500,3,2,1344,https://www.zillow.com//homedetails/314-S-Main-St-Angels-Camp-CA-95222/211785012_zpid/,
-"17454 Deer Hill Rd, Hidden Valley Lake, CA 95467",350000,6,5,3000,https://www.zillow.com//homedetails/17454-Deer-Hill-Rd-Hidden-Valley-Lake-CA-95467/19103887_zpid/,
-"4300 Rocklin Rd #154, Rocklin, CA 95677",319999,3,2,1409,https://www.zillow.com//homedetails/4300-Rocklin-Rd-154-Rocklin-CA-95677/2053994759_zpid/,
-"12630 Lakeview Dr, Clearlake Oaks, CA 95423",11888,-,0,-,https://www.zillow.com//homedetails/12630-Lakeview-Dr-Clearlake-Oaks-CA-95423/112403249_zpid/,
-"9474 Quartz St, Plymouth, CA 95669",320000,2,1,1168,https://www.zillow.com//homedetails/9474-Quartz-St-Plymouth-CA-95669/18200285_zpid/,
-"4696 Hawaina Way, Kelseyville, CA 95451",16888,-,0,-,https://www.zillow.com//homedetails/4696-Hawaina-Way-Kelseyville-CA-95451/112400264_zpid/,
-"14685 Oka Rd, Los Gatos, CA 95032",299000,2,2,1000,https://www.zillow.com//homedetails/14685-Oka-Rd-Los-Gatos-CA-95032/153356950_zpid/,
-"1343 W Morton Ave SPACE 99, Porterville, CA 93257",47000,2,2,1152,https://www.zillow.com//homedetails/1343-W-Morton-Ave-SPACE-99-Porterville-CA-93257/16307721_zpid/,
-"4355 Opal Cliff Dr, Santa Cruz, CA 95062",6300000,4,4,2303,https://www.zillow.com//homedetails/4355-Opal-Cliff-Dr-Santa-Cruz-CA-95062/16130229_zpid/,
-"237 Valley View Rd, Wofford Heights, CA 93285",200000,1,1,900,https://www.zillow.com//homedetails/237-Valley-View-Rd-Wofford-Heights-CA-93285/18915848_zpid/,
-"4696 Iroquois Trl, Kelseyville, CA 95451",12888,-,0,-,https://www.zillow.com//homedetails/4696-Iroquois-Trl-Kelseyville-CA-95451/112413100_zpid/,
-"5299 Tenino Way, Kelseyville, CA 95451",16888,-,0,-,https://www.zillow.com//homedetails/5299-Tenino-Way-Kelseyville-CA-95451/112377706_zpid/,
-"3415 Cesar Chavez, San Francisco, CA 94110",689000,1,2,1475,https://www.zillow.com//homedetails/3415-Cesar-Chavez-San-Francisco-CA-94110/2069864708_zpid/,
-"1500 Rio Verde Cir, Bay Point, CA 94565",999998,5,5,3612,https://www.zillow.com//homedetails/1500-Rio-Verde-Cir-Bay-Point-CA-94565/59399093_zpid/,
-"16719 Woodside Way, Sonora, CA 95370",16000,0,0,-,https://www.zillow.com//homedetails/16719-Woodside-Way-Sonora-CA-95370/111926563_zpid/,
-"28862 Highway 41, Coarsegold, CA 93614",789000,3,2,1900,https://www.zillow.com//homedetails/28862-Highway-41-Coarsegold-CA-93614/205248342_zpid/,
-"9865 Summer Glen Way, Elk Grove, CA 95757",775000,5,3,2493,https://www.zillow.com//homedetails/9865-Summer-Glen-Way-Elk-Grove-CA-95757/59375385_zpid/,
-"4871 E Norwich Ave, Fresno, CA 93726",520000,4,2,1354,https://www.zillow.com//homedetails/4871-E-Norwich-Ave-Fresno-CA-93726/18724332_zpid/,
-"0 Esther Ave, Campbell, CA",85000,-,-,-,"https://www.zillow.com//b/building/37.2801,-121.956665_ll/",
-"218 Ray St, Pleasanton, CA 94566",2488000,3,1,2917,https://www.zillow.com//homedetails/218-Ray-St-Pleasanton-CA-94566/299077618_zpid/,
-"4706 Kaweah Rd, Kelseyville, CA 95451",14888,-,0,-,https://www.zillow.com//homedetails/4706-Kaweah-Rd-Kelseyville-CA-95451/112399748_zpid/,
-"12631 Lakeview Dr, Clearlake Oaks, CA 95423",11888,0,0,-,https://www.zillow.com//homedetails/12631-Lakeview-Dr-Clearlake-Oaks-CA-95423/112413575_zpid/,
-"7143 Top Dr, Nice, CA 95464",18888,0,0,-,https://www.zillow.com//homedetails/7143-Top-Dr-Nice-CA-95464/112399600_zpid/,
-"0 Ernest Way, California City, CA 93505",3500,-,0,-,https://www.zillow.com//homedetails/0-Ernest-Way-California-City-CA-93505/2076567963_zpid/,
-"5248 Tenino Way, Kelseyville, CA 95451",25888,0,0,-,https://www.zillow.com//homedetails/5248-Tenino-Way-Kelseyville-CA-95451/112412438_zpid/,
-"10131 El Capitan Way, Kelseyville, CA 95451",12888,0,0,-,https://www.zillow.com//homedetails/10131-El-Capitan-Way-Kelseyville-CA-95451/112396949_zpid/,
-"12452 Laurel Way, Clearlake Oaks, CA 95423",15888,-,0,-,https://www.zillow.com//homedetails/12452-Laurel-Way-Clearlake-Oaks-CA-95423/112398501_zpid/,
-"910 G St, Marysville, CA 95901",550000,-,0,2039,https://www.zillow.com//homedetails/910-G-St-Marysville-CA-95901/16549886_zpid/,
-"7032 Butte St, Nice, CA 95464",29888,0,0,-,https://www.zillow.com//homedetails/7032-Butte-St-Nice-CA-95464/112387546_zpid/,
-"4965 Beckwourth Ct, Oroville, CA 95966",139900,-,0,-,https://www.zillow.com//homedetails/4965-Beckwourth-Ct-Oroville-CA-95966/95444823_zpid/,
-"4622 Kaweah Rd, Kelseyville, CA 95451",13888,-,0,-,https://www.zillow.com//homedetails/4622-Kaweah-Rd-Kelseyville-CA-95451/112418335_zpid/,
-"8870 Serrano Way, Kelseyville, CA 95451",29888,-,0,-,https://www.zillow.com//homedetails/8870-Serrano-Way-Kelseyville-CA-95451/112426854_zpid/,
-"6525 Sunrise Blvd #78, Citrus Heights, CA 95610",28985,2,1,720,https://www.zillow.com//homedetails/6525-Sunrise-Blvd-78-Citrus-Heights-CA-95610/2055055981_zpid/,
-"6480 Cambria Pines Rd, Cambria, CA 93428",2495000,4,5,4000,https://www.zillow.com//homedetails/6480-Cambria-Pines-Rd-Cambria-CA-93428/15404972_zpid/,
-"200 S Dolliver St SPACE 214, Pismo Beach, CA 93449",275000,3,1,560,https://www.zillow.com//homedetails/200-S-Dolliver-St-SPACE-214-Pismo-Beach-CA-93449/2057649223_zpid/,
-"4810 Kah Bel Trl, Kelseyville, CA 95451",12888,-,0,-,https://www.zillow.com//homedetails/4810-Kah-Bel-Trl-Kelseyville-CA-95451/112398416_zpid/,
-"5731 Guthrie Pl, Davis, CA 95618",600000,-,0,-,https://www.zillow.com//homedetails/5731-Guthrie-Pl-Davis-CA-95618/111441406_zpid/,
-"497 Jill Cir, Stockton, CA 95210",459000,4,2,1927,https://www.zillow.com//homedetails/497-Jill-Cir-Stockton-CA-95210/15284328_zpid/,
-"609 45th St, Bakersfield, CA 93301",79500,2,2,1440,https://www.zillow.com//homedetails/609-45th-St-Bakersfield-CA-93301/18926110_zpid/,
-"1414 Nevin Plz, Richmond, CA 94801",470000,3,3,1482,https://www.zillow.com//homedetails/1414-Nevin-Plz-Richmond-CA-94801/82853818_zpid/,
-"1057 Strecker St, Ridgecrest, CA 93555",209900,3,2,1152,https://www.zillow.com//homedetails/1057-Strecker-St-Ridgecrest-CA-93555/18986934_zpid/,
-"314 S Main St SPACE 21, Angels Camp, CA 95222",65000,2,1,600,https://www.zillow.com//homedetails/314-S-Main-St-SPACE-21-Angels-Camp-CA-95222/325589510_zpid/,
-"314 S Main St #98, Angels Camp, CA 95222",185000,3,2,1344,https://www.zillow.com//homedetails/314-S-Main-St-98-Angels-Camp-CA-95222/2057650424_zpid/,
-"207 6th St, Wheatland, CA 95692",390000,1,1,576,https://www.zillow.com//homedetails/207-6th-St-Wheatland-CA-95692/16553416_zpid/,
-"1700 Bodfish St, Bodfish, CA 93205",224000,2,2,1290,https://www.zillow.com//homedetails/1700-Bodfish-St-Bodfish-CA-93205/18974038_zpid/,
-"1400 Montgomery St, Oroville, CA 95965",600000,9,10,4215,https://www.zillow.com//homedetails/1400-Montgomery-St-Oroville-CA-95965/18225167_zpid/,
-"4042 W Barnhart Rd SPACE 30, Turlock, CA 95382",55000,1,1,490,https://www.zillow.com//homedetails/4042-W-Barnhart-Rd-SPACE-30-Turlock-CA-95382/2053947801_zpid/,
-"200 S Dolliver St SPC 166, Pismo Beach, CA 93449",195000,1,1,408,https://www.zillow.com//homedetails/200-S-Dolliver-St-SPC-166-Pismo-Beach-CA-93449/2080880874_zpid/,
-"22 Fairfax St APT E, San Rafael, CA 94901",279000,1,1,646,https://www.zillow.com//homedetails/22-Fairfax-St-APT-E-San-Rafael-CA-94901/19248943_zpid/,
-"1550 Kawana Ter, Santa Rosa, CA 95404",1200000,2,0,1248,https://www.zillow.com//homedetails/1550-Kawana-Ter-Santa-Rosa-CA-95404/15788362_zpid/,
-"9960 Point Lakeview Rd, Kelseyville, CA 95451",18888,-,0,-,https://www.zillow.com//homedetails/9960-Point-Lakeview-Rd-Kelseyville-CA-95451/112402952_zpid/,
-"314 S Main St #32, Angels Camp, CA 95222",119500,2,2,840,https://www.zillow.com//homedetails/314-S-Main-St-32-Angels-Camp-CA-95222/2053862248_zpid/,
-"8440 Stevenson Ave, Sacramento, CA 95828",589999,4,0,2600,https://www.zillow.com//homedetails/8440-Stevenson-Ave-Sacramento-CA-95828/25899707_zpid/,
-"3299 Point Pleasant Rd, Elk Grove, CA 95757",295000,2,0,900,https://www.zillow.com//homedetails/3299-Point-Pleasant-Rd-Elk-Grove-CA-95757/25947025_zpid/,
-"5369 Monterey Pl, Kelseyville, CA 95451",12888,-,0,-,https://www.zillow.com//homedetails/5369-Monterey-Pl-Kelseyville-CA-95451/112387566_zpid/,
-"2650 Blackhawk Dr, Willits, CA 95490",85000,0,0,-,https://www.zillow.com//homedetails/2650-Blackhawk-Dr-Willits-CA-95490/95752735_zpid/,
-"10765 Heather Rd, Truckee, CA 96161",220000,-,0,-,https://www.zillow.com//homedetails/10765-Heather-Rd-Truckee-CA-96161/205273746_zpid/,
-"10148 El Capitan Way, Kelseyville, CA 95451",12888,-,0,-,https://www.zillow.com//homedetails/10148-El-Capitan-Way-Kelseyville-CA-95451/112382703_zpid/,
-"314 S Main St #56, Angels Camp, CA 95222",99500,2,1,600,https://www.zillow.com//homedetails/314-S-Main-St-56-Angels-Camp-CA-95222/2055669360_zpid/,
-"4378 Fir Ave, Clearlake, CA 95422",25000,-,0,-,https://www.zillow.com//homedetails/4378-Fir-Ave-Clearlake-CA-95422/112409172_zpid/,
-"14562 Flicker Dr, Grass Valley, CA 95949",150000,-,0,-,https://www.zillow.com//homedetails/14562-Flicker-Dr-Grass-Valley-CA-95949/205283927_zpid/,
-"5046 Linda Ln, Santa Rosa, CA 95404",1995000,4,5,3176,https://www.zillow.com//homedetails/5046-Linda-Ln-Santa-Rosa-CA-95404/15808839_zpid/,
-"4995 Klamath Rd, Kelseyville, CA 95451",29888,-,0,-,https://www.zillow.com//homedetails/4995-Klamath-Rd-Kelseyville-CA-95451/112377585_zpid/,
-"3081 Sweetwater Trl, Cool, CA 95614",590000,4,2.5,2230,https://www.zillow.com//homedetails/3081-Sweetwater-Trl-Cool-CA-95614/18597682_zpid/,
-"11885 Lakeview Dr, Clearlake Oaks, CA",8000,-,-,-,"https://www.zillow.com//b/building/39.04779,-122.549736_ll/",
-"9815 Sequoia Rd, Kelseyville, CA 95451",16888,-,0,-,https://www.zillow.com//homedetails/9815-Sequoia-Rd-Kelseyville-CA-95451/112400040_zpid/,
-"3000 Chardonnay Ct, Vacaville, CA 95688",349000,-,0,-,https://www.zillow.com//homedetails/3000-Chardonnay-Ct-Vacaville-CA-95688/111924203_zpid/,
-"4835 Hawaina Way, Kelseyville, CA 95451",16888,0,0,-,https://www.zillow.com//homedetails/4835-Hawaina-Way-Kelseyville-CA-95451/112401428_zpid/,
-"3015 E Bayshore Rd SPACE 176, Redwood City, CA 94063",290000,2,2,960,https://www.zillow.com//homedetails/3015-E-Bayshore-Rd-SPACE-176-Redwood-City-CA-94063/2053959737_zpid/,
-"4660 Hawaina Way, Kelseyville, CA 95451",35888,0,0,-,https://www.zillow.com//homedetails/4660-Hawaina-Way-Kelseyville-CA-95451/112419437_zpid/,
-"605 Pacific Ave APT 302, Santa Cruz, CA 95060",639999,1,1,650,https://www.zillow.com//homedetails/605-Pacific-Ave-APT-302-Santa-Cruz-CA-95060/140644628_zpid/,
-"10167 Del Monte Way, Kelseyville, CA 95451",11888,-,0,-,https://www.zillow.com//homedetails/10167-Del-Monte-Way-Kelseyville-CA-95451/112427789_zpid/,
-"27948 Cooperstown Rd, La Grange, CA 95329",1500000,4,2,2121,https://www.zillow.com//homedetails/27948-Cooperstown-Rd-La-Grange-CA-95329/187766874_zpid/,
-"374 Eileen Blvd, California City, CA 93505",4475,-,0,-,https://www.zillow.com//homedetails/374-Eileen-Blvd-California-City-CA-93505/2082535557_zpid/,
-"4910 Hawaina Way, Kelseyville, CA 95451",15888,-,0,-,https://www.zillow.com//homedetails/4910-Hawaina-Way-Kelseyville-CA-95451/112413073_zpid/,
-"10155 El Capitan Way, Kelseyville, CA 95451",12888,-,0,-,https://www.zillow.com//homedetails/10155-El-Capitan-Way-Kelseyville-CA-95451/112395132_zpid/,
-"169 Sheridan Rd, Oakland, CA 94618",1500000,4,5,2991,https://www.zillow.com//homedetails/169-Sheridan-Rd-Oakland-CA-94618/2054125375_zpid/,
-"21727 Crystal Lake Dr LOT 431, Sonora, CA 95370",30000,-,0,-,https://www.zillow.com//homedetails/21727-Crystal-Lake-Dr-LOT-431-Sonora-CA-95370/2077429694_zpid/,
-"10898 Northslope Dr, Kelseyville, CA 95451",12888,-,0,-,https://www.zillow.com//homedetails/10898-Northslope-Dr-Kelseyville-CA-95451/112376566_zpid/,
-"3901 Lick Mill Blvd APT 260, Santa Clara, CA 95054",998888,2,2,1148,https://www.zillow.com//homedetails/3901-Lick-Mill-Blvd-APT-260-Santa-Clara-CA-95054/69300186_zpid/,
-"21249 American River Dr, Sonora, CA 95370",14000,-,0,10890,https://www.zillow.com//homedetails/21249-American-River-Dr-Sonora-CA-95370/111378804_zpid/,
-"1200 24th St, Oakland, CA 94607",1300000,12,4,6632,https://www.zillow.com//homedetails/1200-24th-St-Oakland-CA-94607/2054915662_zpid/,
-"171 Sheridan Rd, Oakland, CA 94618",1800000,5,5,2972,https://www.zillow.com//homedetails/171-Sheridan-Rd-Oakland-CA-94618/2054125395_zpid/,
-"4672 Iroquois Trl, Kelseyville, CA 95451",14888,-,0,-,https://www.zillow.com//homedetails/4672-Iroquois-Trl-Kelseyville-CA-95451/112398678_zpid/,
-"3476 Buena Vista Dr, Shingle Springs, CA 95682",850000,4,3,2600,https://www.zillow.com//homedetails/3476-Buena-Vista-Dr-Shingle-Springs-CA-95682/18596002_zpid/,
-"10860 Skyview Dr, Kelseyville, CA 95451",29888,0,0,-,https://www.zillow.com//homedetails/10860-Skyview-Dr-Kelseyville-CA-95451/95045556_zpid/,
-"Eagle Peak Rd, Bridgeport, CA 93517",32000,-,0,-,https://www.zillow.com//homedetails/Eagle-Peak-Rd-Bridgeport-CA-93517/2070530434_zpid/,
-"225 Wake Ave #118, El Centro, CA 92243",55000,1,1,-,https://www.zillow.com//homedetails/225-Wake-Ave-118-El-Centro-CA-92243/2053085204_zpid/,
-"320 S Gramercy Pl APT 102, Los Angeles, CA 90020",489000,1,1,656,https://www.zillow.com//homedetails/320-S-Gramercy-Pl-APT-102-Los-Angeles-CA-90020/20774907_zpid/,
-"43230 San Marcos Pl, Hemet, CA 92544",250000,3,2,1451,https://www.zillow.com//homedetails/43230-San-Marcos-Pl-Hemet-CA-92544/18042179_zpid/,
-"25685 Big Pine St, Idyllwild, CA 92549",750000,6,4,3222,https://www.zillow.com//homedetails/25685-Big-Pine-St-Idyllwild-CA-92549/18046665_zpid/,
-"1348 Gilmore Pl, Escondido, CA 92026",1249777,5,4,3309,https://www.zillow.com//homedetails/1348-Gilmore-Pl-Escondido-CA-92026/16689804_zpid/,
-"12451 Caswell Ave, Los Angeles, CA 90066",2490000,6,6,2915,https://www.zillow.com//homedetails/12451-Caswell-Ave-Los-Angeles-CA-90066/20448715_zpid/,
-"4855 Vanderham Way, Eastvale, CA 91752",897000,4,3,2248,https://www.zillow.com//homedetails/4855-Vanderham-Way-Eastvale-CA-91752/303943771_zpid/,
-"12640 Albers St, Valley Village, CA 91607",1950000,6,4,2787,https://www.zillow.com//homedetails/12640-Albers-St-Valley-Village-CA-91607/20016290_zpid/,
-"12656 2nd St SPACE 62, Yucaipa, CA 92399",72000,2,1,720,https://www.zillow.com//homedetails/12656-2nd-St-SPACE-62-Yucaipa-CA-92399/145568739_zpid/,
-"2751 Reche Canyon Rd SPACE 139, Colton, CA 92324",89000,0,2,960,https://www.zillow.com//homedetails/2751-Reche-Canyon-Rd-SPACE-139-Colton-CA-92324/145566805_zpid/,
-"832 Westgate Dr, Eureka, CA 95503",4500000,8,3,13000,https://www.zillow.com//homedetails/832-Westgate-Dr-Eureka-CA-95503/18833889_zpid/,
-"8146 Camino Tranquilo, San Diego, CA 92122",855000,3,1.5,1221,https://www.zillow.com//homedetails/8146-Camino-Tranquilo-San-Diego-CA-92122/16846595_zpid/,
-"18178 Roseleaf Ln, Redding, CA 96003",515000,3,2,1710,https://www.zillow.com//homedetails/18178-Roseleaf-Ln-Redding-CA-96003/15216628_zpid/,
-"1440 Amelia Way, Palm Springs, CA 92262",1000000,5,4,3042,https://www.zillow.com//homedetails/1440-Amelia-Way-Palm-Springs-CA-92262/18018781_zpid/,
-"94601 Mina Rd, Covelo, CA 95428",400000,3,0,1445,https://www.zillow.com//homedetails/94601-Mina-Rd-Covelo-CA-95428/2105512344_zpid/,
-"5130 W 1st St APT F, Santa Ana, CA 92703",650000,3,3,1319,https://www.zillow.com//homedetails/5130-W-1st-St-APT-F-Santa-Ana-CA-92703/25206655_zpid/,
-"220 N Oregon St, Yreka, CA 96097",220000,4,2,2050,https://www.zillow.com//homedetails/220-N-Oregon-St-Yreka-CA-96097/89037221_zpid/,
-"43225 Tali St, Lancaster, CA 93535",760000,4,3,3056,https://www.zillow.com//homedetails/43225-Tali-St-Lancaster-CA-93535/95701161_zpid/,
-"6253 E Marina View Dr, Long Beach, CA 90803",399999,3,2,1580,https://www.zillow.com//homedetails/6253-E-Marina-View-Dr-Long-Beach-CA-90803/2053090642_zpid/,
-"14191 Bridge Ln, Lytle Creek, CA 92358",390000,2,1,1000,https://www.zillow.com//homedetails/14191-Bridge-Ln-Lytle-Creek-CA-92358/17424893_zpid/,
-"1922 Tamarack Ln, Hemet, CA 92545",429900,3,2,1654,https://www.zillow.com//homedetails/1922-Tamarack-Ln-Hemet-CA-92545/17988352_zpid/,
-"2142 Fargo St, Los Angeles, CA 90039",2100000,5,3,1730,https://www.zillow.com//homedetails/2142-Fargo-St-Los-Angeles-CA-90039/20743320_zpid/,
-"37917 Petra Rd, Hinkley, CA 92347",93000,3,1,850,https://www.zillow.com//homedetails/37917-Petra-Rd-Hinkley-CA-92347/2053544599_zpid/,
-"333 Seminole St, Palm Springs, CA 92264",119900,2,1,600,https://www.zillow.com//homedetails/333-Seminole-St-Palm-Springs-CA-92264/79840790_zpid/,
-"4074 Majorca Way, Oceanside, CA 92056",950000,2,2,1800,https://www.zillow.com//homedetails/4074-Majorca-Way-Oceanside-CA-92056/2053089673_zpid/,
-"61530 Orion Dr, Joshua Tree, CA 92252",89900,2,2,1080,https://www.zillow.com//homedetails/61530-Orion-Dr-Joshua-Tree-CA-92252/337970875_zpid/,
-"14223 Skyview Ln, Apple Valley, CA 92307",725000,5,3,3211,https://www.zillow.com//homedetails/14223-Skyview-Ln-Apple-Valley-CA-92307/17465838_zpid/,
-"1612 3rd St, Susanville, CA 96130",275000,3,2,1336,https://www.zillow.com//homedetails/1612-3rd-St-Susanville-CA-96130/19107648_zpid/,
-"10980 Applewood Ln, Yucaipa, CA 92399",540000,4,3,2247,https://www.zillow.com//homedetails/10980-Applewood-Ln-Yucaipa-CA-92399/17380331_zpid/,
-"2071 S Caliente Dr, Palm Springs, CA 92264",433000,2,2,1325,https://www.zillow.com//homedetails/2071-S-Caliente-Dr-Palm-Springs-CA-92264/18029954_zpid/,
-"1565 Kelton Ave, Los Angeles, CA 90024",2499000,3,2,2157,https://www.zillow.com//homedetails/1565-Kelton-Ave-Los-Angeles-CA-90024/20503913_zpid/,
-"8764 Orville St, Spring Valley, CA 91977",825000,4,2,1504,https://www.zillow.com//homedetails/8764-Orville-St-Spring-Valley-CA-91977/17125592_zpid/,
-"293 1st Ave, Lewiston, CA 96052",210000,3,1,1101,https://www.zillow.com//homedetails/293-1st-Ave-Lewiston-CA-96052/16214108_zpid/,
-"39335 Vineland St SPACE 96, Cherry Valley, CA 92223",54500,2,1,900,https://www.zillow.com//homedetails/39335-Vineland-St-SPACE-96-Cherry-Valley-CA-92223/2053150300_zpid/,
-"236 S 1st St, Blythe, CA 92225",125000,2,1,710,https://www.zillow.com//homedetails/236-S-1st-St-Blythe-CA-92225/2119861163_zpid/,
-"231 S Marengo Ave, Alhambra, CA 91801",900000,4,2,1822,https://www.zillow.com//homedetails/231-S-Marengo-Ave-Alhambra-CA-91801/20708078_zpid/,
-"14530 Warren Ave, Red Bluff, CA 96080",550000,5,3,2860,https://www.zillow.com//homedetails/14530-Warren-Ave-Red-Bluff-CA-96080/52929213_zpid/,
-"10200 Bolsa Ave SPC 31, Westminster, CA 92683",145000,2,2,1560,https://www.zillow.com//homedetails/10200-Bolsa-Ave-SPC-31-Westminster-CA-92683/2137828003_zpid/,
-"400 Seafoam Rd, Shelter Cove, CA 95589",339998,0,1,650,https://www.zillow.com//homedetails/400-Seafoam-Rd-Shelter-Cove-CA-95589/18826296_zpid/,
-"28022 Church St, Barstow, CA 92311",300000,4,2,1640,https://www.zillow.com//homedetails/28022-Church-St-Barstow-CA-92311/17453458_zpid/,
-"21556 Harvest Ln, Palo Cedro, CA 96073",655000,4,3,2603,https://www.zillow.com//homedetails/21556-Harvest-Ln-Palo-Cedro-CA-96073/2100769952_zpid/,
-"18513 Lloyd Ln, Anderson, CA 96007",250000,2,1,800,https://www.zillow.com//homedetails/18513-Lloyd-Ln-Anderson-CA-96007/15211101_zpid/,
-"44049 Vigo Ct, Palm Desert, CA 92260",489000,2,2,1345,https://www.zillow.com//homedetails/44049-Vigo-Ct-Palm-Desert-CA-92260/18080290_zpid/,
-"3589 Wells Rd, Blythe, CA",13000,-,-,-,https://www.zillow.com//b/3589-wells-rd-blythe-ca-5ZLMk9/,
-"21032 Baltar St, Canoga Park, CA 91304",848000,3,2,1617,https://www.zillow.com//homedetails/21032-Baltar-St-Canoga-Park-CA-91304/19909801_zpid/,
-"5934 Sturgis Rd, Yreka, CA 96097",245000,3,2,1477,https://www.zillow.com//homedetails/5934-Sturgis-Rd-Yreka-CA-96097/15969820_zpid/,
-"39172 State Highway 70, Quincy, CA 95971",495000,5,4,2487,https://www.zillow.com//homedetails/39172-State-Highway-70-Quincy-CA-95971/2053611334_zpid/,
-"33570 Ponderosa Way, Paynes Creek, CA 96075",244900,3,3,1492,https://www.zillow.com//homedetails/33570-Ponderosa-Way-Paynes-Creek-CA-96075/241060277_zpid/,
-"55853 Valli Hi Dr, Landers, CA 92285",425000,4,2,2800,https://www.zillow.com//homedetails/55853-Valli-Hi-Dr-Landers-CA-92285/2069747358_zpid/,
-"0 Turnbull Ave, Lake Elsinore, CA 92530",60000,0,0,-,https://www.zillow.com//homedetails/0-Turnbull-Ave-Lake-Elsinore-CA-92530/2120410641_zpid/,
-"16638 Juarez Dr, San Diego, CA 92128",989000,2,2,1374,https://www.zillow.com//homedetails/16638-Juarez-Dr-San-Diego-CA-92128/16744332_zpid/,
-"86169 Sonoma Creek Rd, Coachella, CA 92236",299950,1,1,1089,https://www.zillow.com//homedetails/86169-Sonoma-Creek-Rd-Coachella-CA-92236/63314808_zpid/,
-"8 Park Vis #52, Irvine, CA 92604",999750,2,2,1234,https://www.zillow.com//homedetails/8-Park-Vis-52-Irvine-CA-92604/25714603_zpid/,
-"8401 Oak Rdg, Weed, CA 96094",199000,-,0,-,https://www.zillow.com//homedetails/8401-Oak-Rdg-Weed-CA-96094/2079377069_zpid/,
-"38020 Cabin Cir, Palm Desert, CA 92260",468000,2,2,1815,https://www.zillow.com//homedetails/38020-Cabin-Cir-Palm-Desert-CA-92260/18072647_zpid/,
-"17625 Langlois Rd, Desert Hot Springs, CA",85000,-,-,-,https://www.zillow.com//b/17625-langlois-rd-desert-hot-springs-ca-5Y99Qp/,
-"1347 Silverberry Ct, El Cajon, CA 92019",728400,3,2,1351,https://www.zillow.com//homedetails/1347-Silverberry-Ct-El-Cajon-CA-92019/17056291_zpid/,
-"30760 Paradise Palm Ave, Homeland, CA 92548",385000,2,2,1860,https://www.zillow.com//homedetails/30760-Paradise-Palm-Ave-Homeland-CA-92548/17992876_zpid/,
-"56254-29 Palms Hwy #97, Yucca Valley, CA 92284",35000,2,1,700,https://www.zillow.com//homedetails/56254-29-Palms-Hwy-97-Yucca-Valley-CA-92284/79562479_zpid/,
-"999 S Santa Fe Ave SPACE 51, San Jacinto, CA 92583",23500,2,1,720,https://www.zillow.com//homedetails/999-S-Santa-Fe-Ave-SPACE-51-San-Jacinto-CA-92583/64768386_zpid/,
-"0 Buckhorn Rd, Happy Camp, CA 96039",46500,0,0,-,https://www.zillow.com//homedetails/0-Buckhorn-Rd-Happy-Camp-CA-96039/2054411105_zpid/,
-"23701 S Western Ave SPC 118, Torrance, CA 90501",35000,3,1,800,https://www.zillow.com//homedetails/23701-S-Western-Ave-SPC-118-Torrance-CA-90501/2132325924_zpid/,
-"3011 Hypoint Ave, Escondido, CA 92027",890000,4,3,1662,https://www.zillow.com//homedetails/3011-Hypoint-Ave-Escondido-CA-92027/16696035_zpid/,
-"87 Havasu Palms SPACE 91, Parker Dam, CA 92267",155000,2,2,800,https://www.zillow.com//homedetails/87-Havasu-Palms-SPACE-91-Parker-Dam-CA-92267/2062685577_zpid/,
-"25242 Staysail Dr, Dana Point, CA 92629",1735000,3,3,2200,https://www.zillow.com//homedetails/25242-Staysail-Dr-Dana-Point-CA-92629/25584975_zpid/,
-"1654 Sunbeam Ln #187, Simi Valley, CA 93065",770000,3,3,1480,https://www.zillow.com//homedetails/1654-Sunbeam-Ln-187-Simi-Valley-CA-93065/16450864_zpid/,
-"10449 Caliente Rd, Oak Hills, CA 92344",338000,3,2,1440,https://www.zillow.com//homedetails/10449-Caliente-Rd-Oak-Hills-CA-92344/69005583_zpid/,
-"17777 Langlois Rd #60, Desert Edge, CA 92241",78900,1,1,400,https://www.zillow.com//homedetails/17777-Langlois-Rd-60-Desert-Edge-CA-92241/2059150082_zpid/,
-"7711 Bakman Ave, Sun Valley, CA 91352",720000,3,2,1507,https://www.zillow.com//homedetails/7711-Bakman-Ave-Sun-Valley-CA-91352/20001039_zpid/,
-"550 Stonehill Dr, Skyforest, CA 92385",659000,3,4,1370,https://www.zillow.com//homedetails/550-Stonehill-Dr-Skyforest-CA-92385/2061777084_zpid/,
-"Nna Dagget, Daggett, CA 92327",6000,-,0,-,https://www.zillow.com//homedetails/Nna-Dagget-Daggett-CA-92327/2053282510_zpid/,
-"274 S Lofty View Dr, Big Bear City, CA 92314",719000,4,4,2928,https://www.zillow.com//homedetails/274-S-Lofty-View-Dr-Big-Bear-City-CA-92314/64432777_zpid/,
-"1402 Ranch St, Perris, CA 92571",624000,5,3,3434,https://www.zillow.com//homedetails/1402-Ranch-St-Perris-CA-92571/69264814_zpid/,
-"2605 Fenton Pl, National City, CA 91950",300000,2,1,600,https://www.zillow.com//homedetails/2605-Fenton-Pl-National-City-CA-91950/2104082249_zpid/,
-"16 Kazan St, Irvine, CA 92604",769000,2,3,922,https://www.zillow.com//homedetails/16-Kazan-St-Irvine-CA-92604/2103985467_zpid/,
-"26317 Collier Union Dr, Murrieta, CA 92563",665000,4,3,1611,https://www.zillow.com//homedetails/26317-Collier-Union-Dr-Murrieta-CA-92563/59408852_zpid/,
-"284 Park Ave, Long Beach, CA 90803",1500000,3,2,1562,https://www.zillow.com//homedetails/284-Park-Ave-Long-Beach-CA-90803/21221366_zpid/,
-"378 Wendell St, Crescent City, CA 95531",750000,6,3,2781,https://www.zillow.com//homedetails/378-Wendell-St-Crescent-City-CA-95531/18564540_zpid/,
-"26612 Via Noveno, Mission Viejo, CA 92691",980000,3,2,1326,https://www.zillow.com//homedetails/26612-Via-Noveno-Mission-Viejo-CA-92691/25629093_zpid/,
-"8378 New Salem St UNIT 19, San Diego, CA 92126",619900,2,2,912,https://www.zillow.com//homedetails/8378-New-Salem-St-UNIT-19-San-Diego-CA-92126/16787271_zpid/,
-"24055 Paseo Del Lago UNIT 1051, Laguna Woods, CA 92637",85000,1,1,625,https://www.zillow.com//homedetails/24055-Paseo-Del-Lago-UNIT-1051-Laguna-Woods-CA-92637/25691991_zpid/,
-"18255 Eureka Dr, Blythe, CA 92225",19000,0,0,-,https://www.zillow.com//homedetails/18255-Eureka-Dr-Blythe-CA-92225/2130218633_zpid/,
-"9310 Tangelo Ave, Fontana, CA 92335",650000,3,2.5,1702,https://www.zillow.com//homedetails/9310-Tangelo-Ave-Fontana-CA-92335/17286833_zpid/,
-"9980 Houston Rd, Malibu, CA 90265",4600000,6,5,5932,https://www.zillow.com//homedetails/9980-Houston-Rd-Malibu-CA-90265/72653267_zpid/,
-"28060 Salem Ct, Sun City, CA 92586",449000,2,2,1146,https://www.zillow.com//homedetails/28060-Salem-Ct-Sun-City-CA-92586/17922920_zpid/,
-"2800 W Avenue K12, Lancaster, CA 93536",32000,2,0,-,https://www.zillow.com//homedetails/2800-W-Avenue-K12-Lancaster-CA-93536/2095677944_zpid/,
-"10495 Cypress Ave, Riverside, CA 92505",665000,4,2,1524,https://www.zillow.com//homedetails/10495-Cypress-Ave-Riverside-CA-92505/17807593_zpid/,
-"5100 8th Ave, Los Angeles, CA 90043",600000,2,1,934,https://www.zillow.com//homedetails/5100-8th-Ave-Los-Angeles-CA-90043/20568227_zpid/,
-"28030 Northwood Dr, Sun City, CA 92586",345000,2,2,1285,https://www.zillow.com//homedetails/28030-Northwood-Dr-Sun-City-CA-92586/17917642_zpid/,
-"658 O St, Fortuna, CA 95540",575000,4,2,2843,https://www.zillow.com//homedetails/658-O-St-Fortuna-CA-95540/18823357_zpid/,
-"5761 Cholla Rd, Yucca Valley, CA 92284",460000,3,3,1144,https://www.zillow.com//homedetails/5761-Cholla-Rd-Yucca-Valley-CA-92284/17496486_zpid/,
-"19942 Old Mill Rd, Lakehead, CA 96051",480000,2,2,1729,https://www.zillow.com//homedetails/19942-Old-Mill-Rd-Lakehead-CA-96051/2061802598_zpid/,
-"11250 Playa St #79, Culver City, CA 90230",289900,1,1,680,https://www.zillow.com//homedetails/11250-Playa-St-79-Culver-City-CA-90230/2055685561_zpid/,
-"10386 Santa Cruz Rd, Desert Hot Springs, CA 92240",475000,3,2,1554,https://www.zillow.com//homedetails/10386-Santa-Cruz-Rd-Desert-Hot-Springs-CA-92240/18098087_zpid/,
-"2717 Abejorro St, Carlsbad, CA 92009",1100000,3,2,1504,https://www.zillow.com//homedetails/2717-Abejorro-St-Carlsbad-CA-92009/16656260_zpid/,
-"416 W Dominguez Rd, Palm Springs, CA 92262",1650000,3,2,1600,https://www.zillow.com//homedetails/416-W-Dominguez-Rd-Palm-Springs-CA-92262/63314376_zpid/,
-"1908 Poplar Way, Frazier Park, CA 93225",282999,2,1,896,https://www.zillow.com//homedetails/1908-Poplar-Way-Frazier-Park-CA-93225/67087801_zpid/,
-"5970 Rancho Mission Rd UNIT 243, San Diego, CA 92108",519900,2,1,824,https://www.zillow.com//homedetails/5970-Rancho-Mission-Rd-UNIT-243-San-Diego-CA-92108/16939444_zpid/,
-"12918 Bloomfield Ave, Norwalk, CA 90650",525000,4,2,1347,https://www.zillow.com//homedetails/12918-Bloomfield-Ave-Norwalk-CA-90650/21389596_zpid/,
-"40341 Pebble Beach Cir, Palm Desert, CA 92211",400000,2,2,1177,https://www.zillow.com//homedetails/40341-Pebble-Beach-Cir-Palm-Desert-CA-92211/18088650_zpid/,
-"17902 Branding Iron Rd, Apple Valley, CA 92307",655000,4,3,2490,https://www.zillow.com//homedetails/17902-Branding-Iron-Rd-Apple-Valley-CA-92307/2063234215_zpid/,
-"100 Widgen Dr, Madeline, CA 96119",12950,-,0,-,https://www.zillow.com//homedetails/100-Widgen-Dr-Madeline-CA-96119/2054443856_zpid/,
-"5573 Bain St, Mira Loma, CA 91752",765000,3,2,1700,https://www.zillow.com//homedetails/5573-Bain-St-Mira-Loma-CA-91752/17815810_zpid/,
-"334 W 122nd St, Los Angeles, CA 90061",975000,6,3,2790,https://www.zillow.com//homedetails/334-W-122nd-St-Los-Angeles-CA-90061/20990441_zpid/,
-"3988 Riviera Dr UNIT A, San Diego, CA 92109",1000000,2,3,1081,https://www.zillow.com//homedetails/3988-Riviera-Dr-UNIT-A-San-Diego-CA-92109/16921578_zpid/,
-"1649 W Pine St, Santa Ana, CA 92703",900000,3,2,1272,https://www.zillow.com//homedetails/1649-W-Pine-St-Santa-Ana-CA-92703/25092602_zpid/,
-"70170 Sun Valley Dr, Rancho Mirage, CA 92270",999999,2,2,1368,https://www.zillow.com//homedetails/70170-Sun-Valley-Dr-Rancho-Mirage-CA-92270/18122036_zpid/,
-"17743 Contra Costa Dr, Rowland Heights, CA 91748",910000,4,2,1872,https://www.zillow.com//homedetails/17743-Contra-Costa-Dr-Rowland-Heights-CA-91748/21478964_zpid/,
-"18801 Roberts Rd SPACE 33, Desert Hot Springs, CA 92241",19000,1,1,-,https://www.zillow.com//homedetails/18801-Roberts-Rd-SPACE-33-Desert-Hot-Springs-CA-92241/2054104226_zpid/,
-"5645 Cahuilla Ave, Twentynine Palms, CA 92277",275000,3,2,1218,https://www.zillow.com//homedetails/5645-Cahuilla-Ave-Twentynine-Palms-CA-92277/17502157_zpid/,
-"27701 Murrieta Rd, Menifee, CA 92586",199000,2,2,1584,https://www.zillow.com//homedetails/27701-Murrieta-Rd-Menifee-CA-92586/331553703_zpid/,
-"158 Elkhorn, Irvine, CA 92618",1225000,3,4,1590,https://www.zillow.com//homedetails/158-Elkhorn-Irvine-CA-92618/2054263749_zpid/,
-"15 La Crescenta Dr, Camarillo, CA 93010",2400000,9,5,4065,https://www.zillow.com//homedetails/15-La-Crescenta-Dr-Camarillo-CA-93010/16360350_zpid/,
-"18393 Zenia Lake Mountain Rd, Zenia, CA 95595",250000,2,1,650,https://www.zillow.com//homedetails/18393-Zenia-Lake-Mountain-Rd-Zenia-CA-95595/2070339263_zpid/,
-"426 S K St, Lompoc, CA 93436",549900,3,3,1844,https://www.zillow.com//homedetails/426-S-K-St-Lompoc-CA-93436/15923930_zpid/,
-"5675 Keene Rd, Corning, CA 96021",419000,3,2,1248,https://www.zillow.com//homedetails/5675-Keene-Rd-Corning-CA-96021/16179354_zpid/,
-"6201 Mias Canyon Rd, Banning, CA 92220",2950000,3,3,3078,https://www.zillow.com//homedetails/6201-Mias-Canyon-Rd-Banning-CA-92220/18033805_zpid/,
-"7930 North Ave, Lemon Grove, CA 91945",64900,1,1,561,https://www.zillow.com//homedetails/7930-North-Ave-Lemon-Grove-CA-91945/2054127926_zpid/,
-"4773 Aberdeen St, San Diego, CA 92117",963000,3,2,1032,https://www.zillow.com//homedetails/4773-Aberdeen-St-San-Diego-CA-92117/16853255_zpid/,
-"1916 Teton Way, Pine Mountain Club, CA 93222",375000,2,2,1200,https://www.zillow.com//homedetails/1916-Teton-Way-Pine-Mountain-Club-CA-93222/18978857_zpid/,
-"74711 Dillon Rd #84, Desert Hot Springs, CA 92241",67900,2,1,600,https://www.zillow.com//homedetails/74711-Dillon-Rd-84-Desert-Hot-Springs-CA-92241/2054300570_zpid/,
-"1440 Veteran Ave, Los Angeles, CA 90024",599000,2,1,661,https://www.zillow.com//homedetails/1440-Veteran-Ave-Los-Angeles-CA-90024/2067380941_zpid/,
-"14720 Quail Haven Ln, El Cajon, CA 92019",715000,-,0,-,https://www.zillow.com//homedetails/14720-Quail-Haven-Ln-El-Cajon-CA-92019/2087778663_zpid/,
-"5457 61st St W, Rosamond, CA 93560",580000,5,3,2200,https://www.zillow.com//homedetails/5457-61st-St-W-Rosamond-CA-93560/18969809_zpid/,
-"921 Flora St, Barstow, CA 92311",200000,2,1,720,https://www.zillow.com//homedetails/921-Flora-St-Barstow-CA-92311/17273632_zpid/,
-"8710 Belford Ave, Westchester, CA 90045",449980,1,1,695,https://www.zillow.com//homedetails/8710-Belford-Ave-Westchester-CA-90045/2111629927_zpid/,
-"207 Road Runner Ln #88, Fountain Valley, CA 92708",160000,3,2,1344,https://www.zillow.com//homedetails/207-Road-Runner-Ln-88-Fountain-Valley-CA-92708/2056320315_zpid/,
-"4 Saint Paul Ln, Laguna Niguel, CA 92677",3500000,4,4,3314,https://www.zillow.com//homedetails/4-Saint-Paul-Ln-Laguna-Niguel-CA-92677/25586625_zpid/,
-"1923 S Corbina Dr, Santa Maria, CA 93458",570600,3,3,1407,https://www.zillow.com//homedetails/1923-S-Corbina-Dr-Santa-Maria-CA-93458/59364163_zpid/,
-"45421 Lupine Ln UNIT 4, Palm Desert, CA 92260",530000,2,3,1250,https://www.zillow.com//homedetails/45421-Lupine-Ln-UNIT-4-Palm-Desert-CA-92260/18084748_zpid/,
-"23090 Dersch Rd, Anderson, CA 96007",545000,3,2,1685,https://www.zillow.com//homedetails/23090-Dersch-Rd-Anderson-CA-96007/15214221_zpid/,
-"49869 W Carmen Ave, Cabazon, CA 92230",499000,1,1,1044,https://www.zillow.com//homedetails/49869-W-Carmen-Ave-Cabazon-CA-92230/52499935_zpid/,
-"918 W College St APT 415, Los Angeles, CA 90012",534999,2,2,793,https://www.zillow.com//homedetails/918-W-College-St-APT-415-Los-Angeles-CA-90012/20740977_zpid/,
-"19302 Kinene Ct, Redding, CA 96003",575000,5,3,2485,https://www.zillow.com//homedetails/19302-Kinene-Ct-Redding-CA-96003/15240789_zpid/,
-"50918 Parker Dam Rd, Earp, CA",175000,-,-,-,https://www.zillow.com//b/50918-parker-dam-rd-earp-ca-Bp3Bzz/,
-"1240 W Micheltorena St, Santa Barbara, CA 93101",1099000,3,0,2000,https://www.zillow.com//homedetails/1240-W-Micheltorena-St-Santa-Barbara-CA-93101/248137774_zpid/,
-"1320 Via Terrassa #2547357, Encinitas, CA 92024",800000,14,8,6300,https://www.zillow.com//homedetails/1320-Via-Terrassa-2547357-Encinitas-CA-92024/2071170475_zpid/,
-"15812 Mil Potrero Hwy, Pine Mountain Club, CA 93222",549000,3,1,2056,https://www.zillow.com//homedetails/15812-Mil-Potrero-Hwy-Pine-Mountain-Club-CA-93222/18978413_zpid/,
-"3505 39th St, San Diego, CA 92105",840000,3,2,1093,https://www.zillow.com//homedetails/3505-39th-St-San-Diego-CA-92105/16976647_zpid/,
-"28037 Calle Estrella, Temecula, CA 92592",525000,2,2,1128,https://www.zillow.com//homedetails/28037-Calle-Estrella-Temecula-CA-92592/125145232_zpid/,
-"52810 Avenida Diaz, La Quinta, CA 92253",1399000,4,2,1178,https://www.zillow.com//homedetails/52810-Avenida-Diaz-La-Quinta-CA-92253/18151946_zpid/,
-"18450 Atlantic St, Hesperia, CA 92345",740000,4,3,2854,https://www.zillow.com//homedetails/18450-Atlantic-St-Hesperia-CA-92345/17445134_zpid/,
-"1245 W Cienega Ave SPACE 102, San Dimas, CA 91773",159900,3,2,1440,https://www.zillow.com//homedetails/1245-W-Cienega-Ave-SPACE-102-San-Dimas-CA-91773/2054529635_zpid/,
-"1455 S State St SPACE 178, Hemet, CA 92543",80000,2,2,1120,https://www.zillow.com//homedetails/1455-S-State-St-SPACE-178-Hemet-CA-92543/54951433_zpid/,
-"8549 Big Creek Rd, Quincy, CA 95971",229000,2,1,-,https://www.zillow.com//homedetails/8549-Big-Creek-Rd-Quincy-CA-95971/2061261717_zpid/,
-"14000 El Evado Rd SPACE 61, Victorville, CA 92392",190000,3,2,1500,https://www.zillow.com//homedetails/14000-El-Evado-Rd-SPACE-61-Victorville-CA-92392/82898980_zpid/,
-"946 Deerwood Dr, San Jacinto, CA 92583",125000,2,1,-,https://www.zillow.com//homedetails/946-Deerwood-Dr-San-Jacinto-CA-92583/17967074_zpid/,
-"1425 Cherry Ave #119, Beaumont, CA 92223",110000,2,2,1344,https://www.zillow.com//homedetails/1425-Cherry-Ave-119-Beaumont-CA-92223/2077659735_zpid/,
-"82937 Vincent Dr, Indio, CA 92203",629999,4,3,2527,https://www.zillow.com//homedetails/82937-Vincent-Dr-Indio-CA-92203/63317367_zpid/,
-"5940 Antelope Rd, Joshua Tree, CA 92252",56000,-,0,-,https://www.zillow.com//homedetails/5940-Antelope-Rd-Joshua-Tree-CA-92252/304026889_zpid/,
-"20942 Calimali Rd, Woodland Hills, CA 91364",1250000,3,3,2595,https://www.zillow.com//homedetails/20942-Calimali-Rd-Woodland-Hills-CA-91364/19945106_zpid/,
-"4819 Tyler St, Riverside, CA 92503",1200000,5,3,2560,https://www.zillow.com//homedetails/4819-Tyler-St-Riverside-CA-92503/17806004_zpid/,
-"1806 Adams Ave #34, El Centro, CA 92243",55000,2,2,1250,https://www.zillow.com//homedetails/1806-Adams-Ave-34-El-Centro-CA-92243/2053583646_zpid/,
-"249 E Magnolia Ave, Portola, CA 96122",269950,3,2,1264,https://www.zillow.com//homedetails/249-E-Magnolia-Ave-Portola-CA-96122/52928064_zpid/,
-"7786 Rush Creek Rd, Lewiston, CA 96052",850000,3,3,2700,https://www.zillow.com//homedetails/7786-Rush-Creek-Rd-Lewiston-CA-96052/16214252_zpid/,
-"1713 Queens Ct, Los Angeles, CA 90069",2299999,3,4,2848,https://www.zillow.com//homedetails/1713-Queens-Ct-Los-Angeles-CA-90069/20798354_zpid/,
-"45 Keegan Ct, Susanville, CA 96130",439000,4,2,2203,https://www.zillow.com//homedetails/45-Keegan-Ct-Susanville-CA-96130/68555496_zpid/,
-"17461 Harrison Park Rd, Julian, CA 92036",225000,0,0,-,https://www.zillow.com//homedetails/17461-Harrison-Park-Rd-Julian-CA-92036/16758658_zpid/,
-"6854 Maple Leaf Dr, Carlsbad, CA 92011",1215000,2,3,1292,https://www.zillow.com//homedetails/6854-Maple-Leaf-Dr-Carlsbad-CA-92011/16654189_zpid/,
-"1651 Topanga, Costa Mesa, CA 92627",1675000,3,5,2142,https://www.zillow.com//homedetails/1651-Topanga-Costa-Mesa-CA-92627/325860387_zpid/,
-"0 Dirt Rd LOT CA21099, Apple Valley, CA 92307",15997,-,0,-,https://www.zillow.com//homedetails/0-Dirt-Rd-LOT-CA21099-Apple-Valley-CA-92307/2055206383_zpid/,
-"32249 Cody Ave, Thousand Palms, CA 92276",179500,2,2,960,https://www.zillow.com//homedetails/32249-Cody-Ave-Thousand-Palms-CA-92276/18108149_zpid/,
-"1740 S Old Stage Rd, Mount Shasta, CA 96067",288888,3,2,1260,https://www.zillow.com//homedetails/1740-S-Old-Stage-Rd-Mount-Shasta-CA-96067/112101777_zpid/,
-"8845 Mora Ct, Lancaster, CA 93536",645000,4,3,2664,https://www.zillow.com//homedetails/8845-Mora-Ct-Lancaster-CA-93536/82750257_zpid/,
-"590 Vine St, El Centro, CA 92243",305000,4,3,1760,https://www.zillow.com//homedetails/590-Vine-St-El-Centro-CA-92243/18865264_zpid/,
-"30492 Hunky Dory Ln, Trabuco Canyon, CA 92679",1320000,2,2,1440,https://www.zillow.com//homedetails/30492-Hunky-Dory-Ln-Trabuco-Canyon-CA-92679/51670983_zpid/,
-"16400 Bubbling Wells Rd SPACE 312, Desert Hot Springs, CA 92240",55900,2,1,600,https://www.zillow.com//homedetails/16400-Bubbling-Wells-Rd-SPACE-312-Desert-Hot-Springs-CA-92240/2058370674_zpid/,
-"1112 11th St, Santa Monica, CA 90403",3599999,8,8,5388,https://www.zillow.com//homedetails/1112-11th-St-Santa-Monica-CA-90403/2054457045_zpid/,
-"11888 Big Springs Rd, Montague, CA 96064",289000,1,1,1300,https://www.zillow.com//homedetails/11888-Big-Springs-Rd-Montague-CA-96064/15984477_zpid/,
-"443 E Calaveras St, Altadena, CA 91001",2888888,3,3,3496,https://www.zillow.com//homedetails/443-E-Calaveras-St-Altadena-CA-91001/20915211_zpid/,
-"9706 Bodega Ct, Rancho Cucamonga, CA 91730",530000,2,3,1166,https://www.zillow.com//homedetails/9706-Bodega-Ct-Rancho-Cucamonga-CA-91730/17600706_zpid/,
-"4244 Quail Canyon Rd, San Bernardino, CA 92404",1900000,8,8,9264,https://www.zillow.com//homedetails/4244-Quail-Canyon-Rd-San-Bernardino-CA-92404/17246700_zpid/,
-"2510 Clairemont Dr UNIT 104, San Diego, CA 92117",927500,1,1,860,https://www.zillow.com//homedetails/2510-Clairemont-Dr-UNIT-104-San-Diego-CA-92117/16927496_zpid/,
-"706 N Division Dr, Big Bear City, CA 92314",36000,-,0,-,https://www.zillow.com//homedetails/706-N-Division-Dr-Big-Bear-City-CA-92314/2054102101_zpid/,
-"15704 Mil Potrero Hwy, Pine Mountain Club, CA 93222",424000,3,2,1252,https://www.zillow.com//homedetails/15704-Mil-Potrero-Hwy-Pine-Mountain-Club-CA-93222/18978520_zpid/,
-"135 E 35th St, Long Beach, CA 90807",1200000,4,3,1389,https://www.zillow.com//homedetails/135-E-35th-St-Long-Beach-CA-90807/21162074_zpid/,
-"19476 El Rivino Rd, Bloomington, CA 92316",3500000,3,2,1456,https://www.zillow.com//homedetails/19476-El-Rivino-Rd-Bloomington-CA-92316/2062657088_zpid/,
-"5454 Aura Ave, Tarzana, CA 91356",2999999,4,3,1896,https://www.zillow.com//homedetails/5454-Aura-Ave-Tarzana-CA-91356/19940475_zpid/,
-"149650 Ochoco St, Earp, CA 92242",99000,3,2,1584,https://www.zillow.com//homedetails/149650-Ochoco-St-Earp-CA-92242/333259067_zpid/,
-"3 Blanco Rd, El Mirage, CA 92301",22450,-,0,-,https://www.zillow.com//homedetails/3-Blanco-Rd-El-Mirage-CA-92301/2060734886_zpid/,
-"439 Lassen St, Chester, CA 96020",260000,3,1,1516,https://www.zillow.com//homedetails/439-Lassen-St-Chester-CA-96020/249128049_zpid/,
-"35260 Twin Oaks Rd, Julian, CA 92036",425000,1,1,714,https://www.zillow.com//homedetails/35260-Twin-Oaks-Rd-Julian-CA-92036/51079017_zpid/,
-"37970 Bouquet Canyon Rd, Santa Clarita, CA 91390",719000,3,3,1500,https://www.zillow.com//homedetails/37970-Bouquet-Canyon-Rd-Santa-Clarita-CA-91390/20313415_zpid/,
-"6310 County Road 9, Orland, CA 95963",749000,2,3,6200,https://www.zillow.com//homedetails/6310-County-Road-9-Orland-CA-95963/82590020_zpid/,
-"250 S Rose Dr SPACE 47, Placentia, CA 92870",185000,3,2,1200,https://www.zillow.com//homedetails/250-S-Rose-Dr-SPACE-47-Placentia-CA-92870/51671263_zpid/,
-"5919 Great Oak Cir #5921-2, Los Angeles, CA 90042",1875000,5,4,2186,https://www.zillow.com//homedetails/5919-Great-Oak-Cir-5921-2-Los-Angeles-CA-90042/2054255032_zpid/,
-"3398 Punta Alta, Laguna Woods, CA 92637",745000,2,2,1188,https://www.zillow.com//homedetails/3398-Punta-Alta-Laguna-Woods-CA-92637/25694955_zpid/,
-"1515 N Fairfax Ave APT 2, Los Angeles, CA 90046",60000,1,1,200,https://www.zillow.com//homedetails/1515-N-Fairfax-Ave-APT-2-Los-Angeles-CA-90046/20795360_zpid/,
-"7999 Doodlebug Ln, Shingletown, CA 96088",265000,2,1,936,https://www.zillow.com//homedetails/7999-Doodlebug-Ln-Shingletown-CA-96088/2082241713_zpid/,
-"0 Nowhere Rd, Chiriaco Summit, CA 92201",15000,-,0,-,https://www.zillow.com//homedetails/0-Nowhere-Rd-Chiriaco-Summit-CA-92201/2053260959_zpid/,
-"42751 E Florida Ave, Hemet, CA",23999,-,-,-,https://www.zillow.com//b/42751-e-florida-ave-hemet-ca-9h32Zy/,
-"1751 W Citracado Pkwy, Escondido, CA 92029",195000,2,2,1440,https://www.zillow.com//homedetails/1751-W-Citracado-Pkwy-Escondido-CA-92029/2068765907_zpid/,
-"312 S Cesar Chavez St, Brawley, CA 92227",259900,3,3,800,https://www.zillow.com//homedetails/312-S-Cesar-Chavez-St-Brawley-CA-92227/2117933363_zpid/,
-"1800 Melhill Way, Los Angeles, CA 90049",5500000,2,2,1706,https://www.zillow.com//homedetails/1800-Melhill-Way-Los-Angeles-CA-90049/63091247_zpid/,
-"3495 Harrison Gulch Rd, Platina, CA 96076",219000,2,1,256,https://www.zillow.com//homedetails/3495-Harrison-Gulch-Rd-Platina-CA-96076/331231366_zpid/,
-"E Elder St, Calipatria, CA 92233",37500,-,0,-,https://www.zillow.com//homedetails/E-Elder-St-Calipatria-CA-92233/199449570_zpid/,
-"4227 Don Ortega Pl, Los Angeles, CA 90008",3200000,3,4,2766,https://www.zillow.com//homedetails/4227-Don-Ortega-Pl-Los-Angeles-CA-90008/20578447_zpid/,
-"1301 Audubon Rd, Mount Shasta, CA 96067",1499000,5,4,2640,https://www.zillow.com//homedetails/1301-Audubon-Rd-Mount-Shasta-CA-96067/15974199_zpid/,
-"3716 Bottlebrush St, Rosamond, CA 93560",495000,5,3,2757,https://www.zillow.com//homedetails/3716-Bottlebrush-St-Rosamond-CA-93560/19036121_zpid/,
-"18 Freeway Ln, Oceanside, CA 92054",410000,4,2,1344,https://www.zillow.com//homedetails/18-Freeway-Ln-Oceanside-CA-92054/82938862_zpid/,
-"23222 N Cardinal Rd, Llano, CA 92397",322000,1,1,864,https://www.zillow.com//homedetails/23222-N-Cardinal-Rd-Llano-CA-92397/20273192_zpid/,
-"64625 Pierson Blvd SPACE E1, Desert Hot Springs, CA 92240",60000,3,1,-,https://www.zillow.com//homedetails/64625-Pierson-Blvd-SPACE-E1-Desert-Hot-Springs-CA-92240/2055250085_zpid/,
-"145 N Sacramento St, Susanville, CA 96130",239900,3,2,1600,https://www.zillow.com//homedetails/145-N-Sacramento-St-Susanville-CA-96130/19107953_zpid/,
-"35610 Jewel Ln, Wildomar, CA 92595",1499000,5,3,3100,https://www.zillow.com//homedetails/35610-Jewel-Ln-Wildomar-CA-92595/17935030_zpid/,
-"1895 W Devonshire Ave SPACE 143, Hemet, CA 92545",53900,2,2,960,https://www.zillow.com//homedetails/1895-W-Devonshire-Ave-SPACE-143-Hemet-CA-92545/79833518_zpid/,
-"22601 Bear Valley Rd SPACE 49, Apple Valley, CA 92308",95000,2,2,928,https://www.zillow.com//homedetails/22601-Bear-Valley-Rd-SPACE-49-Apple-Valley-CA-92308/82918569_zpid/,
-"388 Hampshire Dr, Quail Valley, CA 92587",53500,-,0,-,https://www.zillow.com//homedetails/388-Hampshire-Dr-Quail-Valley-CA-92587/2069742786_zpid/,
-"71654 Cholla Way, Palm Desert, CA 92260",675000,0,0,39204,https://www.zillow.com//homedetails/71654-Cholla-Way-Palm-Desert-CA-92260/95883816_zpid/,
-"10970 Long Ridge Rd, Zenia, CA 95595",345000,-,0,-,https://www.zillow.com//homedetails/10970-Long-Ridge-Rd-Zenia-CA-95595/334063637_zpid/,
-"Rainbow Wk Vic Shoreline, Green Valley, CA 91350",12000,-,0,-,https://www.zillow.com//homedetails/Rainbow-Wk-Vic-Shoreline-Green-Valley-CA-91350/95683918_zpid/,
-"22790 Tehama Ave, Gerber, CA 96035",525000,3,2,1820,https://www.zillow.com//homedetails/22790-Tehama-Ave-Gerber-CA-96035/16178137_zpid/,
-"61120 Coyote Canyon Rd, Anza, CA 92539",89000,-,0,-,https://www.zillow.com//homedetails/61120-Coyote-Canyon-Rd-Anza-CA-92539/2090902930_zpid/,
-"19814 Big Bend Dr, Cottonwood, CA 96022",345000,3,2,1480,https://www.zillow.com//homedetails/19814-Big-Bend-Dr-Cottonwood-CA-96022/16183261_zpid/,
-"76176 Amboy Rd, Twentynine Palms, CA 92277",18000,-,0,-,https://www.zillow.com//homedetails/76176-Amboy-Rd-Twentynine-Palms-CA-92277/137810462_zpid/,
-"12872 Vineyard Crest Pl, Lakeside, CA 92040",400000,-,0,-,https://www.zillow.com//homedetails/12872-Vineyard-Crest-Pl-Lakeside-CA-92040/99483256_zpid/,
-"6432 Goleta Ave, Yucca Valley, CA 92284",25000,-,0,-,https://www.zillow.com//homedetails/6432-Goleta-Ave-Yucca-Valley-CA-92284/137798854_zpid/,
-"1235 Pepper Dr, El Centro, CA 92243",795000,5,4,2654,https://www.zillow.com//homedetails/1235-Pepper-Dr-El-Centro-CA-92243/18865818_zpid/,
-"14768 Friar St, Van Nuys, CA 91411",958777,12,9,4318,https://www.zillow.com//homedetails/14768-Friar-St-Van-Nuys-CA-91411/19971073_zpid/,
-"9509 Quarter Horse Ln, Palo Cedro, CA 96073",795000,5,3.5,3202,https://www.zillow.com//homedetails/9509-Quarter-Horse-Ln-Palo-Cedro-CA-96073/15215176_zpid/,
-"20855 Villa Knoll Dr, Lake Mathews, CA 92570",397000,-,0,-,https://www.zillow.com//homedetails/20855-Villa-Knoll-Dr-Lake-Mathews-CA-92570/2066660292_zpid/,
-"276 N El Camino Real SPACE 124, Oceanside, CA 92058",495000,3,2,1674,https://www.zillow.com//homedetails/276-N-El-Camino-Real-SPACE-124-Oceanside-CA-92058/140605905_zpid/,
-"17068 Colima Rd APT 274, Hacienda Heights, CA 91745",399000,1,1,612,https://www.zillow.com//homedetails/17068-Colima-Rd-APT-274-Hacienda-Heights-CA-91745/21496836_zpid/,
-"66058 Foothill Dr, Joshua Tree, CA 92252",275000,-,0,-,https://www.zillow.com//homedetails/66058-Foothill-Dr-Joshua-Tree-CA-92252/137803511_zpid/,
-"76983 Florida Ave, Palm Desert, CA 92211",179000,-,0,-,https://www.zillow.com//homedetails/76983-Florida-Ave-Palm-Desert-CA-92211/2081662360_zpid/,
-"38210 Rioja Ct, Palmdale, CA 93550",424900,3,3,1661,https://www.zillow.com//homedetails/38210-Rioja-Ct-Palmdale-CA-93550/89144656_zpid/,
-"480 Carroll St, Susanville, CA 96130",319500,3,3,2492,https://www.zillow.com//homedetails/480-Carroll-St-Susanville-CA-96130/19107429_zpid/,
-"3564 Poppy Dr, Calabasas, CA 91302",999999,3,3,1890,https://www.zillow.com//homedetails/3564-Poppy-Dr-Calabasas-CA-91302/19898490_zpid/,
-"121 N Almont Dr APT 303, Beverly Hills, CA 90211",1600000,2,3,1744,https://www.zillow.com//homedetails/121-N-Almont-Dr-APT-303-Beverly-Hills-CA-90211/20516090_zpid/,
-"21065 Raquel Rd, Laguna Beach, CA 92651",2289000,2,1,1200,https://www.zillow.com//homedetails/21065-Raquel-Rd-Laguna-Beach-CA-92651/2053605997_zpid/,
-"3462 Locust St SPACE 43, Cottonwood, CA 96022",65000,2,1,672,https://www.zillow.com//homedetails/3462-Locust-St-SPACE-43-Cottonwood-CA-96022/54982438_zpid/,
-"0 Vic Ave N #O8-125, Palmdale, CA 93591",19900,-,0,-,https://www.zillow.com//homedetails/0-Vic-Ave-N-O8-125-Palmdale-CA-93591/2054482509_zpid/,
-"538 Andromeda Dr, Lompoc, CA 93436",999900,4,4,3196,https://www.zillow.com//homedetails/538-Andromeda-Dr-Lompoc-CA-93436/64807810_zpid/,
-"10242 Victoria Dr, Redding, CA 96001",249500,0,0,1200,https://www.zillow.com//homedetails/10242-Victoria-Dr-Redding-CA-96001/15245254_zpid/,
-"1401 E La Loma Ave, Somis, CA 93066",2995000,3,2,-,https://www.zillow.com//homedetails/1401-E-La-Loma-Ave-Somis-CA-93066/2054396041_zpid/,
-"8655 Lake Murray Blvd UNIT 8, San Diego, CA 92119",379950,1,1,610,https://www.zillow.com//homedetails/8655-Lake-Murray-Blvd-UNIT-8-San-Diego-CA-92119/16983821_zpid/,
-"22 Upton, Wilomar, CA 92595",44843,-,0,-,https://www.zillow.com//homedetails/22-Upton-Wilomar-CA-92595/2098840126_zpid/,
-"4th Street Lots #1-6, Borrego Springs, CA 92004",19650,-,0,-,https://www.zillow.com//homedetails/4th-Street-Lots-1-6-Borrego-Springs-CA-92004/2055930740_zpid/,
-"1531 Nile Dr, Thermal, CA 92274",12000,-,0,-,https://www.zillow.com//homedetails/1531-Nile-Dr-Thermal-CA-92274/113368568_zpid/,
-"945 W Kendall St, Corona, CA 92882",190000,-,0,-,https://www.zillow.com//homedetails/945-W-Kendall-St-Corona-CA-92882/122419424_zpid/,
-"382 19th St, Alturas, CA 96101",150000,4,2,1944,https://www.zillow.com//homedetails/382-19th-St-Alturas-CA-96101/50943834_zpid/,
-"5th Street Lots #7-12, Borrego Springs, CA 92004",19650,-,0,-,https://www.zillow.com//homedetails/5th-Street-Lots-7-12-Borrego-Springs-CA-92004/2059426686_zpid/,
-"1422 19th St APT A, Santa Monica, CA 90404",2050000,2,3,1715,https://www.zillow.com//homedetails/1422-19th-St-APT-A-Santa-Monica-CA-90404/20474075_zpid/,
-"Enchanted Way, Running Springs, CA 92382",55000,-,0,-,https://www.zillow.com//homedetails/Enchanted-Way-Running-Springs-CA-92382/137634979_zpid/,
-"45457 Florida Ave, Hemet, CA 92544",360000,1,1,-,https://www.zillow.com//homedetails/45457-Florida-Ave-Hemet-CA-92544/2056412024_zpid/,
-"84250 Indio Springs Dr SPACE 379, Indio, CA 92203",89500,1,1,400,https://www.zillow.com//homedetails/84250-Indio-Springs-Dr-SPACE-379-Indio-CA-92203/18052701_zpid/,
-"27 Jeraboa Rd, Mountain Center, CA 92561",22000,-,0,-,https://www.zillow.com//homedetails/27-Jeraboa-Rd-Mountain-Center-CA-92561/2054344712_zpid/,
-"18 Algoma Ave, Los Angeles, CA",85000,-,-,-,"https://www.zillow.com//b/building/34.133953,-118.20502_ll/",
-"0 Ingomar St, Reseda, CA 91335",85000,1,1,160,https://www.zillow.com//homedetails/0-Ingomar-St-Reseda-CA-91335/2054494679_zpid/,
-"38 Burnt Mill Canyon Rd #16-17, Cedarpines Park, CA 92322",8995,-,0,-,https://www.zillow.com//homedetails/38-Burnt-Mill-Canyon-Rd-16-17-Cedarpines-Park-CA-92322/2075770416_zpid/,
-"1104 W Westward Ave, Banning, CA 92220",1100000,-,0,-,https://www.zillow.com//homedetails/1104-W-Westward-Ave-Banning-CA-92220/95983040_zpid/,
-"3600 W Florida Ave SPACE 366, Hemet, CA 92545",98500,1,1,600,https://www.zillow.com//homedetails/3600-W-Florida-Ave-SPACE-366-Hemet-CA-92545/2054238587_zpid/,
-"13806 Bayberry St, Victorville, CA 92392",515000,5,3,2682,https://www.zillow.com//homedetails/13806-Bayberry-St-Victorville-CA-92392/79561428_zpid/,
-"3940 Paradise Rd, Santa Barbara, CA 93105",5450000,0,0,-,https://www.zillow.com//homedetails/3940-Paradise-Rd-Santa-Barbara-CA-93105/2115272609_zpid/,
-"1514 Black Sea Ave, Thermal, CA 92274",12000,-,0,-,https://www.zillow.com//homedetails/1514-Black-Sea-Ave-Thermal-CA-92274/113368128_zpid/,
-"465-435 Elysian Valley Rd, Janesville, CA 96114",299000,-,0,-,https://www.zillow.com//homedetails/465-435-Elysian-Valley-Rd-Janesville-CA-96114/300251575_zpid/,
-"32000 Riverside Dr #J-9, Lake Elsinore, CA 92530",135000,1,1,-,https://www.zillow.com//homedetails/32000-Riverside-Dr-J-9-Lake-Elsinore-CA-92530/2054581636_zpid/,
-"6665 Long Beach Blvd SPACE G30, Long Beach, CA 90805",9860,1,1,256,https://www.zillow.com//homedetails/6665-Long-Beach-Blvd-SPACE-G30-Long-Beach-CA-90805/2055279466_zpid/,
-"37311 47th St E, Palmdale, CA",40000,-,-,-,https://www.zillow.com//b/37311-47th-st-e-palmdale-ca-5cr4Tw/,
-"69411 Ramon Rd #42, Cathedral City, CA 92234",115000,-,0,-,https://www.zillow.com//homedetails/69411-Ramon-Rd-42-Cathedral-City-CA-92234/18118727_zpid/,
-"141 Peninsula Dr, Westwood, CA 96137",425000,2,2,1000,https://www.zillow.com//homedetails/141-Peninsula-Dr-Westwood-CA-96137/112417073_zpid/,
-"5700 Via Real UNIT 139, Carpinteria, CA 93013",265000,-,0,-,https://www.zillow.com//homedetails/5700-Via-Real-UNIT-139-Carpinteria-CA-93013/15960684_zpid/,
-"22054 Hidden Valley Dr, Redding, CA 96003",119900,3,1,1100,https://www.zillow.com//homedetails/22054-Hidden-Valley-Dr-Redding-CA-96003/15249104_zpid/,
-"2865 Holly Rd, Santa Barbara, CA 93105",425000,0,0,-,https://www.zillow.com//homedetails/2865-Holly-Rd-Santa-Barbara-CA-93105/95270859_zpid/,
-"508 Glenwood Rd APT 103, Glendale, CA 91202",810000,3,2.5,1455,https://www.zillow.com//homedetails/508-Glenwood-Rd-APT-103-Glendale-CA-91202/20829434_zpid/,
-"510 N Helberta Ave, Redondo Beach, CA 90277",1699000,-,0,-,https://www.zillow.com//homedetails/510-N-Helberta-Ave-Redondo-Beach-CA-90277/2089766285_zpid/,
-"18750 Mount Turner Ave, Mill Creek, CA 96061",390000,4,2,2346,https://www.zillow.com//homedetails/18750-Mount-Turner-Ave-Mill-Creek-CA-96061/2056010717_zpid/,
-"14 Pheasant Dr, Alturas, CA 96101",8500,0,0,-,https://www.zillow.com//homedetails/14-Pheasant-Dr-Alturas-CA-96101/2069400083_zpid/,
-"1 Macon Rd, Adelanto, CA 92301",17950,-,0,-,https://www.zillow.com//homedetails/1-Macon-Rd-Adelanto-CA-92301/2087460998_zpid/,
-"15 Valle Dr, Crestline, CA 92325",14765,-,0,-,https://www.zillow.com//homedetails/15-Valle-Dr-Crestline-CA-92325/2069932015_zpid/,
-"471 E 8th Ave #3/4, Chico, CA 95926",466000,6,3,1580,https://www.zillow.com//homedetails/471-E-8th-Ave-3-4-Chico-CA-95926/18215135_zpid/,
-"3200 Redwood Dr #2, Redway, CA 95560",18000,1,1,350,https://www.zillow.com//homedetails/3200-Redwood-Dr-2-Redway-CA-95560/2054518047_zpid/,
-"255 Oregon St, Weaverville, CA 96093",269000,1,1,684,https://www.zillow.com//homedetails/255-Oregon-St-Weaverville-CA-96093/16208125_zpid/,
-"2 Palmetto Rd, El Mirage, CA 92301",17955,-,0,-,https://www.zillow.com//homedetails/2-Palmetto-Rd-El-Mirage-CA-92301/2060735679_zpid/,
-"10982 Rawson Rd, Red Bluff, CA 96080",279000,3,2,1534,https://www.zillow.com//homedetails/10982-Rawson-Rd-Red-Bluff-CA-96080/16174605_zpid/,
-"289 Antares Ave, Lompoc, CA 93436",590000,4,2,1779,https://www.zillow.com//homedetails/289-Antares-Ave-Lompoc-CA-93436/15927176_zpid/,
-"2072-031 Old Topanga Canyon Rd, Topanga, CA 90290",29950,-,0,-,https://www.zillow.com//homedetails/2072-031-Old-Topanga-Canyon-Rd-Topanga-CA-90290/2059190805_zpid/,
-"175 S Fairfield Ave, Susanville, CA 96130",304999,3,2,1367,https://www.zillow.com//homedetails/175-S-Fairfield-Ave-Susanville-CA-96130/2087720224_zpid/,
-"56276 Happy Trl, Landers, CA 92285",950000,4,1,2144,https://www.zillow.com//homedetails/56276-Happy-Trl-Landers-CA-92285/17509185_zpid/,
-"704-655 Indians Rd, Janesville, CA 96114",675000,5,5,3800,https://www.zillow.com//homedetails/704-655-Indians-Rd-Janesville-CA-96114/19111366_zpid/,
-"91 Top Of The Grade, Douglas City, CA 96024",425000,4,3,1924,https://www.zillow.com//homedetails/91-Top-Of-The-Grade-Douglas-City-CA-96024/334064318_zpid/,
-"532 N Rossmore Ave APT 209, Los Angeles, CA 90004",530000,1,1,701,https://www.zillow.com//homedetails/532-N-Rossmore-Ave-APT-209-Los-Angeles-CA-90004/20782642_zpid/,
-"1515 N Fairfax Ave, West Hollywood, CA 90046",60000,1,1,200,https://www.zillow.com//homedetails/1515-N-Fairfax-Ave-West-Hollywood-CA-90046/2092989944_zpid/,
-"16473 Green Tree Blvd, Victorville, CA",20000,-,-,-,https://www.zillow.com//b/16473-green-tree-blvd-victorville-ca-5YYDcz/,
-"4671 Morales St, New Cuyama, CA 93254",225000,3,1,988,https://www.zillow.com//homedetails/4671-Morales-St-New-Cuyama-CA-93254/15960027_zpid/,
-"10675 Bryant St SPACE 2, Yucaipa, CA 92399",89999,1,1,900,https://www.zillow.com//homedetails/10675-Bryant-St-SPACE-2-Yucaipa-CA-92399/145570023_zpid/,
-"5149 Hess Rd, Phelan, CA 92371",439000,-,0,-,https://www.zillow.com//homedetails/5149-Hess-Rd-Phelan-CA-92371/2065529961_zpid/,
-"93 Juniper Rd, Chilcoot, CA 96105",396500,1,1,1316,https://www.zillow.com//homedetails/93-Juniper-Rd-Chilcoot-CA-96105/2056834923_zpid/,
-"28 Oak Dr, Whitethorn, CA 95589",20000,-,0,-,https://www.zillow.com//homedetails/28-Oak-Dr-Whitethorn-CA-95589/112403093_zpid/,
+address,price,beds,baths,area,link
+"115 Kay Dr, Vallejo, CA 94590",269900,3.0,2.0,1440.0,https://www.zillow.com//homedetails/115-Kay-Dr-Vallejo-CA-94590/2058064570_zpid/
+"30000 Kasson Rd, Tracy, CA 95304",260000,2.0,1.0,1200.0,https://www.zillow.com//homedetails/30000-Kasson-Rd-Tracy-CA-95304/15384317_zpid/
+"3142 Loretta Way, Santa Rosa, CA 95403",279500,2.0,2.0,826.0,https://www.zillow.com//homedetails/3142-Loretta-Way-Santa-Rosa-CA-95403/119690592_zpid/
+"235 N 11th St, Fresno, CA 93702",209950,3.0,1.0,916.0,https://www.zillow.com//homedetails/235-N-11th-St-Fresno-CA-93702/18756208_zpid/
+"605 Pringle Ave #7, Galt, CA 95632",175000,2.0,2.0,1100.0,https://www.zillow.com//homedetails/605-Pringle-Ave-7-Galt-CA-95632/2059049653_zpid/
+"2K4 Sunset Way, Tracy, CA 95304",260000,3.0,1.0,1120.0,https://www.zillow.com//homedetails/2K4-Sunset-Way-Tracy-CA-95304/442838759_zpid/
+"70425 Highway 395, Bridgeport, CA 93517",350000,3.0,2.0,1261.0,https://www.zillow.com//homedetails/70425-Highway-395-Bridgeport-CA-93517/19226102_zpid/
+"2381 Plateau Dr, San Jose, CA 95125",1329000,4.0,4.0,1787.0,https://www.zillow.com//homedetails/2381-Plateau-Dr-San-Jose-CA-95125/64439825_zpid/
+"82414 5th St, Trona, CA 93562",40000,2.0,1.0,900.0,https://www.zillow.com//homedetails/82414-5th-St-Trona-CA-93562/17484027_zpid/
+"12846 Lacey Blvd SPACE 62, Hanford, CA 93230",42500,2.0,2.0,564.0,https://www.zillow.com//homedetails/12846-Lacey-Blvd-SPACE-62-Hanford-CA-93230/338262526_zpid/
+"6000 Sheep Ranch Rd, Murphys, CA 95247",359900,3.0,2.0,1212.0,https://www.zillow.com//homedetails/6000-Sheep-Ranch-Rd-Murphys-CA-95247/443192652_zpid/
+"560 W Pleasant Ave SPACE 18, Tulare, CA 93274",77000,3.0,2.0,1400.0,https://www.zillow.com//homedetails/560-W-Pleasant-Ave-SPACE-18-Tulare-CA-93274/83378775_zpid/
+"1742 W Harbor Dr, Isleton, CA 95641",189000,2.0,2.0,1100.0,https://www.zillow.com//homedetails/1742-W-Harbor-Dr-Isleton-CA-95641/2116777341_zpid/
+"805 Eton Ave, Lemoore, CA 93245",394000,3.0,2.0,1700.0,https://www.zillow.com//homedetails/805-Eton-Ave-Lemoore-CA-93245/19072629_zpid/
+"3460 Central Ave, Roseville, CA 95747",795000,3.0,3.0,1641.0,https://www.zillow.com//homedetails/3460-Central-Ave-Roseville-CA-95747/17663436_zpid/
+"812 W Clover Rd SPACE 66, Tracy, CA 95376",199950,3.0,2.0,1344.0,https://www.zillow.com//homedetails/812-W-Clover-Rd-SPACE-66-Tracy-CA-95376/249474558_zpid/
+"10 Belshaw St, Antioch, CA 94509",550000,4.0,3.0,1224.0,https://www.zillow.com//homedetails/10-Belshaw-St-Antioch-CA-94509/18308267_zpid/
+"21164 Thompson Canyon Ave, Caliente, CA 93518",85000,3.0,3.0,1344.0,https://www.zillow.com//homedetails/21164-Thompson-Canyon-Ave-Caliente-CA-93518/2062974499_zpid/
+"742 E Stuart Ave, Fresno, CA 93710",460000,3.0,2.0,1590.0,https://www.zillow.com//homedetails/742-E-Stuart-Ave-Fresno-CA-93710/18704320_zpid/
+"105 W 15th Ave, Delano, CA 93215",550000,3.0,2.0,1533.0,https://www.zillow.com//homedetails/105-W-15th-Ave-Delano-CA-93215/19058440_zpid/
+"13407 Holly St, Trona, CA 93562",127500,2.0,1.0,1145.0,https://www.zillow.com//homedetails/13407-Holly-St-Trona-CA-93562/17483678_zpid/
+"176 Bandit Ln, Oroville, CA 95966",238000,3.0,2.0,1344.0,https://www.zillow.com//homedetails/176-Bandit-Ln-Oroville-CA-95966/18269420_zpid/
+"835 Powell St, Hollister, CA",525000,-,-,-,"https://www.zillow.com//b/building/36.894924,-121.30813_ll/"
+"102 N Lincoln Ave, Dinuba, CA 93618",450000,6.0,4.0,2345.0,https://www.zillow.com//homedetails/102-N-Lincoln-Ave-Dinuba-CA-93618/16215911_zpid/
+"4334 Cowell Rd, Concord, CA 94518",797000,3.0,2.0,1007.0,https://www.zillow.com//homedetails/4334-Cowell-Rd-Concord-CA-94518/18375104_zpid/
+"26231 Isabella Ave, Carmel, CA 93923",4250000,2.0,2.0,1442.0,https://www.zillow.com//homedetails/26231-Isabella-Ave-Carmel-CA-93923/19332390_zpid/
+"605 Rimby Ave, Lodi, CA 95240",485000,2.0,1.0,1167.0,https://www.zillow.com//homedetails/605-Rimby-Ave-Lodi-CA-95240/15261734_zpid/
+"1706 Embarcadero Ln, Bakersfield, CA 93311",860000,3.0,3.0,2947.0,https://www.zillow.com//homedetails/1706-Embarcadero-Ln-Bakersfield-CA-93311/81865888_zpid/
+"1867 Old Mammoth Rd, Mammoth Lakes, CA 93546",839999,3.0,3.0,1360.0,https://www.zillow.com//homedetails/1867-Old-Mammoth-Rd-Mammoth-Lakes-CA-93546/19228022_zpid/
+"1074 Jordan Way, Hanford, CA 93230",208000,3.0,2.0,1100.0,https://www.zillow.com//homedetails/1074-Jordan-Way-Hanford-CA-93230/19068924_zpid/
+"214 Camp Fire Dr, California City, CA 93505",120000,2.0,1.0,860.0,https://www.zillow.com//homedetails/214-Camp-Fire-Dr-California-City-CA-93505/133872054_zpid/
+"6236 Oakdale Ave, Oakland, CA 94605",675000,3.0,2.0,1392.0,https://www.zillow.com//homedetails/6236-Oakdale-Ave-Oakland-CA-94605/24786565_zpid/
+"200 S Dolliver St SPACE 214, Pismo Beach, CA 93449",270000,3.0,1.0,560.0,https://www.zillow.com//homedetails/200-S-Dolliver-St-SPACE-214-Pismo-Beach-CA-93449/2057649223_zpid/
+"216 Eastern Ave, Taft, CA 93268",199900,3.0,2.0,1440.0,https://www.zillow.com//homedetails/216-Eastern-Ave-Taft-CA-93268/18907045_zpid/
+"851 Lee St, Bishop, CA 93514",599000,3.0,2.0,1555.0,https://www.zillow.com//homedetails/851-Lee-St-Bishop-CA-93514/18876776_zpid/
+"15 Willet Ct, Wallace, CA",465000,-,-,-,"https://www.zillow.com//b/building/38.20612,-120.956436_ll/"
+"7363 Malcolms Grove Dr, Creston, CA 93432",1399000,4.0,2.0,-,https://www.zillow.com//homedetails/7363-Malcolms-Grove-Dr-Creston-CA-93432/147175051_zpid/
+"300 Margarita Dr, San Rafael, CA 94901",14950000,6.0,11.0,10311.0,https://www.zillow.com//homedetails/300-Margarita-Dr-San-Rafael-CA-94901/80743634_zpid/
+"887 E Palm Dr, Hanford, CA 93230",385000,3.0,2.0,1513.0,https://www.zillow.com//homedetails/887-E-Palm-Dr-Hanford-CA-93230/19066121_zpid/
+"508 E Elm St, Hanford, CA 93230",370000,6.0,3.0,2040.0,https://www.zillow.com//homedetails/508-E-Elm-St-Hanford-CA-93230/19062748_zpid/
+"1451 San Lucia Ave, Porterville, CA 93257",340000,4.0,2.0,1885.0,https://www.zillow.com//homedetails/1451-San-Lucia-Ave-Porterville-CA-93257/16288172_zpid/
+"2085 Ocean Ave, San Francisco, CA 94127",2099000,5.0,4.0,2729.0,https://www.zillow.com//homedetails/2085-Ocean-Ave-San-Francisco-CA-94127/15187218_zpid/
+"205 Nido Way, Carmel Valley, CA 93924",1550000,4.0,3.0,2250.0,https://www.zillow.com//homedetails/205-Nido-Way-Carmel-Valley-CA-93924/19374540_zpid/
+"34 Mooring Rd, San Rafael, CA 94901",1099000,3.0,4.0,2690.0,https://www.zillow.com//homedetails/34-Mooring-Rd-San-Rafael-CA-94901/80752621_zpid/
+"21095 Tollhouse Rd, Clovis, CA 93619",425000,2.0,2.0,1288.0,https://www.zillow.com//homedetails/21095-Tollhouse-Rd-Clovis-CA-93619/18643000_zpid/
+"9709 White Oak Dr, Bakersfield, CA 93311",477900,4.0,3.0,2035.0,https://www.zillow.com//homedetails/9709-White-Oak-Dr-Bakersfield-CA-93311/19053622_zpid/
+"22 Forest Creek Cir, Chico, CA 95928",399000,3.0,2.0,1500.0,https://www.zillow.com//homedetails/22-Forest-Creek-Cir-Chico-CA-95928/18212649_zpid/
+"5132 N Hawk St, Inyokern, CA 93527",292000,3.0,2.0,1344.0,https://www.zillow.com//homedetails/5132-N-Hawk-St-Inyokern-CA-93527/18910185_zpid/
+"14250 Isleton Road Isleton Ca, Isleton, CA 95690",250000,1.0,1.0,400.0,https://www.zillow.com//homedetails/14250-Isleton-Road-Isleton-Ca-Isleton-CA-95690/2102281802_zpid/
+"835 Kimball Ave #7, Seaside, CA 93955",128000,1.0,1.0,360.0,https://www.zillow.com//homedetails/835-Kimball-Ave-7-Seaside-CA-93955/2058280810_zpid/
+"309 Preakness Ct, Walnut Creek, CA 94597",865000,3.0,3.0,1380.0,https://www.zillow.com//homedetails/309-Preakness-Ct-Walnut-Creek-CA-94597/18410789_zpid/
+"195 Blackberry Ct, Auburn, CA 95603",385000,3.0,2.0,1540.0,https://www.zillow.com//homedetails/195-Blackberry-Ct-Auburn-CA-95603/17683579_zpid/
+"36307 Road 112, Visalia, CA 93291",724900,3.0,2.0,1806.0,https://www.zillow.com//homedetails/36307-Road-112-Visalia-CA-93291/125243263_zpid/
+"21088 Steward Rd, Madera, CA 93638",850000,4.0,3.0,3152.0,https://www.zillow.com//homedetails/21088-Steward-Rd-Madera-CA-93638/19130383_zpid/
+"20325 87th St, California City, CA 93505",495000,5.0,3.0,2918.0,https://www.zillow.com//homedetails/20325-87th-St-California-City-CA-93505/81962195_zpid/
+"214 Avenida Del Sol, Inyokern, CA 93527",145000,3.0,2.0,1344.0,https://www.zillow.com//homedetails/214-Avenida-Del-Sol-Inyokern-CA-93527/18984647_zpid/
+"2380 Walnut Dr, Live Oak, CA 95953",320000,3.0,2.0,1118.0,https://www.zillow.com//homedetails/2380-Walnut-Dr-Live-Oak-CA-95953/16090152_zpid/
+"505 E Beacon Ave, Tulare, CA 93274",280000,3.0,1.0,1008.0,https://www.zillow.com//homedetails/505-E-Beacon-Ave-Tulare-CA-93274/16275681_zpid/
+"1621 Paiute Cir, Bishop, CA 93514",650000,3.0,0.0,1750.0,https://www.zillow.com//homedetails/1621-Paiute-Cir-Bishop-CA-93514/18877987_zpid/
+"1762 County Road R, Willows, CA 95988",1300000,4.0,2.0,2296.0,https://www.zillow.com//homedetails/1762-County-Road-R-Willows-CA-95988/230630112_zpid/
+"1350 S Main St #15, Lakeport, CA 95453",13999,1.0,2.0,450.0,https://www.zillow.com//homedetails/1350-S-Main-St-15-Lakeport-CA-95453/2076725240_zpid/
+"2020 N Ashby Rd SPACE 107, Merced, CA 95348",95000,3.0,2.0,1500.0,https://www.zillow.com//homedetails/2020-N-Ashby-Rd-SPACE-107-Merced-CA-95348/439977298_zpid/
+"28590 Fuentes Dr, Pioneer, CA 95666",249000,3.0,2.0,1540.0,https://www.zillow.com//homedetails/28590-Fuentes-Dr-Pioneer-CA-95666/18206081_zpid/
+"848 Burlando Rd, Kernville, CA 93238",1900000,4.0,3.0,4026.0,https://www.zillow.com//homedetails/848-Burlando-Rd-Kernville-CA-93238/67141482_zpid/
+"1517 Midway Dr, Woodland, CA 95695",1110000,4.0,4.0,4300.0,https://www.zillow.com//homedetails/1517-Midway-Dr-Woodland-CA-95695/16526499_zpid/
+"3950 Mack Rd SPACE 191, Sacramento, CA 95823",140000,2.0,2.0,1440.0,https://www.zillow.com//homedetails/3950-Mack-Rd-SPACE-191-Sacramento-CA-95823/59390162_zpid/
+"170 Mountain View Dr, Oroville, CA 95966",425000,4.0,2.0,1816.0,https://www.zillow.com//homedetails/170-Mountain-View-Dr-Oroville-CA-95966/18266691_zpid/
+"5 Bond Rd, Elk Grove, CA 95624",877000,4.0,3.0,3871.0,https://www.zillow.com//homedetails/5-Bond-Rd-Elk-Grove-CA-95624/443660546_zpid/
+"13489 Yorkshire Rd, Groveland, CA 95321",320000,3.0,2.0,2053.0,https://www.zillow.com//homedetails/13489-Yorkshire-Rd-Groveland-CA-95321/16206503_zpid/
+"2160 Lincoln St, East Palo Alto, CA 94303",1490000,5.0,5.0,2134.0,https://www.zillow.com//homedetails/2160-Lincoln-St-East-Palo-Alto-CA-94303/15585809_zpid/
+"11750 Old River Rd, Hopland, CA 95449",1745000,5.0,3.0,3000.0,https://www.zillow.com//homedetails/11750-Old-River-Rd-Hopland-CA-95449/19209684_zpid/
+"9559 Tenaya Way, Kelseyville, CA 95451",250000,2.0,2.0,1520.0,https://www.zillow.com//homedetails/9559-Tenaya-Way-Kelseyville-CA-95451/19097911_zpid/
+"1139 Newport Ave, Grover Beach, CA 93433",898500,3.0,2.0,1330.0,https://www.zillow.com//homedetails/1139-Newport-Ave-Grover-Beach-CA-93433/15433100_zpid/
+"40 Cove Ct, Napa, CA 94559",2600000,4.0,3.0,2573.0,https://www.zillow.com//homedetails/40-Cove-Ct-Napa-CA-94559/19414245_zpid/
+"1001 Clearview St, Tehachapi, CA 93561",420000,4.0,2.0,1704.0,https://www.zillow.com//homedetails/1001-Clearview-St-Tehachapi-CA-93561/69244601_zpid/
+"1905 W Mallard Way, Hanford, CA 93230",485000,4.0,2.0,2046.0,https://www.zillow.com//homedetails/1905-W-Mallard-Way-Hanford-CA-93230/95689554_zpid/
+"409 Factory St, Nevada City, CA 95959",899000,3.0,3.0,1915.0,https://www.zillow.com//homedetails/409-Factory-St-Nevada-City-CA-95959/19425904_zpid/
+"6649 Steiner Dr, Sacramento, CA 95823",415000,2.0,3.0,1034.0,https://www.zillow.com//homedetails/6649-Steiner-Dr-Sacramento-CA-95823/25839987_zpid/
+"2533 W McKinley Ave SPACE 51, Fresno, CA 93728",72500,2.0,2.0,868.0,https://www.zillow.com//homedetails/2533-W-McKinley-Ave-SPACE-51-Fresno-CA-93728/116151608_zpid/
+"712 S Kandarian Ave, Fowler, CA 93625",455000,3.0,2.0,1666.0,https://www.zillow.com//homedetails/712-S-Kandarian-Ave-Fowler-CA-93625/339724664_zpid/
+"76 Live Oak Rd, Royal Oaks, CA 95076",1300000,3.0,2.0,2390.0,https://www.zillow.com//homedetails/76-Live-Oak-Rd-Royal-Oaks-CA-95076/65440098_zpid/
+"610 Aspen Way, Windsor, CA 95492",179500,2.0,2.0,1345.0,https://www.zillow.com//homedetails/610-Aspen-Way-Windsor-CA-95492/2131043011_zpid/
+"1696 Los Osos Valley Rd, Los Osos, CA 93402",1985000,3.0,3.0,4200.0,https://www.zillow.com//homedetails/1696-Los-Osos-Valley-Rd-Los-Osos-CA-93402/15446820_zpid/
+"245 E Main St, Grass Valley, CA 95945",319000,3.0,2.0,1253.0,https://www.zillow.com//homedetails/245-E-Main-St-Grass-Valley-CA-95945/19428808_zpid/
+"29571 Kit Carson Ct, Coarsegold, CA 93614",424999,4.0,3.0,2294.0,https://www.zillow.com//homedetails/29571-Kit-Carson-Ct-Coarsegold-CA-93614/19151725_zpid/
+"7219 Via Sendero, San Jose, CA 95135",769000,2.0,2.0,1588.0,https://www.zillow.com//homedetails/7219-Via-Sendero-San-Jose-CA-95135/19799554_zpid/
+"3138 W Dakota Ave SPACE 226, Fresno, CA 93722",39999,1.0,1.0,420.0,https://www.zillow.com//homedetails/3138-W-Dakota-Ave-SPACE-226-Fresno-CA-93722/18805869_zpid/
+"3310 Hanson Ave, Clovis, CA 93611",552000,3.0,2.0,2119.0,https://www.zillow.com//homedetails/3310-Hanson-Ave-Clovis-CA-93611/54660599_zpid/
+"18725 State Highway 108 SPACE 18, Jamestown, CA 95327",38000,3.0,2.0,1152.0,https://www.zillow.com//homedetails/18725-State-Highway-108-SPACE-18-Jamestown-CA-95327/94649398_zpid/
+"905 Ross Way, Hanford, CA 93230",346000,3.0,0.0,1544.0,https://www.zillow.com//homedetails/905-Ross-Way-Hanford-CA-93230/51071798_zpid/
+"37865 Balch Park Rd, Springville, CA 93265",649000,3.0,3.0,2342.0,https://www.zillow.com//homedetails/37865-Balch-Park-Rd-Springville-CA-93265/16280209_zpid/
+"14149 Old Emigrant Trl, Grass Valley, CA 95945",395000,3.0,2.0,1248.0,https://www.zillow.com//homedetails/14149-Old-Emigrant-Trl-Grass-Valley-CA-95945/68553182_zpid/
+"150 Kern St SPC 92, Salinas, CA 93905",233000,3.0,2.0,1440.0,https://www.zillow.com//homedetails/150-Kern-St-SPC-92-Salinas-CA-93905/2100639159_zpid/
+"3780 Bridgeport School Rd, Fiddletown, CA 95629",685000,3.0,2.0,2112.0,https://www.zillow.com//homedetails/3780-Bridgeport-School-Rd-Fiddletown-CA-95629/18609339_zpid/
+"5842 Mendocino Ave, Oakland, CA 94618",1600000,2.0,1.0,1015.0,https://www.zillow.com//homedetails/5842-Mendocino-Ave-Oakland-CA-94618/24811763_zpid/
+"40 Sirretta St, Kernville, CA 93238",310250,2.0,1.0,870.0,https://www.zillow.com//homedetails/40-Sirretta-St-Kernville-CA-93238/18915029_zpid/
+"11821 Polaris Dr, Grass Valley, CA 95949",545000,3.0,2.0,1634.0,https://www.zillow.com//homedetails/11821-Polaris-Dr-Grass-Valley-CA-95949/19461055_zpid/
+"2905 Lynx Dr, Lake Isabella, CA 93240",345000,3.0,3.0,2176.0,https://www.zillow.com//homedetails/2905-Lynx-Dr-Lake-Isabella-CA-93240/18985963_zpid/
+"127 Madrona Dr, Atwater, CA 95301",420000,4.0,2.0,1876.0,https://www.zillow.com//homedetails/127-Madrona-Dr-Atwater-CA-95301/19192850_zpid/
+"293 Castlewood Cir #A, Roseville, CA 95678",524900,2.0,3.0,1817.0,https://www.zillow.com//homedetails/293-Castlewood-Cir-A-Roseville-CA-95678/443839432_zpid/
+"11178 Big Creek Rd, Groveland, CA 95321",145000,-,0.0,-,https://www.zillow.com//homedetails/11178-Big-Creek-Rd-Groveland-CA-95321/2062993482_zpid/
+"1309 Costa Brava, Pismo Beach, CA 93449",1850000,3.0,3.0,1802.0,https://www.zillow.com//homedetails/1309-Costa-Brava-Pismo-Beach-CA-93449/112776876_zpid/
+"460 Oswald Rd, Yuba City, CA 95991",955000,7.0,2.0,1205.0,https://www.zillow.com//homedetails/460-Oswald-Rd-Yuba-City-CA-95991/2096166875_zpid/
+"4746 Olive Dr, Concord, CA 94521",850000,4.0,2.0,1731.0,https://www.zillow.com//homedetails/4746-Olive-Dr-Concord-CA-94521/18353416_zpid/
+"3240 County Road 99w, Artois, CA 95963",419900,3.0,2.0,1680.0,https://www.zillow.com//homedetails/3240-County-Road-99w-Artois-CA-95963/242650738_zpid/
+"580 Oswald Ave, Yuba City, CA 95991",1900000,8.0,5.0,3266.0,https://www.zillow.com//homedetails/580-Oswald-Ave-Yuba-City-CA-95991/122910976_zpid/
+"903 Alameda St, Maricopa, CA 93252",195000,2.0,1.0,1000.0,https://www.zillow.com//homedetails/903-Alameda-St-Maricopa-CA-93252/442748191_zpid/
+"1259 Fulton Ave #T, Vallejo, CA 94591",772000,5.0,4.0,3207.0,https://www.zillow.com//homedetails/1259-Fulton-Ave-T-Vallejo-CA-94591/351931194_zpid/
+"2370 Coachman Rd, Mariposa, CA 95338",303000,2.0,2.0,1160.0,https://www.zillow.com//homedetails/2370-Coachman-Rd-Mariposa-CA-95338/19235621_zpid/
+"14537 E Mira Vista Ln, Lockeford, CA 95237",1750000,7.0,5.0,4375.0,https://www.zillow.com//homedetails/14537-E-Mira-Vista-Ln-Lockeford-CA-95237/111092505_zpid/
+"10 Spinnaker Pl, Redwood City, CA 94065",2545500,3.0,3.0,1960.0,https://www.zillow.com//homedetails/10-Spinnaker-Pl-Redwood-City-CA-94065/15617173_zpid/
+"8776 Stinson View Rd, Valley Springs, CA 95252",120000,-,0.0,-,https://www.zillow.com//homedetails/8776-Stinson-View-Rd-Valley-Springs-CA-95252/52453652_zpid/
+"10015 Havencrest Ct, Stockton, CA 95219",675000,6.0,3.0,2590.0,https://www.zillow.com//homedetails/10015-Havencrest-Ct-Stockton-CA-95219/61345764_zpid/
+"17951 Crowbar Ln, Tuolumne, CA 95379",39000,0.0,0.0,-,https://www.zillow.com//homedetails/17951-Crowbar-Ln-Tuolumne-CA-95379/97846003_zpid/
+"1624 Fernandes St, Modesto, CA 95355",465000,3.0,2.0,1756.0,https://www.zillow.com//homedetails/1624-Fernandes-St-Modesto-CA-95355/16038334_zpid/
+"10035 Mills Station Rd SPACE 125, Sacramento, CA 95827",139900,2.0,2.0,801.0,https://www.zillow.com//homedetails/10035-Mills-Station-Rd-SPACE-125-Sacramento-CA-95827/300347296_zpid/
+"247 E Highway 12 #13, Valley Springs, CA 95252",41000,1.0,1.0,480.0,https://www.zillow.com//homedetails/247-E-Highway-12-13-Valley-Springs-CA-95252/400973674_zpid/
+"22 Rancho Grande Cir, Atwater, CA 95301",120000,3.0,2.0,1100.0,https://www.zillow.com//homedetails/22-Rancho-Grande-Cir-Atwater-CA-95301/443151561_zpid/
+"2145 Portola Ct, Fairfield, CA 94534",626000,3.0,2.0,1624.0,https://www.zillow.com//homedetails/2145-Portola-Ct-Fairfield-CA-94534/15726525_zpid/
+"1990 S Highway 1, Elk, CA 95432",8100000,6.0,4.0,5100.0,https://www.zillow.com//homedetails/1990-S-Highway-1-Elk-CA-95432/19216246_zpid/
+"6 Sea Gull Way, Half Moon Bay, CA 94019",475000,2.0,2.0,1484.0,https://www.zillow.com//homedetails/6-Sea-Gull-Way-Half-Moon-Bay-CA-94019/68565127_zpid/
+"2201 Charlie Chambers Dr, Hanford, CA 93230",415000,4.0,2.0,1990.0,https://www.zillow.com//homedetails/2201-Charlie-Chambers-Dr-Hanford-CA-93230/95714118_zpid/
+"440 Magnolia St, Gridley, CA 95948",305000,2.0,1.0,1215.0,https://www.zillow.com//homedetails/440-Magnolia-St-Gridley-CA-95948/18223061_zpid/
+"6165 Pony Express Trl SPC 13, Pollock Pines, CA 95726",38000,1.0,1.0,432.0,https://www.zillow.com//homedetails/6165-Pony-Express-Trl-SPC-13-Pollock-Pines-CA-95726/300484298_zpid/
+"910 G St, Marysville, CA 95901",450000,5.0,3.0,2039.0,https://www.zillow.com//homedetails/910-G-St-Marysville-CA-95901/16549886_zpid/
+"1267 81st Ave, Oakland, CA 94621",567000,3.0,2.0,1253.0,https://www.zillow.com//homedetails/1267-81st-Ave-Oakland-CA-94621/24796720_zpid/
+"225 Locust St #N4, Sausalito, CA 94965",154500,2.0,2.0,550.0,https://www.zillow.com//homedetails/225-Locust-St-N4-Sausalito-CA-94965/433892155_zpid/
+"2304 Peppertree Way APT 4, Antioch, CA 94509",215000,2.0,1.0,925.0,https://www.zillow.com//homedetails/2304-Peppertree-Way-APT-4-Antioch-CA-94509/18316765_zpid/
+"3095 Marina Dr APT 6, Marina, CA 93933",610000,2.0,2.0,940.0,https://www.zillow.com//homedetails/3095-Marina-Dr-APT-6-Marina-CA-93933/19358039_zpid/
+"14415 Brown Ln, Valley Springs, CA 95252",850000,5.0,3.0,3000.0,https://www.zillow.com//homedetails/14415-Brown-Ln-Valley-Springs-CA-95252/64735577_zpid/
+"1914 Virginia Ave, West Sacramento, CA 95691",545000,3.0,2.0,1350.0,https://www.zillow.com//homedetails/1914-Virginia-Ave-West-Sacramento-CA-95691/16533877_zpid/
+"1205 Trinity Ave, Seaside, CA 93955",899950,3.0,2.0,900.0,https://www.zillow.com//homedetails/1205-Trinity-Ave-Seaside-CA-93955/19338094_zpid/
+"32200 N Harbor Dr #6, Fort Bragg, CA 95437",189000,1.0,1.0,399.0,https://www.zillow.com//homedetails/32200-N-Harbor-Dr-6-Fort-Bragg-CA-95437/2055760280_zpid/
+"5145 Northfork Pl, Paso Robles, CA 93446",1156000,4.0,2.0,3017.0,https://www.zillow.com//homedetails/5145-Northfork-Pl-Paso-Robles-CA-93446/15404869_zpid/
+"9768 Marmot Way, Kelseyville, CA 95451",362000,3.0,2.0,1680.0,https://www.zillow.com//homedetails/9768-Marmot-Way-Kelseyville-CA-95451/19097958_zpid/
+"15994 Mountain View Dr, Nevada City, CA 95959",449000,3.0,2.0,1450.0,https://www.zillow.com//homedetails/15994-Mountain-View-Dr-Nevada-City-CA-95959/19450794_zpid/
+"113 4th Ave, Santa Cruz, CA 95062",4999000,4.0,4.0,2658.0,https://www.zillow.com//homedetails/113-4th-Ave-Santa-Cruz-CA-95062/16112546_zpid/
+"2244 Fountain Square Ave, Manteca, CA 95337",1099000,5.0,3.0,3913.0,https://www.zillow.com//homedetails/2244-Fountain-Square-Ave-Manteca-CA-95337/58725658_zpid/
+"1266 Canopy Ln, Morgan Hill, CA 95037",1270000,4.0,3.0,2378.0,https://www.zillow.com//homedetails/1266-Canopy-Ln-Morgan-Hill-CA-95037/325806657_zpid/
+"2410 Ronita Ln #10, Lake Isabella, CA 93240",25000,1.0,1.0,672.0,https://www.zillow.com//homedetails/2410-Ronita-Ln-10-Lake-Isabella-CA-93240/18973957_zpid/
+"9200 Highway 41, Lemoore, CA 93245",790000,4.0,4.0,3300.0,https://www.zillow.com//homedetails/9200-Highway-41-Lemoore-CA-93245/95528793_zpid/
+"1475 Railroad Flat Rd #3, Railroad Flat, CA 95248",92000,3.0,1.0,650.0,https://www.zillow.com//homedetails/1475-Railroad-Flat-Rd-3-Railroad-Flat-CA-95248/443406641_zpid/
+"65300 Lake View Dr, Hume, CA 93628",450000,3.0,2.0,1700.0,https://www.zillow.com//homedetails/65300-Lake-View-Dr-Hume-CA-93628/18644633_zpid/
+"13370 Clover St, Trona, CA 93562",69999,2.0,1.0,825.0,https://www.zillow.com//homedetails/13370-Clover-St-Trona-CA-93562/17483860_zpid/
+"116 Frost Dr, Woodland, CA 95695",490000,3.0,2.0,1200.0,https://www.zillow.com//homedetails/116-Frost-Dr-Woodland-CA-95695/16510036_zpid/
+"150 Silverado Trl TRAILER 78, Napa, CA 94559",300000,3.0,2.0,1542.0,https://www.zillow.com//homedetails/150-Silverado-Trl-TRAILER-78-Napa-CA-94559/64479976_zpid/
+"145 South St #A-28, San Luis Obispo, CA 93401",139900,2.0,1.0,444.0,https://www.zillow.com//homedetails/145-South-St-A-28-San-Luis-Obispo-CA-93401/441834572_zpid/
+"18215 Aarondale Rd, Sonora, CA 95370",699000,3.0,2.0,1680.0,https://www.zillow.com//homedetails/18215-Aarondale-Rd-Sonora-CA-95370/16207545_zpid/
+"2683 Apache Trl, Clearlake Oaks, CA 95423",40000,-,0.0,-,https://www.zillow.com//homedetails/2683-Apache-Trl-Clearlake-Oaks-CA-95423/112404263_zpid/
+"1938 Adelaida Rd, Paso Robles, CA",250000,-,-,-,https://www.zillow.com//b/1938-adelaida-rd-paso-robles-ca-9NCTDy/
+"10108 Marsh View Way, Lower Lake, CA 95457",620000,4.0,2.0,2600.0,https://www.zillow.com//homedetails/10108-Marsh-View-Way-Lower-Lake-CA-95457/201512032_zpid/
+"17996 Laramie Ln, Twain Harte, CA 95383",425000,3.0,2.0,1300.0,https://www.zillow.com//homedetails/17996-Laramie-Ln-Twain-Harte-CA-95383/16192818_zpid/
+"1028 W Las Flores Ave, Ridgecrest, CA 93555",270000,3.0,2.0,1576.0,https://www.zillow.com//homedetails/1028-W-Las-Flores-Ave-Ridgecrest-CA-93555/19031556_zpid/
+"1416 Woodbury Ct, Merced, CA",499900,-,-,-,"https://www.zillow.com//b/building/37.409145,-120.50324_ll/"
+"696 Athol Ave APT 302, Oakland, CA 94610",435000,1.0,1.0,765.0,https://www.zillow.com//homedetails/696-Athol-Ave-APT-302-Oakland-CA-94610/24763401_zpid/
+"2369 S Grace St, Fresno, CA 93721",295000,3.0,1.0,1500.0,https://www.zillow.com//homedetails/2369-S-Grace-St-Fresno-CA-93721/18771344_zpid/
+"5783 Kent Way, Linda, CA 95901",463000,4.0,2.0,1980.0,https://www.zillow.com//homedetails/5783-Kent-Way-Linda-CA-95901/249299407_zpid/
+"448 Scodie Ave #6, Kernville, CA 93238",37500,1.0,1.0,600.0,https://www.zillow.com//homedetails/448-Scodie-Ave-6-Kernville-CA-93238/18915237_zpid/
+"451 Alberto Way UNIT D146, Los Gatos, CA 95032",600000,2.0,1.0,768.0,https://www.zillow.com//homedetails/451-Alberto-Way-UNIT-D146-Los-Gatos-CA-95032/19749951_zpid/
+"3154 E Montecito Ave, Fresno, CA 93702",339000,2.0,1.0,1240.0,https://www.zillow.com//homedetails/3154-E-Montecito-Ave-Fresno-CA-93702/18763967_zpid/
+"590 Lazy Rb Ranch Rd, Bakersfield, CA 93307",1250000,4.0,3.0,2761.0,https://www.zillow.com//homedetails/590-Lazy-Rb-Ranch-Rd-Bakersfield-CA-93307/81864992_zpid/
+"4600 Rocky Bar Rd, Wilseyville, CA 95257",295000,2.0,1.0,750.0,https://www.zillow.com//homedetails/4600-Rocky-Bar-Rd-Wilseyville-CA-95257/300736014_zpid/
+"200 S Dolliver St SPC 48, Pismo Beach, CA 93449",180000,1.0,1.0,399.0,https://www.zillow.com//homedetails/200-S-Dolliver-St-SPC-48-Pismo-Beach-CA-93449/2105726338_zpid/
+"11329 Elle Ellen, Truckee, CA 96161",4850000,4.0,5.0,3851.0,https://www.zillow.com//homedetails/11329-Elle-Ellen-Truckee-CA-96161/124738242_zpid/
+"1745 N Winery Ave UNIT 102, Fresno, CA 93703",215000,2.0,1.5,968.0,https://www.zillow.com//homedetails/1745-N-Winery-Ave-UNIT-102-Fresno-CA-93703/79536895_zpid/
+"1002 Walnut St, Woodlake, CA 93286",639500,5.0,3.0,2740.0,https://www.zillow.com//homedetails/1002-Walnut-St-Woodlake-CA-93286/442749970_zpid/
+"2224 Silver Ave, San Francisco, CA 94124",1295000,3.0,2.0,1201.0,https://www.zillow.com//homedetails/2224-Silver-Ave-San-Francisco-CA-94124/15158236_zpid/
+"3048 Legends Dr, Meadow Vista, CA 95722",933600,3.0,3.0,1908.0,https://www.zillow.com//homedetails/3048-Legends-Dr-Meadow-Vista-CA-95722/54458992_zpid/
+"217 S Silver Ridge St, Ridgecrest, CA 93555",345000,3.0,2.0,1614.0,https://www.zillow.com//homedetails/217-S-Silver-Ridge-St-Ridgecrest-CA-93555/18912847_zpid/
+"3441 N Glenn Ave, Fresno, CA 93704",462000,3.0,2.0,1640.0,https://www.zillow.com//homedetails/3441-N-Glenn-Ave-Fresno-CA-93704/18731055_zpid/
+"300 Davey Glen Rd APT 3826, Belmont, CA 94002",565000,1.0,1.0,729.0,https://www.zillow.com//homedetails/300-Davey-Glen-Rd-APT-3826-Belmont-CA-94002/15629617_zpid/
+"13293 Aster St, Trona, CA 93562",16000,1.0,0.0,912.0,https://www.zillow.com//homedetails/13293-Aster-St-Trona-CA-93562/17483865_zpid/
+"32301 E Trimmer Springs Rd #106, Sanger, CA 93657",75000,2.0,1.0,-,https://www.zillow.com//homedetails/32301-E-Trimmer-Springs-Rd-106-Sanger-CA-93657/443534385_zpid/
+"235 Pau Hana Cir, Citrus Heights, CA 95621",125000,3.0,2.0,1800.0,https://www.zillow.com//homedetails/235-Pau-Hana-Cir-Citrus-Heights-CA-95621/59379552_zpid/
+"9670 Canopy Tree St, Roseville, CA 95747",1267900,5.0,4.0,3964.0,https://www.zillow.com//homedetails/9670-Canopy-Tree-St-Roseville-CA-95747/68562803_zpid/
+"2920 Clark Rd, Butte Valley, CA",84999,-,-,-,https://www.zillow.com//b/2920-clark-rd-oroville-ca-5YF9sX/
+"7886 Rocky Hill Rd, Onyx, CA 93255",120000,2.0,2.0,1322.0,https://www.zillow.com//homedetails/7886-Rocky-Hill-Rd-Onyx-CA-93255/133893188_zpid/
+"3433 Arrowhead St, Copperopolis, CA 95228",645000,3.0,3.0,2148.0,https://www.zillow.com//homedetails/3433-Arrowhead-St-Copperopolis-CA-95228/52449312_zpid/
+"4700 Sonoma Hwy, Santa Rosa, CA 95409",2875000,14.0,10.0,6000.0,https://www.zillow.com//homedetails/4700-Sonoma-Hwy-Santa-Rosa-CA-95409/2110952806_zpid/
+"2930 Shimizu Dr UNIT 4, Stockton, CA 95203",215000,2.0,1.0,920.0,https://www.zillow.com//homedetails/2930-Shimizu-Dr-UNIT-4-Stockton-CA-95203/15322286_zpid/
+"786 Main St, Cambria, CA 93428",1100000,2.0,3.0,2970.0,https://www.zillow.com//homedetails/786-Main-St-Cambria-CA-93428/147156252_zpid/
+"400 Grove St UNIT 308, San Francisco, CA 94102",749000,1.0,1.0,578.0,https://www.zillow.com//homedetails/400-Grove-St-UNIT-308-San-Francisco-CA-94102/241585054_zpid/
+"10 Mulberry Ln, Wofford Heights, CA 93285",259000,3.0,2.0,1152.0,https://www.zillow.com//homedetails/10-Mulberry-Ln-Wofford-Heights-CA-93285/133812965_zpid/
+"5812 Burke Way, Bakersfield, CA 93309",328400,2.0,1.0,1185.0,https://www.zillow.com//homedetails/5812-Burke-Way-Bakersfield-CA-93309/18957231_zpid/
+"2524 McArthur Ave, Union City, CA 94587",349995,3.0,2.0,1120.0,https://www.zillow.com//homedetails/2524-McArthur-Ave-Union-City-CA-94587/402708172_zpid/
+"1080 Julie Ln #84, South Lake Tahoe, CA 96150",100000,1.0,1.0,384.0,https://www.zillow.com//homedetails/1080-Julie-Ln-84-South-Lake-Tahoe-CA-96150/2053347166_zpid/
+"453 E Warren Ave, Bakersfield, CA 93308",355000,3.0,2.0,1428.0,https://www.zillow.com//homedetails/453-E-Warren-Ave-Bakersfield-CA-93308/18925454_zpid/
+"208 Brink Dr, Bakersfield, CA 93304",675000,4.0,4.0,2552.0,https://www.zillow.com//homedetails/208-Brink-Dr-Bakersfield-CA-93304/18886866_zpid/
+"5160 Pony Express Trl, Camino, CA 95709",85000,1.0,1.0,784.0,https://www.zillow.com//homedetails/5160-Pony-Express-Trl-Camino-CA-95709/443592934_zpid/
+"428 Covena Ave, Modesto, CA 95354",648500,2.0,1.0,1518.0,https://www.zillow.com//homedetails/428-Covena-Ave-Modesto-CA-95354/16067872_zpid/
+"1178 W Woodward Ave, Manteca, CA 95337",1800000,3.0,3.0,3193.0,https://www.zillow.com//homedetails/1178-W-Woodward-Ave-Manteca-CA-95337/58725330_zpid/
+"4800 Auburn Folsom Rd SPC 85, Loomis, CA 95650",63990,2.0,1.0,-,https://www.zillow.com//homedetails/4800-Auburn-Folsom-Rd-SPC-85-Loomis-CA-95650/2094127150_zpid/
+"7346 Cross Dr, Citrus Heights, CA 95610",199999,-,0.0,-,https://www.zillow.com//homedetails/7346-Cross-Dr-Citrus-Heights-CA-95610/96038002_zpid/
+"1333 State Highway 174, Colfax, CA 95713",985000,9.0,3.0,3586.0,https://www.zillow.com//homedetails/1333-State-Highway-174-Colfax-CA-95713/2080292664_zpid/
+"600 Old Stockton Rd, Oakdale, CA",70000,-,-,-,"https://www.zillow.com//b/building/37.798973,-120.7317_ll/"
+"134 Sandpiper Ct, Novato, CA 94949",750000,2.0,2.0,1200.0,https://www.zillow.com//homedetails/134-Sandpiper-Ct-Novato-CA-94949/333850898_zpid/
+"19435 East St, Woodland, CA 95776",960000,2.0,1.0,975.0,https://www.zillow.com//homedetails/19435-East-St-Woodland-CA-95776/122169223_zpid/
+"300 Stony Point Rd #300, Petaluma, CA 94952",335000,2.0,2.0,1248.0,https://www.zillow.com//homedetails/300-Stony-Point-Rd-300-Petaluma-CA-94952/442767308_zpid/
+"1311 Miller Dr, Santa Rosa, CA 95403",825000,3.0,2.0,1576.0,https://www.zillow.com//homedetails/1311-Miller-Dr-Santa-Rosa-CA-95403/15846504_zpid/
+"8715 A St, Oakland, CA 94621",799900,3.0,1.0,1149.0,https://www.zillow.com//homedetails/8715-A-St-Oakland-CA-94621/24797272_zpid/
+"21727 Crystal Lake Dr LOT 431, Sonora, CA 95370",25000,-,0.0,-,https://www.zillow.com//homedetails/21727-Crystal-Lake-Dr-LOT-431-Sonora-CA-95370/2077429694_zpid/
+"2700 Pawprint Path, Placerville, CA 95667",950000,3.0,2.0,2000.0,https://www.zillow.com//homedetails/2700-Pawprint-Path-Placerville-CA-95667/83902206_zpid/
+"5824 Eickhoff Rd, Lakeport, CA 95453",2575000,3.0,2.0,2200.0,https://www.zillow.com//homedetails/5824-Eickhoff-Rd-Lakeport-CA-95453/201507710_zpid/
+"2105 Barrington Ln, Modesto, CA 95350",295000,3.0,2.0,1536.0,https://www.zillow.com//homedetails/2105-Barrington-Ln-Modesto-CA-95350/16055609_zpid/
+"6480 Main Ave SPACE 56, Orangevale, CA 95662",118000,2.0,2.0,720.0,https://www.zillow.com//homedetails/6480-Main-Ave-SPACE-56-Orangevale-CA-95662/300344655_zpid/
+"612 42nd St, Bakersfield, CA 93301",102900,2.0,1.0,960.0,https://www.zillow.com//homedetails/612-42nd-St-Bakersfield-CA-93301/18926073_zpid/
+"16689 Magneson Loop, Los Gatos, CA 95032",4000000,0.0,0.0,16000.0,https://www.zillow.com//homedetails/16689-Magneson-Loop-Los-Gatos-CA-95032/19745436_zpid/
+"5000 Auburn Blvd SPC 40, Sacramento, CA 95841",125000,0.0,0.0,784.0,https://www.zillow.com//homedetails/5000-Auburn-Blvd-SPC-40-Sacramento-CA-95841/59382028_zpid/
+"9466 Highway 20, Glenhaven, CA 95443",245000,2.0,1.0,902.0,https://www.zillow.com//homedetails/9466-Highway-20-Glenhaven-CA-95443/19089284_zpid/
+"1 Maple Basin Rd, Philo, CA",349000,-,-,-,"https://www.zillow.com//b/building/39.097088,-123.50592_ll/"
+"2525 Highway 6, Bishop, CA 93514",98900,-,0.0,-,https://www.zillow.com//homedetails/2525-Highway-6-Bishop-CA-93514/95770191_zpid/
+"2500 Saratoga St, California City, CA",26900,-,-,-,"https://www.zillow.com//b/building/35.12456,-118.00007_ll/"
+"4965 Beckwourth Ct, Oroville, CA 95966",134900,-,0.0,-,https://www.zillow.com//homedetails/4965-Beckwourth-Ct-Oroville-CA-95966/95444823_zpid/
+"0 Ernest Way, California City, CA 93505",4500,-,0.0,-,https://www.zillow.com//homedetails/0-Ernest-Way-California-City-CA-93505/2076567963_zpid/
+"21249 American River Dr, Sonora, CA 95370",14000,-,0.0,10890.0,https://www.zillow.com//homedetails/21249-American-River-Dr-Sonora-CA-95370/111378804_zpid/
+"2016 Pennington Rd, Live Oak, CA 95953",117500,-,0.0,-,https://www.zillow.com//homedetails/2016-Pennington-Rd-Live-Oak-CA-95953/122915885_zpid/
+"9158 Glenhaven Dr, Glenhaven, CA 95443",10000,-,0.0,-,https://www.zillow.com//homedetails/9158-Glenhaven-Dr-Glenhaven-CA-95443/112394713_zpid/
+"10894 Northslope Dr, Kelseyville, CA 95451",13888,-,0.0,-,https://www.zillow.com//homedetails/10894-Northslope-Dr-Kelseyville-CA-95451/112421698_zpid/
+"425 20th Century Blvd SPACE D3, Turlock, CA 95380",79000,1.0,1.0,-,https://www.zillow.com//homedetails/425-20th-Century-Blvd-SPACE-D3-Turlock-CA-95380/351630752_zpid/
+"810 Sycamore Dr, Wofford Heights, CA 93285",315000,2.0,2.0,1120.0,https://www.zillow.com//homedetails/810-Sycamore-Dr-Wofford-Heights-CA-93285/18915561_zpid/
+"12991 San Joaquin Ave, Clearlake, CA 95422",24500,0.0,0.0,-,https://www.zillow.com//homedetails/12991-San-Joaquin-Ave-Clearlake-CA-95422/112427169_zpid/
+"6414 Green Leaf Ln, Foresthill, CA 95631",59999,-,0.0,-,https://www.zillow.com//homedetails/6414-Green-Leaf-Ln-Foresthill-CA-95631/188138332_zpid/
+"5309 Cass Ave, Clearlake, CA 95422",12888,-,0.0,-,https://www.zillow.com//homedetails/5309-Cass-Ave-Clearlake-CA-95422/95045320_zpid/
+"2261 Lariat Loop, Bradley, CA 93426",35000,-,0.0,-,https://www.zillow.com//homedetails/2261-Lariat-Loop-Bradley-CA-93426/112751960_zpid/
+"2933 Lakeview Dr, Nice, CA 95464",12888,-,0.0,-,https://www.zillow.com//homedetails/2933-Lakeview-Dr-Nice-CA-95464/112388286_zpid/
+"7036 Butte St, Nice, CA 95464",28888,-,0.0,-,https://www.zillow.com//homedetails/7036-Butte-St-Nice-CA-95464/112394305_zpid/
+"3254 Lee St, Nice, CA 95464",15888,-,0.0,-,https://www.zillow.com//homedetails/3254-Lee-St-Nice-CA-95464/109169718_zpid/
+"3526 Pocatello Cir, Camp Connell, CA 95223",110000,-,-,-,https://www.zillow.com//homedetails/3526-Pocatello-Cir-Camp-Connell-CA-95223/97418450_zpid/
+"12452 Laurel Way, Clearlake Oaks, CA 95423",13888,-,0.0,-,https://www.zillow.com//homedetails/12452-Laurel-Way-Clearlake-Oaks-CA-95423/112398501_zpid/
+"2923 Lakeview Dr, Nice, CA 95464",12888,0.0,0.0,-,https://www.zillow.com//homedetails/2923-Lakeview-Dr-Nice-CA-95464/112428468_zpid/
+"5657 Yuki Ct, Kelseyville, CA 95451",29888,-,0.0,-,https://www.zillow.com//homedetails/5657-Yuki-Ct-Kelseyville-CA-95451/112413393_zpid/
+"10100 El Dorado Way, Kelseyville, CA 95451",7888,-,0.0,-,https://www.zillow.com//homedetails/10100-El-Dorado-Way-Kelseyville-CA-95451/112387978_zpid/
+"3076 Riviera Heights Dr, Kelseyville, CA 95451",16888,0.0,0.0,-,https://www.zillow.com//homedetails/3076-Riviera-Heights-Dr-Kelseyville-CA-95451/112411070_zpid/
+"10691 Sunset Ridge Dr, Kelseyville, CA 95451",13888,0.0,0.0,-,https://www.zillow.com//homedetails/10691-Sunset-Ridge-Dr-Kelseyville-CA-95451/112422480_zpid/
+"4883 Iroquois Trl, Kelseyville, CA 95451",11888,-,0.0,-,https://www.zillow.com//homedetails/4883-Iroquois-Trl-Kelseyville-CA-95451/112395389_zpid/
+"5341 Monterey Pl, Kelseyville, CA 95451",13888,0.0,0.0,-,https://www.zillow.com//homedetails/5341-Monterey-Pl-Kelseyville-CA-95451/112388177_zpid/
+"5355 Monterey Pl, Kelseyville, CA 95451",12888,-,0.0,-,https://www.zillow.com//homedetails/5355-Monterey-Pl-Kelseyville-CA-95451/112393424_zpid/
+"10479 Boren Bega Dr, Kelseyville, CA 95451",12888,-,0.0,-,https://www.zillow.com//homedetails/10479-Boren-Bega-Dr-Kelseyville-CA-95451/95045532_zpid/
+"9719 Tenaya Way, Kelseyville, CA 95451",13888,-,0.0,-,https://www.zillow.com//homedetails/9719-Tenaya-Way-Kelseyville-CA-95451/112384075_zpid/
+"9155 Hoopa Dr, Kelseyville, CA 95451",15888,-,0.0,-,https://www.zillow.com//homedetails/9155-Hoopa-Dr-Kelseyville-CA-95451/112407889_zpid/
+"10161 El Capitan Way, Kelseyville, CA 95451",13888,0.0,0.0,-,https://www.zillow.com//homedetails/10161-El-Capitan-Way-Kelseyville-CA-95451/112379341_zpid/
+"10493 Boren Bega Dr, Kelseyville, CA 95451",12888,-,0.0,-,https://www.zillow.com//homedetails/10493-Boren-Bega-Dr-Kelseyville-CA-95451/111371179_zpid/
+"12631 Lakeview Dr, Clearlake Oaks, CA 95423",11888,0.0,0.0,-,https://www.zillow.com//homedetails/12631-Lakeview-Dr-Clearlake-Oaks-CA-95423/112413575_zpid/
+"12630 Lakeview Dr, Clearlake Oaks, CA 95423",11888,-,0.0,-,https://www.zillow.com//homedetails/12630-Lakeview-Dr-Clearlake-Oaks-CA-95423/112403249_zpid/
+"7143 Top Dr, Nice, CA 95464",16888,0.0,0.0,-,https://www.zillow.com//homedetails/7143-Top-Dr-Nice-CA-95464/112399600_zpid/
+"9526 Fairway Dr, Kelseyville, CA 95451",14888,-,0.0,-,https://www.zillow.com//homedetails/9526-Fairway-Dr-Kelseyville-CA-95451/112398858_zpid/
+"0 Rock Creek Rd, Coarsegold, CA 93614",145000,-,0.0,-,https://www.zillow.com//homedetails/0-Rock-Creek-Rd-Coarsegold-CA-93614/2069761280_zpid/
+"3091 Riviera Heights Dr, Kelseyville, CA 95451",22888,-,0.0,-,https://www.zillow.com//homedetails/3091-Riviera-Heights-Dr-Kelseyville-CA-95451/112411844_zpid/
+"4231 Foothill Dr, Lucerne, CA 95458",12888,0.0,0.0,-,https://www.zillow.com//homedetails/4231-Foothill-Dr-Lucerne-CA-95458/112429370_zpid/
+"1111 Highway 4, Arnold, CA 95223",499000,1.0,1.0,1800.0,https://www.zillow.com//homedetails/1111-Highway-4-Arnold-CA-95223/443234513_zpid/
+"4840 Cascade Way, Kelseyville, CA 95451",11888,-,0.0,-,https://www.zillow.com//homedetails/4840-Cascade-Way-Kelseyville-CA-95451/112380421_zpid/
+"4917 Iroquois Trl, Kelseyville, CA 95451",14888,-,0.0,-,https://www.zillow.com//homedetails/4917-Iroquois-Trl-Kelseyville-CA-95451/112409543_zpid/
+"3385 Ogden Rd, Lucerne, CA 95458",13888,-,0.0,-,https://www.zillow.com//homedetails/3385-Ogden-Rd-Lucerne-CA-95458/112414642_zpid/
+"0 Oswald Rd, Yuba City, CA 95991",791000,-,0.0,-,https://www.zillow.com//homedetails/0-Oswald-Rd-Yuba-City-CA-95991/2062255124_zpid/
+"12594 Lakeview Dr, Clearlake Oaks, CA 95423",11888,-,0.0,-,https://www.zillow.com//homedetails/12594-Lakeview-Dr-Clearlake-Oaks-CA-95423/112426588_zpid/
+"12341 Cerrito Dr, Clearlake Oaks, CA 95423",50000,0.0,0.0,-,https://www.zillow.com//homedetails/12341-Cerrito-Dr-Clearlake-Oaks-CA-95423/112397871_zpid/
+"10155 El Capitan Way, Kelseyville, CA 95451",12888,-,0.0,-,https://www.zillow.com//homedetails/10155-El-Capitan-Way-Kelseyville-CA-95451/112395132_zpid/
+"7032 Butte St, Nice, CA 95464",29888,0.0,0.0,-,https://www.zillow.com//homedetails/7032-Butte-St-Nice-CA-95464/112387546_zpid/
+"16719 Woodside Way, Sonora, CA 95370",16000,0.0,0.0,-,https://www.zillow.com//homedetails/16719-Woodside-Way-Sonora-CA-95370/111926563_zpid/
+"4660 Hawaina Way, Kelseyville, CA 95451",35888,0.0,0.0,-,https://www.zillow.com//homedetails/4660-Hawaina-Way-Kelseyville-CA-95451/112419437_zpid/
+"4696 Hawaina Way, Kelseyville, CA 95451",16888,-,0.0,-,https://www.zillow.com//homedetails/4696-Hawaina-Way-Kelseyville-CA-95451/112400264_zpid/
+"5299 Tenino Way, Kelseyville, CA 95451",14888,-,0.0,-,https://www.zillow.com//homedetails/5299-Tenino-Way-Kelseyville-CA-95451/112377706_zpid/
+"4995 Klamath Rd, Kelseyville, CA 95451",27888,-,0.0,-,https://www.zillow.com//homedetails/4995-Klamath-Rd-Kelseyville-CA-95451/112377585_zpid/
+"4910 Hawaina Way, Kelseyville, CA 95451",15888,-,0.0,-,https://www.zillow.com//homedetails/4910-Hawaina-Way-Kelseyville-CA-95451/112413073_zpid/
+"9815 Sequoia Rd, Kelseyville, CA 95451",15888,-,0.0,-,https://www.zillow.com//homedetails/9815-Sequoia-Rd-Kelseyville-CA-95451/112400040_zpid/
+"4625 Hawaina Way, Kelseyville, CA 95451",18888,-,0.0,-,https://www.zillow.com//homedetails/4625-Hawaina-Way-Kelseyville-CA-95451/112429105_zpid/
+"16534 3rd Ave, Clearlake, CA 95422",19900,0.0,0.0,-,https://www.zillow.com//homedetails/16534-3rd-Ave-Clearlake-CA-95422/112425306_zpid/
+"3080 Riviera Heights Dr, Kelseyville, CA 95451",16888,0.0,0.0,-,https://www.zillow.com//homedetails/3080-Riviera-Heights-Dr-Kelseyville-CA-95451/112384343_zpid/
+"4706 Kaweah Rd, Kelseyville, CA 95451",12888,-,0.0,-,https://www.zillow.com//homedetails/4706-Kaweah-Rd-Kelseyville-CA-95451/112399748_zpid/
+"4672 Iroquois Trl, Kelseyville, CA 95451",13888,-,0.0,-,https://www.zillow.com//homedetails/4672-Iroquois-Trl-Kelseyville-CA-95451/112398678_zpid/
+"5313 Monterey Pl, Kelseyville, CA 95451",8500,0.0,0.0,-,https://www.zillow.com//homedetails/5313-Monterey-Pl-Kelseyville-CA-95451/112401594_zpid/
+"5369 Monterey Pl, Kelseyville, CA 95451",12888,-,0.0,-,https://www.zillow.com//homedetails/5369-Monterey-Pl-Kelseyville-CA-95451/112387566_zpid/
+"4810 Kah Bel Trl, Kelseyville, CA 95451",11888,-,0.0,-,https://www.zillow.com//homedetails/4810-Kah-Bel-Trl-Kelseyville-CA-95451/112398416_zpid/
+"9960 Point Lakeview Rd, Kelseyville, CA 95451",16888,-,0.0,-,https://www.zillow.com//homedetails/9960-Point-Lakeview-Rd-Kelseyville-CA-95451/112402952_zpid/
+"4835 Hawaina Way, Kelseyville, CA 95451",15888,0.0,0.0,-,https://www.zillow.com//homedetails/4835-Hawaina-Way-Kelseyville-CA-95451/112401428_zpid/
+"10131 El Capitan Way, Kelseyville, CA 95451",12888,0.0,0.0,-,https://www.zillow.com//homedetails/10131-El-Capitan-Way-Kelseyville-CA-95451/112396949_zpid/
+"1 Old Stonegate Ct, Oakhurst, CA 93644",89000,-,0.0,-,https://www.zillow.com//homedetails/1-Old-Stonegate-Ct-Oakhurst-CA-93644/2055623434_zpid/
+"10860 Skyview Dr, Kelseyville, CA 95451",29888,0.0,0.0,-,https://www.zillow.com//homedetails/10860-Skyview-Dr-Kelseyville-CA-95451/95045556_zpid/
+"9889 Emerald Dr, Kelseyville, CA 95451",12888,-,0.0,-,https://www.zillow.com//homedetails/9889-Emerald-Dr-Kelseyville-CA-95451/112419711_zpid/
+"10148 El Capitan Way, Kelseyville, CA 95451",12888,-,0.0,-,https://www.zillow.com//homedetails/10148-El-Capitan-Way-Kelseyville-CA-95451/112382703_zpid/
+"10898 Northslope Dr, Kelseyville, CA 95451",12888,-,0.0,-,https://www.zillow.com//homedetails/10898-Northslope-Dr-Kelseyville-CA-95451/112376566_zpid/
+"10858 Northslope Dr, Kelseyville, CA 95451",23888,-,0.0,-,https://www.zillow.com//homedetails/10858-Northslope-Dr-Kelseyville-CA-95451/112396260_zpid/
+"8960 Fairway Dr, Kelseyville, CA 95451",29888,-,0.0,-,https://www.zillow.com//homedetails/8960-Fairway-Dr-Kelseyville-CA-95451/112415787_zpid/
+"11643 Widgeon Way, Clearlake Oaks, CA",8000,-,-,-,"https://www.zillow.com//b/building/39.04779,-122.549736_ll/"
+"4622 Kaweah Rd, Kelseyville, CA 95451",12888,-,0.0,-,https://www.zillow.com//homedetails/4622-Kaweah-Rd-Kelseyville-CA-95451/112418335_zpid/
+"9394 Pawnee Trl, Kelseyville, CA 95451",13888,-,0.0,-,https://www.zillow.com//homedetails/9394-Pawnee-Trl-Kelseyville-CA-95451/112410733_zpid/
+"10660 Harbor Rd, Kelseyville, CA 95451",22888,-,0.0,-,https://www.zillow.com//homedetails/10660-Harbor-Rd-Kelseyville-CA-95451/112422311_zpid/
+"10167 Del Monte Way, Kelseyville, CA 95451",11888,-,0.0,-,https://www.zillow.com//homedetails/10167-Del-Monte-Way-Kelseyville-CA-95451/112427789_zpid/
+"5248 Tenino Way, Kelseyville, CA 95451",23888,0.0,0.0,-,https://www.zillow.com//homedetails/5248-Tenino-Way-Kelseyville-CA-95451/112412438_zpid/
+"3529 Klein St, Nice, CA 95464",9000,-,0.0,-,https://www.zillow.com//homedetails/3529-Klein-St-Nice-CA-95464/112389999_zpid/
+"1834 Narragansett Cir, South Lake Tahoe, CA 96150",210000,0.0,0.0,-,https://www.zillow.com//homedetails/1834-Narragansett-Cir-South-Lake-Tahoe-CA-96150/95418957_zpid/
+"6621 Logan Dr, Lucerne, CA 95458",25888,0.0,0.0,-,https://www.zillow.com//homedetails/6621-Logan-Dr-Lucerne-CA-95458/112403503_zpid/
+"27948 Cooperstown Rd, La Grange, CA 95329",1650000,4.0,2.0,2121.0,https://www.zillow.com//homedetails/27948-Cooperstown-Rd-La-Grange-CA-95329/187766874_zpid/
+"4696 Iroquois Trl, Kelseyville, CA 95451",12888,-,0.0,-,https://www.zillow.com//homedetails/4696-Iroquois-Trl-Kelseyville-CA-95451/112413100_zpid/
+"12126 Konocti Dr, Clearlake Oaks, CA 95423",55888,-,0.0,-,https://www.zillow.com//homedetails/12126-Konocti-Dr-Clearlake-Oaks-CA-95423/112388168_zpid/
+"8870 Serrano Way, Kelseyville, CA 95451",29888,-,0.0,-,https://www.zillow.com//homedetails/8870-Serrano-Way-Kelseyville-CA-95451/112426854_zpid/
+"Meadowgate Dr, Sacramento, CA 95823",599000,-,0.0,-,https://www.zillow.com//homedetails/Meadowgate-Dr-Sacramento-CA-95823/2082600640_zpid/
+"14614 Rainbow Ave, Rosamond, CA 93560",120000,3.0,2.0,-,https://www.zillow.com//homedetails/14614-Rainbow-Ave-Rosamond-CA-93560/249712830_zpid/
+"250 Joseph Ln, Garberville, CA 95542",350000,4.0,3.0,2072.0,https://www.zillow.com//homedetails/250-Joseph-Ln-Garberville-CA-95542/241700412_zpid/
+"15562 Doe Mill Rd, Forest Ranch, CA 95954",125000,1.0,1.0,-,https://www.zillow.com//homedetails/15562-Doe-Mill-Rd-Forest-Ranch-CA-95954/95427348_zpid/
+"243 N Meridian Ave SPACE 22, San Bernardino, CA 92410",126860,3.0,2.0,1344.0,https://www.zillow.com//homedetails/243-N-Meridian-Ave-SPACE-22-San-Bernardino-CA-92410/17226742_zpid/
+"350 N El Camino Real N #26, Encinitas, CA 92024",479000,3.0,2.0,1231.0,https://www.zillow.com//homedetails/350-N-El-Camino-Real-N-26-Encinitas-CA-92024/98373498_zpid/
+"11 Calle Encinitas, Rancho Mirage, CA 92270",729000,2.0,2.0,1825.0,https://www.zillow.com//homedetails/11-Calle-Encinitas-Rancho-Mirage-CA-92270/18070415_zpid/
+"1738 Doheny Way, Dana Point, CA 92629",419100,1.0,1.0,883.0,https://www.zillow.com//homedetails/1738-Doheny-Way-Dana-Point-CA-92629/441949214_zpid/
+"2723 W 235th St, Torrance, CA 90505",100000,4.0,0.0,-,https://www.zillow.com//homedetails/2723-W-235th-St-Torrance-CA-90505/443592987_zpid/
+"824 Patterson Ave, Glendale, CA 91202",1099000,2.0,2.0,944.0,https://www.zillow.com//homedetails/824-Patterson-Ave-Glendale-CA-91202/20830210_zpid/
+"1113 Marina Dr, Needles, CA 92363",445000,3.0,2.0,1560.0,https://www.zillow.com//homedetails/1113-Marina-Dr-Needles-CA-92363/69001684_zpid/
+"162 Noga Ave, San Jacinto, CA 92582",425000,3.0,2.0,1288.0,https://www.zillow.com//homedetails/162-Noga-Ave-San-Jacinto-CA-92582/17966153_zpid/
+"1300 Villa Shores Dr #17, Blythe, CA 92225",165000,3.0,2.0,900.0,https://www.zillow.com//homedetails/1300-Villa-Shores-Dr-17-Blythe-CA-92225/401882103_zpid/
+"17941 Emelita St, Encino, CA 91316",2000000,3.0,2.0,1995.0,https://www.zillow.com//homedetails/17941-Emelita-St-Encino-CA-91316/19936540_zpid/
+"30195 Corte Cantera, Temecula, CA 92591",735000,4.0,3.0,2343.0,https://www.zillow.com//homedetails/30195-Corte-Cantera-Temecula-CA-92591/18170329_zpid/
+"2917 Godman Ave, Chico, CA 95973",399000,3.0,1.0,1200.0,https://www.zillow.com//homedetails/2917-Godman-Ave-Chico-CA-95973/2108244464_zpid/
+"14595 Cabazon St, Cabazon, CA 92230",375000,3.0,3.0,1600.0,https://www.zillow.com//homedetails/14595-Cabazon-St-Cabazon-CA-92230/18033147_zpid/
+"2919 Godman Ave, Chico, CA 95973",306000,2.0,1.0,1000.0,https://www.zillow.com//homedetails/2919-Godman-Ave-Chico-CA-95973/2137266677_zpid/
+"27184 Highlands Ln, Santa Clarita, CA 91354",1050000,3.0,3.0,2321.0,https://www.zillow.com//homedetails/27184-Highlands-Ln-Santa-Clarita-CA-91354/20196052_zpid/
+"603 Patterson Rd #16, Willow Creek, CA 95573",45000,2.0,1.0,780.0,https://www.zillow.com//homedetails/603-Patterson-Rd-16-Willow-Creek-CA-95573/249793748_zpid/
+"14625 Mussey Grade Rd #R67, Ramona, CA 92065",69000,2.0,2.0,400.0,https://www.zillow.com//homedetails/14625-Mussey-Grade-Rd-R67-Ramona-CA-92065/442836230_zpid/
+"1339 Addison Way, Perris, CA 92571",590000,5.0,3.0,2657.0,https://www.zillow.com//homedetails/1339-Addison-Way-Perris-CA-92571/96003537_zpid/
+"468 Klipstein St, Maricopa, CA 93252",189900,3.0,2.0,792.0,https://www.zillow.com//homedetails/468-Klipstein-St-Maricopa-CA-93252/18908573_zpid/
+"3608 Broadway, Huntington Park, CA 90255",814999,4.0,2.0,1658.0,https://www.zillow.com//homedetails/3608-Broadway-Huntington-Park-CA-90255/21032324_zpid/
+"830 W Buena Vista St, Barstow, CA 92311",220000,3.0,2.0,961.0,https://www.zillow.com//homedetails/830-W-Buena-Vista-St-Barstow-CA-92311/17273640_zpid/
+"4832 Long Branch Ave, San Diego, CA 92107",1675000,2.0,2.0,1079.0,https://www.zillow.com//homedetails/4832-Long-Branch-Ave-San-Diego-CA-92107/241608043_zpid/
+"78 Jupiter St, Palm Springs, CA 92264",135000,1.0,1.0,800.0,https://www.zillow.com//homedetails/78-Jupiter-St-Palm-Springs-CA-92264/440719241_zpid/
+"2416 Stanford Ave, Pomona, CA 91766",700000,4.0,2.0,1176.0,https://www.zillow.com//homedetails/2416-Stanford-Ave-Pomona-CA-91766/21510189_zpid/
+"17015 Davis Garden Dr, Cottonwood, CA 96022",180000,2.0,2.0,720.0,https://www.zillow.com//homedetails/17015-Davis-Garden-Dr-Cottonwood-CA-96022/16167771_zpid/
+"507 E 11th St, Alturas, CA",4500,-,-,-,"https://www.zillow.com//b/building/41.438408,-120.534004_ll/"
+"9432 Fuente Querida Rd, Pinon Hills, CA 92372",420000,3.0,2.0,1580.0,https://www.zillow.com//homedetails/9432-Fuente-Querida-Rd-Pinon-Hills-CA-92372/17627906_zpid/
+"1921 Johnson Ln, El Centro, CA 92243",375000,3.0,2.0,1350.0,https://www.zillow.com//homedetails/1921-Johnson-Ln-El-Centro-CA-92243/339155507_zpid/
+"1949 Cottonwood Dr, Colton, CA 92324",545000,3.0,3.0,1254.0,https://www.zillow.com//homedetails/1949-Cottonwood-Dr-Colton-CA-92324/17254818_zpid/
+"15980 Grand Ave SPC M22, Lake Elsinore, CA 92530",299000,2.0,2.0,1213.0,https://www.zillow.com//homedetails/15980-Grand-Ave-SPC-M22-Lake-Elsinore-CA-92530/17750237_zpid/
+"802 3rd St APT E, Santa Monica, CA 90403",1599999,2.0,3.0,1601.0,https://www.zillow.com//homedetails/802-3rd-St-APT-E-Santa-Monica-CA-90403/20485540_zpid/
+"1605 Eddy Dr, Mount Shasta, CA 96067",800000,3.0,3.0,2352.0,https://www.zillow.com//homedetails/1605-Eddy-Dr-Mount-Shasta-CA-96067/79851427_zpid/
+"379 Fawntrail Pl, Big Bear Lake, CA 92315",1275000,4.0,3.0,2672.0,https://www.zillow.com//homedetails/379-Fawntrail-Pl-Big-Bear-Lake-CA-92315/443761430_zpid/
+"2915 Godman Ave, Chico, CA 95973",650000,10.0,5.0,5200.0,https://www.zillow.com//homedetails/2915-Godman-Ave-Chico-CA-95973/18221332_zpid/
+"104 Las Flores Dr, San Marcos, CA 92069",600000,2.0,1.0,827.0,https://www.zillow.com//homedetails/104-Las-Flores-Dr-San-Marcos-CA-92069/16668741_zpid/
+"22476 Cass Ave, Woodland Hills, CA 91364",1149000,3.0,2.0,1516.0,https://www.zillow.com//homedetails/22476-Cass-Ave-Woodland-Hills-CA-91364/19899501_zpid/
+"433 E Avenida Cordoba, San Clemente, CA 92672",2699999,4.0,3.0,2549.0,https://www.zillow.com//homedetails/433-E-Avenida-Cordoba-San-Clemente-CA-92672/25594088_zpid/
+"2050 Springfield Dr APT 143, Chico, CA 95928",229000,4.0,2.0,1560.0,https://www.zillow.com//homedetails/2050-Springfield-Dr-APT-143-Chico-CA-95928/52456738_zpid/
+"800 The Mark Ln #1703, San Diego, CA 92101",595000,1.0,1.0,878.0,https://www.zillow.com//homedetails/800-The-Mark-Ln-1703-San-Diego-CA-92101/79481703_zpid/
+"3971 Frances Ave, Los Angeles, CA 90066",1850000,3.0,3.0,2100.0,https://www.zillow.com//homedetails/3971-Frances-Ave-Los-Angeles-CA-90066/442306398_zpid/
+"6024 Hornbeck Ln, Anderson, CA 96007",475000,3.0,3.0,1800.0,https://www.zillow.com//homedetails/6024-Hornbeck-Ln-Anderson-CA-96007/15210974_zpid/
+"618 Wisner Rd, Mount Shasta, CA 96067",499000,6.0,2.0,2400.0,https://www.zillow.com//homedetails/618-Wisner-Rd-Mount-Shasta-CA-96067/15973728_zpid/
+"1600 E Vista Way E #51, Vista, CA 92084",175000,2.0,1.0,784.0,https://www.zillow.com//homedetails/1600-E-Vista-Way-E-51-Vista-CA-92084/443835013_zpid/
+"829 Village Dr, Red Bluff, CA 96080",309000,2.0,2.0,1277.0,https://www.zillow.com//homedetails/829-Village-Dr-Red-Bluff-CA-96080/16171218_zpid/
+"6832 Adobe Rd SPACE 2, Twentynine Palms, CA 92277",30000,1.0,1.0,-,https://www.zillow.com//homedetails/6832-Adobe-Rd-SPACE-2-Twentynine-Palms-CA-92277/145572763_zpid/
+"4215 Via Padova, Claremont, CA 91711",1512367,4.0,2.0,2071.0,https://www.zillow.com//homedetails/4215-Via-Padova-Claremont-CA-91711/54949678_zpid/
+"1249 Berylstone Dr, Hemet, CA",73900,-,-,-,"https://www.zillow.com//b/building/33.73035,-117.06219_ll/"
+"30 Blackbird Ln, Aliso Viejo, CA 92656",1600000,3.0,3.0,1803.0,https://www.zillow.com//homedetails/30-Blackbird-Ln-Aliso-Viejo-CA-92656/25543784_zpid/
+"24210 E Fork Rd SPACE 38, Azusa, CA 91702",40000,2.0,2.0,800.0,https://www.zillow.com//homedetails/24210-E-Fork-Rd-SPACE-38-Azusa-CA-91702/443839464_zpid/
+"206 N Venado Ave, Thousand Oaks, CA 91320",1200000,4.0,2.0,2307.0,https://www.zillow.com//homedetails/206-N-Venado-Ave-Thousand-Oaks-CA-91320/16484947_zpid/
+"309 Riverside St, Alturas, CA 96101",299000,4.0,2.0,2332.0,https://www.zillow.com//homedetails/309-Riverside-St-Alturas-CA-96101/19115034_zpid/
+"427 Calle Madrigal, Cathedral City, CA 92234",125000,2.0,2.0,2200.0,https://www.zillow.com//homedetails/427-Calle-Madrigal-Cathedral-City-CA-92234/2124430356_zpid/
+"883 Chamise Way, Redding, CA 96002",220000,3.0,3.0,1400.0,https://www.zillow.com//homedetails/883-Chamise-Way-Redding-CA-96002/15218818_zpid/
+"3210 Santa Maria Way SPACE 113, Santa Maria, CA 93455",234800,3.0,2.0,1568.0,https://www.zillow.com//homedetails/3210-Santa-Maria-Way-SPACE-113-Santa-Maria-CA-93455/15965184_zpid/
+"56839 Bonanza Dr, Yucca Valley, CA 92284",585000,5.0,5.0,2877.0,https://www.zillow.com//homedetails/56839-Bonanza-Dr-Yucca-Valley-CA-92284/17489512_zpid/
+"144 E 4th St, San Dimas, CA 91773",860000,3.0,2.0,1440.0,https://www.zillow.com//homedetails/144-E-4th-St-San-Dimas-CA-91773/21530629_zpid/
+"15463 Copper St, Mission Hills, CA 91345",284900,2.0,2.0,2020.0,https://www.zillow.com//homedetails/15463-Copper-St-Mission-Hills-CA-91345/136688204_zpid/
+"4260 44th St APT 331, San Diego, CA 92115",280000,1.0,1.0,462.0,https://www.zillow.com//homedetails/4260-44th-St-APT-331-San-Diego-CA-92115/17002817_zpid/
+"8664 Camden Dr, Santee, CA 92071",1099000,4.0,3.0,2221.0,https://www.zillow.com//homedetails/8664-Camden-Dr-Santee-CA-92071/250195712_zpid/
+"2552 Avenida Del Vis APT 103, Corona, CA 92882",370000,1.0,1.0,673.0,https://www.zillow.com//homedetails/2552-Avenida-Del-Vis-APT-103-Corona-CA-92882/443776188_zpid/
+"40454 La Quinta Ct, Palmdale, CA 93551",669000,4.0,4.0,2582.0,https://www.zillow.com//homedetails/40454-La-Quinta-Ct-Palmdale-CA-93551/51581692_zpid/
+"11534 Gale Ave, Hawthorne, CA 90250",819000,3.0,2.0,1361.0,https://www.zillow.com//homedetails/11534-Gale-Ave-Hawthorne-CA-90250/20349339_zpid/
+"2755 Arrow Hwy SPACE 169, La Verne, CA 91750",289999,2.0,2.0,1200.0,https://www.zillow.com//homedetails/2755-Arrow-Hwy-SPACE-169-La-Verne-CA-91750/399574848_zpid/
+"11431 Ghiberti Way, Northridge, CA 91326",921000,2.0,3.0,1399.0,https://www.zillow.com//homedetails/11431-Ghiberti-Way-Northridge-CA-91326/65249980_zpid/
+"41042 163rd St E, Lancaster, CA 93535",398000,3.0,2.0,1134.0,https://www.zillow.com//homedetails/41042-163rd-St-E-Lancaster-CA-93535/20273917_zpid/
+"3600 W Florida Ave #680, Hemet, CA 92545",82500,1.0,1.0,600.0,https://www.zillow.com//homedetails/3600-W-Florida-Ave-680-Hemet-CA-92545/443111505_zpid/
+"65 Arnaz Dr, Ojai, CA 93022",850000,1.0,1.0,832.0,https://www.zillow.com//homedetails/65-Arnaz-Dr-Ojai-CA-93022/16313350_zpid/
+"3331 Rancheria Rd, Fortuna, CA 95540",550000,4.0,3.0,1480.0,https://www.zillow.com//homedetails/3331-Rancheria-Rd-Fortuna-CA-95540/338984590_zpid/
+"3366 Thomas Creek Dr, Alturas, CA 96101",417500,3.0,2.0,1832.0,https://www.zillow.com//homedetails/3366-Thomas-Creek-Dr-Alturas-CA-96101/350203057_zpid/
+"10410 County Highway A12, Montague, CA 96064",399000,4.0,2.0,1921.0,https://www.zillow.com//homedetails/10410-County-Highway-A12-Montague-CA-96064/15970761_zpid/
+"1025 Rosalinda Dr, Oxnard, CA 93030",959999,5.0,3.0,2120.0,https://www.zillow.com//homedetails/1025-Rosalinda-Dr-Oxnard-CA-93030/54898637_zpid/
+"69280 Midpark Dr, Desert Hot Springs, CA 92241",289000,2.0,2.0,1289.0,https://www.zillow.com//homedetails/69280-Midpark-Dr-Desert-Hot-Springs-CA-92241/18110442_zpid/
+"14625 Mussey Grade Rd #R6, Ramona, CA 92065",103564,1.0,1.0,394.0,https://www.zillow.com//homedetails/14625-Mussey-Grade-Rd-R6-Ramona-CA-92065/443368529_zpid/
+"1354 McCallum Cir, Arcata, CA 95521",25000,1.0,1.0,720.0,https://www.zillow.com//homedetails/1354-McCallum-Cir-Arcata-CA-95521/442766208_zpid/
+"3829 Cazador St, Los Angeles, CA 90065",180000,3.0,0.0,2157.0,https://www.zillow.com//homedetails/3829-Cazador-St-Los-Angeles-CA-90065/20759661_zpid/
+"44605 Alighchi Way, Temecula, CA",440000,-,-,-,"https://www.zillow.com//b/building/33.518578,-117.03048_ll/"
+"380 E Loyalton Ave, Portola, CA 96122",295950,3.0,2.0,1534.0,https://www.zillow.com//homedetails/380-E-Loyalton-Ave-Portola-CA-96122/52928061_zpid/
+"155000 Bubbling Wells Rd #124, Desert Hot Springs, CA 92240",45000,2.0,2.0,1040.0,https://www.zillow.com//homedetails/155000-Bubbling-Wells-Rd-124-Desert-Hot-Springs-CA-92240/443413546_zpid/
+"354 Chestnut Ave APT 2, Long Beach, CA 90802",350000,1.0,1.0,310.0,https://www.zillow.com//homedetails/354-Chestnut-Ave-APT-2-Long-Beach-CA-90802/89149934_zpid/
+"10252 Drumcliff Ave, San Diego, CA 92126",810000,2.0,1.0,800.0,https://www.zillow.com//homedetails/10252-Drumcliff-Ave-San-Diego-CA-92126/16831256_zpid/
+"5761 Cholla Rd, Yucca Valley, CA 92284",420000,3.0,2.0,1144.0,https://www.zillow.com//homedetails/5761-Cholla-Rd-Yucca-Valley-CA-92284/17496486_zpid/
+"15621 Beach Blvd SPACE 74, Westminster, CA 92683",129000,2.0,1.0,760.0,https://www.zillow.com//homedetails/15621-Beach-Blvd-SPACE-74-Westminster-CA-92683/51671906_zpid/
+"529 Bayport St, Carson, CA 90745",455000,2.0,2.0,700.0,https://www.zillow.com//homedetails/529-Bayport-St-Carson-CA-90745/21255703_zpid/
+"150220 Turquoise Rd, Big River, CA 92242",145000,4.0,2.0,1800.0,https://www.zillow.com//homedetails/150220-Turquoise-Rd-Big-River-CA-92242/17510352_zpid/
+"2560 W Greenacre Ave, Anaheim, CA 92801",998888,4.0,2.0,1287.0,https://www.zillow.com//homedetails/2560-W-Greenacre-Ave-Anaheim-CA-92801/25154322_zpid/
+"38 Reginato Rd, Mount Shasta, CA 96067",313000,2.0,1.0,582.0,https://www.zillow.com//homedetails/38-Reginato-Rd-Mount-Shasta-CA-96067/89036263_zpid/
+"408 S Flower St, Santa Ana, CA 92703",1300000,4.0,3.0,1722.0,https://www.zillow.com//homedetails/408-S-Flower-St-Santa-Ana-CA-92703/25093522_zpid/
+"1825 Lee Ave, Arcadia, CA 91006",1898000,3.0,2.0,1432.0,https://www.zillow.com//homedetails/1825-Lee-Ave-Arcadia-CA-91006/20896597_zpid/
+"925 N Quarterhorse Ln, Oak Park, CA 91377",799900,3.0,2.0,1400.0,https://www.zillow.com//homedetails/925-N-Quarterhorse-Ln-Oak-Park-CA-91377/16496181_zpid/
+"21515 Placerita Canyon Rd SPACE 4, Newhall, CA 91321",275000,3.0,2.0,2000.0,https://www.zillow.com//homedetails/21515-Placerita-Canyon-Rd-SPACE-4-Newhall-CA-91321/136689912_zpid/
+"11350 Victoria Ave, Los Angeles, CA 90066",2725000,3.0,4.0,2200.0,https://www.zillow.com//homedetails/11350-Victoria-Ave-Los-Angeles-CA-90066/20448061_zpid/
+"5995 Royal Point Dr, Paradise, CA 95969",710000,3.0,4.0,2800.0,https://www.zillow.com//homedetails/5995-Royal-Point-Dr-Paradise-CA-95969/69233770_zpid/
+"1916 Teton Way, Pine Mountain Club, CA 93222",385000,2.0,2.0,1200.0,https://www.zillow.com//homedetails/1916-Teton-Way-Pine-Mountain-Club-CA-93222/18978857_zpid/
+"28 Oak Knls, Trabuco Canyon, CA 92679",1750000,4.0,2.0,1700.0,https://www.zillow.com//homedetails/28-Oak-Knls-Trabuco-Canyon-CA-92679/25641763_zpid/
+"53515 Marian View Dr, Idyllwild, CA 92549",389000,2.0,1.0,900.0,https://www.zillow.com//homedetails/53515-Marian-View-Dr-Idyllwild-CA-92549/18047188_zpid/
+"LOT 68 Mallard Rd, Macdoel, CA 96058",49900,-,0.0,-,https://www.zillow.com//homedetails/LOT-68-Mallard-Rd-Macdoel-CA-96058/443327534_zpid/
+"1326 Benedict Canyon Dr, Beverly Hills, CA 90210",13850000,4.0,6.0,4838.0,https://www.zillow.com//homedetails/1326-Benedict-Canyon-Dr-Beverly-Hills-CA-90210/20523525_zpid/
+"30053 104th St E, Littlerock, CA 93543",2000000,3.0,4.0,2400.0,https://www.zillow.com//homedetails/30053-104th-St-E-Littlerock-CA-93543/20272413_zpid/
+"440 Holmwood Dr, Newport Beach, CA 92663",5250000,5.0,5.0,3655.0,https://www.zillow.com//homedetails/440-Holmwood-Dr-Newport-Beach-CA-92663/25136435_zpid/
+"2161 4th Ln, Big Bear City, CA 92314",274900,1.0,1.0,600.0,https://www.zillow.com//homedetails/2161-4th-Ln-Big-Bear-City-CA-92314/17394065_zpid/
+"83448 Stagecoach Rd, Indio, CA 92203",740000,6.0,6.0,3602.0,https://www.zillow.com//homedetails/83448-Stagecoach-Rd-Indio-CA-92203/69279894_zpid/
+"16397 D St #27, Victorville, CA 92395",109860,2.0,3.0,900.0,https://www.zillow.com//homedetails/16397-D-St-27-Victorville-CA-92395/145571817_zpid/
+"3304 Shasta Dam Blvd SPACE 112, Shasta Lake, CA 96019",190000,3.0,2.0,1350.0,https://www.zillow.com//homedetails/3304-Shasta-Dam-Blvd-SPACE-112-Shasta-Lake-CA-96019/64978088_zpid/
+"16665 A St, Victorville, CA 92395",385000,3.0,3.0,1860.0,https://www.zillow.com//homedetails/16665-A-St-Victorville-CA-92395/17478230_zpid/
+"9348 Westhill Rd, Lakeside, CA 92040",750000,3.0,2.0,1500.0,https://www.zillow.com//homedetails/9348-Westhill-Rd-Lakeside-CA-92040/16885094_zpid/
+"354 Anna Maria St, Altadena, CA 91001",1400000,3.0,3.0,-,https://www.zillow.com//homedetails/354-Anna-Maria-St-Altadena-CA-91001/443824760_zpid/
+"900 N Cordova St, Alhambra, CA 91801",2200000,3.0,3.0,2429.0,https://www.zillow.com//homedetails/900-N-Cordova-St-Alhambra-CA-91801/20698406_zpid/
+"5510 Owensmouth Ave APT 313, Woodland Hills, CA 91367",598888,2.0,2.0,920.0,https://www.zillow.com//homedetails/5510-Owensmouth-Ave-APT-313-Woodland-Hills-CA-91367/68985508_zpid/
+"7500 Quartz Valley Rd, Fort Jones, CA",160000,-,-,-,"https://www.zillow.com//b/building/41.550976,-122.91019_ll/"
+"139 Wylerhorn Dr, Crestline, CA 92325",549900,5.0,3.0,2300.0,https://www.zillow.com//homedetails/139-Wylerhorn-Dr-Crestline-CA-92325/442829322_zpid/
+"1218 S Washington Ave, Compton, CA 90221",649900,3.0,1.0,1036.0,https://www.zillow.com//homedetails/1218-S-Washington-Ave-Compton-CA-90221/21241456_zpid/
+"20202 E Santiago Canyon Rd, Orange, CA 92869",1200000,3.0,3.0,1740.0,https://www.zillow.com//homedetails/20202-E-Santiago-Canyon-Rd-Orange-CA-92869/25429642_zpid/
+"3200 Elm Ave, Manhattan Beach, CA 90266",3600000,5.0,5.0,3275.0,https://www.zillow.com//homedetails/3200-Elm-Ave-Manhattan-Beach-CA-90266/20419153_zpid/
+"Lilac Rd, Valley Center, CA 92082",444000,-,0.0,-,https://www.zillow.com//homedetails/Lilac-Rd-Valley-Center-CA-92082/99470627_zpid/
+"2865 Holly Rd, Santa Barbara, CA 93105",425000,0.0,0.0,-,https://www.zillow.com//homedetails/2865-Holly-Rd-Santa-Barbara-CA-93105/95270859_zpid/
+"9322 Thompson Ave, Chatsworth, CA",950000,-,-,-,"https://www.zillow.com//b/building/34.24085,-118.637_ll/"
+"16843 Miller Ave, Fontana, CA 92336",775000,4.0,3.0,1631.0,https://www.zillow.com//homedetails/16843-Miller-Ave-Fontana-CA-92336/137522188_zpid/
+"6348 Sylvan Dr, Simi Valley, CA 93063",850000,3.0,3.0,1707.0,https://www.zillow.com//homedetails/6348-Sylvan-Dr-Simi-Valley-CA-93063/16463537_zpid/
+"2400 Alpine Blvd SPACE 60, Alpine, CA 91901",325000,3.0,2.0,1480.0,https://www.zillow.com//homedetails/2400-Alpine-Blvd-SPACE-60-Alpine-CA-91901/140623586_zpid/
+"1782 Green Meadow Ave, Tustin, CA 92780",1249900,3.0,2.0,1642.0,https://www.zillow.com//homedetails/1782-Green-Meadow-Ave-Tustin-CA-92780/25473078_zpid/
+"1716 Sunbeam Lake Dr, El Centro, CA",82500,-,-,-,https://www.zillow.com//b/1716-sunbeam-lake-dr-el-centro-ca-9MrDkm/
+"12130 Ohio Ave APT 302, Los Angeles, CA 90025",1179999,3.0,4.0,1507.0,https://www.zillow.com//homedetails/12130-Ohio-Ave-APT-302-Los-Angeles-CA-90025/20467233_zpid/
+"34851 Date Palm Dr #7, Cathedral City, CA 92234",119000,2.0,2.0,1300.0,https://www.zillow.com//homedetails/34851-Date-Palm-Dr-7-Cathedral-City-CA-92234/442766158_zpid/
+"3527 Adams Ln, Redding, CA 96002",410000,3.0,2.0,1584.0,https://www.zillow.com//homedetails/3527-Adams-Ln-Redding-CA-96002/15218166_zpid/
+"1823 E 108th St, Los Angeles, CA 90059",650000,5.0,2.0,1588.0,https://www.zillow.com//homedetails/1823-E-108th-St-Los-Angeles-CA-90059/20967297_zpid/
+"16278 Mallory Dr, Fontana, CA 92335",712000,3.0,3.0,1602.0,https://www.zillow.com//homedetails/16278-Mallory-Dr-Fontana-CA-92335/17339282_zpid/
+"30416 Live Oak Dr, Running Springs, CA 92382",499999,3.0,3.0,2200.0,https://www.zillow.com//homedetails/30416-Live-Oak-Dr-Running-Springs-CA-92382/17374863_zpid/
+"523 N Vulcan Ave SPACE 35, Encinitas, CA 92024",90000,1.0,1.0,300.0,https://www.zillow.com//homedetails/523-N-Vulcan-Ave-SPACE-35-Encinitas-CA-92024/145641239_zpid/
+"6365 Marilane Rd, Twentynine Palms, CA 92277",310000,3.0,2.0,1561.0,https://www.zillow.com//homedetails/6365-Marilane-Rd-Twentynine-Palms-CA-92277/17506170_zpid/
+"5100 8th Ave, Los Angeles, CA 90043",650000,2.0,1.0,934.0,https://www.zillow.com//homedetails/5100-8th-Ave-Los-Angeles-CA-90043/20568227_zpid/
+"29720 Valle Verde St, Temecula, CA 92591",1600000,6.0,5.0,2688.0,https://www.zillow.com//homedetails/29720-Valle-Verde-St-Temecula-CA-92591/443848500_zpid/
+"3620 Moreno Ave SPACE 136, La Verne, CA 91750",187000,2.0,2.0,1200.0,https://www.zillow.com//homedetails/3620-Moreno-Ave-SPACE-136-La-Verne-CA-91750/346889628_zpid/
+"300 Cagney Ln APT 111, Newport Beach, CA 92663",695000,1.0,1.0,600.0,https://www.zillow.com//homedetails/300-Cagney-Ln-APT-111-Newport-Beach-CA-92663/25730429_zpid/
+"5550 Panther Rd, Anderson, CA 96007",790000,2.0,1.0,1744.0,https://www.zillow.com//homedetails/5550-Panther-Rd-Anderson-CA-96007/15247308_zpid/
+"20855 Villa Knoll Dr, Lake Mathews, CA 92570",421000,-,0.0,-,https://www.zillow.com//homedetails/20855-Villa-Knoll-Dr-Lake-Mathews-CA-92570/2066660292_zpid/
+"69333 E Palm Canyon Dr SPACE 84, Cathedral City, CA 92234",95000,1.0,1.0,616.0,https://www.zillow.com//homedetails/69333-E-Palm-Canyon-Dr-SPACE-84-Cathedral-City-CA-92234/17745903_zpid/
+"33 Via Alicia, Santa Barbara, CA 93108",4250000,5.0,5.0,4925.0,https://www.zillow.com//homedetails/33-Via-Alicia-Santa-Barbara-CA-93108/15882496_zpid/
+"1845 Blakeslee Ave, Arcata, CA 95521",410000,3.0,1.0,1310.0,https://www.zillow.com//homedetails/1845-Blakeslee-Ave-Arcata-CA-95521/18821997_zpid/
+"12592 Singing Wood Dr, Santa Ana, CA 92705",3499999,4.0,5.0,3185.0,https://www.zillow.com//homedetails/12592-Singing-Wood-Dr-Santa-Ana-CA-92705/25197432_zpid/
+"38020 Cabin Cir, Palm Desert, CA 92260",499000,2.0,2.0,1815.0,https://www.zillow.com//homedetails/38020-Cabin-Cir-Palm-Desert-CA-92260/18072647_zpid/
+"8545 Mission Gorge Rd SPACE 147, Santee, CA 92071",365000,3.0,2.0,1344.0,https://www.zillow.com//homedetails/8545-Mission-Gorge-Rd-SPACE-147-Santee-CA-92071/82944275_zpid/
+"1642 W 60th St, Los Angeles, CA 90047",550000,2.0,1.0,858.0,https://www.zillow.com//homedetails/1642-W-60th-St-Los-Angeles-CA-90047/20927400_zpid/
+"107 Dunaway Ct, Fortuna, CA 95540",645000,4.0,4.0,2285.0,https://www.zillow.com//homedetails/107-Dunaway-Ct-Fortuna-CA-95540/18827010_zpid/
+"4910 Hidden Meadows Ln, Eureka, CA",500000,-,-,-,"https://www.zillow.com//b/building/40.71263,-124.108635_ll/"
+"21254 Colina Dr, Topanga, CA 90290",3900000,3.0,3.0,3200.0,https://www.zillow.com//homedetails/21254-Colina-Dr-Topanga-CA-90290/20550940_zpid/
+"24238 Postal Ave #1-6, Moreno Valley, CA 92553",1225000,6.0,6.0,500.0,https://www.zillow.com//homedetails/24238-Postal-Ave-1-6-Moreno-Valley-CA-92553/442947051_zpid/
+"70200 Dillon Rd, Desert Hot Springs, CA",89000,-,-,-,"https://www.zillow.com//b/building/33.865204,-116.29912_ll/"
+"1500 Spa Rd #468, Niland, CA 92257",38900,1.0,1.0,532.0,https://www.zillow.com//homedetails/1500-Spa-Rd-468-Niland-CA-92257/18873736_zpid/
+"14576 Nelson Ave, Victorville, CA 92394",530000,6.0,3.0,2628.0,https://www.zillow.com//homedetails/14576-Nelson-Ave-Victorville-CA-92394/58758461_zpid/
+"52834 Stonewood Canyon Rd, Idyllwild, CA 92549",689000,3.0,2.0,1125.0,https://www.zillow.com//homedetails/52834-Stonewood-Canyon-Rd-Idyllwild-CA-92549/18045525_zpid/
+"14466 E Loyola St, Moorpark, CA 93021",949000,4.0,3.0,1972.0,https://www.zillow.com//homedetails/14466-E-Loyola-St-Moorpark-CA-93021/16420064_zpid/
+"15500 Bubbling Wells Rd SPC 124, Desert Hot Springs, CA 92240",45000,2.0,2.0,1040.0,https://www.zillow.com//homedetails/15500-Bubbling-Wells-Rd-SPC-124-Desert-Hot-Springs-CA-92240/122420822_zpid/
+"27701 Murrieta Rd, Menifee, CA 92586",199000,2.0,2.0,1584.0,https://www.zillow.com//homedetails/27701-Murrieta-Rd-Menifee-CA-92586/331553703_zpid/
+"10550 Dunlap Crossing Rd #64, Whittier, CA 90606",155000,2.0,2.0,1535.0,https://www.zillow.com//homedetails/10550-Dunlap-Crossing-Rd-64-Whittier-CA-90606/443326411_zpid/
+"66315 Cahuilla Ave, Desert Hot Springs, CA 92240",508000,4.0,2.0,1802.0,https://www.zillow.com//homedetails/66315-Cahuilla-Ave-Desert-Hot-Springs-CA-92240/338226209_zpid/
+"971 E Alexander Way, Palm Springs, CA 92262",1249000,3.0,2.0,1225.0,https://www.zillow.com//homedetails/971-E-Alexander-Way-Palm-Springs-CA-92262/18016804_zpid/
+"6870 Riverland Dr SPACE 80, Redding, CA 96002",55000,2.0,2.0,720.0,https://www.zillow.com//homedetails/6870-Riverland-Dr-SPACE-80-Redding-CA-96002/54983494_zpid/
+"24723 Via Valmonte, Torrance, CA 90505",2499000,4.0,4.0,2546.0,https://www.zillow.com//homedetails/24723-Via-Valmonte-Torrance-CA-90505/21337351_zpid/
+"56628 Desert Vista Cir, Yucca Valley, CA 92284",620000,3.0,3.0,1770.0,https://www.zillow.com//homedetails/56628-Desert-Vista-Cir-Yucca-Valley-CA-92284/318480617_zpid/
+"18801 Roberts Rd SPC 152, Desert Hot Springs, CA 92241",25000,1.0,1.0,400.0,https://www.zillow.com//homedetails/18801-Roberts-Rd-SPC-152-Desert-Hot-Springs-CA-92241/2081643198_zpid/
+"2180 Jewell Ln, Redding, CA 96001",185000,1.0,1.0,786.0,https://www.zillow.com//homedetails/2180-Jewell-Ln-Redding-CA-96001/15208820_zpid/
+"38927 Alfred Cir, Cherry Valley, CA 92223",325000,-,0.0,-,https://www.zillow.com//homedetails/38927-Alfred-Cir-Cherry-Valley-CA-92223/95915694_zpid/
+"10561 Court Ave, Stanton, CA 90680",950000,2.0,1.0,951.0,https://www.zillow.com//homedetails/10561-Court-Ave-Stanton-CA-90680/25218808_zpid/
+"46618 Madison St SPACE 126, Indio, CA 92201",189000,2.0,2.0,1425.0,https://www.zillow.com//homedetails/46618-Madison-St-SPACE-126-Indio-CA-92201/18068326_zpid/
+"17777 Langlois Rd #60, Desert Edge, CA 92241",74900,1.0,1.0,400.0,https://www.zillow.com//homedetails/17777-Langlois-Rd-60-Desert-Edge-CA-92241/2059150082_zpid/
+"97X Bradley Way, Vista, CA 92081",835000,2.0,2.0,1196.0,https://www.zillow.com//homedetails/97X-Bradley-Way-Vista-CA-92081/443615043_zpid/
+"715 Chipmunk Ln, Big Bear Lake, CA 92315",550000,2.0,1.0,640.0,https://www.zillow.com//homedetails/715-Chipmunk-Ln-Big-Bear-Lake-CA-92315/17382883_zpid/
+"427 9th Ave UNIT 803, San Diego, CA 92101",975000,2.0,2.0,1018.0,https://www.zillow.com//homedetails/427-9th-Ave-UNIT-803-San-Diego-CA-92101/63777984_zpid/
+"2965-2965 Johnstonville Rd N SPACE 12, Susanville, CA 96130",48500,3.0,2.0,1536.0,https://www.zillow.com//homedetails/2965-2965-Johnstonville-Rd-N-SPACE-12-Susanville-CA-96130/2056295228_zpid/
+"37017 State Highway 299, Burney, CA 96013",69500,0.0,0.0,4500.0,https://www.zillow.com//homedetails/37017-State-Highway-299-Burney-CA-96013/443767980_zpid/
+"5325 Newcastle Ave UNIT 116, Encino, CA 91316",469000,2.0,2.0,880.0,https://www.zillow.com//homedetails/5325-Newcastle-Ave-UNIT-116-Encino-CA-91316/19938527_zpid/
+"86153 Sonoma Creek Rd, Coachella, CA 92236",300000,1.0,1.0,1089.0,https://www.zillow.com//homedetails/86153-Sonoma-Creek-Rd-Coachella-CA-92236/63314804_zpid/
+"1015 N Michillinda Ave APT 209, Pasadena, CA 91107",765000,2.0,3.0,1103.0,https://www.zillow.com//homedetails/1015-N-Michillinda-Ave-APT-209-Pasadena-CA-91107/20880775_zpid/
+"17068 Colima Rd APT 274, Hacienda Heights, CA 91745",402000,1.0,1.0,612.0,https://www.zillow.com//homedetails/17068-Colima-Rd-APT-274-Hacienda-Heights-CA-91745/21496836_zpid/
+"189 Desert Lakes Dr, Rancho Mirage, CA 92270",749000,2.0,2.0,2440.0,https://www.zillow.com//homedetails/189-Desert-Lakes-Dr-Rancho-Mirage-CA-92270/18071039_zpid/
+"1730 Ferry St, Anderson, CA 96007",275000,3.0,2.0,1056.0,https://www.zillow.com//homedetails/1730-Ferry-St-Anderson-CA-96007/15244520_zpid/
+"Barker Rd, Oak Hills, CA 92344",205000,-,0.0,-,https://www.zillow.com//homedetails/Barker-Rd-Oak-Hills-CA-92344/137984972_zpid/
+"8990 19th St APT 433, Rancho Cucamonga, CA 91701",429000,2.0,1.0,823.0,https://www.zillow.com//homedetails/8990-19th-St-APT-433-Rancho-Cucamonga-CA-91701/17288328_zpid/
+"17350 Temple Ave SPC 196, La Puente, CA 91744",199900,2.0,2.0,1440.0,https://www.zillow.com//homedetails/17350-Temple-Ave-SPC-196-La-Puente-CA-91744/136708167_zpid/
+"1289 Hookton Rd, Loleta, CA 95551",1350000,4.0,5.0,6500.0,https://www.zillow.com//homedetails/1289-Hookton-Rd-Loleta-CA-95551/94689151_zpid/
+"10006 Maya Linda Rd UNIT 5209, San Diego, CA 92126",630000,2.0,2.0,954.0,https://www.zillow.com//homedetails/10006-Maya-Linda-Rd-UNIT-5209-San-Diego-CA-92126/69812097_zpid/
+"44618 State Highway 74, Hemet, CA 92544",1100000,4.0,2.0,1800.0,https://www.zillow.com//homedetails/44618-State-Highway-74-Hemet-CA-92544/2091487471_zpid/
+"1823 Hilton Ave, Yucca Valley, CA 92284",410000,3.0,2.0,1389.0,https://www.zillow.com//homedetails/1823-Hilton-Ave-Yucca-Valley-CA-92284/89166724_zpid/
+"44507 Beringer Dr, Indio, CA 92203",659900,5.0,3.0,2430.0,https://www.zillow.com//homedetails/44507-Beringer-Dr-Indio-CA-92203/2053533448_zpid/
+"3424 Mesquite Springs Rd, Twentynine Palms, CA 92277",185000,1.0,2.0,544.0,https://www.zillow.com//homedetails/3424-Mesquite-Springs-Rd-Twentynine-Palms-CA-92277/299170306_zpid/
+"3535 Ticonderoga St, San Diego, CA 92117",3865000,4.0,5.0,3873.0,https://www.zillow.com//homedetails/3535-Ticonderoga-St-San-Diego-CA-92117/16925922_zpid/
+"15 La Crescenta Dr, Camarillo, CA 93010",2300000,9.0,7.0,4065.0,https://www.zillow.com//homedetails/15-La-Crescenta-Dr-Camarillo-CA-93010/16360350_zpid/
+"0 Grizzley Dr LOT 17, Alturas, CA 96101",15000,-,0.0,-,https://www.zillow.com//homedetails/0-Grizzley-Dr-LOT-17-Alturas-CA-96101/443810407_zpid/
+"17705 S Western Ave SPACE 65, Gardena, CA 90248",35000,1.0,1.0,576.0,https://www.zillow.com//homedetails/17705-S-Western-Ave-SPACE-65-Gardena-CA-90248/402221243_zpid/
+"1931 E Meats Ave, Orange, CA 92865",160000,3.0,2.0,-,https://www.zillow.com//homedetails/1931-E-Meats-Ave-Orange-CA-92865/441893016_zpid/
+"5101 Tortuga Dr APT 109, Huntington Beach, CA 92649",512999,0.0,1.0,498.0,https://www.zillow.com//homedetails/5101-Tortuga-Dr-APT-109-Huntington-Beach-CA-92649/25768547_zpid/
+"9852 Reading Ave, Garden Grove, CA 92844",1300000,3.0,2.0,1350.0,https://www.zillow.com//homedetails/9852-Reading-Ave-Garden-Grove-CA-92844/25187359_zpid/
+"1372 Morningside Dr, Laguna Beach, CA 92651",2700000,2.0,2.0,1680.0,https://www.zillow.com//homedetails/1372-Morningside-Dr-Laguna-Beach-CA-92651/25559024_zpid/
+"2200 W Wilson St #135, Banning, CA 92220",76000,2.0,3.0,1200.0,https://www.zillow.com//homedetails/2200-W-Wilson-St-135-Banning-CA-92220/353742161_zpid/
+"622 San Pascual Ave, Los Angeles, CA 90042",1380000,6.0,4.0,2880.0,https://www.zillow.com//homedetails/622-San-Pascual-Ave-Los-Angeles-CA-90042/20773335_zpid/
+"37066 Whispering Hills Dr, Murrieta, CA 92563",850000,5.0,3.0,3563.0,https://www.zillow.com//homedetails/37066-Whispering-Hills-Dr-Murrieta-CA-92563/95981392_zpid/
+"388 E Ocean Blvd UNIT 1404, Long Beach, CA 90802",560000,1.0,1.0,680.0,https://www.zillow.com//homedetails/388-E-Ocean-Blvd-UNIT-1404-Long-Beach-CA-90802/68994471_zpid/
+"78580 Platinum Dr, Palm Desert, CA 92211",515000,2.0,2.0,1622.0,https://www.zillow.com//homedetails/78580-Platinum-Dr-Palm-Desert-CA-92211/18058344_zpid/
+"10770 Black Mountain Rd SPACE 184, San Diego, CA 92126",420000,3.0,2.0,1422.0,https://www.zillow.com//homedetails/10770-Black-Mountain-Rd-SPACE-184-San-Diego-CA-92126/140616798_zpid/
+"65669 Avenida Ladera, Desert Hot Springs, CA 92240",575000,3.0,2.0,1200.0,https://www.zillow.com//homedetails/65669-Avenida-Ladera-Desert-Hot-Springs-CA-92240/18115226_zpid/
+"251 E Avenue K6, Lancaster, CA 93535",14000,-,0.0,-,https://www.zillow.com//homedetails/251-E-Avenue-K6-Lancaster-CA-93535/135142356_zpid/
+"538 Andromeda Dr, Lompoc, CA 93436",999500,4.0,4.0,3196.0,https://www.zillow.com//homedetails/538-Andromeda-Dr-Lompoc-CA-93436/64807810_zpid/
+"499 Bel Air Dr, Lake Arrowhead, CA 92352",850000,4.0,3.0,2664.0,https://www.zillow.com//homedetails/499-Bel-Air-Dr-Lake-Arrowhead-CA-92352/17423345_zpid/
+"42550 Port Ln, Murrieta, CA 92562",1048900,5.0,5.0,3989.0,https://www.zillow.com//homedetails/42550-Port-Ln-Murrieta-CA-92562/69265731_zpid/
+"22494 Brightwood Pl, Santa Clarita, CA 91350",1450000,4.0,5.0,3528.0,https://www.zillow.com//homedetails/22494-Brightwood-Pl-Santa-Clarita-CA-91350/95630258_zpid/
+"69801 Ramon Rd #27, Cathedral City, CA 92234",139900,1.0,1.0,400.0,https://www.zillow.com//homedetails/69801-Ramon-Rd-27-Cathedral-City-CA-92234/18119295_zpid/
+"225 Wake Ave #41, El Centro, CA 92243",65000,1.0,1.0,552.0,https://www.zillow.com//homedetails/225-Wake-Ave-41-El-Centro-CA-92243/442329739_zpid/
+"1840 Grandview Ave, Redding, CA 96001",432100,3.0,2.0,1689.0,https://www.zillow.com//homedetails/1840-Grandview-Ave-Redding-CA-96001/15232315_zpid/
+"3401 Parker Dam Rd, Earp, CA",95000,-,-,-,https://www.zillow.com//b/3401-parker-dam-rd-earp-ca-5YPgBD/
+"15344 Weddington St UNIT 102, Van Nuys, CA 91411",799000,2.0,2.0,1200.0,https://www.zillow.com//homedetails/15344-Weddington-St-UNIT-102-Van-Nuys-CA-91411/19976047_zpid/
+"9340 Foothill Blvd TRAILER 38, Rancho Cucamonga, CA 91730",75000,1.0,1.0,500.0,https://www.zillow.com//homedetails/9340-Foothill-Blvd-TRAILER-38-Rancho-Cucamonga-CA-91730/145563723_zpid/
+"6604 Haywood St, Tujunga, CA 91042",949999,2.0,1.0,1180.0,https://www.zillow.com//homedetails/6604-Haywood-St-Tujunga-CA-91042/20100599_zpid/
+"581 Garrett Rd, Hyampom, CA 96046",415000,4.0,4.0,2614.0,https://www.zillow.com//homedetails/581-Garrett-Rd-Hyampom-CA-96046/334061236_zpid/
+"0 Castilian Dr, Los Angeles, CA 90068",3500000,4.0,5.0,3250.0,https://www.zillow.com//homedetails/0-Castilian-Dr-Los-Angeles-CA-90068/443211283_zpid/
+"815 Woodgrove Rd, Fillmore, CA 93015",509000,-,0.0,-,https://www.zillow.com//homedetails/815-Woodgrove-Rd-Fillmore-CA-93015/2058304311_zpid/
+"147 W Colden Blvd, Los Angeles, CA 90061",925688,11.0,22.0,4765.0,https://www.zillow.com//homedetails/147-W-Colden-Blvd-Los-Angeles-CA-90061/443465963_zpid/
+"13701 Andover Dr, Magalia, CA 95954",14000,3.0,0.0,1541.0,https://www.zillow.com//homedetails/13701-Andover-Dr-Magalia-CA-95954/18265013_zpid/
+"950 Spring Rd, Whitethorn, CA 95589",390000,1.0,2.0,1200.0,https://www.zillow.com//homedetails/950-Spring-Rd-Whitethorn-CA-95589/18826137_zpid/
+"1859 Irving Ave, San Diego, CA 92113",1400000,5.0,4.0,2494.0,https://www.zillow.com//homedetails/1859-Irving-Ave-San-Diego-CA-92113/2076490369_zpid/
+"10482 Quito Ln, Los Angeles, CA 90077",35000,-,0.0,-,https://www.zillow.com//homedetails/10482-Quito-Ln-Los-Angeles-CA-90077/442450387_zpid/
+"4942 Heise Park Rd, Julian, CA 92036",650000,3.0,2.0,1027.0,https://www.zillow.com//homedetails/4942-Heise-Park-Rd-Julian-CA-92036/16758563_zpid/
+"146 Coyote, Cathedral City, CA 92234",172500,2.0,2.0,1344.0,https://www.zillow.com//homedetails/146-Coyote-Cathedral-City-CA-92234/52463934_zpid/
+"1001 W Lambert Rd SPC 98, La Habra, CA 90631",220000,2.0,2.0,1140.0,https://www.zillow.com//homedetails/1001-W-Lambert-Rd-SPC-98-La-Habra-CA-90631/2109180925_zpid/
+"112 Palmas Norte, Fallbrook, CA 92028",966000,3.0,3.0,2600.0,https://www.zillow.com//homedetails/112-Palmas-Norte-Fallbrook-CA-92028/16563700_zpid/
+"84250 Indio Springs Pkwy, Indio, CA 92203",155000,1.0,1.0,860.0,https://www.zillow.com//homedetails/84250-Indio-Springs-Pkwy-Indio-CA-92203/243361196_zpid/
+"25521 Lincoln Ave SPACE 94, Hemet, CA 92544",95000,2.0,1.0,940.0,https://www.zillow.com//homedetails/25521-Lincoln-Ave-SPACE-94-Hemet-CA-92544/120839052_zpid/
+"1600 E Clark Ave SPACE 55, Santa Maria, CA 93455",89000,1.0,1.0,-,https://www.zillow.com//homedetails/1600-E-Clark-Ave-SPACE-55-Santa-Maria-CA-93455/15967178_zpid/
+"9724 Bothwell Rd, Northridge, CA 91324",2249000,6.0,5.0,3876.0,https://www.zillow.com//homedetails/9724-Bothwell-Rd-Northridge-CA-91324/20174618_zpid/
+"57350 Hillcrest Dr, Yucca Valley, CA 92284",500000,2.0,2.0,1068.0,https://www.zillow.com//homedetails/57350-Hillcrest-Dr-Yucca-Valley-CA-92284/17496678_zpid/
+"706 W 29th St, San Pedro, CA 90731",1950000,2.0,3.0,1100.0,https://www.zillow.com//homedetails/706-W-29th-St-San-Pedro-CA-90731/21313169_zpid/
+"16408 Sierra Hwy SPACE 24, Canyon Country, CA 91351",129900,1.0,1.0,384.0,https://www.zillow.com//homedetails/16408-Sierra-Hwy-SPACE-24-Canyon-Country-CA-91351/136693588_zpid/
+"5th Street Lots #7-12, Borrego Springs, CA 92004",18000,-,0.0,-,https://www.zillow.com//homedetails/5th-Street-Lots-7-12-Borrego-Springs-CA-92004/2059426686_zpid/
+"7389 Oneida Trl, Big River, CA 92242",155000,2.0,2.0,750.0,https://www.zillow.com//homedetails/7389-Oneida-Trl-Big-River-CA-92242/17510898_zpid/
+"388 Hampshire Dr, Quail Valley, CA 92587",52500,-,0.0,-,https://www.zillow.com//homedetails/388-Hampshire-Dr-Quail-Valley-CA-92587/2069742786_zpid/
+"675 Parker Dam Rd #59, Parker Dam, CA 92267",599999,3.0,3.0,1920.0,https://www.zillow.com//homedetails/675-Parker-Dam-Rd-59-Parker-Dam-CA-92267/443678393_zpid/
+"3500 W Manchester Blvd UNIT 301, Inglewood, CA 90305",875000,3.0,3.0,1493.0,https://www.zillow.com//homedetails/3500-W-Manchester-Blvd-UNIT-301-Inglewood-CA-90305/20339740_zpid/
+"5301 E Waverly Dr UNIT 197, Palm Springs, CA 92264",334000,1.0,2.0,887.0,https://www.zillow.com//homedetails/5301-E-Waverly-Dr-UNIT-197-Palm-Springs-CA-92264/18135474_zpid/
+"2072-031 Old Topanga Canyon Rd, Topanga, CA 90290",29950,-,0.0,-,https://www.zillow.com//homedetails/2072-031-Old-Topanga-Canyon-Rd-Topanga-CA-90290/2059190805_zpid/
+"21100 State St SPACE 110, San Jacinto, CA 92583",150000,3.0,2.0,720.0,https://www.zillow.com//homedetails/21100-State-St-SPACE-110-San-Jacinto-CA-92583/59424351_zpid/
+"3762 Sage Way, Oceanside, CA 92057",469000,2.0,2.0,1050.0,https://www.zillow.com//homedetails/3762-Sage-Way-Oceanside-CA-92057/16600195_zpid/
+"442 S Thousand Pines Rd, Crestline, CA 92325",50000,-,0.0,-,https://www.zillow.com//homedetails/442-S-Thousand-Pines-Rd-Crestline-CA-92325/442780522_zpid/
+"500 Leisure Ln, Paradise, CA 95969",69000,3.0,0.0,1732.0,https://www.zillow.com//homedetails/500-Leisure-Ln-Paradise-CA-95969/18256935_zpid/
+"6544 College Grove Dr UNIT 70, San Diego, CA 92115",510000,2.0,2.0,951.0,https://www.zillow.com//homedetails/6544-College-Grove-Dr-UNIT-70-San-Diego-CA-92115/52518706_zpid/
+"12107 Marine St, Los Angeles, CA 90066",1999999,0.0,0.0,1170.0,https://www.zillow.com//homedetails/12107-Marine-St-Los-Angeles-CA-90066/20456856_zpid/
+"81220 Amboy Rd, Twentynine Palms, CA 92277",18000,-,0.0,-,https://www.zillow.com//homedetails/81220-Amboy-Rd-Twentynine-Palms-CA-92277/2058068347_zpid/
+"6480 Katherine Rd SPACE 48, Simi Valley, CA 93063",355000,3.0,2.0,-,https://www.zillow.com//homedetails/6480-Katherine-Rd-SPACE-48-Simi-Valley-CA-93063/442364075_zpid/
+"2113 Border Ave, Torrance, CA 90501",2500000,4.0,2.0,3533.0,https://www.zillow.com//homedetails/2113-Border-Ave-Torrance-CA-90501/250343479_zpid/
+"89 Via Santo Tomas, Rancho Mirage, CA 92270",1250000,3.0,3.0,2307.0,https://www.zillow.com//homedetails/89-Via-Santo-Tomas-Rancho-Mirage-CA-92270/69276838_zpid/
+"43050 245th St E, Lancaster, CA 93535",13800,-,0.0,-,https://www.zillow.com//homedetails/43050-245th-St-E-Lancaster-CA-93535/345733905_zpid/
+"600 Hobbs Wall Rd, Crescent City, CA 95531",585000,3.0,2.0,1387.0,https://www.zillow.com//homedetails/600-Hobbs-Wall-Rd-Crescent-City-CA-95531/18563137_zpid/
+"9100 Single Oak Dr SPACE 69, Lakeside, CA 92040",295000,2.0,2.0,1440.0,https://www.zillow.com//homedetails/9100-Single-Oak-Dr-SPACE-69-Lakeside-CA-92040/140621348_zpid/
+"263 W 41st Pl, Los Angeles, CA 90037",1690000,14.0,4.0,4368.0,https://www.zillow.com//homedetails/263-W-41st-Pl-Los-Angeles-CA-90037/20618148_zpid/
+"6951 6th Ave #26, Blythe, CA 92225",25000,2.0,1.0,700.0,https://www.zillow.com//homedetails/6951-6th-Ave-26-Blythe-CA-92225/443606105_zpid/
+"2555 Sea Mist St, Thermal, CA 92274",9500,-,0.0,-,https://www.zillow.com//homedetails/2555-Sea-Mist-St-Thermal-CA-92274/113368020_zpid/
+"510 N Helberta Ave, Redondo Beach, CA 90277",1699000,-,0.0,-,https://www.zillow.com//homedetails/510-N-Helberta-Ave-Redondo-Beach-CA-90277/2089766285_zpid/
+"33255 Minneola Rd, Newberry Springs, CA 92365",268000,-,0.0,-,https://www.zillow.com//homedetails/33255-Minneola-Rd-Newberry-Springs-CA-92365/2069752509_zpid/
+"56620 Hidden Gold Dr, Yucca Valley, CA 92284",420420,3.0,2.0,1731.0,https://www.zillow.com//homedetails/56620-Hidden-Gold-Dr-Yucca-Valley-CA-92284/17489991_zpid/
+"1234 Montezuma Rd, Joshua Tree, CA 92252",380000,1.0,0.0,206.0,https://www.zillow.com//homedetails/1234-Montezuma-Rd-Joshua-Tree-CA-92252/442904967_zpid/
+"428 S 1st St, Alhambra, CA 91801",1700000,2.0,1.0,682.0,https://www.zillow.com//homedetails/428-S-1st-St-Alhambra-CA-91801/20708934_zpid/
+"5350 Mesquite Springs Rd, Twentynine Palms, CA 92277",18750,-,0.0,-,https://www.zillow.com//homedetails/5350-Mesquite-Springs-Rd-Twentynine-Palms-CA-92277/2063203185_zpid/
+"1145 E Barham Dr SPACE 229, San Marcos, CA 92078",395000,2.0,2.0,1392.0,https://www.zillow.com//homedetails/1145-E-Barham-Dr-SPACE-229-San-Marcos-CA-92078/82932115_zpid/
+"29 Palms Hwy #J, Joshua Tree, CA 92252",22500,-,0.0,-,https://www.zillow.com//homedetails/29-Palms-Hwy-J-Joshua-Tree-CA-92252/442187470_zpid/
+"1229 Vernon St, Eureka, CA 95501",695000,3.0,2.0,1750.0,https://www.zillow.com//homedetails/1229-Vernon-St-Eureka-CA-95501/205183058_zpid/
