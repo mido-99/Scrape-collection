@@ -1,564 +1,503 @@
 address,price,beds,baths,area,link
-"115 Kay Dr, Vallejo, CA 94590",269900,3.0,2.0,1440.0,https://www.zillow.com//homedetails/115-Kay-Dr-Vallejo-CA-94590/2058064570_zpid/
-"30000 Kasson Rd, Tracy, CA 95304",260000,2.0,1.0,1200.0,https://www.zillow.com//homedetails/30000-Kasson-Rd-Tracy-CA-95304/15384317_zpid/
-"3142 Loretta Way, Santa Rosa, CA 95403",279500,2.0,2.0,826.0,https://www.zillow.com//homedetails/3142-Loretta-Way-Santa-Rosa-CA-95403/119690592_zpid/
-"235 N 11th St, Fresno, CA 93702",209950,3.0,1.0,916.0,https://www.zillow.com//homedetails/235-N-11th-St-Fresno-CA-93702/18756208_zpid/
-"605 Pringle Ave #7, Galt, CA 95632",175000,2.0,2.0,1100.0,https://www.zillow.com//homedetails/605-Pringle-Ave-7-Galt-CA-95632/2059049653_zpid/
-"2K4 Sunset Way, Tracy, CA 95304",260000,3.0,1.0,1120.0,https://www.zillow.com//homedetails/2K4-Sunset-Way-Tracy-CA-95304/442838759_zpid/
-"70425 Highway 395, Bridgeport, CA 93517",350000,3.0,2.0,1261.0,https://www.zillow.com//homedetails/70425-Highway-395-Bridgeport-CA-93517/19226102_zpid/
-"2381 Plateau Dr, San Jose, CA 95125",1329000,4.0,4.0,1787.0,https://www.zillow.com//homedetails/2381-Plateau-Dr-San-Jose-CA-95125/64439825_zpid/
-"82414 5th St, Trona, CA 93562",40000,2.0,1.0,900.0,https://www.zillow.com//homedetails/82414-5th-St-Trona-CA-93562/17484027_zpid/
-"12846 Lacey Blvd SPACE 62, Hanford, CA 93230",42500,2.0,2.0,564.0,https://www.zillow.com//homedetails/12846-Lacey-Blvd-SPACE-62-Hanford-CA-93230/338262526_zpid/
-"6000 Sheep Ranch Rd, Murphys, CA 95247",359900,3.0,2.0,1212.0,https://www.zillow.com//homedetails/6000-Sheep-Ranch-Rd-Murphys-CA-95247/443192652_zpid/
-"560 W Pleasant Ave SPACE 18, Tulare, CA 93274",77000,3.0,2.0,1400.0,https://www.zillow.com//homedetails/560-W-Pleasant-Ave-SPACE-18-Tulare-CA-93274/83378775_zpid/
-"1742 W Harbor Dr, Isleton, CA 95641",189000,2.0,2.0,1100.0,https://www.zillow.com//homedetails/1742-W-Harbor-Dr-Isleton-CA-95641/2116777341_zpid/
-"805 Eton Ave, Lemoore, CA 93245",394000,3.0,2.0,1700.0,https://www.zillow.com//homedetails/805-Eton-Ave-Lemoore-CA-93245/19072629_zpid/
-"3460 Central Ave, Roseville, CA 95747",795000,3.0,3.0,1641.0,https://www.zillow.com//homedetails/3460-Central-Ave-Roseville-CA-95747/17663436_zpid/
-"812 W Clover Rd SPACE 66, Tracy, CA 95376",199950,3.0,2.0,1344.0,https://www.zillow.com//homedetails/812-W-Clover-Rd-SPACE-66-Tracy-CA-95376/249474558_zpid/
-"10 Belshaw St, Antioch, CA 94509",550000,4.0,3.0,1224.0,https://www.zillow.com//homedetails/10-Belshaw-St-Antioch-CA-94509/18308267_zpid/
-"21164 Thompson Canyon Ave, Caliente, CA 93518",85000,3.0,3.0,1344.0,https://www.zillow.com//homedetails/21164-Thompson-Canyon-Ave-Caliente-CA-93518/2062974499_zpid/
-"742 E Stuart Ave, Fresno, CA 93710",460000,3.0,2.0,1590.0,https://www.zillow.com//homedetails/742-E-Stuart-Ave-Fresno-CA-93710/18704320_zpid/
-"105 W 15th Ave, Delano, CA 93215",550000,3.0,2.0,1533.0,https://www.zillow.com//homedetails/105-W-15th-Ave-Delano-CA-93215/19058440_zpid/
-"13407 Holly St, Trona, CA 93562",127500,2.0,1.0,1145.0,https://www.zillow.com//homedetails/13407-Holly-St-Trona-CA-93562/17483678_zpid/
-"176 Bandit Ln, Oroville, CA 95966",238000,3.0,2.0,1344.0,https://www.zillow.com//homedetails/176-Bandit-Ln-Oroville-CA-95966/18269420_zpid/
-"835 Powell St, Hollister, CA",525000,-,-,-,"https://www.zillow.com//b/building/36.894924,-121.30813_ll/"
-"102 N Lincoln Ave, Dinuba, CA 93618",450000,6.0,4.0,2345.0,https://www.zillow.com//homedetails/102-N-Lincoln-Ave-Dinuba-CA-93618/16215911_zpid/
-"4334 Cowell Rd, Concord, CA 94518",797000,3.0,2.0,1007.0,https://www.zillow.com//homedetails/4334-Cowell-Rd-Concord-CA-94518/18375104_zpid/
-"26231 Isabella Ave, Carmel, CA 93923",4250000,2.0,2.0,1442.0,https://www.zillow.com//homedetails/26231-Isabella-Ave-Carmel-CA-93923/19332390_zpid/
-"605 Rimby Ave, Lodi, CA 95240",485000,2.0,1.0,1167.0,https://www.zillow.com//homedetails/605-Rimby-Ave-Lodi-CA-95240/15261734_zpid/
-"1706 Embarcadero Ln, Bakersfield, CA 93311",860000,3.0,3.0,2947.0,https://www.zillow.com//homedetails/1706-Embarcadero-Ln-Bakersfield-CA-93311/81865888_zpid/
-"1867 Old Mammoth Rd, Mammoth Lakes, CA 93546",839999,3.0,3.0,1360.0,https://www.zillow.com//homedetails/1867-Old-Mammoth-Rd-Mammoth-Lakes-CA-93546/19228022_zpid/
-"1074 Jordan Way, Hanford, CA 93230",208000,3.0,2.0,1100.0,https://www.zillow.com//homedetails/1074-Jordan-Way-Hanford-CA-93230/19068924_zpid/
-"214 Camp Fire Dr, California City, CA 93505",120000,2.0,1.0,860.0,https://www.zillow.com//homedetails/214-Camp-Fire-Dr-California-City-CA-93505/133872054_zpid/
-"6236 Oakdale Ave, Oakland, CA 94605",675000,3.0,2.0,1392.0,https://www.zillow.com//homedetails/6236-Oakdale-Ave-Oakland-CA-94605/24786565_zpid/
-"200 S Dolliver St SPACE 214, Pismo Beach, CA 93449",270000,3.0,1.0,560.0,https://www.zillow.com//homedetails/200-S-Dolliver-St-SPACE-214-Pismo-Beach-CA-93449/2057649223_zpid/
-"216 Eastern Ave, Taft, CA 93268",199900,3.0,2.0,1440.0,https://www.zillow.com//homedetails/216-Eastern-Ave-Taft-CA-93268/18907045_zpid/
-"851 Lee St, Bishop, CA 93514",599000,3.0,2.0,1555.0,https://www.zillow.com//homedetails/851-Lee-St-Bishop-CA-93514/18876776_zpid/
-"15 Willet Ct, Wallace, CA",465000,-,-,-,"https://www.zillow.com//b/building/38.20612,-120.956436_ll/"
-"7363 Malcolms Grove Dr, Creston, CA 93432",1399000,4.0,2.0,-,https://www.zillow.com//homedetails/7363-Malcolms-Grove-Dr-Creston-CA-93432/147175051_zpid/
-"300 Margarita Dr, San Rafael, CA 94901",14950000,6.0,11.0,10311.0,https://www.zillow.com//homedetails/300-Margarita-Dr-San-Rafael-CA-94901/80743634_zpid/
-"887 E Palm Dr, Hanford, CA 93230",385000,3.0,2.0,1513.0,https://www.zillow.com//homedetails/887-E-Palm-Dr-Hanford-CA-93230/19066121_zpid/
-"508 E Elm St, Hanford, CA 93230",370000,6.0,3.0,2040.0,https://www.zillow.com//homedetails/508-E-Elm-St-Hanford-CA-93230/19062748_zpid/
-"1451 San Lucia Ave, Porterville, CA 93257",340000,4.0,2.0,1885.0,https://www.zillow.com//homedetails/1451-San-Lucia-Ave-Porterville-CA-93257/16288172_zpid/
-"2085 Ocean Ave, San Francisco, CA 94127",2099000,5.0,4.0,2729.0,https://www.zillow.com//homedetails/2085-Ocean-Ave-San-Francisco-CA-94127/15187218_zpid/
-"205 Nido Way, Carmel Valley, CA 93924",1550000,4.0,3.0,2250.0,https://www.zillow.com//homedetails/205-Nido-Way-Carmel-Valley-CA-93924/19374540_zpid/
-"34 Mooring Rd, San Rafael, CA 94901",1099000,3.0,4.0,2690.0,https://www.zillow.com//homedetails/34-Mooring-Rd-San-Rafael-CA-94901/80752621_zpid/
-"21095 Tollhouse Rd, Clovis, CA 93619",425000,2.0,2.0,1288.0,https://www.zillow.com//homedetails/21095-Tollhouse-Rd-Clovis-CA-93619/18643000_zpid/
-"9709 White Oak Dr, Bakersfield, CA 93311",477900,4.0,3.0,2035.0,https://www.zillow.com//homedetails/9709-White-Oak-Dr-Bakersfield-CA-93311/19053622_zpid/
-"22 Forest Creek Cir, Chico, CA 95928",399000,3.0,2.0,1500.0,https://www.zillow.com//homedetails/22-Forest-Creek-Cir-Chico-CA-95928/18212649_zpid/
-"5132 N Hawk St, Inyokern, CA 93527",292000,3.0,2.0,1344.0,https://www.zillow.com//homedetails/5132-N-Hawk-St-Inyokern-CA-93527/18910185_zpid/
-"14250 Isleton Road Isleton Ca, Isleton, CA 95690",250000,1.0,1.0,400.0,https://www.zillow.com//homedetails/14250-Isleton-Road-Isleton-Ca-Isleton-CA-95690/2102281802_zpid/
-"835 Kimball Ave #7, Seaside, CA 93955",128000,1.0,1.0,360.0,https://www.zillow.com//homedetails/835-Kimball-Ave-7-Seaside-CA-93955/2058280810_zpid/
-"309 Preakness Ct, Walnut Creek, CA 94597",865000,3.0,3.0,1380.0,https://www.zillow.com//homedetails/309-Preakness-Ct-Walnut-Creek-CA-94597/18410789_zpid/
-"195 Blackberry Ct, Auburn, CA 95603",385000,3.0,2.0,1540.0,https://www.zillow.com//homedetails/195-Blackberry-Ct-Auburn-CA-95603/17683579_zpid/
-"36307 Road 112, Visalia, CA 93291",724900,3.0,2.0,1806.0,https://www.zillow.com//homedetails/36307-Road-112-Visalia-CA-93291/125243263_zpid/
-"21088 Steward Rd, Madera, CA 93638",850000,4.0,3.0,3152.0,https://www.zillow.com//homedetails/21088-Steward-Rd-Madera-CA-93638/19130383_zpid/
-"20325 87th St, California City, CA 93505",495000,5.0,3.0,2918.0,https://www.zillow.com//homedetails/20325-87th-St-California-City-CA-93505/81962195_zpid/
-"214 Avenida Del Sol, Inyokern, CA 93527",145000,3.0,2.0,1344.0,https://www.zillow.com//homedetails/214-Avenida-Del-Sol-Inyokern-CA-93527/18984647_zpid/
-"2380 Walnut Dr, Live Oak, CA 95953",320000,3.0,2.0,1118.0,https://www.zillow.com//homedetails/2380-Walnut-Dr-Live-Oak-CA-95953/16090152_zpid/
-"505 E Beacon Ave, Tulare, CA 93274",280000,3.0,1.0,1008.0,https://www.zillow.com//homedetails/505-E-Beacon-Ave-Tulare-CA-93274/16275681_zpid/
-"1621 Paiute Cir, Bishop, CA 93514",650000,3.0,0.0,1750.0,https://www.zillow.com//homedetails/1621-Paiute-Cir-Bishop-CA-93514/18877987_zpid/
-"1762 County Road R, Willows, CA 95988",1300000,4.0,2.0,2296.0,https://www.zillow.com//homedetails/1762-County-Road-R-Willows-CA-95988/230630112_zpid/
-"1350 S Main St #15, Lakeport, CA 95453",13999,1.0,2.0,450.0,https://www.zillow.com//homedetails/1350-S-Main-St-15-Lakeport-CA-95453/2076725240_zpid/
-"2020 N Ashby Rd SPACE 107, Merced, CA 95348",95000,3.0,2.0,1500.0,https://www.zillow.com//homedetails/2020-N-Ashby-Rd-SPACE-107-Merced-CA-95348/439977298_zpid/
-"28590 Fuentes Dr, Pioneer, CA 95666",249000,3.0,2.0,1540.0,https://www.zillow.com//homedetails/28590-Fuentes-Dr-Pioneer-CA-95666/18206081_zpid/
-"848 Burlando Rd, Kernville, CA 93238",1900000,4.0,3.0,4026.0,https://www.zillow.com//homedetails/848-Burlando-Rd-Kernville-CA-93238/67141482_zpid/
-"1517 Midway Dr, Woodland, CA 95695",1110000,4.0,4.0,4300.0,https://www.zillow.com//homedetails/1517-Midway-Dr-Woodland-CA-95695/16526499_zpid/
-"3950 Mack Rd SPACE 191, Sacramento, CA 95823",140000,2.0,2.0,1440.0,https://www.zillow.com//homedetails/3950-Mack-Rd-SPACE-191-Sacramento-CA-95823/59390162_zpid/
-"170 Mountain View Dr, Oroville, CA 95966",425000,4.0,2.0,1816.0,https://www.zillow.com//homedetails/170-Mountain-View-Dr-Oroville-CA-95966/18266691_zpid/
-"5 Bond Rd, Elk Grove, CA 95624",877000,4.0,3.0,3871.0,https://www.zillow.com//homedetails/5-Bond-Rd-Elk-Grove-CA-95624/443660546_zpid/
-"13489 Yorkshire Rd, Groveland, CA 95321",320000,3.0,2.0,2053.0,https://www.zillow.com//homedetails/13489-Yorkshire-Rd-Groveland-CA-95321/16206503_zpid/
-"2160 Lincoln St, East Palo Alto, CA 94303",1490000,5.0,5.0,2134.0,https://www.zillow.com//homedetails/2160-Lincoln-St-East-Palo-Alto-CA-94303/15585809_zpid/
-"11750 Old River Rd, Hopland, CA 95449",1745000,5.0,3.0,3000.0,https://www.zillow.com//homedetails/11750-Old-River-Rd-Hopland-CA-95449/19209684_zpid/
-"9559 Tenaya Way, Kelseyville, CA 95451",250000,2.0,2.0,1520.0,https://www.zillow.com//homedetails/9559-Tenaya-Way-Kelseyville-CA-95451/19097911_zpid/
-"1139 Newport Ave, Grover Beach, CA 93433",898500,3.0,2.0,1330.0,https://www.zillow.com//homedetails/1139-Newport-Ave-Grover-Beach-CA-93433/15433100_zpid/
-"40 Cove Ct, Napa, CA 94559",2600000,4.0,3.0,2573.0,https://www.zillow.com//homedetails/40-Cove-Ct-Napa-CA-94559/19414245_zpid/
-"1001 Clearview St, Tehachapi, CA 93561",420000,4.0,2.0,1704.0,https://www.zillow.com//homedetails/1001-Clearview-St-Tehachapi-CA-93561/69244601_zpid/
-"1905 W Mallard Way, Hanford, CA 93230",485000,4.0,2.0,2046.0,https://www.zillow.com//homedetails/1905-W-Mallard-Way-Hanford-CA-93230/95689554_zpid/
-"409 Factory St, Nevada City, CA 95959",899000,3.0,3.0,1915.0,https://www.zillow.com//homedetails/409-Factory-St-Nevada-City-CA-95959/19425904_zpid/
-"6649 Steiner Dr, Sacramento, CA 95823",415000,2.0,3.0,1034.0,https://www.zillow.com//homedetails/6649-Steiner-Dr-Sacramento-CA-95823/25839987_zpid/
-"2533 W McKinley Ave SPACE 51, Fresno, CA 93728",72500,2.0,2.0,868.0,https://www.zillow.com//homedetails/2533-W-McKinley-Ave-SPACE-51-Fresno-CA-93728/116151608_zpid/
-"712 S Kandarian Ave, Fowler, CA 93625",455000,3.0,2.0,1666.0,https://www.zillow.com//homedetails/712-S-Kandarian-Ave-Fowler-CA-93625/339724664_zpid/
-"76 Live Oak Rd, Royal Oaks, CA 95076",1300000,3.0,2.0,2390.0,https://www.zillow.com//homedetails/76-Live-Oak-Rd-Royal-Oaks-CA-95076/65440098_zpid/
-"610 Aspen Way, Windsor, CA 95492",179500,2.0,2.0,1345.0,https://www.zillow.com//homedetails/610-Aspen-Way-Windsor-CA-95492/2131043011_zpid/
-"1696 Los Osos Valley Rd, Los Osos, CA 93402",1985000,3.0,3.0,4200.0,https://www.zillow.com//homedetails/1696-Los-Osos-Valley-Rd-Los-Osos-CA-93402/15446820_zpid/
-"245 E Main St, Grass Valley, CA 95945",319000,3.0,2.0,1253.0,https://www.zillow.com//homedetails/245-E-Main-St-Grass-Valley-CA-95945/19428808_zpid/
-"29571 Kit Carson Ct, Coarsegold, CA 93614",424999,4.0,3.0,2294.0,https://www.zillow.com//homedetails/29571-Kit-Carson-Ct-Coarsegold-CA-93614/19151725_zpid/
-"7219 Via Sendero, San Jose, CA 95135",769000,2.0,2.0,1588.0,https://www.zillow.com//homedetails/7219-Via-Sendero-San-Jose-CA-95135/19799554_zpid/
-"3138 W Dakota Ave SPACE 226, Fresno, CA 93722",39999,1.0,1.0,420.0,https://www.zillow.com//homedetails/3138-W-Dakota-Ave-SPACE-226-Fresno-CA-93722/18805869_zpid/
-"3310 Hanson Ave, Clovis, CA 93611",552000,3.0,2.0,2119.0,https://www.zillow.com//homedetails/3310-Hanson-Ave-Clovis-CA-93611/54660599_zpid/
-"18725 State Highway 108 SPACE 18, Jamestown, CA 95327",38000,3.0,2.0,1152.0,https://www.zillow.com//homedetails/18725-State-Highway-108-SPACE-18-Jamestown-CA-95327/94649398_zpid/
-"905 Ross Way, Hanford, CA 93230",346000,3.0,0.0,1544.0,https://www.zillow.com//homedetails/905-Ross-Way-Hanford-CA-93230/51071798_zpid/
-"37865 Balch Park Rd, Springville, CA 93265",649000,3.0,3.0,2342.0,https://www.zillow.com//homedetails/37865-Balch-Park-Rd-Springville-CA-93265/16280209_zpid/
-"14149 Old Emigrant Trl, Grass Valley, CA 95945",395000,3.0,2.0,1248.0,https://www.zillow.com//homedetails/14149-Old-Emigrant-Trl-Grass-Valley-CA-95945/68553182_zpid/
-"150 Kern St SPC 92, Salinas, CA 93905",233000,3.0,2.0,1440.0,https://www.zillow.com//homedetails/150-Kern-St-SPC-92-Salinas-CA-93905/2100639159_zpid/
-"3780 Bridgeport School Rd, Fiddletown, CA 95629",685000,3.0,2.0,2112.0,https://www.zillow.com//homedetails/3780-Bridgeport-School-Rd-Fiddletown-CA-95629/18609339_zpid/
-"5842 Mendocino Ave, Oakland, CA 94618",1600000,2.0,1.0,1015.0,https://www.zillow.com//homedetails/5842-Mendocino-Ave-Oakland-CA-94618/24811763_zpid/
-"40 Sirretta St, Kernville, CA 93238",310250,2.0,1.0,870.0,https://www.zillow.com//homedetails/40-Sirretta-St-Kernville-CA-93238/18915029_zpid/
-"11821 Polaris Dr, Grass Valley, CA 95949",545000,3.0,2.0,1634.0,https://www.zillow.com//homedetails/11821-Polaris-Dr-Grass-Valley-CA-95949/19461055_zpid/
-"2905 Lynx Dr, Lake Isabella, CA 93240",345000,3.0,3.0,2176.0,https://www.zillow.com//homedetails/2905-Lynx-Dr-Lake-Isabella-CA-93240/18985963_zpid/
-"127 Madrona Dr, Atwater, CA 95301",420000,4.0,2.0,1876.0,https://www.zillow.com//homedetails/127-Madrona-Dr-Atwater-CA-95301/19192850_zpid/
-"293 Castlewood Cir #A, Roseville, CA 95678",524900,2.0,3.0,1817.0,https://www.zillow.com//homedetails/293-Castlewood-Cir-A-Roseville-CA-95678/443839432_zpid/
-"11178 Big Creek Rd, Groveland, CA 95321",145000,-,0.0,-,https://www.zillow.com//homedetails/11178-Big-Creek-Rd-Groveland-CA-95321/2062993482_zpid/
-"1309 Costa Brava, Pismo Beach, CA 93449",1850000,3.0,3.0,1802.0,https://www.zillow.com//homedetails/1309-Costa-Brava-Pismo-Beach-CA-93449/112776876_zpid/
-"460 Oswald Rd, Yuba City, CA 95991",955000,7.0,2.0,1205.0,https://www.zillow.com//homedetails/460-Oswald-Rd-Yuba-City-CA-95991/2096166875_zpid/
-"4746 Olive Dr, Concord, CA 94521",850000,4.0,2.0,1731.0,https://www.zillow.com//homedetails/4746-Olive-Dr-Concord-CA-94521/18353416_zpid/
-"3240 County Road 99w, Artois, CA 95963",419900,3.0,2.0,1680.0,https://www.zillow.com//homedetails/3240-County-Road-99w-Artois-CA-95963/242650738_zpid/
-"580 Oswald Ave, Yuba City, CA 95991",1900000,8.0,5.0,3266.0,https://www.zillow.com//homedetails/580-Oswald-Ave-Yuba-City-CA-95991/122910976_zpid/
-"903 Alameda St, Maricopa, CA 93252",195000,2.0,1.0,1000.0,https://www.zillow.com//homedetails/903-Alameda-St-Maricopa-CA-93252/442748191_zpid/
-"1259 Fulton Ave #T, Vallejo, CA 94591",772000,5.0,4.0,3207.0,https://www.zillow.com//homedetails/1259-Fulton-Ave-T-Vallejo-CA-94591/351931194_zpid/
-"2370 Coachman Rd, Mariposa, CA 95338",303000,2.0,2.0,1160.0,https://www.zillow.com//homedetails/2370-Coachman-Rd-Mariposa-CA-95338/19235621_zpid/
-"14537 E Mira Vista Ln, Lockeford, CA 95237",1750000,7.0,5.0,4375.0,https://www.zillow.com//homedetails/14537-E-Mira-Vista-Ln-Lockeford-CA-95237/111092505_zpid/
-"10 Spinnaker Pl, Redwood City, CA 94065",2545500,3.0,3.0,1960.0,https://www.zillow.com//homedetails/10-Spinnaker-Pl-Redwood-City-CA-94065/15617173_zpid/
-"8776 Stinson View Rd, Valley Springs, CA 95252",120000,-,0.0,-,https://www.zillow.com//homedetails/8776-Stinson-View-Rd-Valley-Springs-CA-95252/52453652_zpid/
-"10015 Havencrest Ct, Stockton, CA 95219",675000,6.0,3.0,2590.0,https://www.zillow.com//homedetails/10015-Havencrest-Ct-Stockton-CA-95219/61345764_zpid/
-"17951 Crowbar Ln, Tuolumne, CA 95379",39000,0.0,0.0,-,https://www.zillow.com//homedetails/17951-Crowbar-Ln-Tuolumne-CA-95379/97846003_zpid/
-"1624 Fernandes St, Modesto, CA 95355",465000,3.0,2.0,1756.0,https://www.zillow.com//homedetails/1624-Fernandes-St-Modesto-CA-95355/16038334_zpid/
-"10035 Mills Station Rd SPACE 125, Sacramento, CA 95827",139900,2.0,2.0,801.0,https://www.zillow.com//homedetails/10035-Mills-Station-Rd-SPACE-125-Sacramento-CA-95827/300347296_zpid/
-"247 E Highway 12 #13, Valley Springs, CA 95252",41000,1.0,1.0,480.0,https://www.zillow.com//homedetails/247-E-Highway-12-13-Valley-Springs-CA-95252/400973674_zpid/
-"22 Rancho Grande Cir, Atwater, CA 95301",120000,3.0,2.0,1100.0,https://www.zillow.com//homedetails/22-Rancho-Grande-Cir-Atwater-CA-95301/443151561_zpid/
-"2145 Portola Ct, Fairfield, CA 94534",626000,3.0,2.0,1624.0,https://www.zillow.com//homedetails/2145-Portola-Ct-Fairfield-CA-94534/15726525_zpid/
-"1990 S Highway 1, Elk, CA 95432",8100000,6.0,4.0,5100.0,https://www.zillow.com//homedetails/1990-S-Highway-1-Elk-CA-95432/19216246_zpid/
-"6 Sea Gull Way, Half Moon Bay, CA 94019",475000,2.0,2.0,1484.0,https://www.zillow.com//homedetails/6-Sea-Gull-Way-Half-Moon-Bay-CA-94019/68565127_zpid/
-"2201 Charlie Chambers Dr, Hanford, CA 93230",415000,4.0,2.0,1990.0,https://www.zillow.com//homedetails/2201-Charlie-Chambers-Dr-Hanford-CA-93230/95714118_zpid/
-"440 Magnolia St, Gridley, CA 95948",305000,2.0,1.0,1215.0,https://www.zillow.com//homedetails/440-Magnolia-St-Gridley-CA-95948/18223061_zpid/
-"6165 Pony Express Trl SPC 13, Pollock Pines, CA 95726",38000,1.0,1.0,432.0,https://www.zillow.com//homedetails/6165-Pony-Express-Trl-SPC-13-Pollock-Pines-CA-95726/300484298_zpid/
-"910 G St, Marysville, CA 95901",450000,5.0,3.0,2039.0,https://www.zillow.com//homedetails/910-G-St-Marysville-CA-95901/16549886_zpid/
-"1267 81st Ave, Oakland, CA 94621",567000,3.0,2.0,1253.0,https://www.zillow.com//homedetails/1267-81st-Ave-Oakland-CA-94621/24796720_zpid/
-"225 Locust St #N4, Sausalito, CA 94965",154500,2.0,2.0,550.0,https://www.zillow.com//homedetails/225-Locust-St-N4-Sausalito-CA-94965/433892155_zpid/
-"2304 Peppertree Way APT 4, Antioch, CA 94509",215000,2.0,1.0,925.0,https://www.zillow.com//homedetails/2304-Peppertree-Way-APT-4-Antioch-CA-94509/18316765_zpid/
-"3095 Marina Dr APT 6, Marina, CA 93933",610000,2.0,2.0,940.0,https://www.zillow.com//homedetails/3095-Marina-Dr-APT-6-Marina-CA-93933/19358039_zpid/
-"14415 Brown Ln, Valley Springs, CA 95252",850000,5.0,3.0,3000.0,https://www.zillow.com//homedetails/14415-Brown-Ln-Valley-Springs-CA-95252/64735577_zpid/
-"1914 Virginia Ave, West Sacramento, CA 95691",545000,3.0,2.0,1350.0,https://www.zillow.com//homedetails/1914-Virginia-Ave-West-Sacramento-CA-95691/16533877_zpid/
-"1205 Trinity Ave, Seaside, CA 93955",899950,3.0,2.0,900.0,https://www.zillow.com//homedetails/1205-Trinity-Ave-Seaside-CA-93955/19338094_zpid/
-"32200 N Harbor Dr #6, Fort Bragg, CA 95437",189000,1.0,1.0,399.0,https://www.zillow.com//homedetails/32200-N-Harbor-Dr-6-Fort-Bragg-CA-95437/2055760280_zpid/
-"5145 Northfork Pl, Paso Robles, CA 93446",1156000,4.0,2.0,3017.0,https://www.zillow.com//homedetails/5145-Northfork-Pl-Paso-Robles-CA-93446/15404869_zpid/
-"9768 Marmot Way, Kelseyville, CA 95451",362000,3.0,2.0,1680.0,https://www.zillow.com//homedetails/9768-Marmot-Way-Kelseyville-CA-95451/19097958_zpid/
-"15994 Mountain View Dr, Nevada City, CA 95959",449000,3.0,2.0,1450.0,https://www.zillow.com//homedetails/15994-Mountain-View-Dr-Nevada-City-CA-95959/19450794_zpid/
-"113 4th Ave, Santa Cruz, CA 95062",4999000,4.0,4.0,2658.0,https://www.zillow.com//homedetails/113-4th-Ave-Santa-Cruz-CA-95062/16112546_zpid/
-"2244 Fountain Square Ave, Manteca, CA 95337",1099000,5.0,3.0,3913.0,https://www.zillow.com//homedetails/2244-Fountain-Square-Ave-Manteca-CA-95337/58725658_zpid/
-"1266 Canopy Ln, Morgan Hill, CA 95037",1270000,4.0,3.0,2378.0,https://www.zillow.com//homedetails/1266-Canopy-Ln-Morgan-Hill-CA-95037/325806657_zpid/
-"2410 Ronita Ln #10, Lake Isabella, CA 93240",25000,1.0,1.0,672.0,https://www.zillow.com//homedetails/2410-Ronita-Ln-10-Lake-Isabella-CA-93240/18973957_zpid/
-"9200 Highway 41, Lemoore, CA 93245",790000,4.0,4.0,3300.0,https://www.zillow.com//homedetails/9200-Highway-41-Lemoore-CA-93245/95528793_zpid/
-"1475 Railroad Flat Rd #3, Railroad Flat, CA 95248",92000,3.0,1.0,650.0,https://www.zillow.com//homedetails/1475-Railroad-Flat-Rd-3-Railroad-Flat-CA-95248/443406641_zpid/
-"65300 Lake View Dr, Hume, CA 93628",450000,3.0,2.0,1700.0,https://www.zillow.com//homedetails/65300-Lake-View-Dr-Hume-CA-93628/18644633_zpid/
-"13370 Clover St, Trona, CA 93562",69999,2.0,1.0,825.0,https://www.zillow.com//homedetails/13370-Clover-St-Trona-CA-93562/17483860_zpid/
-"116 Frost Dr, Woodland, CA 95695",490000,3.0,2.0,1200.0,https://www.zillow.com//homedetails/116-Frost-Dr-Woodland-CA-95695/16510036_zpid/
-"150 Silverado Trl TRAILER 78, Napa, CA 94559",300000,3.0,2.0,1542.0,https://www.zillow.com//homedetails/150-Silverado-Trl-TRAILER-78-Napa-CA-94559/64479976_zpid/
-"145 South St #A-28, San Luis Obispo, CA 93401",139900,2.0,1.0,444.0,https://www.zillow.com//homedetails/145-South-St-A-28-San-Luis-Obispo-CA-93401/441834572_zpid/
-"18215 Aarondale Rd, Sonora, CA 95370",699000,3.0,2.0,1680.0,https://www.zillow.com//homedetails/18215-Aarondale-Rd-Sonora-CA-95370/16207545_zpid/
-"2683 Apache Trl, Clearlake Oaks, CA 95423",40000,-,0.0,-,https://www.zillow.com//homedetails/2683-Apache-Trl-Clearlake-Oaks-CA-95423/112404263_zpid/
-"1938 Adelaida Rd, Paso Robles, CA",250000,-,-,-,https://www.zillow.com//b/1938-adelaida-rd-paso-robles-ca-9NCTDy/
-"10108 Marsh View Way, Lower Lake, CA 95457",620000,4.0,2.0,2600.0,https://www.zillow.com//homedetails/10108-Marsh-View-Way-Lower-Lake-CA-95457/201512032_zpid/
-"17996 Laramie Ln, Twain Harte, CA 95383",425000,3.0,2.0,1300.0,https://www.zillow.com//homedetails/17996-Laramie-Ln-Twain-Harte-CA-95383/16192818_zpid/
-"1028 W Las Flores Ave, Ridgecrest, CA 93555",270000,3.0,2.0,1576.0,https://www.zillow.com//homedetails/1028-W-Las-Flores-Ave-Ridgecrest-CA-93555/19031556_zpid/
-"1416 Woodbury Ct, Merced, CA",499900,-,-,-,"https://www.zillow.com//b/building/37.409145,-120.50324_ll/"
-"696 Athol Ave APT 302, Oakland, CA 94610",435000,1.0,1.0,765.0,https://www.zillow.com//homedetails/696-Athol-Ave-APT-302-Oakland-CA-94610/24763401_zpid/
-"2369 S Grace St, Fresno, CA 93721",295000,3.0,1.0,1500.0,https://www.zillow.com//homedetails/2369-S-Grace-St-Fresno-CA-93721/18771344_zpid/
-"5783 Kent Way, Linda, CA 95901",463000,4.0,2.0,1980.0,https://www.zillow.com//homedetails/5783-Kent-Way-Linda-CA-95901/249299407_zpid/
-"448 Scodie Ave #6, Kernville, CA 93238",37500,1.0,1.0,600.0,https://www.zillow.com//homedetails/448-Scodie-Ave-6-Kernville-CA-93238/18915237_zpid/
-"451 Alberto Way UNIT D146, Los Gatos, CA 95032",600000,2.0,1.0,768.0,https://www.zillow.com//homedetails/451-Alberto-Way-UNIT-D146-Los-Gatos-CA-95032/19749951_zpid/
-"3154 E Montecito Ave, Fresno, CA 93702",339000,2.0,1.0,1240.0,https://www.zillow.com//homedetails/3154-E-Montecito-Ave-Fresno-CA-93702/18763967_zpid/
-"590 Lazy Rb Ranch Rd, Bakersfield, CA 93307",1250000,4.0,3.0,2761.0,https://www.zillow.com//homedetails/590-Lazy-Rb-Ranch-Rd-Bakersfield-CA-93307/81864992_zpid/
-"4600 Rocky Bar Rd, Wilseyville, CA 95257",295000,2.0,1.0,750.0,https://www.zillow.com//homedetails/4600-Rocky-Bar-Rd-Wilseyville-CA-95257/300736014_zpid/
-"200 S Dolliver St SPC 48, Pismo Beach, CA 93449",180000,1.0,1.0,399.0,https://www.zillow.com//homedetails/200-S-Dolliver-St-SPC-48-Pismo-Beach-CA-93449/2105726338_zpid/
-"11329 Elle Ellen, Truckee, CA 96161",4850000,4.0,5.0,3851.0,https://www.zillow.com//homedetails/11329-Elle-Ellen-Truckee-CA-96161/124738242_zpid/
-"1745 N Winery Ave UNIT 102, Fresno, CA 93703",215000,2.0,1.5,968.0,https://www.zillow.com//homedetails/1745-N-Winery-Ave-UNIT-102-Fresno-CA-93703/79536895_zpid/
-"1002 Walnut St, Woodlake, CA 93286",639500,5.0,3.0,2740.0,https://www.zillow.com//homedetails/1002-Walnut-St-Woodlake-CA-93286/442749970_zpid/
-"2224 Silver Ave, San Francisco, CA 94124",1295000,3.0,2.0,1201.0,https://www.zillow.com//homedetails/2224-Silver-Ave-San-Francisco-CA-94124/15158236_zpid/
-"3048 Legends Dr, Meadow Vista, CA 95722",933600,3.0,3.0,1908.0,https://www.zillow.com//homedetails/3048-Legends-Dr-Meadow-Vista-CA-95722/54458992_zpid/
-"217 S Silver Ridge St, Ridgecrest, CA 93555",345000,3.0,2.0,1614.0,https://www.zillow.com//homedetails/217-S-Silver-Ridge-St-Ridgecrest-CA-93555/18912847_zpid/
-"3441 N Glenn Ave, Fresno, CA 93704",462000,3.0,2.0,1640.0,https://www.zillow.com//homedetails/3441-N-Glenn-Ave-Fresno-CA-93704/18731055_zpid/
-"300 Davey Glen Rd APT 3826, Belmont, CA 94002",565000,1.0,1.0,729.0,https://www.zillow.com//homedetails/300-Davey-Glen-Rd-APT-3826-Belmont-CA-94002/15629617_zpid/
-"13293 Aster St, Trona, CA 93562",16000,1.0,0.0,912.0,https://www.zillow.com//homedetails/13293-Aster-St-Trona-CA-93562/17483865_zpid/
-"32301 E Trimmer Springs Rd #106, Sanger, CA 93657",75000,2.0,1.0,-,https://www.zillow.com//homedetails/32301-E-Trimmer-Springs-Rd-106-Sanger-CA-93657/443534385_zpid/
-"235 Pau Hana Cir, Citrus Heights, CA 95621",125000,3.0,2.0,1800.0,https://www.zillow.com//homedetails/235-Pau-Hana-Cir-Citrus-Heights-CA-95621/59379552_zpid/
-"9670 Canopy Tree St, Roseville, CA 95747",1267900,5.0,4.0,3964.0,https://www.zillow.com//homedetails/9670-Canopy-Tree-St-Roseville-CA-95747/68562803_zpid/
-"2920 Clark Rd, Butte Valley, CA",84999,-,-,-,https://www.zillow.com//b/2920-clark-rd-oroville-ca-5YF9sX/
-"7886 Rocky Hill Rd, Onyx, CA 93255",120000,2.0,2.0,1322.0,https://www.zillow.com//homedetails/7886-Rocky-Hill-Rd-Onyx-CA-93255/133893188_zpid/
-"3433 Arrowhead St, Copperopolis, CA 95228",645000,3.0,3.0,2148.0,https://www.zillow.com//homedetails/3433-Arrowhead-St-Copperopolis-CA-95228/52449312_zpid/
-"4700 Sonoma Hwy, Santa Rosa, CA 95409",2875000,14.0,10.0,6000.0,https://www.zillow.com//homedetails/4700-Sonoma-Hwy-Santa-Rosa-CA-95409/2110952806_zpid/
-"2930 Shimizu Dr UNIT 4, Stockton, CA 95203",215000,2.0,1.0,920.0,https://www.zillow.com//homedetails/2930-Shimizu-Dr-UNIT-4-Stockton-CA-95203/15322286_zpid/
-"786 Main St, Cambria, CA 93428",1100000,2.0,3.0,2970.0,https://www.zillow.com//homedetails/786-Main-St-Cambria-CA-93428/147156252_zpid/
-"400 Grove St UNIT 308, San Francisco, CA 94102",749000,1.0,1.0,578.0,https://www.zillow.com//homedetails/400-Grove-St-UNIT-308-San-Francisco-CA-94102/241585054_zpid/
-"10 Mulberry Ln, Wofford Heights, CA 93285",259000,3.0,2.0,1152.0,https://www.zillow.com//homedetails/10-Mulberry-Ln-Wofford-Heights-CA-93285/133812965_zpid/
-"5812 Burke Way, Bakersfield, CA 93309",328400,2.0,1.0,1185.0,https://www.zillow.com//homedetails/5812-Burke-Way-Bakersfield-CA-93309/18957231_zpid/
-"2524 McArthur Ave, Union City, CA 94587",349995,3.0,2.0,1120.0,https://www.zillow.com//homedetails/2524-McArthur-Ave-Union-City-CA-94587/402708172_zpid/
-"1080 Julie Ln #84, South Lake Tahoe, CA 96150",100000,1.0,1.0,384.0,https://www.zillow.com//homedetails/1080-Julie-Ln-84-South-Lake-Tahoe-CA-96150/2053347166_zpid/
-"453 E Warren Ave, Bakersfield, CA 93308",355000,3.0,2.0,1428.0,https://www.zillow.com//homedetails/453-E-Warren-Ave-Bakersfield-CA-93308/18925454_zpid/
-"208 Brink Dr, Bakersfield, CA 93304",675000,4.0,4.0,2552.0,https://www.zillow.com//homedetails/208-Brink-Dr-Bakersfield-CA-93304/18886866_zpid/
-"5160 Pony Express Trl, Camino, CA 95709",85000,1.0,1.0,784.0,https://www.zillow.com//homedetails/5160-Pony-Express-Trl-Camino-CA-95709/443592934_zpid/
-"428 Covena Ave, Modesto, CA 95354",648500,2.0,1.0,1518.0,https://www.zillow.com//homedetails/428-Covena-Ave-Modesto-CA-95354/16067872_zpid/
-"1178 W Woodward Ave, Manteca, CA 95337",1800000,3.0,3.0,3193.0,https://www.zillow.com//homedetails/1178-W-Woodward-Ave-Manteca-CA-95337/58725330_zpid/
-"4800 Auburn Folsom Rd SPC 85, Loomis, CA 95650",63990,2.0,1.0,-,https://www.zillow.com//homedetails/4800-Auburn-Folsom-Rd-SPC-85-Loomis-CA-95650/2094127150_zpid/
-"7346 Cross Dr, Citrus Heights, CA 95610",199999,-,0.0,-,https://www.zillow.com//homedetails/7346-Cross-Dr-Citrus-Heights-CA-95610/96038002_zpid/
-"1333 State Highway 174, Colfax, CA 95713",985000,9.0,3.0,3586.0,https://www.zillow.com//homedetails/1333-State-Highway-174-Colfax-CA-95713/2080292664_zpid/
-"600 Old Stockton Rd, Oakdale, CA",70000,-,-,-,"https://www.zillow.com//b/building/37.798973,-120.7317_ll/"
-"134 Sandpiper Ct, Novato, CA 94949",750000,2.0,2.0,1200.0,https://www.zillow.com//homedetails/134-Sandpiper-Ct-Novato-CA-94949/333850898_zpid/
-"19435 East St, Woodland, CA 95776",960000,2.0,1.0,975.0,https://www.zillow.com//homedetails/19435-East-St-Woodland-CA-95776/122169223_zpid/
-"300 Stony Point Rd #300, Petaluma, CA 94952",335000,2.0,2.0,1248.0,https://www.zillow.com//homedetails/300-Stony-Point-Rd-300-Petaluma-CA-94952/442767308_zpid/
-"1311 Miller Dr, Santa Rosa, CA 95403",825000,3.0,2.0,1576.0,https://www.zillow.com//homedetails/1311-Miller-Dr-Santa-Rosa-CA-95403/15846504_zpid/
-"8715 A St, Oakland, CA 94621",799900,3.0,1.0,1149.0,https://www.zillow.com//homedetails/8715-A-St-Oakland-CA-94621/24797272_zpid/
-"21727 Crystal Lake Dr LOT 431, Sonora, CA 95370",25000,-,0.0,-,https://www.zillow.com//homedetails/21727-Crystal-Lake-Dr-LOT-431-Sonora-CA-95370/2077429694_zpid/
-"2700 Pawprint Path, Placerville, CA 95667",950000,3.0,2.0,2000.0,https://www.zillow.com//homedetails/2700-Pawprint-Path-Placerville-CA-95667/83902206_zpid/
-"5824 Eickhoff Rd, Lakeport, CA 95453",2575000,3.0,2.0,2200.0,https://www.zillow.com//homedetails/5824-Eickhoff-Rd-Lakeport-CA-95453/201507710_zpid/
-"2105 Barrington Ln, Modesto, CA 95350",295000,3.0,2.0,1536.0,https://www.zillow.com//homedetails/2105-Barrington-Ln-Modesto-CA-95350/16055609_zpid/
-"6480 Main Ave SPACE 56, Orangevale, CA 95662",118000,2.0,2.0,720.0,https://www.zillow.com//homedetails/6480-Main-Ave-SPACE-56-Orangevale-CA-95662/300344655_zpid/
-"612 42nd St, Bakersfield, CA 93301",102900,2.0,1.0,960.0,https://www.zillow.com//homedetails/612-42nd-St-Bakersfield-CA-93301/18926073_zpid/
-"16689 Magneson Loop, Los Gatos, CA 95032",4000000,0.0,0.0,16000.0,https://www.zillow.com//homedetails/16689-Magneson-Loop-Los-Gatos-CA-95032/19745436_zpid/
-"5000 Auburn Blvd SPC 40, Sacramento, CA 95841",125000,0.0,0.0,784.0,https://www.zillow.com//homedetails/5000-Auburn-Blvd-SPC-40-Sacramento-CA-95841/59382028_zpid/
-"9466 Highway 20, Glenhaven, CA 95443",245000,2.0,1.0,902.0,https://www.zillow.com//homedetails/9466-Highway-20-Glenhaven-CA-95443/19089284_zpid/
-"1 Maple Basin Rd, Philo, CA",349000,-,-,-,"https://www.zillow.com//b/building/39.097088,-123.50592_ll/"
-"2525 Highway 6, Bishop, CA 93514",98900,-,0.0,-,https://www.zillow.com//homedetails/2525-Highway-6-Bishop-CA-93514/95770191_zpid/
-"2500 Saratoga St, California City, CA",26900,-,-,-,"https://www.zillow.com//b/building/35.12456,-118.00007_ll/"
-"4965 Beckwourth Ct, Oroville, CA 95966",134900,-,0.0,-,https://www.zillow.com//homedetails/4965-Beckwourth-Ct-Oroville-CA-95966/95444823_zpid/
-"0 Ernest Way, California City, CA 93505",4500,-,0.0,-,https://www.zillow.com//homedetails/0-Ernest-Way-California-City-CA-93505/2076567963_zpid/
-"21249 American River Dr, Sonora, CA 95370",14000,-,0.0,10890.0,https://www.zillow.com//homedetails/21249-American-River-Dr-Sonora-CA-95370/111378804_zpid/
-"2016 Pennington Rd, Live Oak, CA 95953",117500,-,0.0,-,https://www.zillow.com//homedetails/2016-Pennington-Rd-Live-Oak-CA-95953/122915885_zpid/
-"9158 Glenhaven Dr, Glenhaven, CA 95443",10000,-,0.0,-,https://www.zillow.com//homedetails/9158-Glenhaven-Dr-Glenhaven-CA-95443/112394713_zpid/
-"10894 Northslope Dr, Kelseyville, CA 95451",13888,-,0.0,-,https://www.zillow.com//homedetails/10894-Northslope-Dr-Kelseyville-CA-95451/112421698_zpid/
-"425 20th Century Blvd SPACE D3, Turlock, CA 95380",79000,1.0,1.0,-,https://www.zillow.com//homedetails/425-20th-Century-Blvd-SPACE-D3-Turlock-CA-95380/351630752_zpid/
-"810 Sycamore Dr, Wofford Heights, CA 93285",315000,2.0,2.0,1120.0,https://www.zillow.com//homedetails/810-Sycamore-Dr-Wofford-Heights-CA-93285/18915561_zpid/
-"12991 San Joaquin Ave, Clearlake, CA 95422",24500,0.0,0.0,-,https://www.zillow.com//homedetails/12991-San-Joaquin-Ave-Clearlake-CA-95422/112427169_zpid/
-"6414 Green Leaf Ln, Foresthill, CA 95631",59999,-,0.0,-,https://www.zillow.com//homedetails/6414-Green-Leaf-Ln-Foresthill-CA-95631/188138332_zpid/
-"5309 Cass Ave, Clearlake, CA 95422",12888,-,0.0,-,https://www.zillow.com//homedetails/5309-Cass-Ave-Clearlake-CA-95422/95045320_zpid/
-"2261 Lariat Loop, Bradley, CA 93426",35000,-,0.0,-,https://www.zillow.com//homedetails/2261-Lariat-Loop-Bradley-CA-93426/112751960_zpid/
-"2933 Lakeview Dr, Nice, CA 95464",12888,-,0.0,-,https://www.zillow.com//homedetails/2933-Lakeview-Dr-Nice-CA-95464/112388286_zpid/
-"7036 Butte St, Nice, CA 95464",28888,-,0.0,-,https://www.zillow.com//homedetails/7036-Butte-St-Nice-CA-95464/112394305_zpid/
-"3254 Lee St, Nice, CA 95464",15888,-,0.0,-,https://www.zillow.com//homedetails/3254-Lee-St-Nice-CA-95464/109169718_zpid/
-"3526 Pocatello Cir, Camp Connell, CA 95223",110000,-,-,-,https://www.zillow.com//homedetails/3526-Pocatello-Cir-Camp-Connell-CA-95223/97418450_zpid/
-"12452 Laurel Way, Clearlake Oaks, CA 95423",13888,-,0.0,-,https://www.zillow.com//homedetails/12452-Laurel-Way-Clearlake-Oaks-CA-95423/112398501_zpid/
-"2923 Lakeview Dr, Nice, CA 95464",12888,0.0,0.0,-,https://www.zillow.com//homedetails/2923-Lakeview-Dr-Nice-CA-95464/112428468_zpid/
-"5657 Yuki Ct, Kelseyville, CA 95451",29888,-,0.0,-,https://www.zillow.com//homedetails/5657-Yuki-Ct-Kelseyville-CA-95451/112413393_zpid/
-"10100 El Dorado Way, Kelseyville, CA 95451",7888,-,0.0,-,https://www.zillow.com//homedetails/10100-El-Dorado-Way-Kelseyville-CA-95451/112387978_zpid/
-"3076 Riviera Heights Dr, Kelseyville, CA 95451",16888,0.0,0.0,-,https://www.zillow.com//homedetails/3076-Riviera-Heights-Dr-Kelseyville-CA-95451/112411070_zpid/
-"10691 Sunset Ridge Dr, Kelseyville, CA 95451",13888,0.0,0.0,-,https://www.zillow.com//homedetails/10691-Sunset-Ridge-Dr-Kelseyville-CA-95451/112422480_zpid/
-"4883 Iroquois Trl, Kelseyville, CA 95451",11888,-,0.0,-,https://www.zillow.com//homedetails/4883-Iroquois-Trl-Kelseyville-CA-95451/112395389_zpid/
-"5341 Monterey Pl, Kelseyville, CA 95451",13888,0.0,0.0,-,https://www.zillow.com//homedetails/5341-Monterey-Pl-Kelseyville-CA-95451/112388177_zpid/
-"5355 Monterey Pl, Kelseyville, CA 95451",12888,-,0.0,-,https://www.zillow.com//homedetails/5355-Monterey-Pl-Kelseyville-CA-95451/112393424_zpid/
-"10479 Boren Bega Dr, Kelseyville, CA 95451",12888,-,0.0,-,https://www.zillow.com//homedetails/10479-Boren-Bega-Dr-Kelseyville-CA-95451/95045532_zpid/
-"9719 Tenaya Way, Kelseyville, CA 95451",13888,-,0.0,-,https://www.zillow.com//homedetails/9719-Tenaya-Way-Kelseyville-CA-95451/112384075_zpid/
-"9155 Hoopa Dr, Kelseyville, CA 95451",15888,-,0.0,-,https://www.zillow.com//homedetails/9155-Hoopa-Dr-Kelseyville-CA-95451/112407889_zpid/
-"10161 El Capitan Way, Kelseyville, CA 95451",13888,0.0,0.0,-,https://www.zillow.com//homedetails/10161-El-Capitan-Way-Kelseyville-CA-95451/112379341_zpid/
-"10493 Boren Bega Dr, Kelseyville, CA 95451",12888,-,0.0,-,https://www.zillow.com//homedetails/10493-Boren-Bega-Dr-Kelseyville-CA-95451/111371179_zpid/
-"12631 Lakeview Dr, Clearlake Oaks, CA 95423",11888,0.0,0.0,-,https://www.zillow.com//homedetails/12631-Lakeview-Dr-Clearlake-Oaks-CA-95423/112413575_zpid/
-"12630 Lakeview Dr, Clearlake Oaks, CA 95423",11888,-,0.0,-,https://www.zillow.com//homedetails/12630-Lakeview-Dr-Clearlake-Oaks-CA-95423/112403249_zpid/
-"7143 Top Dr, Nice, CA 95464",16888,0.0,0.0,-,https://www.zillow.com//homedetails/7143-Top-Dr-Nice-CA-95464/112399600_zpid/
-"9526 Fairway Dr, Kelseyville, CA 95451",14888,-,0.0,-,https://www.zillow.com//homedetails/9526-Fairway-Dr-Kelseyville-CA-95451/112398858_zpid/
-"0 Rock Creek Rd, Coarsegold, CA 93614",145000,-,0.0,-,https://www.zillow.com//homedetails/0-Rock-Creek-Rd-Coarsegold-CA-93614/2069761280_zpid/
-"3091 Riviera Heights Dr, Kelseyville, CA 95451",22888,-,0.0,-,https://www.zillow.com//homedetails/3091-Riviera-Heights-Dr-Kelseyville-CA-95451/112411844_zpid/
-"4231 Foothill Dr, Lucerne, CA 95458",12888,0.0,0.0,-,https://www.zillow.com//homedetails/4231-Foothill-Dr-Lucerne-CA-95458/112429370_zpid/
-"1111 Highway 4, Arnold, CA 95223",499000,1.0,1.0,1800.0,https://www.zillow.com//homedetails/1111-Highway-4-Arnold-CA-95223/443234513_zpid/
-"4840 Cascade Way, Kelseyville, CA 95451",11888,-,0.0,-,https://www.zillow.com//homedetails/4840-Cascade-Way-Kelseyville-CA-95451/112380421_zpid/
-"4917 Iroquois Trl, Kelseyville, CA 95451",14888,-,0.0,-,https://www.zillow.com//homedetails/4917-Iroquois-Trl-Kelseyville-CA-95451/112409543_zpid/
-"3385 Ogden Rd, Lucerne, CA 95458",13888,-,0.0,-,https://www.zillow.com//homedetails/3385-Ogden-Rd-Lucerne-CA-95458/112414642_zpid/
-"0 Oswald Rd, Yuba City, CA 95991",791000,-,0.0,-,https://www.zillow.com//homedetails/0-Oswald-Rd-Yuba-City-CA-95991/2062255124_zpid/
-"12594 Lakeview Dr, Clearlake Oaks, CA 95423",11888,-,0.0,-,https://www.zillow.com//homedetails/12594-Lakeview-Dr-Clearlake-Oaks-CA-95423/112426588_zpid/
-"12341 Cerrito Dr, Clearlake Oaks, CA 95423",50000,0.0,0.0,-,https://www.zillow.com//homedetails/12341-Cerrito-Dr-Clearlake-Oaks-CA-95423/112397871_zpid/
-"10155 El Capitan Way, Kelseyville, CA 95451",12888,-,0.0,-,https://www.zillow.com//homedetails/10155-El-Capitan-Way-Kelseyville-CA-95451/112395132_zpid/
-"7032 Butte St, Nice, CA 95464",29888,0.0,0.0,-,https://www.zillow.com//homedetails/7032-Butte-St-Nice-CA-95464/112387546_zpid/
-"16719 Woodside Way, Sonora, CA 95370",16000,0.0,0.0,-,https://www.zillow.com//homedetails/16719-Woodside-Way-Sonora-CA-95370/111926563_zpid/
-"4660 Hawaina Way, Kelseyville, CA 95451",35888,0.0,0.0,-,https://www.zillow.com//homedetails/4660-Hawaina-Way-Kelseyville-CA-95451/112419437_zpid/
-"4696 Hawaina Way, Kelseyville, CA 95451",16888,-,0.0,-,https://www.zillow.com//homedetails/4696-Hawaina-Way-Kelseyville-CA-95451/112400264_zpid/
-"5299 Tenino Way, Kelseyville, CA 95451",14888,-,0.0,-,https://www.zillow.com//homedetails/5299-Tenino-Way-Kelseyville-CA-95451/112377706_zpid/
-"4995 Klamath Rd, Kelseyville, CA 95451",27888,-,0.0,-,https://www.zillow.com//homedetails/4995-Klamath-Rd-Kelseyville-CA-95451/112377585_zpid/
-"4910 Hawaina Way, Kelseyville, CA 95451",15888,-,0.0,-,https://www.zillow.com//homedetails/4910-Hawaina-Way-Kelseyville-CA-95451/112413073_zpid/
-"9815 Sequoia Rd, Kelseyville, CA 95451",15888,-,0.0,-,https://www.zillow.com//homedetails/9815-Sequoia-Rd-Kelseyville-CA-95451/112400040_zpid/
-"4625 Hawaina Way, Kelseyville, CA 95451",18888,-,0.0,-,https://www.zillow.com//homedetails/4625-Hawaina-Way-Kelseyville-CA-95451/112429105_zpid/
-"16534 3rd Ave, Clearlake, CA 95422",19900,0.0,0.0,-,https://www.zillow.com//homedetails/16534-3rd-Ave-Clearlake-CA-95422/112425306_zpid/
-"3080 Riviera Heights Dr, Kelseyville, CA 95451",16888,0.0,0.0,-,https://www.zillow.com//homedetails/3080-Riviera-Heights-Dr-Kelseyville-CA-95451/112384343_zpid/
-"4706 Kaweah Rd, Kelseyville, CA 95451",12888,-,0.0,-,https://www.zillow.com//homedetails/4706-Kaweah-Rd-Kelseyville-CA-95451/112399748_zpid/
-"4672 Iroquois Trl, Kelseyville, CA 95451",13888,-,0.0,-,https://www.zillow.com//homedetails/4672-Iroquois-Trl-Kelseyville-CA-95451/112398678_zpid/
-"5313 Monterey Pl, Kelseyville, CA 95451",8500,0.0,0.0,-,https://www.zillow.com//homedetails/5313-Monterey-Pl-Kelseyville-CA-95451/112401594_zpid/
-"5369 Monterey Pl, Kelseyville, CA 95451",12888,-,0.0,-,https://www.zillow.com//homedetails/5369-Monterey-Pl-Kelseyville-CA-95451/112387566_zpid/
-"4810 Kah Bel Trl, Kelseyville, CA 95451",11888,-,0.0,-,https://www.zillow.com//homedetails/4810-Kah-Bel-Trl-Kelseyville-CA-95451/112398416_zpid/
-"9960 Point Lakeview Rd, Kelseyville, CA 95451",16888,-,0.0,-,https://www.zillow.com//homedetails/9960-Point-Lakeview-Rd-Kelseyville-CA-95451/112402952_zpid/
-"4835 Hawaina Way, Kelseyville, CA 95451",15888,0.0,0.0,-,https://www.zillow.com//homedetails/4835-Hawaina-Way-Kelseyville-CA-95451/112401428_zpid/
-"10131 El Capitan Way, Kelseyville, CA 95451",12888,0.0,0.0,-,https://www.zillow.com//homedetails/10131-El-Capitan-Way-Kelseyville-CA-95451/112396949_zpid/
-"1 Old Stonegate Ct, Oakhurst, CA 93644",89000,-,0.0,-,https://www.zillow.com//homedetails/1-Old-Stonegate-Ct-Oakhurst-CA-93644/2055623434_zpid/
-"10860 Skyview Dr, Kelseyville, CA 95451",29888,0.0,0.0,-,https://www.zillow.com//homedetails/10860-Skyview-Dr-Kelseyville-CA-95451/95045556_zpid/
-"9889 Emerald Dr, Kelseyville, CA 95451",12888,-,0.0,-,https://www.zillow.com//homedetails/9889-Emerald-Dr-Kelseyville-CA-95451/112419711_zpid/
-"10148 El Capitan Way, Kelseyville, CA 95451",12888,-,0.0,-,https://www.zillow.com//homedetails/10148-El-Capitan-Way-Kelseyville-CA-95451/112382703_zpid/
-"10898 Northslope Dr, Kelseyville, CA 95451",12888,-,0.0,-,https://www.zillow.com//homedetails/10898-Northslope-Dr-Kelseyville-CA-95451/112376566_zpid/
-"10858 Northslope Dr, Kelseyville, CA 95451",23888,-,0.0,-,https://www.zillow.com//homedetails/10858-Northslope-Dr-Kelseyville-CA-95451/112396260_zpid/
-"8960 Fairway Dr, Kelseyville, CA 95451",29888,-,0.0,-,https://www.zillow.com//homedetails/8960-Fairway-Dr-Kelseyville-CA-95451/112415787_zpid/
-"11643 Widgeon Way, Clearlake Oaks, CA",8000,-,-,-,"https://www.zillow.com//b/building/39.04779,-122.549736_ll/"
-"4622 Kaweah Rd, Kelseyville, CA 95451",12888,-,0.0,-,https://www.zillow.com//homedetails/4622-Kaweah-Rd-Kelseyville-CA-95451/112418335_zpid/
-"9394 Pawnee Trl, Kelseyville, CA 95451",13888,-,0.0,-,https://www.zillow.com//homedetails/9394-Pawnee-Trl-Kelseyville-CA-95451/112410733_zpid/
-"10660 Harbor Rd, Kelseyville, CA 95451",22888,-,0.0,-,https://www.zillow.com//homedetails/10660-Harbor-Rd-Kelseyville-CA-95451/112422311_zpid/
-"10167 Del Monte Way, Kelseyville, CA 95451",11888,-,0.0,-,https://www.zillow.com//homedetails/10167-Del-Monte-Way-Kelseyville-CA-95451/112427789_zpid/
-"5248 Tenino Way, Kelseyville, CA 95451",23888,0.0,0.0,-,https://www.zillow.com//homedetails/5248-Tenino-Way-Kelseyville-CA-95451/112412438_zpid/
-"3529 Klein St, Nice, CA 95464",9000,-,0.0,-,https://www.zillow.com//homedetails/3529-Klein-St-Nice-CA-95464/112389999_zpid/
-"1834 Narragansett Cir, South Lake Tahoe, CA 96150",210000,0.0,0.0,-,https://www.zillow.com//homedetails/1834-Narragansett-Cir-South-Lake-Tahoe-CA-96150/95418957_zpid/
-"6621 Logan Dr, Lucerne, CA 95458",25888,0.0,0.0,-,https://www.zillow.com//homedetails/6621-Logan-Dr-Lucerne-CA-95458/112403503_zpid/
-"27948 Cooperstown Rd, La Grange, CA 95329",1650000,4.0,2.0,2121.0,https://www.zillow.com//homedetails/27948-Cooperstown-Rd-La-Grange-CA-95329/187766874_zpid/
-"4696 Iroquois Trl, Kelseyville, CA 95451",12888,-,0.0,-,https://www.zillow.com//homedetails/4696-Iroquois-Trl-Kelseyville-CA-95451/112413100_zpid/
-"12126 Konocti Dr, Clearlake Oaks, CA 95423",55888,-,0.0,-,https://www.zillow.com//homedetails/12126-Konocti-Dr-Clearlake-Oaks-CA-95423/112388168_zpid/
-"8870 Serrano Way, Kelseyville, CA 95451",29888,-,0.0,-,https://www.zillow.com//homedetails/8870-Serrano-Way-Kelseyville-CA-95451/112426854_zpid/
-"Meadowgate Dr, Sacramento, CA 95823",599000,-,0.0,-,https://www.zillow.com//homedetails/Meadowgate-Dr-Sacramento-CA-95823/2082600640_zpid/
-"14614 Rainbow Ave, Rosamond, CA 93560",120000,3.0,2.0,-,https://www.zillow.com//homedetails/14614-Rainbow-Ave-Rosamond-CA-93560/249712830_zpid/
-"250 Joseph Ln, Garberville, CA 95542",350000,4.0,3.0,2072.0,https://www.zillow.com//homedetails/250-Joseph-Ln-Garberville-CA-95542/241700412_zpid/
-"15562 Doe Mill Rd, Forest Ranch, CA 95954",125000,1.0,1.0,-,https://www.zillow.com//homedetails/15562-Doe-Mill-Rd-Forest-Ranch-CA-95954/95427348_zpid/
-"243 N Meridian Ave SPACE 22, San Bernardino, CA 92410",126860,3.0,2.0,1344.0,https://www.zillow.com//homedetails/243-N-Meridian-Ave-SPACE-22-San-Bernardino-CA-92410/17226742_zpid/
-"350 N El Camino Real N #26, Encinitas, CA 92024",479000,3.0,2.0,1231.0,https://www.zillow.com//homedetails/350-N-El-Camino-Real-N-26-Encinitas-CA-92024/98373498_zpid/
-"11 Calle Encinitas, Rancho Mirage, CA 92270",729000,2.0,2.0,1825.0,https://www.zillow.com//homedetails/11-Calle-Encinitas-Rancho-Mirage-CA-92270/18070415_zpid/
-"1738 Doheny Way, Dana Point, CA 92629",419100,1.0,1.0,883.0,https://www.zillow.com//homedetails/1738-Doheny-Way-Dana-Point-CA-92629/441949214_zpid/
-"2723 W 235th St, Torrance, CA 90505",100000,4.0,0.0,-,https://www.zillow.com//homedetails/2723-W-235th-St-Torrance-CA-90505/443592987_zpid/
-"824 Patterson Ave, Glendale, CA 91202",1099000,2.0,2.0,944.0,https://www.zillow.com//homedetails/824-Patterson-Ave-Glendale-CA-91202/20830210_zpid/
-"1113 Marina Dr, Needles, CA 92363",445000,3.0,2.0,1560.0,https://www.zillow.com//homedetails/1113-Marina-Dr-Needles-CA-92363/69001684_zpid/
-"162 Noga Ave, San Jacinto, CA 92582",425000,3.0,2.0,1288.0,https://www.zillow.com//homedetails/162-Noga-Ave-San-Jacinto-CA-92582/17966153_zpid/
-"1300 Villa Shores Dr #17, Blythe, CA 92225",165000,3.0,2.0,900.0,https://www.zillow.com//homedetails/1300-Villa-Shores-Dr-17-Blythe-CA-92225/401882103_zpid/
-"17941 Emelita St, Encino, CA 91316",2000000,3.0,2.0,1995.0,https://www.zillow.com//homedetails/17941-Emelita-St-Encino-CA-91316/19936540_zpid/
-"30195 Corte Cantera, Temecula, CA 92591",735000,4.0,3.0,2343.0,https://www.zillow.com//homedetails/30195-Corte-Cantera-Temecula-CA-92591/18170329_zpid/
-"2917 Godman Ave, Chico, CA 95973",399000,3.0,1.0,1200.0,https://www.zillow.com//homedetails/2917-Godman-Ave-Chico-CA-95973/2108244464_zpid/
-"14595 Cabazon St, Cabazon, CA 92230",375000,3.0,3.0,1600.0,https://www.zillow.com//homedetails/14595-Cabazon-St-Cabazon-CA-92230/18033147_zpid/
-"2919 Godman Ave, Chico, CA 95973",306000,2.0,1.0,1000.0,https://www.zillow.com//homedetails/2919-Godman-Ave-Chico-CA-95973/2137266677_zpid/
-"27184 Highlands Ln, Santa Clarita, CA 91354",1050000,3.0,3.0,2321.0,https://www.zillow.com//homedetails/27184-Highlands-Ln-Santa-Clarita-CA-91354/20196052_zpid/
-"603 Patterson Rd #16, Willow Creek, CA 95573",45000,2.0,1.0,780.0,https://www.zillow.com//homedetails/603-Patterson-Rd-16-Willow-Creek-CA-95573/249793748_zpid/
-"14625 Mussey Grade Rd #R67, Ramona, CA 92065",69000,2.0,2.0,400.0,https://www.zillow.com//homedetails/14625-Mussey-Grade-Rd-R67-Ramona-CA-92065/442836230_zpid/
-"1339 Addison Way, Perris, CA 92571",590000,5.0,3.0,2657.0,https://www.zillow.com//homedetails/1339-Addison-Way-Perris-CA-92571/96003537_zpid/
-"468 Klipstein St, Maricopa, CA 93252",189900,3.0,2.0,792.0,https://www.zillow.com//homedetails/468-Klipstein-St-Maricopa-CA-93252/18908573_zpid/
-"3608 Broadway, Huntington Park, CA 90255",814999,4.0,2.0,1658.0,https://www.zillow.com//homedetails/3608-Broadway-Huntington-Park-CA-90255/21032324_zpid/
-"830 W Buena Vista St, Barstow, CA 92311",220000,3.0,2.0,961.0,https://www.zillow.com//homedetails/830-W-Buena-Vista-St-Barstow-CA-92311/17273640_zpid/
-"4832 Long Branch Ave, San Diego, CA 92107",1675000,2.0,2.0,1079.0,https://www.zillow.com//homedetails/4832-Long-Branch-Ave-San-Diego-CA-92107/241608043_zpid/
-"78 Jupiter St, Palm Springs, CA 92264",135000,1.0,1.0,800.0,https://www.zillow.com//homedetails/78-Jupiter-St-Palm-Springs-CA-92264/440719241_zpid/
-"2416 Stanford Ave, Pomona, CA 91766",700000,4.0,2.0,1176.0,https://www.zillow.com//homedetails/2416-Stanford-Ave-Pomona-CA-91766/21510189_zpid/
-"17015 Davis Garden Dr, Cottonwood, CA 96022",180000,2.0,2.0,720.0,https://www.zillow.com//homedetails/17015-Davis-Garden-Dr-Cottonwood-CA-96022/16167771_zpid/
-"507 E 11th St, Alturas, CA",4500,-,-,-,"https://www.zillow.com//b/building/41.438408,-120.534004_ll/"
-"9432 Fuente Querida Rd, Pinon Hills, CA 92372",420000,3.0,2.0,1580.0,https://www.zillow.com//homedetails/9432-Fuente-Querida-Rd-Pinon-Hills-CA-92372/17627906_zpid/
-"1921 Johnson Ln, El Centro, CA 92243",375000,3.0,2.0,1350.0,https://www.zillow.com//homedetails/1921-Johnson-Ln-El-Centro-CA-92243/339155507_zpid/
-"1949 Cottonwood Dr, Colton, CA 92324",545000,3.0,3.0,1254.0,https://www.zillow.com//homedetails/1949-Cottonwood-Dr-Colton-CA-92324/17254818_zpid/
-"15980 Grand Ave SPC M22, Lake Elsinore, CA 92530",299000,2.0,2.0,1213.0,https://www.zillow.com//homedetails/15980-Grand-Ave-SPC-M22-Lake-Elsinore-CA-92530/17750237_zpid/
-"802 3rd St APT E, Santa Monica, CA 90403",1599999,2.0,3.0,1601.0,https://www.zillow.com//homedetails/802-3rd-St-APT-E-Santa-Monica-CA-90403/20485540_zpid/
-"1605 Eddy Dr, Mount Shasta, CA 96067",800000,3.0,3.0,2352.0,https://www.zillow.com//homedetails/1605-Eddy-Dr-Mount-Shasta-CA-96067/79851427_zpid/
-"379 Fawntrail Pl, Big Bear Lake, CA 92315",1275000,4.0,3.0,2672.0,https://www.zillow.com//homedetails/379-Fawntrail-Pl-Big-Bear-Lake-CA-92315/443761430_zpid/
-"2915 Godman Ave, Chico, CA 95973",650000,10.0,5.0,5200.0,https://www.zillow.com//homedetails/2915-Godman-Ave-Chico-CA-95973/18221332_zpid/
-"104 Las Flores Dr, San Marcos, CA 92069",600000,2.0,1.0,827.0,https://www.zillow.com//homedetails/104-Las-Flores-Dr-San-Marcos-CA-92069/16668741_zpid/
-"22476 Cass Ave, Woodland Hills, CA 91364",1149000,3.0,2.0,1516.0,https://www.zillow.com//homedetails/22476-Cass-Ave-Woodland-Hills-CA-91364/19899501_zpid/
-"433 E Avenida Cordoba, San Clemente, CA 92672",2699999,4.0,3.0,2549.0,https://www.zillow.com//homedetails/433-E-Avenida-Cordoba-San-Clemente-CA-92672/25594088_zpid/
-"2050 Springfield Dr APT 143, Chico, CA 95928",229000,4.0,2.0,1560.0,https://www.zillow.com//homedetails/2050-Springfield-Dr-APT-143-Chico-CA-95928/52456738_zpid/
-"800 The Mark Ln #1703, San Diego, CA 92101",595000,1.0,1.0,878.0,https://www.zillow.com//homedetails/800-The-Mark-Ln-1703-San-Diego-CA-92101/79481703_zpid/
-"3971 Frances Ave, Los Angeles, CA 90066",1850000,3.0,3.0,2100.0,https://www.zillow.com//homedetails/3971-Frances-Ave-Los-Angeles-CA-90066/442306398_zpid/
-"6024 Hornbeck Ln, Anderson, CA 96007",475000,3.0,3.0,1800.0,https://www.zillow.com//homedetails/6024-Hornbeck-Ln-Anderson-CA-96007/15210974_zpid/
-"618 Wisner Rd, Mount Shasta, CA 96067",499000,6.0,2.0,2400.0,https://www.zillow.com//homedetails/618-Wisner-Rd-Mount-Shasta-CA-96067/15973728_zpid/
-"1600 E Vista Way E #51, Vista, CA 92084",175000,2.0,1.0,784.0,https://www.zillow.com//homedetails/1600-E-Vista-Way-E-51-Vista-CA-92084/443835013_zpid/
-"829 Village Dr, Red Bluff, CA 96080",309000,2.0,2.0,1277.0,https://www.zillow.com//homedetails/829-Village-Dr-Red-Bluff-CA-96080/16171218_zpid/
-"6832 Adobe Rd SPACE 2, Twentynine Palms, CA 92277",30000,1.0,1.0,-,https://www.zillow.com//homedetails/6832-Adobe-Rd-SPACE-2-Twentynine-Palms-CA-92277/145572763_zpid/
-"4215 Via Padova, Claremont, CA 91711",1512367,4.0,2.0,2071.0,https://www.zillow.com//homedetails/4215-Via-Padova-Claremont-CA-91711/54949678_zpid/
-"1249 Berylstone Dr, Hemet, CA",73900,-,-,-,"https://www.zillow.com//b/building/33.73035,-117.06219_ll/"
-"30 Blackbird Ln, Aliso Viejo, CA 92656",1600000,3.0,3.0,1803.0,https://www.zillow.com//homedetails/30-Blackbird-Ln-Aliso-Viejo-CA-92656/25543784_zpid/
-"24210 E Fork Rd SPACE 38, Azusa, CA 91702",40000,2.0,2.0,800.0,https://www.zillow.com//homedetails/24210-E-Fork-Rd-SPACE-38-Azusa-CA-91702/443839464_zpid/
-"206 N Venado Ave, Thousand Oaks, CA 91320",1200000,4.0,2.0,2307.0,https://www.zillow.com//homedetails/206-N-Venado-Ave-Thousand-Oaks-CA-91320/16484947_zpid/
-"309 Riverside St, Alturas, CA 96101",299000,4.0,2.0,2332.0,https://www.zillow.com//homedetails/309-Riverside-St-Alturas-CA-96101/19115034_zpid/
-"427 Calle Madrigal, Cathedral City, CA 92234",125000,2.0,2.0,2200.0,https://www.zillow.com//homedetails/427-Calle-Madrigal-Cathedral-City-CA-92234/2124430356_zpid/
-"883 Chamise Way, Redding, CA 96002",220000,3.0,3.0,1400.0,https://www.zillow.com//homedetails/883-Chamise-Way-Redding-CA-96002/15218818_zpid/
-"3210 Santa Maria Way SPACE 113, Santa Maria, CA 93455",234800,3.0,2.0,1568.0,https://www.zillow.com//homedetails/3210-Santa-Maria-Way-SPACE-113-Santa-Maria-CA-93455/15965184_zpid/
-"56839 Bonanza Dr, Yucca Valley, CA 92284",585000,5.0,5.0,2877.0,https://www.zillow.com//homedetails/56839-Bonanza-Dr-Yucca-Valley-CA-92284/17489512_zpid/
-"144 E 4th St, San Dimas, CA 91773",860000,3.0,2.0,1440.0,https://www.zillow.com//homedetails/144-E-4th-St-San-Dimas-CA-91773/21530629_zpid/
-"15463 Copper St, Mission Hills, CA 91345",284900,2.0,2.0,2020.0,https://www.zillow.com//homedetails/15463-Copper-St-Mission-Hills-CA-91345/136688204_zpid/
-"4260 44th St APT 331, San Diego, CA 92115",280000,1.0,1.0,462.0,https://www.zillow.com//homedetails/4260-44th-St-APT-331-San-Diego-CA-92115/17002817_zpid/
-"8664 Camden Dr, Santee, CA 92071",1099000,4.0,3.0,2221.0,https://www.zillow.com//homedetails/8664-Camden-Dr-Santee-CA-92071/250195712_zpid/
-"2552 Avenida Del Vis APT 103, Corona, CA 92882",370000,1.0,1.0,673.0,https://www.zillow.com//homedetails/2552-Avenida-Del-Vis-APT-103-Corona-CA-92882/443776188_zpid/
-"40454 La Quinta Ct, Palmdale, CA 93551",669000,4.0,4.0,2582.0,https://www.zillow.com//homedetails/40454-La-Quinta-Ct-Palmdale-CA-93551/51581692_zpid/
-"11534 Gale Ave, Hawthorne, CA 90250",819000,3.0,2.0,1361.0,https://www.zillow.com//homedetails/11534-Gale-Ave-Hawthorne-CA-90250/20349339_zpid/
-"2755 Arrow Hwy SPACE 169, La Verne, CA 91750",289999,2.0,2.0,1200.0,https://www.zillow.com//homedetails/2755-Arrow-Hwy-SPACE-169-La-Verne-CA-91750/399574848_zpid/
-"11431 Ghiberti Way, Northridge, CA 91326",921000,2.0,3.0,1399.0,https://www.zillow.com//homedetails/11431-Ghiberti-Way-Northridge-CA-91326/65249980_zpid/
-"41042 163rd St E, Lancaster, CA 93535",398000,3.0,2.0,1134.0,https://www.zillow.com//homedetails/41042-163rd-St-E-Lancaster-CA-93535/20273917_zpid/
-"3600 W Florida Ave #680, Hemet, CA 92545",82500,1.0,1.0,600.0,https://www.zillow.com//homedetails/3600-W-Florida-Ave-680-Hemet-CA-92545/443111505_zpid/
-"65 Arnaz Dr, Ojai, CA 93022",850000,1.0,1.0,832.0,https://www.zillow.com//homedetails/65-Arnaz-Dr-Ojai-CA-93022/16313350_zpid/
-"3331 Rancheria Rd, Fortuna, CA 95540",550000,4.0,3.0,1480.0,https://www.zillow.com//homedetails/3331-Rancheria-Rd-Fortuna-CA-95540/338984590_zpid/
-"3366 Thomas Creek Dr, Alturas, CA 96101",417500,3.0,2.0,1832.0,https://www.zillow.com//homedetails/3366-Thomas-Creek-Dr-Alturas-CA-96101/350203057_zpid/
-"10410 County Highway A12, Montague, CA 96064",399000,4.0,2.0,1921.0,https://www.zillow.com//homedetails/10410-County-Highway-A12-Montague-CA-96064/15970761_zpid/
-"1025 Rosalinda Dr, Oxnard, CA 93030",959999,5.0,3.0,2120.0,https://www.zillow.com//homedetails/1025-Rosalinda-Dr-Oxnard-CA-93030/54898637_zpid/
-"69280 Midpark Dr, Desert Hot Springs, CA 92241",289000,2.0,2.0,1289.0,https://www.zillow.com//homedetails/69280-Midpark-Dr-Desert-Hot-Springs-CA-92241/18110442_zpid/
-"14625 Mussey Grade Rd #R6, Ramona, CA 92065",103564,1.0,1.0,394.0,https://www.zillow.com//homedetails/14625-Mussey-Grade-Rd-R6-Ramona-CA-92065/443368529_zpid/
-"1354 McCallum Cir, Arcata, CA 95521",25000,1.0,1.0,720.0,https://www.zillow.com//homedetails/1354-McCallum-Cir-Arcata-CA-95521/442766208_zpid/
-"3829 Cazador St, Los Angeles, CA 90065",180000,3.0,0.0,2157.0,https://www.zillow.com//homedetails/3829-Cazador-St-Los-Angeles-CA-90065/20759661_zpid/
-"44605 Alighchi Way, Temecula, CA",440000,-,-,-,"https://www.zillow.com//b/building/33.518578,-117.03048_ll/"
-"380 E Loyalton Ave, Portola, CA 96122",295950,3.0,2.0,1534.0,https://www.zillow.com//homedetails/380-E-Loyalton-Ave-Portola-CA-96122/52928061_zpid/
-"155000 Bubbling Wells Rd #124, Desert Hot Springs, CA 92240",45000,2.0,2.0,1040.0,https://www.zillow.com//homedetails/155000-Bubbling-Wells-Rd-124-Desert-Hot-Springs-CA-92240/443413546_zpid/
-"354 Chestnut Ave APT 2, Long Beach, CA 90802",350000,1.0,1.0,310.0,https://www.zillow.com//homedetails/354-Chestnut-Ave-APT-2-Long-Beach-CA-90802/89149934_zpid/
-"10252 Drumcliff Ave, San Diego, CA 92126",810000,2.0,1.0,800.0,https://www.zillow.com//homedetails/10252-Drumcliff-Ave-San-Diego-CA-92126/16831256_zpid/
-"5761 Cholla Rd, Yucca Valley, CA 92284",420000,3.0,2.0,1144.0,https://www.zillow.com//homedetails/5761-Cholla-Rd-Yucca-Valley-CA-92284/17496486_zpid/
-"15621 Beach Blvd SPACE 74, Westminster, CA 92683",129000,2.0,1.0,760.0,https://www.zillow.com//homedetails/15621-Beach-Blvd-SPACE-74-Westminster-CA-92683/51671906_zpid/
-"529 Bayport St, Carson, CA 90745",455000,2.0,2.0,700.0,https://www.zillow.com//homedetails/529-Bayport-St-Carson-CA-90745/21255703_zpid/
-"150220 Turquoise Rd, Big River, CA 92242",145000,4.0,2.0,1800.0,https://www.zillow.com//homedetails/150220-Turquoise-Rd-Big-River-CA-92242/17510352_zpid/
-"2560 W Greenacre Ave, Anaheim, CA 92801",998888,4.0,2.0,1287.0,https://www.zillow.com//homedetails/2560-W-Greenacre-Ave-Anaheim-CA-92801/25154322_zpid/
-"38 Reginato Rd, Mount Shasta, CA 96067",313000,2.0,1.0,582.0,https://www.zillow.com//homedetails/38-Reginato-Rd-Mount-Shasta-CA-96067/89036263_zpid/
-"408 S Flower St, Santa Ana, CA 92703",1300000,4.0,3.0,1722.0,https://www.zillow.com//homedetails/408-S-Flower-St-Santa-Ana-CA-92703/25093522_zpid/
-"1825 Lee Ave, Arcadia, CA 91006",1898000,3.0,2.0,1432.0,https://www.zillow.com//homedetails/1825-Lee-Ave-Arcadia-CA-91006/20896597_zpid/
-"925 N Quarterhorse Ln, Oak Park, CA 91377",799900,3.0,2.0,1400.0,https://www.zillow.com//homedetails/925-N-Quarterhorse-Ln-Oak-Park-CA-91377/16496181_zpid/
-"21515 Placerita Canyon Rd SPACE 4, Newhall, CA 91321",275000,3.0,2.0,2000.0,https://www.zillow.com//homedetails/21515-Placerita-Canyon-Rd-SPACE-4-Newhall-CA-91321/136689912_zpid/
-"11350 Victoria Ave, Los Angeles, CA 90066",2725000,3.0,4.0,2200.0,https://www.zillow.com//homedetails/11350-Victoria-Ave-Los-Angeles-CA-90066/20448061_zpid/
-"5995 Royal Point Dr, Paradise, CA 95969",710000,3.0,4.0,2800.0,https://www.zillow.com//homedetails/5995-Royal-Point-Dr-Paradise-CA-95969/69233770_zpid/
-"1916 Teton Way, Pine Mountain Club, CA 93222",385000,2.0,2.0,1200.0,https://www.zillow.com//homedetails/1916-Teton-Way-Pine-Mountain-Club-CA-93222/18978857_zpid/
-"28 Oak Knls, Trabuco Canyon, CA 92679",1750000,4.0,2.0,1700.0,https://www.zillow.com//homedetails/28-Oak-Knls-Trabuco-Canyon-CA-92679/25641763_zpid/
-"53515 Marian View Dr, Idyllwild, CA 92549",389000,2.0,1.0,900.0,https://www.zillow.com//homedetails/53515-Marian-View-Dr-Idyllwild-CA-92549/18047188_zpid/
-"LOT 68 Mallard Rd, Macdoel, CA 96058",49900,-,0.0,-,https://www.zillow.com//homedetails/LOT-68-Mallard-Rd-Macdoel-CA-96058/443327534_zpid/
-"1326 Benedict Canyon Dr, Beverly Hills, CA 90210",13850000,4.0,6.0,4838.0,https://www.zillow.com//homedetails/1326-Benedict-Canyon-Dr-Beverly-Hills-CA-90210/20523525_zpid/
-"30053 104th St E, Littlerock, CA 93543",2000000,3.0,4.0,2400.0,https://www.zillow.com//homedetails/30053-104th-St-E-Littlerock-CA-93543/20272413_zpid/
-"440 Holmwood Dr, Newport Beach, CA 92663",5250000,5.0,5.0,3655.0,https://www.zillow.com//homedetails/440-Holmwood-Dr-Newport-Beach-CA-92663/25136435_zpid/
-"2161 4th Ln, Big Bear City, CA 92314",274900,1.0,1.0,600.0,https://www.zillow.com//homedetails/2161-4th-Ln-Big-Bear-City-CA-92314/17394065_zpid/
-"83448 Stagecoach Rd, Indio, CA 92203",740000,6.0,6.0,3602.0,https://www.zillow.com//homedetails/83448-Stagecoach-Rd-Indio-CA-92203/69279894_zpid/
-"16397 D St #27, Victorville, CA 92395",109860,2.0,3.0,900.0,https://www.zillow.com//homedetails/16397-D-St-27-Victorville-CA-92395/145571817_zpid/
-"3304 Shasta Dam Blvd SPACE 112, Shasta Lake, CA 96019",190000,3.0,2.0,1350.0,https://www.zillow.com//homedetails/3304-Shasta-Dam-Blvd-SPACE-112-Shasta-Lake-CA-96019/64978088_zpid/
-"16665 A St, Victorville, CA 92395",385000,3.0,3.0,1860.0,https://www.zillow.com//homedetails/16665-A-St-Victorville-CA-92395/17478230_zpid/
-"9348 Westhill Rd, Lakeside, CA 92040",750000,3.0,2.0,1500.0,https://www.zillow.com//homedetails/9348-Westhill-Rd-Lakeside-CA-92040/16885094_zpid/
-"354 Anna Maria St, Altadena, CA 91001",1400000,3.0,3.0,-,https://www.zillow.com//homedetails/354-Anna-Maria-St-Altadena-CA-91001/443824760_zpid/
-"900 N Cordova St, Alhambra, CA 91801",2200000,3.0,3.0,2429.0,https://www.zillow.com//homedetails/900-N-Cordova-St-Alhambra-CA-91801/20698406_zpid/
-"5510 Owensmouth Ave APT 313, Woodland Hills, CA 91367",598888,2.0,2.0,920.0,https://www.zillow.com//homedetails/5510-Owensmouth-Ave-APT-313-Woodland-Hills-CA-91367/68985508_zpid/
-"7500 Quartz Valley Rd, Fort Jones, CA",160000,-,-,-,"https://www.zillow.com//b/building/41.550976,-122.91019_ll/"
-"139 Wylerhorn Dr, Crestline, CA 92325",549900,5.0,3.0,2300.0,https://www.zillow.com//homedetails/139-Wylerhorn-Dr-Crestline-CA-92325/442829322_zpid/
-"1218 S Washington Ave, Compton, CA 90221",649900,3.0,1.0,1036.0,https://www.zillow.com//homedetails/1218-S-Washington-Ave-Compton-CA-90221/21241456_zpid/
-"20202 E Santiago Canyon Rd, Orange, CA 92869",1200000,3.0,3.0,1740.0,https://www.zillow.com//homedetails/20202-E-Santiago-Canyon-Rd-Orange-CA-92869/25429642_zpid/
-"3200 Elm Ave, Manhattan Beach, CA 90266",3600000,5.0,5.0,3275.0,https://www.zillow.com//homedetails/3200-Elm-Ave-Manhattan-Beach-CA-90266/20419153_zpid/
-"Lilac Rd, Valley Center, CA 92082",444000,-,0.0,-,https://www.zillow.com//homedetails/Lilac-Rd-Valley-Center-CA-92082/99470627_zpid/
-"2865 Holly Rd, Santa Barbara, CA 93105",425000,0.0,0.0,-,https://www.zillow.com//homedetails/2865-Holly-Rd-Santa-Barbara-CA-93105/95270859_zpid/
-"9322 Thompson Ave, Chatsworth, CA",950000,-,-,-,"https://www.zillow.com//b/building/34.24085,-118.637_ll/"
-"16843 Miller Ave, Fontana, CA 92336",775000,4.0,3.0,1631.0,https://www.zillow.com//homedetails/16843-Miller-Ave-Fontana-CA-92336/137522188_zpid/
-"6348 Sylvan Dr, Simi Valley, CA 93063",850000,3.0,3.0,1707.0,https://www.zillow.com//homedetails/6348-Sylvan-Dr-Simi-Valley-CA-93063/16463537_zpid/
-"2400 Alpine Blvd SPACE 60, Alpine, CA 91901",325000,3.0,2.0,1480.0,https://www.zillow.com//homedetails/2400-Alpine-Blvd-SPACE-60-Alpine-CA-91901/140623586_zpid/
-"1782 Green Meadow Ave, Tustin, CA 92780",1249900,3.0,2.0,1642.0,https://www.zillow.com//homedetails/1782-Green-Meadow-Ave-Tustin-CA-92780/25473078_zpid/
-"1716 Sunbeam Lake Dr, El Centro, CA",82500,-,-,-,https://www.zillow.com//b/1716-sunbeam-lake-dr-el-centro-ca-9MrDkm/
-"12130 Ohio Ave APT 302, Los Angeles, CA 90025",1179999,3.0,4.0,1507.0,https://www.zillow.com//homedetails/12130-Ohio-Ave-APT-302-Los-Angeles-CA-90025/20467233_zpid/
-"34851 Date Palm Dr #7, Cathedral City, CA 92234",119000,2.0,2.0,1300.0,https://www.zillow.com//homedetails/34851-Date-Palm-Dr-7-Cathedral-City-CA-92234/442766158_zpid/
-"3527 Adams Ln, Redding, CA 96002",410000,3.0,2.0,1584.0,https://www.zillow.com//homedetails/3527-Adams-Ln-Redding-CA-96002/15218166_zpid/
-"1823 E 108th St, Los Angeles, CA 90059",650000,5.0,2.0,1588.0,https://www.zillow.com//homedetails/1823-E-108th-St-Los-Angeles-CA-90059/20967297_zpid/
-"16278 Mallory Dr, Fontana, CA 92335",712000,3.0,3.0,1602.0,https://www.zillow.com//homedetails/16278-Mallory-Dr-Fontana-CA-92335/17339282_zpid/
-"30416 Live Oak Dr, Running Springs, CA 92382",499999,3.0,3.0,2200.0,https://www.zillow.com//homedetails/30416-Live-Oak-Dr-Running-Springs-CA-92382/17374863_zpid/
-"523 N Vulcan Ave SPACE 35, Encinitas, CA 92024",90000,1.0,1.0,300.0,https://www.zillow.com//homedetails/523-N-Vulcan-Ave-SPACE-35-Encinitas-CA-92024/145641239_zpid/
-"6365 Marilane Rd, Twentynine Palms, CA 92277",310000,3.0,2.0,1561.0,https://www.zillow.com//homedetails/6365-Marilane-Rd-Twentynine-Palms-CA-92277/17506170_zpid/
-"5100 8th Ave, Los Angeles, CA 90043",650000,2.0,1.0,934.0,https://www.zillow.com//homedetails/5100-8th-Ave-Los-Angeles-CA-90043/20568227_zpid/
-"29720 Valle Verde St, Temecula, CA 92591",1600000,6.0,5.0,2688.0,https://www.zillow.com//homedetails/29720-Valle-Verde-St-Temecula-CA-92591/443848500_zpid/
-"3620 Moreno Ave SPACE 136, La Verne, CA 91750",187000,2.0,2.0,1200.0,https://www.zillow.com//homedetails/3620-Moreno-Ave-SPACE-136-La-Verne-CA-91750/346889628_zpid/
-"300 Cagney Ln APT 111, Newport Beach, CA 92663",695000,1.0,1.0,600.0,https://www.zillow.com//homedetails/300-Cagney-Ln-APT-111-Newport-Beach-CA-92663/25730429_zpid/
-"5550 Panther Rd, Anderson, CA 96007",790000,2.0,1.0,1744.0,https://www.zillow.com//homedetails/5550-Panther-Rd-Anderson-CA-96007/15247308_zpid/
-"20855 Villa Knoll Dr, Lake Mathews, CA 92570",421000,-,0.0,-,https://www.zillow.com//homedetails/20855-Villa-Knoll-Dr-Lake-Mathews-CA-92570/2066660292_zpid/
-"69333 E Palm Canyon Dr SPACE 84, Cathedral City, CA 92234",95000,1.0,1.0,616.0,https://www.zillow.com//homedetails/69333-E-Palm-Canyon-Dr-SPACE-84-Cathedral-City-CA-92234/17745903_zpid/
-"33 Via Alicia, Santa Barbara, CA 93108",4250000,5.0,5.0,4925.0,https://www.zillow.com//homedetails/33-Via-Alicia-Santa-Barbara-CA-93108/15882496_zpid/
-"1845 Blakeslee Ave, Arcata, CA 95521",410000,3.0,1.0,1310.0,https://www.zillow.com//homedetails/1845-Blakeslee-Ave-Arcata-CA-95521/18821997_zpid/
-"12592 Singing Wood Dr, Santa Ana, CA 92705",3499999,4.0,5.0,3185.0,https://www.zillow.com//homedetails/12592-Singing-Wood-Dr-Santa-Ana-CA-92705/25197432_zpid/
-"38020 Cabin Cir, Palm Desert, CA 92260",499000,2.0,2.0,1815.0,https://www.zillow.com//homedetails/38020-Cabin-Cir-Palm-Desert-CA-92260/18072647_zpid/
-"8545 Mission Gorge Rd SPACE 147, Santee, CA 92071",365000,3.0,2.0,1344.0,https://www.zillow.com//homedetails/8545-Mission-Gorge-Rd-SPACE-147-Santee-CA-92071/82944275_zpid/
-"1642 W 60th St, Los Angeles, CA 90047",550000,2.0,1.0,858.0,https://www.zillow.com//homedetails/1642-W-60th-St-Los-Angeles-CA-90047/20927400_zpid/
-"107 Dunaway Ct, Fortuna, CA 95540",645000,4.0,4.0,2285.0,https://www.zillow.com//homedetails/107-Dunaway-Ct-Fortuna-CA-95540/18827010_zpid/
-"4910 Hidden Meadows Ln, Eureka, CA",500000,-,-,-,"https://www.zillow.com//b/building/40.71263,-124.108635_ll/"
-"21254 Colina Dr, Topanga, CA 90290",3900000,3.0,3.0,3200.0,https://www.zillow.com//homedetails/21254-Colina-Dr-Topanga-CA-90290/20550940_zpid/
-"24238 Postal Ave #1-6, Moreno Valley, CA 92553",1225000,6.0,6.0,500.0,https://www.zillow.com//homedetails/24238-Postal-Ave-1-6-Moreno-Valley-CA-92553/442947051_zpid/
-"70200 Dillon Rd, Desert Hot Springs, CA",89000,-,-,-,"https://www.zillow.com//b/building/33.865204,-116.29912_ll/"
-"1500 Spa Rd #468, Niland, CA 92257",38900,1.0,1.0,532.0,https://www.zillow.com//homedetails/1500-Spa-Rd-468-Niland-CA-92257/18873736_zpid/
-"14576 Nelson Ave, Victorville, CA 92394",530000,6.0,3.0,2628.0,https://www.zillow.com//homedetails/14576-Nelson-Ave-Victorville-CA-92394/58758461_zpid/
-"52834 Stonewood Canyon Rd, Idyllwild, CA 92549",689000,3.0,2.0,1125.0,https://www.zillow.com//homedetails/52834-Stonewood-Canyon-Rd-Idyllwild-CA-92549/18045525_zpid/
-"14466 E Loyola St, Moorpark, CA 93021",949000,4.0,3.0,1972.0,https://www.zillow.com//homedetails/14466-E-Loyola-St-Moorpark-CA-93021/16420064_zpid/
-"15500 Bubbling Wells Rd SPC 124, Desert Hot Springs, CA 92240",45000,2.0,2.0,1040.0,https://www.zillow.com//homedetails/15500-Bubbling-Wells-Rd-SPC-124-Desert-Hot-Springs-CA-92240/122420822_zpid/
-"27701 Murrieta Rd, Menifee, CA 92586",199000,2.0,2.0,1584.0,https://www.zillow.com//homedetails/27701-Murrieta-Rd-Menifee-CA-92586/331553703_zpid/
-"10550 Dunlap Crossing Rd #64, Whittier, CA 90606",155000,2.0,2.0,1535.0,https://www.zillow.com//homedetails/10550-Dunlap-Crossing-Rd-64-Whittier-CA-90606/443326411_zpid/
-"66315 Cahuilla Ave, Desert Hot Springs, CA 92240",508000,4.0,2.0,1802.0,https://www.zillow.com//homedetails/66315-Cahuilla-Ave-Desert-Hot-Springs-CA-92240/338226209_zpid/
-"971 E Alexander Way, Palm Springs, CA 92262",1249000,3.0,2.0,1225.0,https://www.zillow.com//homedetails/971-E-Alexander-Way-Palm-Springs-CA-92262/18016804_zpid/
-"6870 Riverland Dr SPACE 80, Redding, CA 96002",55000,2.0,2.0,720.0,https://www.zillow.com//homedetails/6870-Riverland-Dr-SPACE-80-Redding-CA-96002/54983494_zpid/
-"24723 Via Valmonte, Torrance, CA 90505",2499000,4.0,4.0,2546.0,https://www.zillow.com//homedetails/24723-Via-Valmonte-Torrance-CA-90505/21337351_zpid/
-"56628 Desert Vista Cir, Yucca Valley, CA 92284",620000,3.0,3.0,1770.0,https://www.zillow.com//homedetails/56628-Desert-Vista-Cir-Yucca-Valley-CA-92284/318480617_zpid/
-"18801 Roberts Rd SPC 152, Desert Hot Springs, CA 92241",25000,1.0,1.0,400.0,https://www.zillow.com//homedetails/18801-Roberts-Rd-SPC-152-Desert-Hot-Springs-CA-92241/2081643198_zpid/
-"2180 Jewell Ln, Redding, CA 96001",185000,1.0,1.0,786.0,https://www.zillow.com//homedetails/2180-Jewell-Ln-Redding-CA-96001/15208820_zpid/
-"38927 Alfred Cir, Cherry Valley, CA 92223",325000,-,0.0,-,https://www.zillow.com//homedetails/38927-Alfred-Cir-Cherry-Valley-CA-92223/95915694_zpid/
-"10561 Court Ave, Stanton, CA 90680",950000,2.0,1.0,951.0,https://www.zillow.com//homedetails/10561-Court-Ave-Stanton-CA-90680/25218808_zpid/
-"46618 Madison St SPACE 126, Indio, CA 92201",189000,2.0,2.0,1425.0,https://www.zillow.com//homedetails/46618-Madison-St-SPACE-126-Indio-CA-92201/18068326_zpid/
-"17777 Langlois Rd #60, Desert Edge, CA 92241",74900,1.0,1.0,400.0,https://www.zillow.com//homedetails/17777-Langlois-Rd-60-Desert-Edge-CA-92241/2059150082_zpid/
-"97X Bradley Way, Vista, CA 92081",835000,2.0,2.0,1196.0,https://www.zillow.com//homedetails/97X-Bradley-Way-Vista-CA-92081/443615043_zpid/
-"715 Chipmunk Ln, Big Bear Lake, CA 92315",550000,2.0,1.0,640.0,https://www.zillow.com//homedetails/715-Chipmunk-Ln-Big-Bear-Lake-CA-92315/17382883_zpid/
-"427 9th Ave UNIT 803, San Diego, CA 92101",975000,2.0,2.0,1018.0,https://www.zillow.com//homedetails/427-9th-Ave-UNIT-803-San-Diego-CA-92101/63777984_zpid/
-"2965-2965 Johnstonville Rd N SPACE 12, Susanville, CA 96130",48500,3.0,2.0,1536.0,https://www.zillow.com//homedetails/2965-2965-Johnstonville-Rd-N-SPACE-12-Susanville-CA-96130/2056295228_zpid/
-"37017 State Highway 299, Burney, CA 96013",69500,0.0,0.0,4500.0,https://www.zillow.com//homedetails/37017-State-Highway-299-Burney-CA-96013/443767980_zpid/
-"5325 Newcastle Ave UNIT 116, Encino, CA 91316",469000,2.0,2.0,880.0,https://www.zillow.com//homedetails/5325-Newcastle-Ave-UNIT-116-Encino-CA-91316/19938527_zpid/
-"86153 Sonoma Creek Rd, Coachella, CA 92236",300000,1.0,1.0,1089.0,https://www.zillow.com//homedetails/86153-Sonoma-Creek-Rd-Coachella-CA-92236/63314804_zpid/
-"1015 N Michillinda Ave APT 209, Pasadena, CA 91107",765000,2.0,3.0,1103.0,https://www.zillow.com//homedetails/1015-N-Michillinda-Ave-APT-209-Pasadena-CA-91107/20880775_zpid/
-"17068 Colima Rd APT 274, Hacienda Heights, CA 91745",402000,1.0,1.0,612.0,https://www.zillow.com//homedetails/17068-Colima-Rd-APT-274-Hacienda-Heights-CA-91745/21496836_zpid/
-"189 Desert Lakes Dr, Rancho Mirage, CA 92270",749000,2.0,2.0,2440.0,https://www.zillow.com//homedetails/189-Desert-Lakes-Dr-Rancho-Mirage-CA-92270/18071039_zpid/
-"1730 Ferry St, Anderson, CA 96007",275000,3.0,2.0,1056.0,https://www.zillow.com//homedetails/1730-Ferry-St-Anderson-CA-96007/15244520_zpid/
-"Barker Rd, Oak Hills, CA 92344",205000,-,0.0,-,https://www.zillow.com//homedetails/Barker-Rd-Oak-Hills-CA-92344/137984972_zpid/
-"8990 19th St APT 433, Rancho Cucamonga, CA 91701",429000,2.0,1.0,823.0,https://www.zillow.com//homedetails/8990-19th-St-APT-433-Rancho-Cucamonga-CA-91701/17288328_zpid/
-"17350 Temple Ave SPC 196, La Puente, CA 91744",199900,2.0,2.0,1440.0,https://www.zillow.com//homedetails/17350-Temple-Ave-SPC-196-La-Puente-CA-91744/136708167_zpid/
-"1289 Hookton Rd, Loleta, CA 95551",1350000,4.0,5.0,6500.0,https://www.zillow.com//homedetails/1289-Hookton-Rd-Loleta-CA-95551/94689151_zpid/
-"10006 Maya Linda Rd UNIT 5209, San Diego, CA 92126",630000,2.0,2.0,954.0,https://www.zillow.com//homedetails/10006-Maya-Linda-Rd-UNIT-5209-San-Diego-CA-92126/69812097_zpid/
-"44618 State Highway 74, Hemet, CA 92544",1100000,4.0,2.0,1800.0,https://www.zillow.com//homedetails/44618-State-Highway-74-Hemet-CA-92544/2091487471_zpid/
-"1823 Hilton Ave, Yucca Valley, CA 92284",410000,3.0,2.0,1389.0,https://www.zillow.com//homedetails/1823-Hilton-Ave-Yucca-Valley-CA-92284/89166724_zpid/
-"44507 Beringer Dr, Indio, CA 92203",659900,5.0,3.0,2430.0,https://www.zillow.com//homedetails/44507-Beringer-Dr-Indio-CA-92203/2053533448_zpid/
-"3424 Mesquite Springs Rd, Twentynine Palms, CA 92277",185000,1.0,2.0,544.0,https://www.zillow.com//homedetails/3424-Mesquite-Springs-Rd-Twentynine-Palms-CA-92277/299170306_zpid/
-"3535 Ticonderoga St, San Diego, CA 92117",3865000,4.0,5.0,3873.0,https://www.zillow.com//homedetails/3535-Ticonderoga-St-San-Diego-CA-92117/16925922_zpid/
-"15 La Crescenta Dr, Camarillo, CA 93010",2300000,9.0,7.0,4065.0,https://www.zillow.com//homedetails/15-La-Crescenta-Dr-Camarillo-CA-93010/16360350_zpid/
-"0 Grizzley Dr LOT 17, Alturas, CA 96101",15000,-,0.0,-,https://www.zillow.com//homedetails/0-Grizzley-Dr-LOT-17-Alturas-CA-96101/443810407_zpid/
-"17705 S Western Ave SPACE 65, Gardena, CA 90248",35000,1.0,1.0,576.0,https://www.zillow.com//homedetails/17705-S-Western-Ave-SPACE-65-Gardena-CA-90248/402221243_zpid/
-"1931 E Meats Ave, Orange, CA 92865",160000,3.0,2.0,-,https://www.zillow.com//homedetails/1931-E-Meats-Ave-Orange-CA-92865/441893016_zpid/
-"5101 Tortuga Dr APT 109, Huntington Beach, CA 92649",512999,0.0,1.0,498.0,https://www.zillow.com//homedetails/5101-Tortuga-Dr-APT-109-Huntington-Beach-CA-92649/25768547_zpid/
-"9852 Reading Ave, Garden Grove, CA 92844",1300000,3.0,2.0,1350.0,https://www.zillow.com//homedetails/9852-Reading-Ave-Garden-Grove-CA-92844/25187359_zpid/
-"1372 Morningside Dr, Laguna Beach, CA 92651",2700000,2.0,2.0,1680.0,https://www.zillow.com//homedetails/1372-Morningside-Dr-Laguna-Beach-CA-92651/25559024_zpid/
-"2200 W Wilson St #135, Banning, CA 92220",76000,2.0,3.0,1200.0,https://www.zillow.com//homedetails/2200-W-Wilson-St-135-Banning-CA-92220/353742161_zpid/
-"622 San Pascual Ave, Los Angeles, CA 90042",1380000,6.0,4.0,2880.0,https://www.zillow.com//homedetails/622-San-Pascual-Ave-Los-Angeles-CA-90042/20773335_zpid/
-"37066 Whispering Hills Dr, Murrieta, CA 92563",850000,5.0,3.0,3563.0,https://www.zillow.com//homedetails/37066-Whispering-Hills-Dr-Murrieta-CA-92563/95981392_zpid/
-"388 E Ocean Blvd UNIT 1404, Long Beach, CA 90802",560000,1.0,1.0,680.0,https://www.zillow.com//homedetails/388-E-Ocean-Blvd-UNIT-1404-Long-Beach-CA-90802/68994471_zpid/
-"78580 Platinum Dr, Palm Desert, CA 92211",515000,2.0,2.0,1622.0,https://www.zillow.com//homedetails/78580-Platinum-Dr-Palm-Desert-CA-92211/18058344_zpid/
-"10770 Black Mountain Rd SPACE 184, San Diego, CA 92126",420000,3.0,2.0,1422.0,https://www.zillow.com//homedetails/10770-Black-Mountain-Rd-SPACE-184-San-Diego-CA-92126/140616798_zpid/
-"65669 Avenida Ladera, Desert Hot Springs, CA 92240",575000,3.0,2.0,1200.0,https://www.zillow.com//homedetails/65669-Avenida-Ladera-Desert-Hot-Springs-CA-92240/18115226_zpid/
-"251 E Avenue K6, Lancaster, CA 93535",14000,-,0.0,-,https://www.zillow.com//homedetails/251-E-Avenue-K6-Lancaster-CA-93535/135142356_zpid/
-"538 Andromeda Dr, Lompoc, CA 93436",999500,4.0,4.0,3196.0,https://www.zillow.com//homedetails/538-Andromeda-Dr-Lompoc-CA-93436/64807810_zpid/
-"499 Bel Air Dr, Lake Arrowhead, CA 92352",850000,4.0,3.0,2664.0,https://www.zillow.com//homedetails/499-Bel-Air-Dr-Lake-Arrowhead-CA-92352/17423345_zpid/
-"42550 Port Ln, Murrieta, CA 92562",1048900,5.0,5.0,3989.0,https://www.zillow.com//homedetails/42550-Port-Ln-Murrieta-CA-92562/69265731_zpid/
-"22494 Brightwood Pl, Santa Clarita, CA 91350",1450000,4.0,5.0,3528.0,https://www.zillow.com//homedetails/22494-Brightwood-Pl-Santa-Clarita-CA-91350/95630258_zpid/
-"69801 Ramon Rd #27, Cathedral City, CA 92234",139900,1.0,1.0,400.0,https://www.zillow.com//homedetails/69801-Ramon-Rd-27-Cathedral-City-CA-92234/18119295_zpid/
-"225 Wake Ave #41, El Centro, CA 92243",65000,1.0,1.0,552.0,https://www.zillow.com//homedetails/225-Wake-Ave-41-El-Centro-CA-92243/442329739_zpid/
-"1840 Grandview Ave, Redding, CA 96001",432100,3.0,2.0,1689.0,https://www.zillow.com//homedetails/1840-Grandview-Ave-Redding-CA-96001/15232315_zpid/
-"3401 Parker Dam Rd, Earp, CA",95000,-,-,-,https://www.zillow.com//b/3401-parker-dam-rd-earp-ca-5YPgBD/
-"15344 Weddington St UNIT 102, Van Nuys, CA 91411",799000,2.0,2.0,1200.0,https://www.zillow.com//homedetails/15344-Weddington-St-UNIT-102-Van-Nuys-CA-91411/19976047_zpid/
-"9340 Foothill Blvd TRAILER 38, Rancho Cucamonga, CA 91730",75000,1.0,1.0,500.0,https://www.zillow.com//homedetails/9340-Foothill-Blvd-TRAILER-38-Rancho-Cucamonga-CA-91730/145563723_zpid/
-"6604 Haywood St, Tujunga, CA 91042",949999,2.0,1.0,1180.0,https://www.zillow.com//homedetails/6604-Haywood-St-Tujunga-CA-91042/20100599_zpid/
-"581 Garrett Rd, Hyampom, CA 96046",415000,4.0,4.0,2614.0,https://www.zillow.com//homedetails/581-Garrett-Rd-Hyampom-CA-96046/334061236_zpid/
-"0 Castilian Dr, Los Angeles, CA 90068",3500000,4.0,5.0,3250.0,https://www.zillow.com//homedetails/0-Castilian-Dr-Los-Angeles-CA-90068/443211283_zpid/
-"815 Woodgrove Rd, Fillmore, CA 93015",509000,-,0.0,-,https://www.zillow.com//homedetails/815-Woodgrove-Rd-Fillmore-CA-93015/2058304311_zpid/
-"147 W Colden Blvd, Los Angeles, CA 90061",925688,11.0,22.0,4765.0,https://www.zillow.com//homedetails/147-W-Colden-Blvd-Los-Angeles-CA-90061/443465963_zpid/
-"13701 Andover Dr, Magalia, CA 95954",14000,3.0,0.0,1541.0,https://www.zillow.com//homedetails/13701-Andover-Dr-Magalia-CA-95954/18265013_zpid/
-"950 Spring Rd, Whitethorn, CA 95589",390000,1.0,2.0,1200.0,https://www.zillow.com//homedetails/950-Spring-Rd-Whitethorn-CA-95589/18826137_zpid/
-"1859 Irving Ave, San Diego, CA 92113",1400000,5.0,4.0,2494.0,https://www.zillow.com//homedetails/1859-Irving-Ave-San-Diego-CA-92113/2076490369_zpid/
-"10482 Quito Ln, Los Angeles, CA 90077",35000,-,0.0,-,https://www.zillow.com//homedetails/10482-Quito-Ln-Los-Angeles-CA-90077/442450387_zpid/
-"4942 Heise Park Rd, Julian, CA 92036",650000,3.0,2.0,1027.0,https://www.zillow.com//homedetails/4942-Heise-Park-Rd-Julian-CA-92036/16758563_zpid/
-"146 Coyote, Cathedral City, CA 92234",172500,2.0,2.0,1344.0,https://www.zillow.com//homedetails/146-Coyote-Cathedral-City-CA-92234/52463934_zpid/
-"1001 W Lambert Rd SPC 98, La Habra, CA 90631",220000,2.0,2.0,1140.0,https://www.zillow.com//homedetails/1001-W-Lambert-Rd-SPC-98-La-Habra-CA-90631/2109180925_zpid/
-"112 Palmas Norte, Fallbrook, CA 92028",966000,3.0,3.0,2600.0,https://www.zillow.com//homedetails/112-Palmas-Norte-Fallbrook-CA-92028/16563700_zpid/
-"84250 Indio Springs Pkwy, Indio, CA 92203",155000,1.0,1.0,860.0,https://www.zillow.com//homedetails/84250-Indio-Springs-Pkwy-Indio-CA-92203/243361196_zpid/
-"25521 Lincoln Ave SPACE 94, Hemet, CA 92544",95000,2.0,1.0,940.0,https://www.zillow.com//homedetails/25521-Lincoln-Ave-SPACE-94-Hemet-CA-92544/120839052_zpid/
-"1600 E Clark Ave SPACE 55, Santa Maria, CA 93455",89000,1.0,1.0,-,https://www.zillow.com//homedetails/1600-E-Clark-Ave-SPACE-55-Santa-Maria-CA-93455/15967178_zpid/
-"9724 Bothwell Rd, Northridge, CA 91324",2249000,6.0,5.0,3876.0,https://www.zillow.com//homedetails/9724-Bothwell-Rd-Northridge-CA-91324/20174618_zpid/
-"57350 Hillcrest Dr, Yucca Valley, CA 92284",500000,2.0,2.0,1068.0,https://www.zillow.com//homedetails/57350-Hillcrest-Dr-Yucca-Valley-CA-92284/17496678_zpid/
-"706 W 29th St, San Pedro, CA 90731",1950000,2.0,3.0,1100.0,https://www.zillow.com//homedetails/706-W-29th-St-San-Pedro-CA-90731/21313169_zpid/
-"16408 Sierra Hwy SPACE 24, Canyon Country, CA 91351",129900,1.0,1.0,384.0,https://www.zillow.com//homedetails/16408-Sierra-Hwy-SPACE-24-Canyon-Country-CA-91351/136693588_zpid/
-"5th Street Lots #7-12, Borrego Springs, CA 92004",18000,-,0.0,-,https://www.zillow.com//homedetails/5th-Street-Lots-7-12-Borrego-Springs-CA-92004/2059426686_zpid/
-"7389 Oneida Trl, Big River, CA 92242",155000,2.0,2.0,750.0,https://www.zillow.com//homedetails/7389-Oneida-Trl-Big-River-CA-92242/17510898_zpid/
-"388 Hampshire Dr, Quail Valley, CA 92587",52500,-,0.0,-,https://www.zillow.com//homedetails/388-Hampshire-Dr-Quail-Valley-CA-92587/2069742786_zpid/
-"675 Parker Dam Rd #59, Parker Dam, CA 92267",599999,3.0,3.0,1920.0,https://www.zillow.com//homedetails/675-Parker-Dam-Rd-59-Parker-Dam-CA-92267/443678393_zpid/
-"3500 W Manchester Blvd UNIT 301, Inglewood, CA 90305",875000,3.0,3.0,1493.0,https://www.zillow.com//homedetails/3500-W-Manchester-Blvd-UNIT-301-Inglewood-CA-90305/20339740_zpid/
-"5301 E Waverly Dr UNIT 197, Palm Springs, CA 92264",334000,1.0,2.0,887.0,https://www.zillow.com//homedetails/5301-E-Waverly-Dr-UNIT-197-Palm-Springs-CA-92264/18135474_zpid/
-"2072-031 Old Topanga Canyon Rd, Topanga, CA 90290",29950,-,0.0,-,https://www.zillow.com//homedetails/2072-031-Old-Topanga-Canyon-Rd-Topanga-CA-90290/2059190805_zpid/
-"21100 State St SPACE 110, San Jacinto, CA 92583",150000,3.0,2.0,720.0,https://www.zillow.com//homedetails/21100-State-St-SPACE-110-San-Jacinto-CA-92583/59424351_zpid/
-"3762 Sage Way, Oceanside, CA 92057",469000,2.0,2.0,1050.0,https://www.zillow.com//homedetails/3762-Sage-Way-Oceanside-CA-92057/16600195_zpid/
-"442 S Thousand Pines Rd, Crestline, CA 92325",50000,-,0.0,-,https://www.zillow.com//homedetails/442-S-Thousand-Pines-Rd-Crestline-CA-92325/442780522_zpid/
-"500 Leisure Ln, Paradise, CA 95969",69000,3.0,0.0,1732.0,https://www.zillow.com//homedetails/500-Leisure-Ln-Paradise-CA-95969/18256935_zpid/
-"6544 College Grove Dr UNIT 70, San Diego, CA 92115",510000,2.0,2.0,951.0,https://www.zillow.com//homedetails/6544-College-Grove-Dr-UNIT-70-San-Diego-CA-92115/52518706_zpid/
-"12107 Marine St, Los Angeles, CA 90066",1999999,0.0,0.0,1170.0,https://www.zillow.com//homedetails/12107-Marine-St-Los-Angeles-CA-90066/20456856_zpid/
-"81220 Amboy Rd, Twentynine Palms, CA 92277",18000,-,0.0,-,https://www.zillow.com//homedetails/81220-Amboy-Rd-Twentynine-Palms-CA-92277/2058068347_zpid/
-"6480 Katherine Rd SPACE 48, Simi Valley, CA 93063",355000,3.0,2.0,-,https://www.zillow.com//homedetails/6480-Katherine-Rd-SPACE-48-Simi-Valley-CA-93063/442364075_zpid/
-"2113 Border Ave, Torrance, CA 90501",2500000,4.0,2.0,3533.0,https://www.zillow.com//homedetails/2113-Border-Ave-Torrance-CA-90501/250343479_zpid/
-"89 Via Santo Tomas, Rancho Mirage, CA 92270",1250000,3.0,3.0,2307.0,https://www.zillow.com//homedetails/89-Via-Santo-Tomas-Rancho-Mirage-CA-92270/69276838_zpid/
-"43050 245th St E, Lancaster, CA 93535",13800,-,0.0,-,https://www.zillow.com//homedetails/43050-245th-St-E-Lancaster-CA-93535/345733905_zpid/
-"600 Hobbs Wall Rd, Crescent City, CA 95531",585000,3.0,2.0,1387.0,https://www.zillow.com//homedetails/600-Hobbs-Wall-Rd-Crescent-City-CA-95531/18563137_zpid/
-"9100 Single Oak Dr SPACE 69, Lakeside, CA 92040",295000,2.0,2.0,1440.0,https://www.zillow.com//homedetails/9100-Single-Oak-Dr-SPACE-69-Lakeside-CA-92040/140621348_zpid/
-"263 W 41st Pl, Los Angeles, CA 90037",1690000,14.0,4.0,4368.0,https://www.zillow.com//homedetails/263-W-41st-Pl-Los-Angeles-CA-90037/20618148_zpid/
-"6951 6th Ave #26, Blythe, CA 92225",25000,2.0,1.0,700.0,https://www.zillow.com//homedetails/6951-6th-Ave-26-Blythe-CA-92225/443606105_zpid/
-"2555 Sea Mist St, Thermal, CA 92274",9500,-,0.0,-,https://www.zillow.com//homedetails/2555-Sea-Mist-St-Thermal-CA-92274/113368020_zpid/
-"510 N Helberta Ave, Redondo Beach, CA 90277",1699000,-,0.0,-,https://www.zillow.com//homedetails/510-N-Helberta-Ave-Redondo-Beach-CA-90277/2089766285_zpid/
-"33255 Minneola Rd, Newberry Springs, CA 92365",268000,-,0.0,-,https://www.zillow.com//homedetails/33255-Minneola-Rd-Newberry-Springs-CA-92365/2069752509_zpid/
-"56620 Hidden Gold Dr, Yucca Valley, CA 92284",420420,3.0,2.0,1731.0,https://www.zillow.com//homedetails/56620-Hidden-Gold-Dr-Yucca-Valley-CA-92284/17489991_zpid/
-"1234 Montezuma Rd, Joshua Tree, CA 92252",380000,1.0,0.0,206.0,https://www.zillow.com//homedetails/1234-Montezuma-Rd-Joshua-Tree-CA-92252/442904967_zpid/
-"428 S 1st St, Alhambra, CA 91801",1700000,2.0,1.0,682.0,https://www.zillow.com//homedetails/428-S-1st-St-Alhambra-CA-91801/20708934_zpid/
-"5350 Mesquite Springs Rd, Twentynine Palms, CA 92277",18750,-,0.0,-,https://www.zillow.com//homedetails/5350-Mesquite-Springs-Rd-Twentynine-Palms-CA-92277/2063203185_zpid/
-"1145 E Barham Dr SPACE 229, San Marcos, CA 92078",395000,2.0,2.0,1392.0,https://www.zillow.com//homedetails/1145-E-Barham-Dr-SPACE-229-San-Marcos-CA-92078/82932115_zpid/
-"29 Palms Hwy #J, Joshua Tree, CA 92252",22500,-,0.0,-,https://www.zillow.com//homedetails/29-Palms-Hwy-J-Joshua-Tree-CA-92252/442187470_zpid/
-"1229 Vernon St, Eureka, CA 95501",695000,3.0,2.0,1750.0,https://www.zillow.com//homedetails/1229-Vernon-St-Eureka-CA-95501/205183058_zpid/
+"2931 Judge Manly Drive, New Bern, NC 28562",270000,3.0,2.0,1420.0,https://www.zillow.com//homedetails/2931-Judge-Manly-Dr-New-Bern-NC-28562/110510573_zpid/
+"211 Trotters Run, Jacksonville, NC 28546",265000,3.0,2.0,1411.0,https://www.zillow.com//homedetails/211-Trotters-Run-Jacksonville-NC-28546/51539344_zpid/
+"26 Wildberry Court, Rocky Mount, NC 27804",269900,3.0,2.0,1440.0,https://www.zillow.com//homedetails/26-Wildberry-Ct-Rocky-Mount-NC-27804/216894377_zpid/
+"882 Berea Church Rd, Elizabeth City, NC 27909",270000,3.0,2.0,1422.0,https://www.zillow.com//homedetails/882-Berea-Church-Rd-Elizabeth-City-NC-27909/107054162_zpid/
+"5413 Nc 42, Elm City, NC 27822",258000,3.0,2.0,1421.0,https://www.zillow.com//homedetails/5413-State-Highway-42-E-Elm-City-NC-27822/218862781_zpid/
+"357 Juno Dr, Broadway, NC 27505",270000,3.0,2.0,1443.0,https://www.zillow.com//homedetails/357-Juno-Dr-Broadway-NC-27505/89603580_zpid/
+"282 Little River Dr, Zebulon, NC 27597",280000,3.0,2.0,1065.0,https://www.zillow.com//homedetails/282-Little-River-Dr-Zebulon-NC-27597/69089273_zpid/
+"379 Morrow Farm Rd, Statesville, NC 28625",485000,3.0,2.0,1858.0,https://www.zillow.com//homedetails/379-Morrow-Farm-Rd-Statesville-NC-28625/442583112_zpid/
+"620 Memorial Dr E, Ahoskie, NC 27910",99500,4.0,3.0,2050.0,https://www.zillow.com//homedetails/620-Memorial-Dr-E-Ahoskie-NC-27910/113755144_zpid/
+"728 W Davis St, Burlington, NC 27215",525000,4.0,4.0,4129.0,https://www.zillow.com//homedetails/728-W-Davis-St-Burlington-NC-27215/51246442_zpid/
+"1814 Berryhill Rd, Charlotte, NC 28208",750000,4.0,3.0,2565.0,https://www.zillow.com//homedetails/1814-Berryhill-Rd-Charlotte-NC-28208/6177876_zpid/
+"239 Big Ridge Rd, Burnsville, NC 28714",259000,3.0,3.0,1365.0,https://www.zillow.com//homedetails/239-Big-Ridge-Rd-Burnsville-NC-28714/107096554_zpid/
+"1310 Bond Street, Kinston, NC 28501",135000,3.0,2.0,2253.0,https://www.zillow.com//homedetails/1310-Bond-St-Kinston-NC-28501/107032440_zpid/
+"112 Marvin Blvd, Winston Salem, NC 27105",257999,3.0,2.0,1563.0,https://www.zillow.com//homedetails/112-Marvin-Blvd-Winston-Salem-NC-27105/5765686_zpid/
+"1029 Churchill Rd, Davidson, NC 28036",1599000,5.0,5.0,4337.0,https://www.zillow.com//homedetails/1029-Churchill-Rd-Davidson-NC-28036/6128658_zpid/
+"7713 Wakebrook Dr, Raleigh, NC 27616",495000,3.0,2.0,2267.0,https://www.zillow.com//homedetails/7713-Wakebrook-Dr-Raleigh-NC-27616/6441445_zpid/
+"4312 Windstorm Way, Raleigh, NC 27616",289500,3.0,3.0,1268.0,https://www.zillow.com//homedetails/4312-Windstorm-Way-Raleigh-NC-27616/53462206_zpid/
+"13 Indian Ln, Weaverville, NC 28787",149900,2.0,2.0,1154.0,https://www.zillow.com//homedetails/13-Indian-Ln-Weaverville-NC-28787/96335264_zpid/
+"1215 W Gate Dr, Leland, NC",264919,-,-,-,https://www.zillow.com//community/wilmington-nc-build-on-your-lot/30799539_plid/
+"8427 Spirea Ct, Charlotte, NC 28215",279900,3.0,2.0,1498.0,https://www.zillow.com//homedetails/8427-Spirea-Ct-Charlotte-NC-28215/65024539_zpid/
+"1005 Lightfoot Ct, Wake Forest, NC 27587",289900,3.0,1.0,1044.0,https://www.zillow.com//homedetails/1005-Lightfoot-Ct-Wake-Forest-NC-27587/6473550_zpid/
+"215 N King St, Gastonia, NC 28052",240000,3.0,2.0,1791.0,https://www.zillow.com//homedetails/215-N-King-St-Gastonia-NC-28052/5848125_zpid/
+"314 Morningside Rd, Charlotte, NC 28214",299000,3.0,3.0,1567.0,https://www.zillow.com//homedetails/314-Morningside-Rd-Charlotte-NC-28214/2055535082_zpid/
+"1008 Ribbon Ln, Charlotte, NC 28205",285000,3.0,3.0,1549.0,https://www.zillow.com//homedetails/1008-Ribbon-Ln-Charlotte-NC-28205/418549935_zpid/
+"51170 Lassiter Ln LOT 26, Frisco, NC 27936",899000,4.0,4.0,3144.0,https://www.zillow.com//homedetails/51170-Lassiter-Ln-LOT-26-Frisco-NC-27936/443759535_zpid/
+"2350 Country Club Road, Jacksonville, NC 28546",429900,4.0,3.0,2715.0,https://www.zillow.com//homedetails/2350-Country-Club-Rd-Jacksonville-NC-28546/79758267_zpid/
+"2122 Middle Rd, Eastover, NC 28312",325000,3.0,2.0,2254.0,https://www.zillow.com//homedetails/2122-Middle-Rd-Eastover-NC-28312/53678416_zpid/
+"1208 Gum Tree Ln, Charlotte, NC 28214",360000,4.0,3.0,2879.0,https://www.zillow.com//homedetails/1208-Gum-Tree-Ln-Charlotte-NC-28214/6150254_zpid/
+"6506 Pargo Rd, Charlotte, NC 28216",280000,4.0,3.0,2161.0,https://www.zillow.com//homedetails/6506-Pargo-Rd-Charlotte-NC-28216/6151586_zpid/
+"227 Blount Street, Winterville, NC 28590",249000,4.0,2.0,2892.0,https://www.zillow.com//homedetails/227-Blount-St-Winterville-NC-28590/51421271_zpid/
+"2801 E Bessemer Ave, Greensboro, NC 27405",234900,4.0,2.0,1750.0,https://www.zillow.com//homedetails/2801-E-Bessemer-Ave-Greensboro-NC-27405/5920028_zpid/
+"11613 Old Surry Ln, Charlotte, NC 28277",750000,5.0,3.0,3148.0,https://www.zillow.com//homedetails/11613-Old-Surry-Ln-Charlotte-NC-28277/6327694_zpid/
+"18720 Jane Shaw Road, Wagram, NC 28396",450000,4.0,3.0,2375.0,https://www.zillow.com//homedetails/18720-Jane-Shaw-Rd-Wagram-NC-28396/86683803_zpid/
+"449 Saint Peter Church Rd, Randleman, NC 27317",269000,3.0,2.0,1385.0,https://www.zillow.com//homedetails/449-Saint-Peter-Church-Rd-Randleman-NC-27317/443760043_zpid/
+"1205 Blackwood Mountain Rd, Chapel Hill, NC 27516",598000,3.0,3.0,2010.0,https://www.zillow.com//homedetails/1205-Blackwood-Mountain-Rd-Chapel-Hill-NC-27516/50047881_zpid/
+"110 Browns Trail, Hampstead, NC 28443",265000,3.0,2.0,2031.0,https://www.zillow.com//homedetails/110-Browns-Trl-Hampstead-NC-28443/102107205_zpid/
+"20100 Lee Lane, Laurinburg, NC 28352",199900,3.0,2.0,1422.0,https://www.zillow.com//homedetails/20100-Lee-Ln-Laurinburg-NC-28352/93084138_zpid/
+"50 Whispering Oak Ln, Murphy, NC 28906",349900,2.0,2.0,-,https://www.zillow.com//homedetails/50-Whispering-Oak-Ln-Murphy-NC-28906/305581879_zpid/
+"8611 Frank Grier Rd #1, Charlotte, NC 28215",491500,5.0,3.0,2438.0,https://www.zillow.com//homedetails/8611-Frank-Grier-Rd-1-Charlotte-NC-28215/2052926425_zpid/
+"2216 Tate St, Charlotte, NC 28216",294900,3.0,2.0,1450.0,https://www.zillow.com//homedetails/2216-Tate-St-Charlotte-NC-28216/6179405_zpid/
+"234 Cresthaven Dr, Sanford, NC 27332",285000,4.0,3.0,2192.0,https://www.zillow.com//homedetails/234-Cresthaven-Dr-Sanford-NC-27332/71857487_zpid/
+"3113 S Point Rd, Belmont, NC 28012",248900,3.0,2.0,1182.0,https://www.zillow.com//homedetails/3113-S-Point-Rd-Belmont-NC-28012/70494951_zpid/
+"3701 E Jameson Rd, Raleigh, NC 27604",330000,3.0,2.0,1498.0,https://www.zillow.com//homedetails/3701-E-Jameson-Rd-Raleigh-NC-27604/6483519_zpid/
+"6206 Huntsboro Rd, Oxford, NC 27565",250000,3.0,2.0,1624.0,https://www.zillow.com//homedetails/6206-Huntsboro-Rd-Oxford-NC-27565/93027619_zpid/
+"118 Sleepy Ln, Shelby, NC 28152",250000,3.0,2.0,1092.0,https://www.zillow.com//homedetails/118-Sleepy-Ln-Shelby-NC-28152/78285304_zpid/
+"1117 Clifton Road, Jacksonville, NC 28540",269900,5.0,3.0,2855.0,https://www.zillow.com//homedetails/1117-Clifton-Rd-Jacksonville-NC-28540/199873111_zpid/
+"846 Mill River Road, Jacksonville, NC 28540",190000,3.0,2.0,1470.0,https://www.zillow.com//homedetails/846-Mill-River-Rd-Jacksonville-NC-28540/51551086_zpid/
+"4290 W Church Street, Farmville, NC 27828",239000,5.0,2.0,4018.0,https://www.zillow.com//homedetails/4290-W-Church-St-Farmville-NC-27828/51416154_zpid/
+"8031 Nathanael Greene Ln, Charlotte, NC 28227",350000,5.0,4.0,2624.0,https://www.zillow.com//homedetails/8031-Nathanael-Greene-Ln-Charlotte-NC-28227/6212279_zpid/
+"1845 Hose, Moravian Falls, NC 28654",145000,1.0,1.0,480.0,https://www.zillow.com//homedetails/1845-Hose-Rd-Moravian-Falls-NC-28654/248813156_zpid/
+"472 Apple Way Road, Blowing Rock, NC 28605",525000,2.0,3.0,1217.0,https://www.zillow.com//homedetails/472-Apple-Way-Blowing-Rock-NC-28605/102310203_zpid/
+"906 Roanoke St, Scotland Neck, NC 27874",85000,5.0,2.0,3366.0,https://www.zillow.com//homedetails/906-Roanoke-St-Scotland-Neck-NC-27874/84185802_zpid/
+"11319 Savannah Creek Dr, Charlotte, NC 28273",359000,3.0,3.0,2060.0,https://www.zillow.com//homedetails/11319-Savannah-Creek-Dr-Charlotte-NC-28273/239886969_zpid/
+"400 N Ashe Ave, Newton, NC 28658",186900,3.0,1.0,1796.0,https://www.zillow.com//homedetails/400-N-Ashe-Ave-Newton-NC-28658/71939844_zpid/
+"150 Stewart St, Asheville, NC 28806",285000,2.0,2.0,876.0,https://www.zillow.com//homedetails/150-Stewart-St-Asheville-NC-28806/61656645_zpid/
+"10 Aurora Drive, Whispering Pines, NC 28327",795000,4.0,4.0,3704.0,https://www.zillow.com//homedetails/10-Aurora-Dr-Whispering-Pines-NC-28327/112948717_zpid/
+"801 Ruth Ave, Kannapolis, NC 28083",235000,3.0,2.0,1348.0,https://www.zillow.com//homedetails/801-Ruth-Ave-Kannapolis-NC-28083/75008051_zpid/
+"207 N 13th Street, Wilmington, NC 28401",360000,3.0,2.0,1729.0,https://www.zillow.com//homedetails/207-N-13th-St-Wilmington-NC-28401/54301884_zpid/
+"205 Windfield Ct, Raleigh, NC 27615",625000,4.0,3.0,2030.0,https://www.zillow.com//homedetails/205-Windfield-Ct-Raleigh-NC-27615/6411446_zpid/
+"6521 Heatherbrook Ave, Charlotte, NC 28213",390000,5.0,3.0,1940.0,https://www.zillow.com//homedetails/6521-Heatherbrook-Ave-Charlotte-NC-28213/2060314394_zpid/
+"305 W Greene Street, Snow Hill, NC 28580",200000,3.0,2.0,2408.0,https://www.zillow.com//homedetails/305-W-Greene-St-Snow-Hill-NC-28580/114809007_zpid/
+"104 Crepe Myrtle Ln, Dunn, NC 28334",299900,4.0,2.0,2220.0,https://www.zillow.com//homedetails/104-Crepe-Myrtle-Ln-Dunn-NC-28334/71893617_zpid/
+"1388 Sandiwood Ct, Claremont, NC 28610",259999,4.0,2.0,2039.0,https://www.zillow.com//homedetails/1388-Sandiwood-Ct-Claremont-NC-28610/71555893_zpid/
+"407 King St, Monroe, NC 28110",250000,3.0,2.0,1941.0,https://www.zillow.com//homedetails/407-King-St-Monroe-NC-28110/6367327_zpid/
+"5621 Raddington St, Raleigh, NC 27613",525000,3.0,3.0,2315.0,https://www.zillow.com//homedetails/5621-Raddington-St-Raleigh-NC-27613/6521285_zpid/
+"623 Redbird Ln, Gastonia, NC 28056",283000,3.0,3.0,1536.0,https://www.zillow.com//homedetails/623-Redbird-Ln-Gastonia-NC-28056/5901790_zpid/
+"1450 London Dr, High Point, NC 27260",250000,4.0,3.0,1634.0,https://www.zillow.com//homedetails/1450-London-Dr-High-Point-NC-27260/6036833_zpid/
+"5445 W View St SW, Lenoir, NC 28645",299900,4.0,3.0,1950.0,https://www.zillow.com//homedetails/5445-W-View-St-SW-Lenoir-NC-28645/440703191_zpid/
+"1155 Surles Rd, Benson, NC 27504",615000,3.0,3.0,3608.0,https://www.zillow.com//homedetails/1155-Surles-Rd-Benson-NC-27504/69094748_zpid/
+"271 Parker Rd, Four Oaks, NC 27524",330000,3.0,3.0,1780.0,https://www.zillow.com//homedetails/271-Parker-Rd-Four-Oaks-NC-27524/69122511_zpid/
+"1004 Desoto Ave, Kannapolis, NC 28083",320000,5.0,3.0,2144.0,https://www.zillow.com//homedetails/1004-Desoto-Ave-Kannapolis-NC-28083/5681381_zpid/
+"1007 Drew St, Durham, NC 27701",290000,3.0,2.0,1152.0,https://www.zillow.com//homedetails/1007-Drew-St-Durham-NC-27701/98221993_zpid/
+"2033 Twilight Ln, Monroe, NC 28110",320000,4.0,3.0,1792.0,https://www.zillow.com//homedetails/2033-Twilight-Ln-Monroe-NC-28110/61793583_zpid/
+"537 & 1 Belwood Lawndale Road, Lawndale, NC 28090",650000,4.0,2.0,2473.0,https://www.zillow.com//homedetails/537-1-Belwood-Lawndale-Road-Lawndale-NC-28090/443212217_zpid/
+"1183 Sandy Plains Rd, Tryon, NC 28782",259900,3.0,2.0,1653.0,https://www.zillow.com//homedetails/1183-Sandy-Plains-Rd-Tryon-NC-28782/107057030_zpid/
+"4413 Jay Bird Circle UNIT 207, Wilmington, NC 28412",244000,2.0,2.0,1080.0,https://www.zillow.com//homedetails/4413-Jay-Bird-Cir-UNIT-207-Wilmington-NC-28412/84694717_zpid/
+"6217 Barcelona Way, Charlotte, NC 28214",450000,3.0,2.0,1648.0,https://www.zillow.com//homedetails/6217-Barcelona-Way-Charlotte-NC-28214/441143125_zpid/
+"4320 Main Street, Gibson, NC 28343",329500,5.0,2.0,3391.0,https://www.zillow.com//homedetails/4320-Main-St-Gibson-NC-28343/86684207_zpid/
+"6 Memory Lane, Cullowhee, NC 28723",239000,2.0,2.0,-,https://www.zillow.com//homedetails/6-Memory-Ln-Cullowhee-NC-28723/84711086_zpid/
+"2545 Buchanan St, Winston Salem, NC 27127",215000,4.0,2.0,1529.0,https://www.zillow.com//homedetails/2545-Buchanan-St-Winston-Salem-NC-27127/5844902_zpid/
+"2804 Fordham Ln, Raleigh, NC 27604",375000,3.0,2.0,1799.0,https://www.zillow.com//homedetails/2804-Fordham-Ln-Raleigh-NC-27604/6392501_zpid/
+"229 Shakerstone Dr, Fayetteville, NC 28311",267800,3.0,2.0,1692.0,https://www.zillow.com//homedetails/229-Shakerstone-Dr-Fayetteville-NC-28311/70594453_zpid/
+"504 E Edinborough Ave, Raeford, NC 28376",525000,5.0,4.0,4337.0,https://www.zillow.com//homedetails/504-E-Edinborough-Ave-Raeford-NC-28376/226155793_zpid/
+"884 No Bottom Rd, Warrenton, NC 27589",180000,3.0,2.0,1432.0,https://www.zillow.com//homedetails/884-No-Bottom-Rd-Warrenton-NC-27589/114874802_zpid/
+"748 Celtic Crossing Dr, High Point, NC 27265",260000,3.0,3.0,1782.0,https://www.zillow.com//homedetails/748-Celtic-Crossing-Dr-High-Point-NC-27265/71218453_zpid/
+"528 Jennings Farm Rd, Fayetteville, NC 28314",180000,3.0,2.0,1083.0,https://www.zillow.com//homedetails/528-Jennings-Farm-Rd-Fayetteville-NC-28314/53626729_zpid/
+"4912 Comelia Dr, Raleigh, NC 27603",580000,4.0,3.0,2461.0,https://www.zillow.com//homedetails/4912-Comelia-Dr-Raleigh-NC-27603/6399108_zpid/
+"746 Hawk Ridge Road, Deep Gap, NC 28618",748000,3.0,3.0,3397.0,https://www.zillow.com//homedetails/746-Hawk-Ridge-Rd-Deep-Gap-NC-28618/102269949_zpid/
+"610 Denny Rd, Greensboro, NC 27405",290000,3.0,3.0,1676.0,https://www.zillow.com//homedetails/610-Denny-Rd-Greensboro-NC-27405/5949073_zpid/
+"10112 Santa Fe Ln, Mint Hill, NC 28227",394000,3.0,2.0,1421.0,https://www.zillow.com//homedetails/10112-Santa-Fe-Ln-Mint-Hill-NC-28227/6235057_zpid/
+"568 Mahaffey Dr, Salisbury, NC 28146",229000,4.0,2.0,2052.0,https://www.zillow.com//homedetails/568-Mahaffey-Dr-Salisbury-NC-28146/93077689_zpid/
+"409 S Bluff Circle, Jacksonville, NC 28540",310000,4.0,3.0,2460.0,https://www.zillow.com//homedetails/409-S-Bluff-Cir-Jacksonville-NC-28540/117702930_zpid/
+"2608 Executive Point Dr, Monroe, NC",279313,-,-,-,https://www.zillow.com//community/monroe-nc-build-on-your-lot/30799540_plid/
+"66 N Deerhaven Ln, Asheville, NC 28803",17000000,6.0,12.0,13294.0,https://www.zillow.com//homedetails/66-N-Deerhaven-Ln-Asheville-NC-28803/295554633_zpid/
+"581 Sagee Woods Dr, Highlands, NC 28741",49999999,7.0,10.0,14540.0,https://www.zillow.com//homedetails/581-Sagee-Woods-Dr-Highlands-NC-28741/250881753_zpid/
+"6018 Viking Dr, Raleigh, NC 27612",330000,2.0,3.0,1281.0,https://www.zillow.com//homedetails/6018-Viking-Dr-Raleigh-NC-27612/71207727_zpid/
+"1320 Park Glen Dr APT 103, Raleigh, NC 27610",109900,2.0,2.0,900.0,https://www.zillow.com//homedetails/1320-Park-Glen-Dr-APT-103-Raleigh-NC-27610/132245864_zpid/
+"2533 Remington Rd, Raleigh, NC 27610",350000,3.0,2.0,1510.0,https://www.zillow.com//homedetails/2533-Remington-Rd-Raleigh-NC-27610/6406775_zpid/
+"1602 Dolphin St, Spring Lake, NC 28390",185000,4.0,3.0,1989.0,https://www.zillow.com//homedetails/1602-Dolphin-St-Spring-Lake-NC-28390/53710011_zpid/
+"9 Dewitt Street, Jacksonville, NC 28540",220000,3.0,2.0,1912.0,https://www.zillow.com//homedetails/9-Dewitt-St-Jacksonville-NC-28540/51562882_zpid/
+"250 Lake Eva Marie Dr, Raleigh, NC 27603",349900,3.0,3.0,1957.0,https://www.zillow.com//homedetails/250-Lake-Eva-Marie-Dr-Raleigh-NC-27603/69105403_zpid/
+"5139 Springview Rd, Charlotte, NC 28213",215000,3.0,2.0,1520.0,https://www.zillow.com//homedetails/5139-Springview-Rd-Charlotte-NC-28213/6190699_zpid/
+"214 Champion Drive, Hampstead, NC 28443",229950,3.0,2.0,1378.0,https://www.zillow.com//homedetails/214-Champion-Dr-Hampstead-NC-28443/102172620_zpid/
+"3004 Derby Run Road, Jacksonville, NC 28546",264900,4.0,2.0,1398.0,https://www.zillow.com//homedetails/3004-Derby-Run-Rd-Jacksonville-NC-28546/199866693_zpid/
+"99 May St, Gastonia, NC 28052",249000,3.0,2.0,1100.0,https://www.zillow.com//homedetails/99-May-St-Gastonia-NC-28052/5849499_zpid/
+"5009 Ilex Drive, Wilmington, NC 28412",347700,4.0,2.0,1300.0,https://www.zillow.com//homedetails/5009-Ilex-Dr-Wilmington-NC-28412/54341048_zpid/
+"217 Robinson Street, Rockingham, NC 28379",69900,5.0,3.0,0.0,https://www.zillow.com//homedetails/217-Robinson-St-Rockingham-NC-28379/333557360_zpid/
+"1781 33rd Street Dr SW, Hickory, NC 28602",124900,3.0,1.0,1227.0,https://www.zillow.com//homedetails/1781-33rd-Street-Dr-SW-Hickory-NC-28602/71552712_zpid/
+"719 Bear Paw Rdg, Franklin, NC 28734",819000,3.0,4.0,-,https://www.zillow.com//homedetails/719-Bear-Paw-Rdg-Franklin-NC-28734/70171608_zpid/
+"4812 Gibbons Link Rd, Charlotte, NC 28269",345000,5.0,4.0,2000.0,https://www.zillow.com//homedetails/4812-Gibbons-Link-Rd-Charlotte-NC-28269/244117457_zpid/
+"1104 E Main Street, Plymouth, NC 27962",137500,2.0,1.0,1224.0,https://www.zillow.com//homedetails/1104-E-Main-St-Plymouth-NC-27962/235579680_zpid/
+"1208 S Point Rd, Belmont, NC 28012",415000,2.0,3.0,1601.0,https://www.zillow.com//homedetails/1208-S-Point-Rd-Belmont-NC-28012/70495096_zpid/
+"1133 Stonewater Dr, Raleigh, NC 27603",369900,3.0,3.0,1968.0,https://www.zillow.com//homedetails/1133-Stonewater-Dr-Raleigh-NC-27603/50118061_zpid/
+"8125 Park Side Dr, Raleigh, NC 27612",700000,4.0,5.0,3506.0,https://www.zillow.com//homedetails/8125-Park-Side-Dr-Raleigh-NC-27612/6438720_zpid/
+"1908 Joyce St, Greensboro, NC 27405",185000,2.0,2.0,1352.0,https://www.zillow.com//homedetails/1908-Joyce-St-Greensboro-NC-27405/5929641_zpid/
+"125 Basin Ave, Kannapolis, NC 28083",269000,3.0,2.0,1200.0,https://www.zillow.com//homedetails/125-Basin-Ave-Kannapolis-NC-28083/5682553_zpid/
+"11612 Kingsley View Dr, Charlotte, NC 28277",590000,4.0,4.0,2539.0,https://www.zillow.com//homedetails/11612-Kingsley-View-Dr-Charlotte-NC-28277/65029157_zpid/
+"911 Wildwood Dr, Kings Mountain, NC 28086",415000,3.0,2.0,2315.0,https://www.zillow.com//homedetails/911-Wildwood-Dr-Kings-Mountain-NC-28086/5881214_zpid/
+"1006 Stoddard Drive S, Wilson, NC 27893",299900,3.0,2.0,2194.0,https://www.zillow.com//homedetails/1006-Stoddard-Rd-S-Wilson-NC-27893/107084958_zpid/
+"302 Zachary Way, Garner, NC 27529",450000,3.0,3.0,2309.0,https://www.zillow.com//homedetails/302-Zachary-Way-Garner-NC-27529/69102251_zpid/
+"6692 State Highway 401 S, Bunnlevel, NC 28323",249900,3.0,2.0,1387.0,https://www.zillow.com//homedetails/6692-State-Highway-401-S-Bunnlevel-NC-28323/443328191_zpid/
+"45 Bent Grass Cir, Hayesville, NC 28904",484900,2.0,3.0,2174.0,https://www.zillow.com//homedetails/45-Bent-Grass-Cir-Hayesville-NC-28904/249939711_zpid/
+"274 Hemlock Road, Banner Elk, NC 28604",495000,2.0,2.0,1394.0,https://www.zillow.com//homedetails/274-Hemlock-Rd-Banner-Elk-NC-28604/102338020_zpid/
+"100 Edgewater Lane, Richlands, NC 28574",210000,3.0,2.0,1551.0,https://www.zillow.com//homedetails/100-Edgewater-Ln-Richlands-NC-28574/51557416_zpid/
+"114 Spring Creek Lane, Wilmington, NC 28411",559000,3.0,2.0,2462.0,https://www.zillow.com//homedetails/114-Spring-Creek-Ln-Wilmington-NC-28411/54291194_zpid/
+"349 Gorman Bridge Rd, Asheville, NC 28806",180000,2.0,1.0,527.0,https://www.zillow.com//homedetails/349-Gorman-Bridge-Rd-Asheville-NC-28806/5604450_zpid/
+"345 Seneca Reef Drive, Hampstead, NC 28443",560000,4.0,3.0,3129.0,https://www.zillow.com//homedetails/345-Seneca-Reef-Dr-Hampstead-NC-28443/336859372_zpid/
+"226 Central Boulevard, Wilmington, NC 28401",559900,3.0,4.0,2000.0,https://www.zillow.com//homedetails/226-Central-Blvd-Wilmington-NC-28401/439194530_zpid/
+"105 Volusia Drive, North Topsail Beach, NC 28460",630000,4.0,3.0,1710.0,https://www.zillow.com//homedetails/105-Volusia-Dr-North-Topsail-Beach-NC-28460/79752256_zpid/
+"10000 Goodview Ct, Raleigh, NC 27613",650000,4.0,3.0,2390.0,https://www.zillow.com//homedetails/10000-Goodview-Ct-Raleigh-NC-27613/6514234_zpid/
+"7021 Red Bank Rd, Germanton, NC 27019",358000,3.0,2.0,1728.0,https://www.zillow.com//homedetails/7021-Red-Bank-Rd-Germanton-NC-27019/5822351_zpid/
+"7037 Hyde Park Dr, Indian Trail, NC 28079",695000,5.0,3.0,3568.0,https://www.zillow.com//homedetails/7037-Hyde-Park-Dr-Indian-Trail-NC-28079/113222401_zpid/
+"7513 Lost Tree Road, Wilmington, NC 28411",649900,5.0,3.0,2845.0,https://www.zillow.com//homedetails/7513-Lost-Tree-Rd-Wilmington-NC-28411/54289720_zpid/
+"121 North St, Creedmoor, NC 27522",309000,4.0,2.0,1654.0,https://www.zillow.com//homedetails/121-North-St-Creedmoor-NC-27522/103940358_zpid/
+"3050 Pleasant Ridge Rd, Summerfield, NC 27358",339900,5.0,3.0,2713.0,https://www.zillow.com//homedetails/3050-Pleasant-Ridge-Rd-Summerfield-NC-27358/6001315_zpid/
+"1585 Eagles Nest Rd, Waynesville, NC 28786",849000,3.0,3.0,2054.0,https://www.zillow.com//homedetails/1585-Eagles-Nest-Rd-Waynesville-NC-28786/65607275_zpid/
+"1878 Bards Drive SE, Bolivia, NC 28422",349875,3.0,2.0,1891.0,https://www.zillow.com//homedetails/1878-Bards-Dr-SE-Bolivia-NC-28422/92997908_zpid/
+"5706 Wadebridge Cv, Charlotte, NC 28210",600000,3.0,2.0,2046.0,https://www.zillow.com//homedetails/5706-Wadebridge-Cv-Charlotte-NC-28210/6259902_zpid/
+"3624 Sawyers Mill Dr, Apex, NC 27539",600000,4.0,3.0,3151.0,https://www.zillow.com//homedetails/3624-Sawyers-Mill-Dr-Apex-NC-27539/67553144_zpid/
+"13832 Cypress Woods Dr, Huntersville, NC 28078",389300,3.0,3.0,1897.0,https://www.zillow.com//homedetails/13832-Cypress-Woods-Dr-Huntersville-NC-28078/80447632_zpid/
+"613 S Fuquay Ave, Fuquay Varina, NC 27526",500000,4.0,2.0,2217.0,https://www.zillow.com//homedetails/613-S-Fuquay-Ave-Fuquay-Varina-NC-27526/50097406_zpid/
+"1222 Saint Johns Church Road, Hampstead, NC 28443",239999,3.0,2.0,1456.0,https://www.zillow.com//homedetails/1222-Saint-Johns-Church-Rd-Hampstead-NC-28443/102135900_zpid/
+"1099 Seminole Trail, Elk Park, NC 28622",950000,2.0,3.0,1804.0,https://www.zillow.com//homedetails/1099-Seminole-Trl-Elk-Park-NC-28622/102347153_zpid/
+"104 Annotto Bay Ln, Garner, NC 27529",369900,3.0,3.0,1893.0,https://www.zillow.com//homedetails/104-Annotto-Bay-Ln-Garner-NC-27529/65344744_zpid/
+"1705 Old State Highway 10, Hillsborough, NC 27278",285000,3.0,2.0,1682.0,https://www.zillow.com//homedetails/1705-Old-State-Highway-10-Hillsborough-NC-27278/50048319_zpid/
+"7670 Hickory Creek Dr #20, Denver, NC 28037",210000,4.0,2.0,1998.0,https://www.zillow.com//homedetails/7670-Hickory-Creek-Dr-20-Denver-NC-28037/442135241_zpid/
+"1101 Running Brook Rd, Midland, NC 28107",744500,3.0,3.0,3132.0,https://www.zillow.com//homedetails/1101-Running-Brook-Rd-Midland-NC-28107/5663870_zpid/
+"1009 Berry Street, Goldsboro, NC 27530",129900,3.0,2.0,1196.0,https://www.zillow.com//homedetails/1009-Berry-St-Goldsboro-NC-27530/78367523_zpid/
+"400 N Church St, Charlotte, NC",575000,-,-,-,https://www.zillow.com//b/400-north-church-charlotte-nc-5XpJtH/
+"380 Speedway Pl NW, Concord, NC 28027",425000,3.0,3.0,2052.0,https://www.zillow.com//homedetails/380-Speedway-Pl-NW-Concord-NC-28027/5675579_zpid/
+"108 Horseman Dr, Louisburg, NC 27549",95000,3.0,2.0,1450.0,https://www.zillow.com//homedetails/108-Horseman-Dr-Louisburg-NC-27549/66564571_zpid/
+"3413 Horton St, Raleigh, NC 27607",1150000,4.0,3.0,2459.0,https://www.zillow.com//homedetails/3413-Horton-St-Raleigh-NC-27607/6376101_zpid/
+"24 E Willow Trace Way, Clayton, NC 27527",295000,3.0,3.0,1616.0,https://www.zillow.com//homedetails/24-E-Willow-Trace-Way-Clayton-NC-27527/304712322_zpid/
+"2138 Revolution Park Dr, Charlotte, NC 28208",450000,4.0,2.0,1561.0,https://www.zillow.com//homedetails/2138-Revolution-Park-Dr-Charlotte-NC-28208/439579704_zpid/
+"6639 Ramsey Street, Fayetteville, NC 28311",415000,5.0,4.0,2890.0,https://www.zillow.com//homedetails/6639-Ramsey-St-Fayetteville-NC-28311/53689293_zpid/
+"223 Early St, Fayetteville, NC 28311",205000,4.0,2.0,2166.0,https://www.zillow.com//homedetails/223-Early-St-Fayetteville-NC-28311/53671623_zpid/
+"202 Wilshire Ln, Raeford, NC 28376",249899,4.0,2.0,1451.0,https://www.zillow.com//homedetails/202-Wilshire-Ln-Raeford-NC-28376/106992926_zpid/
+"340 Trout Pond Cir, Murphy, NC 28906",139000,2.0,2.0,1017.0,https://www.zillow.com//homedetails/340-Trout-Pond-Cir-Murphy-NC-28906/230502190_zpid/
+"18330 Great Smoky Mountain Expy, Waynesville, NC 28786",350000,2.0,2.0,2487.0,https://www.zillow.com//homedetails/18330-Great-Smoky-Mountain-Expy-Waynesville-NC-28786/65602684_zpid/
+"235 8th Avenue Dr SW, Hickory, NC 28602",189000,3.0,1.0,1153.0,https://www.zillow.com//homedetails/235-8th-Avenue-Dr-SW-Hickory-NC-28602/71941932_zpid/
+"3564 Hollywood Ridge Rd, Lenoir, NC 28645",165000,2.0,1.0,982.0,https://www.zillow.com//homedetails/3564-Hollywood-Ridge-Rd-Lenoir-NC-28645/69813855_zpid/
+"2305 Springhill Road, Greenville, NC 27858",139000,3.0,2.0,1550.0,https://www.zillow.com//homedetails/2305-Springhill-Rd-Greenville-NC-27858/51438724_zpid/
+"2104 Feathercombe Ct, Fayetteville, NC 28306",264900,3.0,3.0,1604.0,https://www.zillow.com//homedetails/2104-Feathercombe-Ct-Fayetteville-NC-28306/97591806_zpid/
+"82 Allen Pond Rd, Wadesboro, NC 28170",115000,3.0,3.0,1113.0,https://www.zillow.com//homedetails/82-Allen-Pond-Rd-Wadesboro-NC-28170/68705104_zpid/
+"8003 Belmont Stables Dr, Charlotte, NC 28216",385000,4.0,4.0,2015.0,https://www.zillow.com//homedetails/8003-Belmont-Stables-Dr-Charlotte-NC-28216/125831945_zpid/
+"256 Pine Ridge Rd, Mocksville, NC 27028",389000,3.0,1.0,1613.0,https://www.zillow.com//homedetails/256-Pine-Ridge-Rd-Mocksville-NC-27028/68720993_zpid/
+"3004 Redan Ct, Matthews, NC 28105",370000,3.0,2.0,1443.0,https://www.zillow.com//homedetails/3004-Redan-Ct-Matthews-NC-28105/6279418_zpid/
+"6270 Rosecroft Dr, Charlotte, NC",135000,-,-,-,"https://www.zillow.com//b/building/35.236305,-80.73338_ll/"
+"6915 Bushy Lake, Fayetteville, NC 28312",460000,5.0,4.0,2705.0,https://www.zillow.com//homedetails/6915-Bushy-Lake-Fayetteville-NC-28312/351713328_zpid/
+"816 Perry Rd, Troutman, NC 28166",325000,4.0,3.0,1728.0,https://www.zillow.com//homedetails/816-Perry-Rd-Troutman-NC-28166/443732527_zpid/
+"100 Brevard Rd, Asheville, NC 28806",499000,3.0,2.0,1302.0,https://www.zillow.com//homedetails/100-Brevard-Rd-Asheville-NC-28806/5607570_zpid/
+"724 E Nelson Ave, Wake Forest, NC 27587",380000,4.0,2.0,2191.0,https://www.zillow.com//homedetails/724-E-Nelson-Ave-Wake-Forest-NC-27587/6402324_zpid/
+"582 Durwood Evans Road, Beulaville, NC 28518",80000,3.0,2.0,1341.0,https://www.zillow.com//homedetails/582-Durwood-Evans-Rd-Beulaville-NC-28518/102103452_zpid/
+"2594 Cedar Valley Dr, Conover, NC 28613",299900,3.0,3.0,1976.0,https://www.zillow.com//homedetails/2594-Cedar-Valley-Dr-Conover-NC-28613/71594396_zpid/
+"117 Shavender Dr, Mooresville, NC 28117",869000,5.0,4.0,4203.0,https://www.zillow.com//homedetails/117-Shavender-Dr-Mooresville-NC-28117/60302230_zpid/
+"88 Pine Needles Dr, Lillington, NC 27546",250000,3.0,2.0,2103.0,https://www.zillow.com//homedetails/88-Pine-Needles-Dr-Lillington-NC-27546/71883182_zpid/
+"2191 Die Bend Rd, Murphy, NC 28906",498500,2.0,2.0,-,https://www.zillow.com//homedetails/2191-Die-Bend-Rd-Murphy-NC-28906/106956174_zpid/
+"606 Jerome Rd, Durham, NC 27713",595000,3.0,3.0,1986.0,https://www.zillow.com//homedetails/606-Jerome-Rd-Durham-NC-27713/242011681_zpid/
+"7422 Henderson Park Rd, Huntersville, NC 28078",400000,3.0,3.0,1918.0,https://www.zillow.com//homedetails/7422-Henderson-Park-Rd-Huntersville-NC-28078/6134698_zpid/
+"13931 Pine Harbor Rd, Charlotte, NC 28278",420000,3.0,3.0,2219.0,https://www.zillow.com//homedetails/13931-Pine-Harbor-Rd-Charlotte-NC-28278/6283314_zpid/
+"3216 High Ridge Rd, Charlotte, NC 28270",1075000,4.0,4.0,3001.0,https://www.zillow.com//homedetails/3216-High-Ridge-Rd-Charlotte-NC-28270/6321534_zpid/
+"293 Havenwood Ln, Murphy, NC 28906",339800,2.0,3.0,2016.0,https://www.zillow.com//homedetails/293-Havenwood-Ln-Murphy-NC-28906/230498784_zpid/
+"1112 Kitt Pl, Raleigh, NC 27610",270000,3.0,1.0,1420.0,https://www.zillow.com//homedetails/1112-Kitt-Pl-Raleigh-NC-27610/6409057_zpid/
+"214 Heather Glen Ln, Belmont, NC 28012",415000,3.0,2.0,1798.0,https://www.zillow.com//homedetails/214-Heather-Glen-Ln-Belmont-NC-28012/5901422_zpid/
+"3743 Crosland Rd, Winston Salem, NC 27106",314500,4.0,2.0,2044.0,https://www.zillow.com//homedetails/3743-Crosland-Rd-Winston-Salem-NC-27106/5789632_zpid/
+"2707 N Roxboro St, Durham, NC 27704",399400,4.0,2.0,1638.0,https://www.zillow.com//homedetails/2707-N-Roxboro-St-Durham-NC-27704/49980694_zpid/
+"705 Cedar Street, Elizabeth City, NC 27909",270000,4.0,3.0,2353.0,https://www.zillow.com//homedetails/705-Cedar-St-Elizabeth-City-NC-27909/107049252_zpid/
+"83 Oleander Ln, Sanford, NC 27332",392900,4.0,4.0,2054.0,https://www.zillow.com//homedetails/83-Oleander-Ln-Sanford-NC-27332/339886427_zpid/
+"2116 Woodhaven Rd, Charlotte, NC 28211",13950000,6.0,8.0,13919.0,https://www.zillow.com//homedetails/2116-Woodhaven-Rd-Charlotte-NC-28211/6263349_zpid/
+"138 Silver Tree Ln, Lake Lure, NC 28746",1600000,6.0,6.0,5099.0,https://www.zillow.com//homedetails/138-Silver-Tree-Ln-Lake-Lure-NC-28746/102144741_zpid/
+"1516 Pearces Rd, Zebulon, NC 27597",395000,4.0,4.0,4569.0,https://www.zillow.com//homedetails/1516-Pearces-Rd-Zebulon-NC-27597/6512359_zpid/
+"13917 Sugar Oats Ln, Charlotte, NC 28213",440000,4.0,3.0,2253.0,https://www.zillow.com//homedetails/13917-Sugar-Oats-Ln-Charlotte-NC-28213/166863732_zpid/
+"103 Section House Rd, Hickory, NC 28601",129900,2.0,1.0,1064.0,https://www.zillow.com//homedetails/103-Section-House-Rd-Hickory-NC-28601/71964669_zpid/
+"608 Hunter Street, Elizabeth City, NC 27909",225000,3.0,2.0,1431.0,https://www.zillow.com//homedetails/608-Hunter-St-Elizabeth-City-NC-27909/107051699_zpid/
+"297 Chartres St, Fuquay Varina, NC 27526",219900,2.0,2.0,888.0,https://www.zillow.com//homedetails/297-Chartres-St-Fuquay-Varina-NC-27526/443761236_zpid/
+"9523 Night Harbor Drive, Leland, NC 28451",269900,2.0,2.0,1020.0,https://www.zillow.com//homedetails/9523-Night-Harbor-Dr-Leland-NC-28451/81592498_zpid/
+"1642 Morningside Dr, Newton, NC 28658",170000,2.0,1.0,0.0,https://www.zillow.com//homedetails/1642-Morningside-Dr-Newton-NC-28658/71557319_zpid/
+"2508 Rambling Creek Rd, Apex, NC 27523",650000,4.0,4.0,3197.0,https://www.zillow.com//homedetails/2508-Rambling-Creek-Rd-Apex-NC-27523/248750298_zpid/
+"5745 Spence Farm Rd, Holly Springs, NC 27540",400000,3.0,3.0,2126.0,https://www.zillow.com//homedetails/5745-Spence-Farm-Rd-Holly-Springs-NC-27540/50106566_zpid/
+"203 Parkcanyon Ln, Cary, NC 27519",624000,4.0,3.0,2281.0,https://www.zillow.com//homedetails/203-Parkcanyon-Ln-Cary-NC-27519/6520003_zpid/
+"283 Old Christian Chapel Rd, New Hill, NC 27562",450000,7.0,1.0,3102.0,https://www.zillow.com//homedetails/283-Old-Christian-Chapel-Rd-New-Hill-NC-27562/217782875_zpid/
+"3703 Silver Ore Ln, Charlotte, NC 28216",264900,3.0,2.0,1092.0,https://www.zillow.com//homedetails/3703-Silver-Ore-Ln-Charlotte-NC-28216/64999923_zpid/
+"5300 Suntan Lake Dr, Raleigh, NC 27610",350000,3.0,3.0,1677.0,https://www.zillow.com//homedetails/5300-Suntan-Lake-Dr-Raleigh-NC-27610/60537888_zpid/
+"2980 Tram Rd, Fuquay Varina, NC 27526",285000,3.0,2.0,1675.0,https://www.zillow.com//homedetails/2980-Tram-Rd-Fuquay-Varina-NC-27526/6467891_zpid/
+"2122 Abelwood Rd, Charlotte, NC 28216",318999,3.0,2.0,1224.0,https://www.zillow.com//homedetails/2122-Abelwood-Rd-Charlotte-NC-28216/6180545_zpid/
+"1750 Kerner Rd, Kernersville, NC 27284",459900,3.0,3.0,2625.0,https://www.zillow.com//homedetails/1750-Kerner-Rd-Kernersville-NC-27284/65031749_zpid/
+"8537 Woodford Bridge Dr, Charlotte, NC 28216",324900,3.0,2.0,1540.0,https://www.zillow.com//homedetails/8537-Woodford-Bridge-Dr-Charlotte-NC-28216/6138820_zpid/
+"2124 N Hills Dr, Raleigh, NC 27612",575000,4.0,2.0,2047.0,https://www.zillow.com//homedetails/2124-N-Hills-Dr-Raleigh-NC-27612/6397889_zpid/
+"73 Petticoat Jct, Hayesville, NC 28904",210000,3.0,2.0,960.0,https://www.zillow.com//homedetails/73-Petticoat-Jct-Hayesville-NC-28904/236179754_zpid/
+"190 Heathergate Ln, Stanley, NC 28164",475000,3.0,3.0,2151.0,https://www.zillow.com//homedetails/190-Heathergate-Ln-Stanley-NC-28164/5891169_zpid/
+"92 Bailey Rd, Candler, NC 28715",205000,2.0,1.0,864.0,https://www.zillow.com//homedetails/92-Bailey-Rd-Candler-NC-28715/53165591_zpid/
+"1608 Dartmoor Ave NW, Concord, NC 28027",499000,4.0,3.0,2770.0,https://www.zillow.com//homedetails/1608-Dartmoor-Ave-NW-Concord-NC-28027/80204613_zpid/
+"100 Foch St, Fayetteville, NC 28306",155000,3.0,1.0,1685.0,https://www.zillow.com//homedetails/100-Foch-St-Fayetteville-NC-28306/53664649_zpid/
+"1310 Lamms Grove Road, Carthage, NC 28327",435900,4.0,3.0,2070.0,https://www.zillow.com//homedetails/1310-Lamms-Grove-Rd-Carthage-NC-28327/346994889_zpid/
+"4511 Hezekiah Pl, Charlotte, NC 28215",310000,3.0,2.0,1128.0,https://www.zillow.com//homedetails/4511-Hezekiah-Pl-Charlotte-NC-28215/6200650_zpid/
+"929 Arnold Road, Wilmington, NC 28412",399999,3.0,2.0,1901.0,https://www.zillow.com//homedetails/929-Arnold-Rd-Wilmington-NC-28412/54341261_zpid/
+"1316 Ann Street, Wilmington, NC 28401",269900,3.0,2.0,1162.0,https://www.zillow.com//homedetails/1316-Ann-St-Wilmington-NC-28401/54309572_zpid/
+"448 Johnson Dairy Rd, Mooresville, NC 28115",550000,2.0,2.0,1189.0,https://www.zillow.com//homedetails/448-Johnson-Dairy-Rd-Mooresville-NC-28115/6068216_zpid/
+"277 Archie Mountain Ln, Taylorsville, NC 28681",599900,3.0,3.0,2972.0,https://www.zillow.com//homedetails/277-Archie-Mountain-Ln-Taylorsville-NC-28681/113747157_zpid/
+"59 Myrtle Ave SW, Concord, NC 28025",237500,3.0,1.0,1064.0,https://www.zillow.com//homedetails/59-Myrtle-Ave-SW-Concord-NC-28025/5693885_zpid/
+"269 Ernest Brown Rd, Lillington, NC 27546",169500,3.0,2.0,1615.0,https://www.zillow.com//homedetails/269-Ernest-Brown-Rd-Lillington-NC-27546/71858526_zpid/
+"7719 Berry Crest Ave, Raleigh, NC 27617",625000,3.0,3.0,2721.0,https://www.zillow.com//homedetails/7719-Berry-Crest-Ave-Raleigh-NC-27617/81437228_zpid/
+"1609 Quail Grove St, Willow Spring, NC 27592",324900,3.0,3.0,1629.0,https://www.zillow.com//homedetails/1609-Quail-Grove-St-Willow-Spring-NC-27592/6543554_zpid/
+"9912 Mitchell Glen Dr, Charlotte, NC 28277",650000,4.0,3.0,2657.0,https://www.zillow.com//homedetails/9912-Mitchell-Glen-Dr-Charlotte-NC-28277/54500155_zpid/
+"12660 Boyce Mill Rd, Raleigh, NC 27613",8500000,7.0,11.0,13746.0,https://www.zillow.com//homedetails/12660-Boyce-Mill-Rd-Raleigh-NC-27613/114429956_zpid/
+"115 Highview Cir, Statesville, NC 28625",275000,3.0,3.0,2224.0,https://www.zillow.com//homedetails/115-Highview-Cir-Statesville-NC-28625/6092031_zpid/
+"146 Vertis Covington Road, Rockingham, NC 28379",69900,3.0,1.0,960.0,https://www.zillow.com//homedetails/146-Vertis-Covington-Rd-Rockingham-NC-28379/236430588_zpid/
+"4757 Gum Branch Road, Jacksonville, NC 28540",234900,3.0,2.0,1505.0,https://www.zillow.com//homedetails/4757-Gum-Branch-Rd-Jacksonville-NC-28540/51551184_zpid/
+"515 Lee Hy Dr, Kernersville, NC 27284",110000,3.0,2.0,1248.0,https://www.zillow.com//homedetails/515-Lee-Hy-Dr-Kernersville-NC-27284/439649499_zpid/
+"332 N Milford Dr, Salisbury, NC 28144",489900,4.0,3.0,3024.0,https://www.zillow.com//homedetails/332-N-Milford-Dr-Salisbury-NC-28144/75015450_zpid/
+"8173 State Highway 210 N, Angier, NC 27501",200,3.0,2.0,1800.0,https://www.zillow.com//homedetails/8173-State-Highway-210-N-Angier-NC-27501/71880987_zpid/
+"5909 Clarks Fork Dr, Raleigh, NC 27616",609000,5.0,3.0,3683.0,https://www.zillow.com//homedetails/5909-Clarks-Fork-Dr-Raleigh-NC-27616/60398434_zpid/
+"109 Oakland Ave, Broadway, NC 27505",174900,3.0,2.0,1829.0,https://www.zillow.com//homedetails/109-Oakland-Ave-Broadway-NC-27505/107019329_zpid/
+"1202 Roosevelt Dr, Chapel Hill, NC 27514",798900,4.0,3.0,2231.0,https://www.zillow.com//homedetails/1202-Roosevelt-Dr-Chapel-Hill-NC-27514/50039960_zpid/
+"3215 N Rockingham Rd, Greensboro, NC 27407",3000000,4.0,6.0,8415.0,https://www.zillow.com//homedetails/3215-N-Rockingham-Rd-Greensboro-NC-27407/6008754_zpid/
+"151 Cold Creek Ln #4, Marion, NC 28752",189000,3.0,2.0,0.0,https://www.zillow.com//homedetails/151-Cold-Creek-Ln-4-Marion-NC-28752/340010334_zpid/
+"6335 Byrd Rd, Mebane, NC 27302",475000,3.0,2.0,1670.0,https://www.zillow.com//homedetails/6335-Byrd-Rd-Mebane-NC-27302/442578405_zpid/
+"1970 Old Us Highway 64, Spring Hope, NC 27882",225000,3.0,2.0,1248.0,https://www.zillow.com//homedetails/1970-Old-Us-Highway-64-Spring-Hope-NC-27882/249924822_zpid/
+"445 Bill Allen Branch Rd, Burnsville, NC 28714",330000,2.0,1.0,1065.0,https://www.zillow.com//homedetails/445-Bill-Allen-Branch-Rd-Burnsville-NC-28714/233154470_zpid/
+"906 Delwood St, Sanford, NC 27330",249900,3.0,3.0,1653.0,https://www.zillow.com//homedetails/906-Delwood-St-Sanford-NC-27330/107011605_zpid/
+"2635 S Chipley Ford Rd, Statesville, NC 28625",250000,3.0,2.0,1436.0,https://www.zillow.com//homedetails/2635-S-Chipley-Ford-Rd-Statesville-NC-28625/6084023_zpid/
+"7330 Cassimir Place, Wilmington, NC 28412",350000,3.0,3.0,1838.0,https://www.zillow.com//homedetails/7330-Cassimir-Pl-Wilmington-NC-28412/54347830_zpid/
+"921 Dogwood Dr, Graham, NC 27253",250000,3.0,2.0,1454.0,https://www.zillow.com//homedetails/921-Dogwood-Dr-Graham-NC-27253/51240176_zpid/
+"109 Druid Hills Dr, Lexington, NC 27292",150000,3.0,2.0,1076.0,https://www.zillow.com//homedetails/109-Druid-Hills-Dr-Lexington-NC-27292/5728389_zpid/
+"7524 Henderson Park Rd, Huntersville, NC 28078",435000,4.0,3.0,1853.0,https://www.zillow.com//homedetails/7524-Henderson-Park-Rd-Huntersville-NC-28078/6134686_zpid/
+"261 Franks Cove Rd, Brevard, NC 28712",299000,2.0,2.0,1078.0,https://www.zillow.com//homedetails/261-Franks-Cove-Rd-Brevard-NC-28712/102289267_zpid/
+"4924 Myers Rd, Monroe, NC 28110",175000,2.0,2.0,994.0,https://www.zillow.com//homedetails/4924-Myers-Rd-Monroe-NC-28110/6349296_zpid/
+"1314 Waxhaw Indian Trail Rd S, Waxhaw, NC 28173",210000,3.0,2.0,1671.0,https://www.zillow.com//homedetails/1314-Waxhaw-Indian-Trail-Rd-S-Waxhaw-NC-28173/6345438_zpid/
+"714 S Scientific St, High Point, NC 27260",279000,3.0,2.0,1378.0,https://www.zillow.com//homedetails/714-S-Scientific-St-High-Point-NC-27260/6026911_zpid/
+"5303 Shasta Hill Ct, Charlotte, NC 28211",995000,4.0,3.0,2923.0,https://www.zillow.com//homedetails/5303-Shasta-Hill-Ct-Charlotte-NC-28211/6270806_zpid/
+"1578 Teague Meadow Ln, Winston Salem, NC 27107",457000,3.0,3.0,2162.0,https://www.zillow.com//homedetails/1578-Teague-Meadow-Ln-Winston-Salem-NC-27107/5776638_zpid/
+"2384 Okalina Ave, Winston Salem, NC 27105",150000,3.0,2.0,1421.0,https://www.zillow.com//homedetails/2384-Okalina-Ave-Winston-Salem-NC-27105/5761932_zpid/
+"6095 Glenacre Dr, Kernersville, NC 27284",409000,3.0,4.0,2853.0,https://www.zillow.com//homedetails/6095-Glenacre-Dr-Kernersville-NC-27284/5831946_zpid/
+"8820 Oneal Rd, Raleigh, NC 27613",900000,5.0,4.0,3833.0,https://www.zillow.com//homedetails/8820-Oneal-Rd-Raleigh-NC-27613/6417509_zpid/
+"210 Carpenter St, Gastonia, NC 28054",120000,2.0,1.0,0.0,https://www.zillow.com//homedetails/210-Carpenter-St-Gastonia-NC-28054/70501804_zpid/
+"675 Sink Lake Rd, High Point, NC 27265",187000,3.0,2.0,1582.0,https://www.zillow.com//homedetails/675-Sink-Lake-Rd-High-Point-NC-27265/53134032_zpid/
+"1817 Center St, Winston Salem, NC 27127",189800,3.0,1.0,1354.0,https://www.zillow.com//homedetails/1817-Center-St-Winston-Salem-NC-27127/5752853_zpid/
+"75 Red Fox Ln, Franklin, NC 28734",174900,3.0,2.0,1000.0,https://www.zillow.com//homedetails/75-Red-Fox-Ln-Franklin-NC-28734/65658289_zpid/
+"3811 Bison Hill Ln, Raleigh, NC 27604",275000,3.0,3.0,1421.0,https://www.zillow.com//homedetails/3811-Bison-Hill-Ln-Raleigh-NC-27604/80200779_zpid/
+"202 S 18th St, Erwin, NC 28339",199000,3.0,2.0,1269.0,https://www.zillow.com//homedetails/202-S-18th-St-Erwin-NC-28339/71872311_zpid/
+"19125 Peninsula Point Dr, Cornelius, NC 28031",17895000,6.0,9.0,12002.0,https://www.zillow.com//homedetails/19125-Peninsula-Point-Dr-Cornelius-NC-28031/6124397_zpid/
+"50224 Snug Harbor Dr LOT 271, Frisco, NC 27936",699000,4.0,3.0,2609.0,https://www.zillow.com//homedetails/50224-Snug-Harbor-Dr-LOT-271-Frisco-NC-27936/2076501255_zpid/
+"120 Willowbrook Drive, Pikeville, NC 27863",270000,3.0,2.0,1441.0,https://www.zillow.com//homedetails/120-Willowbrook-Dr-Pikeville-NC-27863/224175101_zpid/
+"54 Big Bear Dr, Pisgah Forest, NC 28768",145000,2.0,1.0,889.0,https://www.zillow.com//homedetails/54-Big-Bear-Dr-Pisgah-Forest-NC-28768/102313936_zpid/
+"1738 Burton St, Winston Salem, NC 27105",175000,3.0,2.0,1205.0,https://www.zillow.com//homedetails/1738-Burton-St-Winston-Salem-NC-27105/117618266_zpid/
+"3969 Carbonton Rd, Sanford, NC 27330",325000,3.0,2.0,1831.0,https://www.zillow.com//homedetails/3969-Carbonton-Rd-Sanford-NC-27330/107004492_zpid/
+"2664 Charles Teague Pl, Lenoir, NC 28645",189900,3.0,2.0,1413.0,https://www.zillow.com//homedetails/2664-Charles-Teague-Pl-Lenoir-NC-28645/70088747_zpid/
+"5717 Pine Street NE, Winnabow, NC 28479",199000,4.0,2.0,2035.0,https://www.zillow.com//homedetails/5717-Pine-St-NE-Winnabow-NC-28479/78267448_zpid/
+"117 S Discovery St, Rocky Mount, NC 27801",89950,3.0,2.0,2047.0,https://www.zillow.com//homedetails/117-S-Discovery-St-Rocky-Mount-NC-27801/68677417_zpid/
+"673 Cape Hickory Rd, Hickory, NC 28601",399900,4.0,2.0,2827.0,https://www.zillow.com//homedetails/673-Cape-Hickory-Rd-Hickory-NC-28601/227267204_zpid/
+"5126 Misty Ln, Oxford, NC 27565",549900,4.0,3.0,3000.0,https://www.zillow.com//homedetails/5126-Misty-Ln-Oxford-NC-27565/86678261_zpid/
+"625 Green Willow Cir, Wendell, NC 27591",419900,4.0,3.0,2260.0,https://www.zillow.com//homedetails/625-Green-Willow-Cir-Wendell-NC-27591/6430132_zpid/
+"10080 S Chicken Rd, Fairmont, NC 28340",169999,3.0,3.0,2747.0,https://www.zillow.com//homedetails/10080-S-Chicken-Rd-Fairmont-NC-28340/118978971_zpid/
+"3520 Courtland Dr, Durham, NC 27707",440000,3.0,2.0,1449.0,https://www.zillow.com//homedetails/3520-Courtland-Dr-Durham-NC-27707/49991425_zpid/
+"701 Scotts Ridge Trl, Apex, NC 27502",599900,4.0,4.0,2464.0,https://www.zillow.com//homedetails/701-Scotts-Ridge-Trl-Apex-NC-27502/53456334_zpid/
+"1916 Elmwood Dr, Gastonia, NC 28054",250000,3.0,3.0,1589.0,https://www.zillow.com//homedetails/1916-Elmwood-Dr-Gastonia-NC-28054/5854305_zpid/
+"266 Bowlick Lane, Elk Park, NC 28622",299000,2.0,2.0,1506.0,https://www.zillow.com//homedetails/266-Bowlick-Ln-Elk-Park-NC-28622/430993646_zpid/
+"651 Fowler Manning Road, Richlands, NC 28574",239000,3.0,2.0,2117.0,https://www.zillow.com//homedetails/651-Fowler-Manning-Rd-Richlands-NC-28574/199867837_zpid/
+"115 Cheviot Dr, Kernersville, NC 27284",349900,4.0,3.0,2195.0,https://www.zillow.com//homedetails/115-Cheviot-Dr-Kernersville-NC-27284/5837584_zpid/
+"5422 Glen Forest Dr, Charlotte, NC 28226",799900,4.0,3.0,2533.0,https://www.zillow.com//homedetails/5422-Glen-Forest-Dr-Charlotte-NC-28226/65010175_zpid/
+"7001 Starvalley Dr, Charlotte, NC 28210",560000,3.0,2.0,1300.0,https://www.zillow.com//homedetails/7001-Starvalley-Dr-Charlotte-NC-28210/6260756_zpid/
+"1292 McKinney Mine Rd, Spruce Pine, NC 28777",199900,3.0,2.0,2495.0,https://www.zillow.com//homedetails/1292-McKinney-Mine-Rd-Spruce-Pine-NC-28777/114815068_zpid/
+"410 Sierra Drive, Wilmington, NC 28409",450000,3.0,2.0,1492.0,https://www.zillow.com//homedetails/410-Sierra-Dr-Wilmington-NC-28409/54338700_zpid/
+"1816 Center Ridge Dr, Apex, NC 27502",1500000,5.0,6.0,5023.0,https://www.zillow.com//homedetails/1816-Center-Ridge-Dr-Apex-NC-27502/248755060_zpid/
+"1024 8th St, Statesville, NC 28677",245000,5.0,2.0,1663.0,https://www.zillow.com//homedetails/1024-8th-St-Statesville-NC-28677/6081899_zpid/
+"452 W Huckleberry Way, Rocky Point, NC 28457",399000,4.0,3.0,2033.0,https://www.zillow.com//homedetails/452-W-Huckleberry-Way-Rocky-Point-NC-28457/250382398_zpid/
+"3105 Hanging Dog Rd, Murphy, NC 28906",147500,3.0,2.0,1033.0,https://www.zillow.com//homedetails/3105-Hanging-Dog-Rd-Murphy-NC-28906/106958614_zpid/
+"6102 Joshua Tree Ct, Charlotte, NC 28227",336000,3.0,3.0,1584.0,https://www.zillow.com//homedetails/6102-Joshua-Tree-Ct-Charlotte-NC-28227/6211169_zpid/
+"811 Markham Rd, Tryon, NC 28782",125000,2.0,2.0,1177.0,https://www.zillow.com//homedetails/811-Markham-Rd-Tryon-NC-28782/232564473_zpid/
+"200 Little Big Horn Dr, Dallas, NC 28034",249900,2.0,2.0,1746.0,https://www.zillow.com//homedetails/200-Little-Big-Horn-Dr-Dallas-NC-28034/5888431_zpid/
+"1890 Rhyne Land Rd, Lincolnton, NC 28092",299900,3.0,2.0,1712.0,https://www.zillow.com//homedetails/1890-Rhyne-Land-Rd-Lincolnton-NC-28092/6111464_zpid/
+"2900 Chellowe Court, Winterville, NC 28590",232000,3.0,2.0,1377.0,https://www.zillow.com//homedetails/2900-Chellowe-Ct-Winterville-NC-28590/102238110_zpid/
+"1819 Robbie Ct, Graham, NC 27253",340000,3.0,2.0,1633.0,https://www.zillow.com//homedetails/1819-Robbie-Ct-Graham-NC-27253/51238806_zpid/
+"3004 Ridge Ave, Charlotte, NC 28208",290000,4.0,2.0,1250.0,https://www.zillow.com//homedetails/3004-Ridge-Ave-Charlotte-NC-28208/6239868_zpid/
+"184 Porch View Dr, Sylva, NC 28779",750000,5.0,3.0,-,https://www.zillow.com//homedetails/184-Porch-View-Dr-Sylva-NC-28779/84720712_zpid/
+"260 S Rocky River Rd, Sanford, NC 27330",150000,2.0,1.0,932.0,https://www.zillow.com//homedetails/260-S-Rocky-River-Rd-Sanford-NC-27330/440534358_zpid/
+"66 Hardy Rd, Wendell, NC 27591",350000,3.0,2.0,1559.0,https://www.zillow.com//homedetails/66-Hardy-Rd-Wendell-NC-27591/69098339_zpid/
+"220 Aldridge Ln, Archdale, NC 27263",299000,3.0,3.0,1808.0,https://www.zillow.com//homedetails/220-Aldridge-Ln-Archdale-NC-27263/50078451_zpid/
+"1912 Garner Glen Dr, Raleigh, NC 27603",310000,3.0,2.0,1300.0,https://www.zillow.com//homedetails/1912-Garner-Glen-Dr-Raleigh-NC-27603/6393650_zpid/
+"4182 Duff Dr, Hudson, NC 28638",239900,4.0,3.0,2481.0,https://www.zillow.com//homedetails/4182-Duff-Dr-Hudson-NC-28638/70079480_zpid/
+"44339 Us Highway 52 N, Richfield, NC 28137",375000,3.0,2.0,1784.0,https://www.zillow.com//homedetails/44339-Us-Highway-52-N-Richfield-NC-28137/71396166_zpid/
+"80 Waynes Ln, Middlesex, NC 27557",224900,3.0,2.0,1155.0,https://www.zillow.com//homedetails/80-Waynes-Ln-Middlesex-NC-27557/442612602_zpid/
+"472 Picadilly Ln, Troutman, NC 28166",273000,3.0,3.0,1435.0,https://www.zillow.com//homedetails/472-Picadilly-Ln-Troutman-NC-28166/440960363_zpid/
+"2660 Shiloh Dr, Winston Salem, NC 27106",174500,3.0,2.0,1667.0,https://www.zillow.com//homedetails/2660-Shiloh-Dr-Winston-Salem-NC-27106/5788917_zpid/
+"5329 Thistlebrook Ct, Raleigh, NC 27610",345000,3.0,2.0,1872.0,https://www.zillow.com//homedetails/5329-Thistlebrook-Ct-Raleigh-NC-27610/6487197_zpid/
+"3701 Castlegate Dr, Raleigh, NC 27616",259900,2.0,2.0,912.0,https://www.zillow.com//homedetails/3701-Castlegate-Dr-Raleigh-NC-27616/6508347_zpid/
+"9845 Swamp Fox Highway E, Tabor City, NC 28463",199900,3.0,2.0,1800.0,https://www.zillow.com//homedetails/9845-Swamp-Fox-Hwy-E-Tabor-City-NC-28463/225686555_zpid/
+"5126 Blakeshire Rd, Greensboro, NC 27406",699900,3.0,3.0,3678.0,https://www.zillow.com//homedetails/5126-Blakeshire-Rd-Greensboro-NC-27406/5982576_zpid/
+"2185 Bayside Street SW, Supply, NC 28462",287900,4.0,3.0,1852.0,https://www.zillow.com//homedetails/2185-Bayside-St-SW-Supply-NC-28462/84168638_zpid/
+"600 S Chapel St, Landis, NC 28088",199000,3.0,2.0,1550.0,https://www.zillow.com//homedetails/600-S-Chapel-St-Landis-NC-28088/75010117_zpid/
+"413 Raleigh Avenue, Carolina Beach, NC 28428",459900,2.0,2.0,800.0,https://www.zillow.com//homedetails/413-Raleigh-Ave-Carolina-Beach-NC-28428/54351951_zpid/
+"1497 Secluded Valley Rd, Marshall, NC 28753",299000,2.0,2.0,1073.0,https://www.zillow.com//homedetails/1497-Secluded-Valley-Rd-Marshall-NC-28753/233616198_zpid/
+"4413 Old Colony Rd, Raleigh, NC 27613",419900,4.0,3.0,2004.0,https://www.zillow.com//homedetails/4413-Old-Colony-Rd-Raleigh-NC-27613/6446692_zpid/
+"4 Brae Burn Dr, Arden, NC 28704",450000,4.0,3.0,3187.0,https://www.zillow.com//homedetails/4-Brae-Burn-Dr-Arden-NC-28704/5625592_zpid/
+"348 Laurelwood Lane, Boone, NC 28607",350000,2.0,3.0,882.0,https://www.zillow.com//homedetails/348-Laurelwood-Ln-Boone-NC-28607/402474743_zpid/
+"3612 Ladywood Ct, Raleigh, NC 27616",334900,3.0,2.0,1440.0,https://www.zillow.com//homedetails/3612-Ladywood-Ct-Raleigh-NC-27616/6488720_zpid/
+"102 Northwinds North Dr, Wendell, NC 27591",275000,3.0,2.0,1191.0,https://www.zillow.com//homedetails/102-Northwinds-North-Dr-Wendell-NC-27591/6550610_zpid/
+"1738 Firetower Rd, Louisburg, NC 27549",495000,3.0,2.0,2433.0,https://www.zillow.com//homedetails/1738-Firetower-Rd-Louisburg-NC-27549/49957019_zpid/
+"3639 Nc 43 Hy N, Greenville, NC 27834",269500,4.0,2.0,2527.0,https://www.zillow.com//homedetails/3639-State-Highway-43-N-Greenville-NC-27834/51443927_zpid/
+"645 Line Rd, Cameron, NC 28326",249990,3.0,2.0,1558.0,https://www.zillow.com//homedetails/645-Line-Rd-Cameron-NC-28326/71895341_zpid/
+"415 Wayfield Ln, Cary, NC 27518",949000,4.0,4.0,4068.0,https://www.zillow.com//homedetails/415-Wayfield-Ln-Cary-NC-27518/53457518_zpid/
+"207 Camden Park Drive, Goldsboro, NC 27530",289900,3.0,2.0,1698.0,https://www.zillow.com//homedetails/207-Camden-Park-Dr-Goldsboro-NC-27530/224170766_zpid/
+"507 Courtney Ln, Canton, NC 28716",200000,2.0,2.0,1120.0,https://www.zillow.com//homedetails/507-Courtney-Ln-Canton-NC-28716/65668184_zpid/
+"257 Morning Mist Dr, Boomer, NC 28606",349900,3.0,2.0,1731.0,https://www.zillow.com//homedetails/257-Morning-Mist-Dr-Boomer-NC-28606/248813139_zpid/
+"1755 N Main St, China Grove, NC 28023",240000,2.0,2.0,958.0,https://www.zillow.com//homedetails/1755-N-Main-St-China-Grove-NC-28023/75004561_zpid/
+"104 Barbee Rd SW, Concord, NC 28027",250000,3.0,2.0,1020.0,https://www.zillow.com//homedetails/104-Barbee-Rd-SW-Concord-NC-28027/5662513_zpid/
+"308 Trimble Ave, Cary, NC 27511",499999,3.0,3.0,2048.0,https://www.zillow.com//homedetails/308-Trimble-Ave-Cary-NC-27511/6506937_zpid/
+"4737 Oakview Drive SE, Southport, NC 28461",250000,3.0,2.0,1343.0,https://www.zillow.com//homedetails/4737-Oakview-Dr-SE-Southport-NC-28461/78253254_zpid/
+"4827 Camilla Dr, Charlotte, NC 28226",2499999,6.0,8.0,6964.0,https://www.zillow.com//homedetails/4827-Camilla-Dr-Charlotte-NC-28226/6295167_zpid/
+"2717 Madison Oaks Ct, Charlotte, NC 28226",1175000,6.0,5.0,5359.0,https://www.zillow.com//homedetails/2717-Madison-Oaks-Ct-Charlotte-NC-28226/80467893_zpid/
+"1208 Turnstone Drive, Rocky Mount, NC 27803",242900,3.0,3.0,1489.0,https://www.zillow.com//homedetails/1208-Turnstone-Dr-Rocky-Mount-NC-27803/75000192_zpid/
+"182 Clayton St, Winston Salem, NC 27105",194800,3.0,3.0,3068.0,https://www.zillow.com//homedetails/182-Clayton-St-Winston-Salem-NC-27105/5764512_zpid/
+"7901 Tulip Cir, Raleigh, NC 27606",702000,5.0,3.0,4112.0,https://www.zillow.com//homedetails/7901-Tulip-Cir-Raleigh-NC-27606/6465007_zpid/
+"931 E 21st St, Winston Salem, NC 27105",235000,3.0,2.0,1316.0,https://www.zillow.com//homedetails/931-E-21st-St-Winston-Salem-NC-27105/249361434_zpid/
+"28 Forest Lake Cir, Greensboro, NC 27407",379000,3.0,3.0,2658.0,https://www.zillow.com//homedetails/28-Forest-Lake-Cir-Greensboro-NC-27407/5969471_zpid/
+"374 Mills Gap Rd, Fletcher, NC 28732",365000,3.0,2.0,1427.0,https://www.zillow.com//homedetails/374-Mills-Gap-Rd-Fletcher-NC-28732/440814557_zpid/
+"6104 Howards Creek Road, Boone, NC 28607",449900,2.0,1.0,922.0,https://www.zillow.com//homedetails/6104-Howards-Creek-Rd-Boone-NC-28607/102351249_zpid/
+"166 Wallace Road, Beaufort, NC 28516",524900,2.0,2.0,1584.0,https://www.zillow.com//homedetails/166-Wallace-Rd-Beaufort-NC-28516/101992343_zpid/
+"116 Drew Ct, Clayton, NC 27520",330000,3.0,2.0,1305.0,https://www.zillow.com//homedetails/116-Drew-Ct-Clayton-NC-27520/69099155_zpid/
+"1915 Wedgedale Dr, Charlotte, NC 28210",639000,3.0,2.0,1820.0,https://www.zillow.com//homedetails/1915-Wedgedale-Dr-Charlotte-NC-28210/6259459_zpid/
+"1507 Rosewood St, Durham, NC 27701",330000,4.0,3.0,2906.0,https://www.zillow.com//homedetails/1507-Rosewood-St-Durham-NC-27701/49979119_zpid/
+"438 Old Merry Hill Road, Merry Hill, NC 27957",85000,4.0,2.0,1612.0,https://www.zillow.com//homedetails/438-Old-Merry-Hill-Rd-Merry-Hill-NC-27957/235574060_zpid/
+"154 Deer Run Rd, Canton, NC 28716",415000,2.0,3.0,1950.0,https://www.zillow.com//homedetails/154-Deer-Run-Rd-Canton-NC-28716/65617849_zpid/
+"17929 Pages Pond Ct, Davidson, NC 28036",838000,4.0,4.0,3372.0,https://www.zillow.com//homedetails/17929-Pages-Pond-Ct-Davidson-NC-28036/6128746_zpid/
+"2212 Weybridge Dr, Raleigh, NC 27615",850000,4.0,3.0,3250.0,https://www.zillow.com//homedetails/2212-Weybridge-Dr-Raleigh-NC-27615/6459580_zpid/
+"698 Lava Trl, Fayetteville, NC 28311",154999,3.0,2.0,1278.0,https://www.zillow.com//homedetails/698-Lava-Trl-Fayetteville-NC-28311/53686315_zpid/
+"12561 Talon Drive, Zebulon, NC 27597",249900,4.0,2.0,2105.0,https://www.zillow.com//homedetails/12561-Talon-Dr-Zebulon-NC-27597/74985634_zpid/
+"180 Four Andrews Dr, Harmony, NC 28634",245000,4.0,3.0,1841.0,https://www.zillow.com//homedetails/180-Four-Andrews-Dr-Harmony-NC-28634/196800763_zpid/
+"309 N Elm St, Marshville, NC 28103",175000,4.0,3.0,2370.0,https://www.zillow.com//homedetails/309-N-Elm-St-Marshville-NC-28103/6334707_zpid/
+"164 Great Neck Road, Havelock, NC 28532",549000,3.0,3.0,1996.0,https://www.zillow.com//homedetails/164-Great-Neck-Rd-Havelock-NC-28532/78295017_zpid/
+"2101 Darian Way, Waxhaw, NC 28173",825000,5.0,4.0,4587.0,https://www.zillow.com//homedetails/2101-Darian-Way-Waxhaw-NC-28173/117890884_zpid/
+"340 LAUREL PARK Road, Blowing Rock, NC 28605",13975000,5.0,7.0,8196.0,https://www.zillow.com//homedetails/340-Laurel-Park-Rd-Blowing-Rock-NC-28605/102347656_zpid/
+"7613 Rolling Meadows Ln, Huntersville, NC 28078",350000,3.0,3.0,1421.0,https://www.zillow.com//homedetails/7613-Rolling-Meadows-Ln-Huntersville-NC-28078/65003437_zpid/
+"685 Shumont Rd, Black Mountain, NC 28711",250000,2.0,1.0,576.0,https://www.zillow.com//homedetails/685-Shumont-Rd-Black-Mountain-NC-28711/5590682_zpid/
+"510 S Hoyle St, Dallas, NC 28034",159900,3.0,2.0,1040.0,https://www.zillow.com//homedetails/510-S-Hoyle-St-Dallas-NC-28034/440822942_zpid/
+"2930 Silkstream Ln, Charlotte, NC 28262",318000,3.0,2.0,1558.0,https://www.zillow.com//homedetails/2930-Silkstream-Ln-Charlotte-NC-28262/6165972_zpid/
+"315 Dusty Holw, Bostic, NC 28018",79900,3.0,1.0,924.0,https://www.zillow.com//homedetails/315-Dusty-Holw-Bostic-NC-28018/102226031_zpid/
+"2925 Coachway Dr, Fayetteville, NC 28306",259900,4.0,2.0,1550.0,https://www.zillow.com//homedetails/2925-Coachway-Dr-Fayetteville-NC-28306/53702054_zpid/
+"210 Sea Manor Drive, Surf City, NC 28445",849000,4.0,3.0,2050.0,https://www.zillow.com//homedetails/210-Sea-Manor-Dr-Surf-City-NC-28445/102129179_zpid/
+"513 2nd St, Spencer, NC 28159",200000,5.0,2.0,2584.0,https://www.zillow.com//homedetails/513-2nd-St-Spencer-NC-28159/75016516_zpid/
+"210 Preston Pines Dr, Cary, NC 27513",711000,4.0,3.0,2400.0,https://www.zillow.com//homedetails/210-Preston-Pines-Dr-Cary-NC-27513/6518240_zpid/
+"6916 Bill Poole Rd, Rougemont, NC 27572",500000,4.0,3.0,1900.0,https://www.zillow.com//homedetails/6916-Bill-Poole-Rd-Rougemont-NC-27572/251693007_zpid/
+"24 Manito Pl, Clayton, NC 27520",289000,3.0,3.0,1578.0,https://www.zillow.com//homedetails/24-Manito-Pl-Clayton-NC-27520/250040154_zpid/
+"304 Hardwood Ridge Ct, Clayton, NC 27520",390000,3.0,3.0,1554.0,https://www.zillow.com//homedetails/304-Hardwood-Ridge-Ct-Clayton-NC-27520/6450035_zpid/
+"475 Whispering Springs Ln, Topton, NC 28781",195000,3.0,2.0,2300.0,https://www.zillow.com//homedetails/475-Whispering-Springs-Ln-Topton-NC-28781/65656670_zpid/
+"4762 Polk Ford Rd, Stanfield, NC 28163",288900,3.0,2.0,1750.0,https://www.zillow.com//homedetails/4762-Polk-Ford-Rd-Stanfield-NC-28163/71395324_zpid/
+"3641 Meadow Creek Ln, Raleigh, NC 27616",290000,3.0,2.0,1308.0,https://www.zillow.com//homedetails/3641-Meadow-Creek-Ln-Raleigh-NC-27616/6500624_zpid/
+"5814 Valhalla Ct, Fayetteville, NC 28304",240000,3.0,2.0,1578.0,https://www.zillow.com//homedetails/5814-Valhalla-Ct-Fayetteville-NC-28304/53621618_zpid/
+"455 New Haw Creek Rd, Asheville City, NC 28805",435000,3.0,2.0,1120.0,https://www.zillow.com//homedetails/455-New-Haw-Creek-Rd-Asheville-City-NC-28805/5623111_zpid/
+"2505 Friendly Trl, Raleigh, NC 27610",310000,4.0,2.0,1611.0,https://www.zillow.com//homedetails/2505-Friendly-Trl-Raleigh-NC-27610/6425184_zpid/
+"125 Butterfly Creek Drive, Seven Springs, NC 28578",699900,3.0,3.0,3066.0,https://www.zillow.com//homedetails/125-Butterfly-Creek-Dr-Seven-Springs-NC-28578/224148621_zpid/
+"110 Luangthep Ln, Statesville, NC 28625",169900,4.0,2.0,1944.0,https://www.zillow.com//homedetails/110-Luangthep-Ln-Statesville-NC-28625/60305682_zpid/
+"105 Ridgewood Court, Jacksonville, NC 28546",315000,4.0,3.0,2244.0,https://www.zillow.com//homedetails/105-Ridgewood-Ct-Jacksonville-NC-28546/60827103_zpid/
+"507 Reeves Ave, Albemarle, NC 28001",225000,3.0,2.0,1359.0,https://www.zillow.com//homedetails/507-Reeves-Ave-Albemarle-NC-28001/71401707_zpid/
+"5336 Covington Cross Dr, Knightdale, NC 27545",289500,3.0,2.0,1216.0,https://www.zillow.com//homedetails/5336-Covington-Cross-Dr-Knightdale-NC-27545/6554883_zpid/
+"725 Lightspun Ln, Charlotte, NC 28216",213500,3.0,1.0,1000.0,https://www.zillow.com//homedetails/725-Lightspun-Ln-Charlotte-NC-28216/6156525_zpid/
+"574 Cat Square Rd, Lincolnton, NC 28092",269900,2.0,2.0,1321.0,https://www.zillow.com//homedetails/574-Cat-Square-Rd-Lincolnton-NC-28092/6104824_zpid/
+"3107 Farmington Dr, Greensboro, NC 27407",259000,3.0,2.0,1529.0,https://www.zillow.com//homedetails/3107-Farmington-Dr-Greensboro-NC-27407/5936580_zpid/
+"216 Foxcroft Road, Southport, NC 28461",239900,3.0,3.0,1610.0,https://www.zillow.com//homedetails/216-Foxcroft-Rd-Southport-NC-28461/81583989_zpid/
+"9435 Squirrel Hollow Ln, Charlotte, NC 28270",725000,4.0,3.0,2648.0,https://www.zillow.com//homedetails/9435-Squirrel-Hollow-Ln-Charlotte-NC-28270/6321766_zpid/
+"107 Maurice St, Monroe, NC 28112",293000,4.0,3.0,2294.0,https://www.zillow.com//homedetails/107-Maurice-St-Monroe-NC-28112/6367905_zpid/
+"117 Wilson Run, Bunnlevel, NC 28323",235000,3.0,2.0,1284.0,https://www.zillow.com//homedetails/117-Wilson-Run-Bunnlevel-NC-28323/71859235_zpid/
+"5311 Fairground Rd, Dunn, NC 28334",499900,4.0,4.0,4323.0,https://www.zillow.com//homedetails/5311-Fairground-Rd-Dunn-NC-28334/82174744_zpid/
+"5600 W Chop Way, Wilmington, NC 28412",377500,3.0,2.0,1511.0,https://www.zillow.com//homedetails/5600-W-Chop-Way-Wilmington-NC-28412/54341635_zpid/
+"3108 Eric St, Willow Spring, NC 27592",337000,3.0,3.0,1597.0,https://www.zillow.com//homedetails/3108-Eric-St-Willow-Spring-NC-27592/50104142_zpid/
+"2824 N Brevard St, Charlotte, NC 28205",549900,-,-,-,https://www.zillow.com//homedetails/2824-N-Brevard-St-Charlotte-NC-28205/6188159_zpid/
+"70 McNichol Ct, Clayton, NC 27520",390000,3.0,2.0,1675.0,https://www.zillow.com//homedetails/70-McNichol-Ct-Clayton-NC-27520/69113950_zpid/
+"15 S Indiancreek Pl, Durham, NC 27703",334900,3.0,3.0,1782.0,https://www.zillow.com//homedetails/15-S-Indiancreek-Pl-Durham-NC-27703/50011892_zpid/
+"301 Bear Track Lane UNIT 25, Lenoir, NC 28645",79000,-,-,-,https://www.zillow.com//homedetails/301-Bear-Track-Ln-25-Lenoir-NC-28645/439967023_zpid/
+"432 Park Ave, Salisbury, NC 28144",269000,6.0,2.0,4330.0,https://www.zillow.com//homedetails/432-Park-Ave-Salisbury-NC-28144/203741721_zpid/
+"2080 Ranger Rd, Murphy, NC 28906",160000,2.0,1.0,900.0,https://www.zillow.com//homedetails/2080-Ranger-Rd-Murphy-NC-28906/230505611_zpid/
+"1016 Atherton Dr, Indian Trail, NC 28079",774900,5.0,5.0,3601.0,https://www.zillow.com//homedetails/1016-Atherton-Dr-Indian-Trail-NC-28079/125116504_zpid/
+"8816 Knights Union Way, Wake Forest, NC 27587",700000,4.0,3.0,3500.0,https://www.zillow.com//homedetails/8816-Knights-Union-Way-Wake-Forest-NC-27587/215486968_zpid/
+"3102 Williams Station Road, Matthews, NC 28105",549000,5.0,4.0,2922.0,https://www.zillow.com//homedetails/3102-Williams-Station-Rd-Matthews-NC-28105/63813991_zpid/
+"2124 Caleo Cir, Charlotte, NC 28270",525000,4.0,3.0,3028.0,https://www.zillow.com//homedetails/2124-Caleo-Cir-Charlotte-NC-28270/2074099664_zpid/
+"3123 Windsor Dr, Charlotte, NC 28209",1500000,4.0,3.0,3005.0,https://www.zillow.com//homedetails/3123-Windsor-Dr-Charlotte-NC-28209/6263586_zpid/
+"18 Abbottsford Drive, Pinehurst, NC 28374",889000,4.0,4.0,4242.0,https://www.zillow.com//homedetails/18-Abbottsford-Dr-Pinehurst-NC-28374/74961046_zpid/
+"732 N Pleasant Coates Rd, Benson, NC 27504",272500,3.0,2.0,1152.0,https://www.zillow.com//homedetails/732-N-Pleasant-Coates-Rd-Benson-NC-27504/69100410_zpid/
+"8049 Serendipity Ln, Charlotte, NC 28277",525000,3.0,3.0,2098.0,https://www.zillow.com//homedetails/8049-Serendipity-Ln-Charlotte-NC-28277/6317960_zpid/
+"2523 Carya Pond Ln, Charlotte, NC 28212",194000,2.0,2.0,1149.0,https://www.zillow.com//homedetails/2523-Carya-Pond-Ln-Charlotte-NC-28212/65008254_zpid/
+"712 Country Club Road, Jacksonville, NC 28546",229900,3.0,2.0,1752.0,https://www.zillow.com//homedetails/712-Country-Club-Rd-Jacksonville-NC-28546/51556906_zpid/
+"213 Mill Creek Dr, Youngsville, NC 27596",285000,3.0,2.0,1000.0,https://www.zillow.com//homedetails/213-Mill-Creek-Dr-Youngsville-NC-27596/58354600_zpid/
+"7167 Farm Loop Path SW, Sunset Beach, NC 28468",325000,4.0,2.0,1739.0,https://www.zillow.com//homedetails/7167-Farm-Loop-Path-SW-Sunset-Beach-NC-28468/78218845_zpid/
+"78 & 126 Mountain Magnolia Dr, Leicester, NC 28748",89111,-,-,-,https://www.zillow.com//homedetails/78-126-Mountain-Magnolia-Dr-Leicester-NC-28748/2053645358_zpid/
+"208 Webb Street, Hertford, NC 27944",265000,2.0,2.0,1872.0,https://www.zillow.com//homedetails/208-Webb-St-Hertford-NC-27944/116101132_zpid/
+"106 Dunbar Lane, Jacksonville, NC 28540",299999,4.0,3.0,1904.0,https://www.zillow.com//homedetails/106-Dunbar-Ln-Jacksonville-NC-28540/51563853_zpid/
+"4165 54th Ave NE, Hickory, NC 28601",2275000,4.0,6.0,7251.0,https://www.zillow.com//homedetails/4165-54th-Ave-NE-Hickory-NC-28601/71960016_zpid/
+"114 Whitetail Ct, Raeford, NC 28376",249900,3.0,2.0,1472.0,https://www.zillow.com//homedetails/114-Whitetail-Ct-Raeford-NC-28376/248368514_zpid/
+"906 E Main St, Plymouth, NC 27962",185000,3.0,2.0,2061.0,https://www.zillow.com//homedetails/906-E-Main-St-Plymouth-NC-27962/107066702_zpid/
+"17 Moonlight Trl, Bryson City, NC 28713",293000,2.0,2.0,1074.0,https://www.zillow.com//homedetails/17-Moonlight-Trl-Bryson-City-NC-28713/107060205_zpid/
+"6701 1st Ave, Indian Trail, NC 28079",324900,3.0,2.0,1244.0,https://www.zillow.com//homedetails/6701-1st-Ave-Indian-Trail-NC-28079/6351456_zpid/
+"1425 Sky Vista Way, Raleigh, NC 27613",4750000,5.0,7.0,8859.0,https://www.zillow.com//homedetails/1425-Sky-Vista-Way-Raleigh-NC-27613/336860484_zpid/
+"4508 Southport Rd, Greensboro, NC 27410",309900,3.0,3.0,2041.0,https://www.zillow.com//homedetails/4508-Southport-Rd-Greensboro-NC-27410/6003633_zpid/
+"12 Goodwill St, Asheville, NC 28806",250000,2.0,1.0,729.0,https://www.zillow.com//homedetails/12-Goodwill-St-Asheville-NC-28806/5610078_zpid/
+"5205 Rembert Dr, Raleigh, NC 27612",649000,3.0,3.0,2775.0,https://www.zillow.com//homedetails/5205-Rembert-Dr-Raleigh-NC-27612/6413068_zpid/
+"5321 Silas Creek Pkwy, Winston Salem, NC 27106",319000,4.0,3.0,2894.0,https://www.zillow.com//homedetails/5321-Silas-Creek-Pkwy-Winston-Salem-NC-27106/5773855_zpid/
+"204 Mingocrest Dr, Knightdale, NC 27545",349900,3.0,3.0,1528.0,https://www.zillow.com//homedetails/204-Mingocrest-Dr-Knightdale-NC-27545/53455299_zpid/
+"1104 Lombar St, Raleigh, NC 27610",369900,4.0,3.0,2017.0,https://www.zillow.com//homedetails/1104-Lombar-St-Raleigh-NC-27610/81748146_zpid/
+"3809 Avalon Ave, Charlotte, NC 28208",289900,4.0,2.0,2976.0,https://www.zillow.com//homedetails/3809-Avalon-Ave-Charlotte-NC-28208/6176900_zpid/
+"6300 Calico Ct, Wake Forest, NC 27587",349500,3.0,3.0,1991.0,https://www.zillow.com//homedetails/6300-Calico-Ct-Wake-Forest-NC-27587/6527627_zpid/
+"2102 Monticello Dr, Gastonia, NC 28056",375000,3.0,3.0,2395.0,https://www.zillow.com//homedetails/2102-Monticello-Dr-Gastonia-NC-28056/5857122_zpid/
+"2613 Armstrong Cir, Gastonia, NC 28054",325000,3.0,3.0,1542.0,https://www.zillow.com//homedetails/2613-Armstrong-Cir-Gastonia-NC-28054/5858019_zpid/
+"137 Nixons Beach Road, Edenton, NC 27932",879000,4.0,3.0,2762.0,https://www.zillow.com//homedetails/137-Nixons-Beach-Rd-Edenton-NC-27932/233559276_zpid/
+"5365 N State Highway 49, Burlington, NC 27217",470000,3.0,2.0,1840.0,https://www.zillow.com//homedetails/5365-N-State-Highway-49-Burlington-NC-27217/51215328_zpid/
+"5816 Goolsby Ct, Apex, NC 27539",300000,3.0,3.0,1625.0,https://www.zillow.com//homedetails/5816-Goolsby-Ct-Apex-NC-27539/6490261_zpid/
+"138 Wackena Way, Beaufort, NC 28516",699000,3.0,2.0,2100.0,https://www.zillow.com//homedetails/138-Wackena-Way-Beaufort-NC-28516/101996409_zpid/
+"13883 Clayborn St, Midland, NC 28107",262900,2.0,3.0,1238.0,https://www.zillow.com//homedetails/13883-Clayborn-St-Midland-NC-28107/338190241_zpid/
+"46 Bear Rock Rd, Hendersonville, NC 28739",498000,2.0,2.0,1439.0,https://www.zillow.com//homedetails/46-Bear-Rock-Rd-Hendersonville-NC-28739/241562416_zpid/
+"115 Pitt St, Fayetteville, NC 28306",149500,2.0,2.0,1103.0,https://www.zillow.com//homedetails/115-Pitt-St-Fayetteville-NC-28306/53664655_zpid/
+"296 Douglas Falls Dr, Wendell, NC 27591",310000,3.0,3.0,1694.0,https://www.zillow.com//homedetails/296-Douglas-Falls-Dr-Wendell-NC-27591/331653601_zpid/
+"7333 Michaels Landing Dr, Charlotte, NC 28262",230000,2.0,2.0,1220.0,https://www.zillow.com//homedetails/7333-Michaels-Landing-Dr-Charlotte-NC-28262/65021627_zpid/
+"1411 Lineberger Ave, Gastonia, NC 28052",249800,3.0,3.0,1412.0,https://www.zillow.com//homedetails/1411-Lineberger-Ave-Gastonia-NC-28052/5853855_zpid/
+"2204 Hoot Owl Ct, Raleigh, NC 27603",309900,3.0,2.0,1245.0,https://www.zillow.com//homedetails/2204-Hoot-Owl-Ct-Raleigh-NC-27603/6512841_zpid/
+"1748 Chase High Rd, Forest City, NC",29000,-,-,-,"https://www.zillow.com//b/building/35.759575,-79.0193_ll/"
+"1909 W Friendly Ave, Greensboro, NC 27403",999900,4.0,3.0,3005.0,https://www.zillow.com//homedetails/1909-W-Friendly-Ave-Greensboro-NC-27403/5915371_zpid/
+"430 Heart Pine Dr, Wendell, NC 27591",450000,4.0,3.0,2171.0,https://www.zillow.com//homedetails/430-Heart-Pine-Dr-Wendell-NC-27591/337433859_zpid/
+"3855 Angier Ave, Durham, NC 27703",225000,3.0,1.0,1438.0,https://www.zillow.com//homedetails/3855-Angier-Ave-Durham-NC-27703/50009609_zpid/
+"614 3rd Street Pl SW, Conover, NC 28613",200000,3.0,2.0,1201.0,https://www.zillow.com//homedetails/614-3rd-Street-Pl-SW-Conover-NC-28613/71916684_zpid/
+"5517 Oregon Landing Pl, Raleigh, NC 27610",380000,5.0,3.0,2004.0,https://www.zillow.com//homedetails/5517-Oregon-Landing-Pl-Raleigh-NC-27610/60537581_zpid/
+"115 Arrowood Drive, Nashville, NC 27856",154900,4.0,2.0,1104.0,https://www.zillow.com//homedetails/115-Arrowood-Dr-Nashville-NC-27856/216885221_zpid/
+"67 Meherrin Ct, Clayton, NC 27527",495000,4.0,3.0,2544.0,https://www.zillow.com//homedetails/67-Meherrin-Ct-Clayton-NC-27527/124219264_zpid/
+"535 Brooklyn Ave, Cramerton, NC 28032",312000,2.0,2.0,1228.0,https://www.zillow.com//homedetails/535-Brooklyn-Ave-Cramerton-NC-28032/5902977_zpid/
+"206 West Rd, Angier, NC 27501",159700,3.0,1.0,1344.0,https://www.zillow.com//homedetails/206-West-Rd-Angier-NC-27501/68965838_zpid/
+"121 N Anthony St, Burlington, NC 27217",243000,4.0,2.0,1487.0,https://www.zillow.com//homedetails/121-N-Anthony-St-Burlington-NC-27217/51236296_zpid/
+"1214 Charleston Common Dr, Leland, NC",345000,-,-,-,"https://www.zillow.com//b/building/34.203964,-77.9814_ll/"
+"2900 Harper Rd, Clemmons, NC 27012",260000,3.0,2.0,1232.0,https://www.zillow.com//homedetails/2900-Harper-Rd-Clemmons-NC-27012/5806422_zpid/
+"2548 Flintshire Ln, Gastonia, NC 28056",480000,5.0,4.0,3197.0,https://www.zillow.com//homedetails/2548-Flintshire-Ln-Gastonia-NC-28056/144138649_zpid/
+"1324 Eagles Landing Dr, Charlotte, NC 28214",300000,3.0,2.0,1211.0,https://www.zillow.com//homedetails/1324-Eagles-Landing-Dr-Charlotte-NC-28214/6172340_zpid/
+"4638 Hoover Hill Rd, Trinity, NC 27370",190000,3.0,2.0,1025.0,https://www.zillow.com//homedetails/4638-Hoover-Hill-Rd-Trinity-NC-27370/50083518_zpid/
+"811 Colington Dr LOT 92, Kill Devil Hills, NC 27948",519000,4.0,4.0,1940.0,https://www.zillow.com//homedetails/811-Colington-Dr-LOT-92-Kill-Devil-Hills-NC-27948/440953218_zpid/
+"72 Cherokee Rd, Asheville, NC 28806",450000,3.0,3.0,1472.0,https://www.zillow.com//homedetails/72-Cherokee-Rd-Asheville-NC-28806/337340422_zpid/
+"7033 Rothmore St, Charlotte, NC 28215",360000,3.0,3.0,1838.0,https://www.zillow.com//homedetails/7033-Rothmore-St-Charlotte-NC-28215/6208065_zpid/
+"1314 Florida St, High Point, NC 27262",260000,3.0,2.0,1582.0,https://www.zillow.com//homedetails/1314-Florida-St-High-Point-NC-27262/6035445_zpid/
+"5315 Ruth Dr, Charlotte, NC 28215",650000,3.0,3.0,1747.0,https://www.zillow.com//homedetails/5315-Ruth-Dr-Charlotte-NC-28215/6199126_zpid/
+"5355 Covered Bridge Rd, Trinity, NC 27370",164900,3.0,2.0,1341.0,https://www.zillow.com//homedetails/5355-Covered-Bridge-Rd-Trinity-NC-27370/206386987_zpid/
+"3318 Saint Evans Rd, Charlotte, NC 28214",385000,3.0,2.0,1512.0,https://www.zillow.com//homedetails/3318-Saint-Evans-Rd-Charlotte-NC-28214/6168422_zpid/
+"1102 Hayne St, Monroe, NC 28112",39,3.0,1.0,1453.0,https://www.zillow.com//homedetails/1102-Hayne-St-Monroe-NC-28112/6368514_zpid/
+"680 Timberlane Drive, Boone, NC 28607",549000,3.0,3.0,2325.0,https://www.zillow.com//homedetails/680-Timberlane-Dr-Boone-NC-28607/102334841_zpid/
+"2510 Harvard Ave, Durham, NC 27703",457000,3.0,3.0,1854.0,https://www.zillow.com//homedetails/2510-Harvard-Ave-Durham-NC-27703/49976552_zpid/
+"620 Thistlegate Trl, Raleigh, NC 27610",325000,3.0,3.0,1681.0,https://www.zillow.com//homedetails/620-Thistlegate-Trl-Raleigh-NC-27610/6528734_zpid/
+"67 Ridge Haven Rd, Sylva, NC 28779",350000,2.0,2.0,1243.0,https://www.zillow.com//homedetails/67-Ridge-Haven-Rd-Sylva-NC-28779/84709822_zpid/
+"161 Picwyck Dr, Mooresville, NC 28115",674000,3.0,3.0,2486.0,https://www.zillow.com//homedetails/161-Picwyck-Dr-Mooresville-NC-28115/6068699_zpid/
+"128 Fallingwood Cir, Gastonia, NC 28056",485000,3.0,2.0,2377.0,https://www.zillow.com//homedetails/128-Fallingwood-Cir-Gastonia-NC-28056/5900410_zpid/
+"1017 N Sharon Amity Rd, Charlotte, NC 28211",1075000,5.0,4.0,3247.0,https://www.zillow.com//homedetails/1017-N-Sharon-Amity-Rd-Charlotte-NC-28211/6249371_zpid/
+"100 Serenity Circle, Goldsboro, NC 27530",229900,3.0,2.0,1548.0,https://www.zillow.com//homedetails/100-Serenity-Cir-Goldsboro-NC-27530/224140939_zpid/
+"130 Norman Rd, Winston Salem, NC 27106",189000,3.0,2.0,2320.0,https://www.zillow.com//homedetails/130-Norman-Rd-Winston-Salem-NC-27106/5785936_zpid/
+"82 Dula Cv, Weaverville, NC 28787",799900,4.0,3.0,2992.0,https://www.zillow.com//homedetails/82-Dula-Cv-Weaverville-NC-28787/5644990_zpid/
+"1076 Cabin Creek Rd, Oxford, NC 27565",1499000,5.0,5.0,5147.0,https://www.zillow.com//homedetails/1076-Cabin-Creek-Rd-Oxford-NC-27565/93026677_zpid/
+"109 Dawnview Ln, Waxhaw, NC 28173",389999,3.0,3.0,1886.0,https://www.zillow.com//homedetails/109-Dawnview-Ln-Waxhaw-NC-28173/58460800_zpid/
+"195 Miller Rd, Fairview, NC 28730",275000,3.0,2.0,1884.0,https://www.zillow.com//homedetails/195-Miller-Rd-Fairview-NC-28730/5631455_zpid/
+"25 Cherokee Rd, Asheville, NC 28806",230000,2.0,1.0,1238.0,https://www.zillow.com//homedetails/25-Cherokee-Rd-Asheville-NC-28806/5603107_zpid/
+"395 Washington Post Road, New Bern, NC 28562",150000,4.0,2.0,1466.0,https://www.zillow.com//homedetails/395-Washington-Post-Rd-New-Bern-NC-28562/78309662_zpid/
+"1702 Grand Barton Ct, Apex, NC 27502",624900,4.0,3.0,2704.0,https://www.zillow.com//homedetails/1702-Grand-Barton-Ct-Apex-NC-27502/6551929_zpid/
+"5674 Alan D Good Ln, Conover, NC 28613",249900,3.0,2.0,1064.0,https://www.zillow.com//homedetails/5674-Alan-D-Good-Ln-Conover-NC-28613/71958761_zpid/
+"207 Vegas Dr #11-16, Leicester, NC 28748",180000,2.0,2.0,1186.0,https://www.zillow.com//homedetails/207-Vegas-Dr-11-16-Leicester-NC-28748/441784551_zpid/
+"2508 S Scales St, Reidsville, NC 27320",259900,3.0,2.0,1318.0,https://www.zillow.com//homedetails/2508-S-Scales-St-Reidsville-NC-27320/70150714_zpid/
+"121 Sierra Woods Dr, Troutman, NC 28166",625000,3.0,3.0,2153.0,https://www.zillow.com//homedetails/121-Sierra-Woods-Dr-Troutman-NC-28166/51667482_zpid/
+"1004 Bramblegate Rd, Hope Mills, NC 28348",282000,4.0,3.0,1852.0,https://www.zillow.com//homedetails/1004-Bramblegate-Rd-Hope-Mills-NC-28348/80889213_zpid/
+"103 Birdy Pl, Morganton, NC 28655",259500,4.0,2.0,1540.0,https://www.zillow.com//homedetails/103-Birdy-Pl-Morganton-NC-28655/227231156_zpid/
+"660 Beachview Drive SE, Bolivia, NC 28422",194000,3.0,2.0,1141.0,https://www.zillow.com//homedetails/660-Beachview-Dr-SE-Bolivia-NC-28422/78236195_zpid/
+"5625 Seafield Ln, Hope Mills, NC 28348",269000,4.0,2.0,1771.0,https://www.zillow.com//homedetails/5625-Seafield-Ln-Hope-Mills-NC-28348/95286911_zpid/
+"822 Ransey Woodring Road, Todd, NC 28684",349000,2.0,3.0,2478.0,https://www.zillow.com//homedetails/822-Ransey-Woodring-Rd-1-2-Todd-NC-28684/102240079_zpid/
+"126 Oakley Dr, Harrisburg, NC 28075",450000,3.0,2.0,2150.0,https://www.zillow.com//homedetails/126-Oakley-Dr-Harrisburg-NC-28075/5655667_zpid/
+"250 Franklin Ave NW, Concord, NC 28025",275000,3.0,2.0,1412.0,https://www.zillow.com//homedetails/250-Franklin-Ave-NW-Concord-NC-28025/5684792_zpid/
+"1908 Robbins Meadow Dr, Waxhaw, NC 28173",670000,5.0,3.0,3424.0,https://www.zillow.com//homedetails/1908-Robbins-Meadow-Dr-Waxhaw-NC-28173/71429935_zpid/
+"624 Catawba Cir N, Matthews, NC 28104",379000,3.0,2.0,1536.0,https://www.zillow.com//homedetails/624-Catawba-Cir-N-Matthews-NC-28104/6356297_zpid/
+"325 Ranch Farm Rd #A-B, Raleigh, NC 27603",269900,3.0,2.0,1312.0,https://www.zillow.com//homedetails/325-Ranch-Farm-Rd-A-B-Raleigh-NC-27603/442515601_zpid/
+"131 Point Of View Dr, Mooresville, NC 28117",2385000,4.0,5.0,4687.0,https://www.zillow.com//homedetails/131-Point-Of-View-Dr-Mooresville-NC-28117/6052426_zpid/
+"8117 Tremaine Court Unit H, Charlotte, NC 28227",115000,1.0,1.0,865.0,https://www.zillow.com//homedetails/8117-Tremaine-Ct-APT-H-Charlotte-NC-28227/6213999_zpid/
+"159 Twin Creeks Dr, Stokesdale, NC 27357",330000,3.0,3.0,1505.0,https://www.zillow.com//homedetails/159-Twin-Creeks-Dr-Stokesdale-NC-27357/95060565_zpid/
+"3014 Imperial Oaks Dr, Raleigh, NC 27614",435000,3.0,3.0,2368.0,https://www.zillow.com//homedetails/3014-Imperial-Oaks-Dr-Raleigh-NC-27614/62038619_zpid/
+"6873 Brasswood Drive, Fayetteville, NC 28314",247900,3.0,2.0,1660.0,https://www.zillow.com//homedetails/6873-Brasswood-Dr-Fayetteville-NC-28314/53697929_zpid/
+"561 Deals Gap Rd, Robbinsville, NC 28771",429000,3.0,2.0,2000.0,https://www.zillow.com//homedetails/561-Deals-Gap-Rd-Robbinsville-NC-28771/107060091_zpid/
+"120 Elsa Jane Ln, Pittsboro, NC 27312",610000,4.0,3.0,2364.0,https://www.zillow.com//homedetails/120-Elsa-Jane-Ln-Pittsboro-NC-27312/74954474_zpid/
+"552 Bailey Rd, Asheville, NC 28806",299000,3.0,1.0,1153.0,https://www.zillow.com//homedetails/552-Bailey-Rd-Asheville-NC-28806/5599273_zpid/
+"631 Ivy Glen Dr, Winston Salem, NC 27127",185000,2.0,2.0,1215.0,https://www.zillow.com//homedetails/631-Ivy-Glen-Dr-Winston-Salem-NC-27127/60299673_zpid/
+"208 Boyce Ave, Jamestown, NC 27282",135200,3.0,2.0,1320.0,https://www.zillow.com//homedetails/208-Boyce-Ave-Jamestown-NC-27282/6030091_zpid/
+"8528 Westhope St, Charlotte, NC 28216",249900,2.0,2.0,1075.0,https://www.zillow.com//homedetails/8528-Westhope-St-Charlotte-NC-28216/65034531_zpid/
+"5850 Old Rural Hall Rd, Winston Salem, NC 27105",249000,3.0,2.0,1620.0,https://www.zillow.com//homedetails/5850-Old-Rural-Hall-Rd-Winston-Salem-NC-27105/5822645_zpid/
+"800 Hunters Way, Lexington, NC 27292",595000,4.0,3.0,3714.0,https://www.zillow.com//homedetails/800-Hunters-Way-Lexington-NC-27292/5728173_zpid/
+-,299000,-,-,-,https://www.zillow.com//community/greater-charlotte-by-northway-homes/30183462_plid/
+-,299900,-,-,-,https://www.zillow.com//community/west-preserve/30050611_plid/
