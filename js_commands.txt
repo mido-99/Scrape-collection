@@ -1,18 +1,31 @@
 ##		Useful Js commands when working with selenium		##
 ===============================================================
-Scroll to bottom:
+## Scroll to bottom:
 driver.execute_script(
 "window.scrollTo(0, document.body.scrollHeight);")
 
-Scroll to top:
+## Scroll to top:
 driver.execute_script(
 "window.scrollTo(0, 0);")
 
-You can execute the following on element located on the page.
+## You can execute the following on element located on the page.
 elem = driver.find_element(By.CLASS, 'Any-class')
 
-Scroll down:
+## Scroll down:
 elem.send_keys(Keys.PAGE_DOWN)
+
+## Open & Close new window
+driver.execute_script('''window.open('');''')
+driver.execute_script('''window.close();''')
+
+## Switch between windows
+driver.switch_to.window(driver.window_handles[-1])
+
+> -1 stands for last visited window, any number for its corresponding one
+
+
+##		Useful Js commands when working with Playwright		##
+===============================================================
 
 Smooth Scrolling:
 page.evaluate("""
