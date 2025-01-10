@@ -1,503 +1,501 @@
 address,price,beds,baths,area,link
-"2931 Judge Manly Drive, New Bern, NC 28562",270000,3.0,2.0,1420.0,https://www.zillow.com//homedetails/2931-Judge-Manly-Dr-New-Bern-NC-28562/110510573_zpid/
-"211 Trotters Run, Jacksonville, NC 28546",265000,3.0,2.0,1411.0,https://www.zillow.com//homedetails/211-Trotters-Run-Jacksonville-NC-28546/51539344_zpid/
-"26 Wildberry Court, Rocky Mount, NC 27804",269900,3.0,2.0,1440.0,https://www.zillow.com//homedetails/26-Wildberry-Ct-Rocky-Mount-NC-27804/216894377_zpid/
-"882 Berea Church Rd, Elizabeth City, NC 27909",270000,3.0,2.0,1422.0,https://www.zillow.com//homedetails/882-Berea-Church-Rd-Elizabeth-City-NC-27909/107054162_zpid/
-"5413 Nc 42, Elm City, NC 27822",258000,3.0,2.0,1421.0,https://www.zillow.com//homedetails/5413-State-Highway-42-E-Elm-City-NC-27822/218862781_zpid/
-"357 Juno Dr, Broadway, NC 27505",270000,3.0,2.0,1443.0,https://www.zillow.com//homedetails/357-Juno-Dr-Broadway-NC-27505/89603580_zpid/
-"282 Little River Dr, Zebulon, NC 27597",280000,3.0,2.0,1065.0,https://www.zillow.com//homedetails/282-Little-River-Dr-Zebulon-NC-27597/69089273_zpid/
-"379 Morrow Farm Rd, Statesville, NC 28625",485000,3.0,2.0,1858.0,https://www.zillow.com//homedetails/379-Morrow-Farm-Rd-Statesville-NC-28625/442583112_zpid/
-"620 Memorial Dr E, Ahoskie, NC 27910",99500,4.0,3.0,2050.0,https://www.zillow.com//homedetails/620-Memorial-Dr-E-Ahoskie-NC-27910/113755144_zpid/
-"728 W Davis St, Burlington, NC 27215",525000,4.0,4.0,4129.0,https://www.zillow.com//homedetails/728-W-Davis-St-Burlington-NC-27215/51246442_zpid/
-"1814 Berryhill Rd, Charlotte, NC 28208",750000,4.0,3.0,2565.0,https://www.zillow.com//homedetails/1814-Berryhill-Rd-Charlotte-NC-28208/6177876_zpid/
-"239 Big Ridge Rd, Burnsville, NC 28714",259000,3.0,3.0,1365.0,https://www.zillow.com//homedetails/239-Big-Ridge-Rd-Burnsville-NC-28714/107096554_zpid/
-"1310 Bond Street, Kinston, NC 28501",135000,3.0,2.0,2253.0,https://www.zillow.com//homedetails/1310-Bond-St-Kinston-NC-28501/107032440_zpid/
-"112 Marvin Blvd, Winston Salem, NC 27105",257999,3.0,2.0,1563.0,https://www.zillow.com//homedetails/112-Marvin-Blvd-Winston-Salem-NC-27105/5765686_zpid/
-"1029 Churchill Rd, Davidson, NC 28036",1599000,5.0,5.0,4337.0,https://www.zillow.com//homedetails/1029-Churchill-Rd-Davidson-NC-28036/6128658_zpid/
-"7713 Wakebrook Dr, Raleigh, NC 27616",495000,3.0,2.0,2267.0,https://www.zillow.com//homedetails/7713-Wakebrook-Dr-Raleigh-NC-27616/6441445_zpid/
-"4312 Windstorm Way, Raleigh, NC 27616",289500,3.0,3.0,1268.0,https://www.zillow.com//homedetails/4312-Windstorm-Way-Raleigh-NC-27616/53462206_zpid/
-"13 Indian Ln, Weaverville, NC 28787",149900,2.0,2.0,1154.0,https://www.zillow.com//homedetails/13-Indian-Ln-Weaverville-NC-28787/96335264_zpid/
-"1215 W Gate Dr, Leland, NC",264919,-,-,-,https://www.zillow.com//community/wilmington-nc-build-on-your-lot/30799539_plid/
-"8427 Spirea Ct, Charlotte, NC 28215",279900,3.0,2.0,1498.0,https://www.zillow.com//homedetails/8427-Spirea-Ct-Charlotte-NC-28215/65024539_zpid/
-"1005 Lightfoot Ct, Wake Forest, NC 27587",289900,3.0,1.0,1044.0,https://www.zillow.com//homedetails/1005-Lightfoot-Ct-Wake-Forest-NC-27587/6473550_zpid/
-"215 N King St, Gastonia, NC 28052",240000,3.0,2.0,1791.0,https://www.zillow.com//homedetails/215-N-King-St-Gastonia-NC-28052/5848125_zpid/
-"314 Morningside Rd, Charlotte, NC 28214",299000,3.0,3.0,1567.0,https://www.zillow.com//homedetails/314-Morningside-Rd-Charlotte-NC-28214/2055535082_zpid/
-"1008 Ribbon Ln, Charlotte, NC 28205",285000,3.0,3.0,1549.0,https://www.zillow.com//homedetails/1008-Ribbon-Ln-Charlotte-NC-28205/418549935_zpid/
-"51170 Lassiter Ln LOT 26, Frisco, NC 27936",899000,4.0,4.0,3144.0,https://www.zillow.com//homedetails/51170-Lassiter-Ln-LOT-26-Frisco-NC-27936/443759535_zpid/
-"2350 Country Club Road, Jacksonville, NC 28546",429900,4.0,3.0,2715.0,https://www.zillow.com//homedetails/2350-Country-Club-Rd-Jacksonville-NC-28546/79758267_zpid/
-"2122 Middle Rd, Eastover, NC 28312",325000,3.0,2.0,2254.0,https://www.zillow.com//homedetails/2122-Middle-Rd-Eastover-NC-28312/53678416_zpid/
-"1208 Gum Tree Ln, Charlotte, NC 28214",360000,4.0,3.0,2879.0,https://www.zillow.com//homedetails/1208-Gum-Tree-Ln-Charlotte-NC-28214/6150254_zpid/
-"6506 Pargo Rd, Charlotte, NC 28216",280000,4.0,3.0,2161.0,https://www.zillow.com//homedetails/6506-Pargo-Rd-Charlotte-NC-28216/6151586_zpid/
-"227 Blount Street, Winterville, NC 28590",249000,4.0,2.0,2892.0,https://www.zillow.com//homedetails/227-Blount-St-Winterville-NC-28590/51421271_zpid/
-"2801 E Bessemer Ave, Greensboro, NC 27405",234900,4.0,2.0,1750.0,https://www.zillow.com//homedetails/2801-E-Bessemer-Ave-Greensboro-NC-27405/5920028_zpid/
-"11613 Old Surry Ln, Charlotte, NC 28277",750000,5.0,3.0,3148.0,https://www.zillow.com//homedetails/11613-Old-Surry-Ln-Charlotte-NC-28277/6327694_zpid/
-"18720 Jane Shaw Road, Wagram, NC 28396",450000,4.0,3.0,2375.0,https://www.zillow.com//homedetails/18720-Jane-Shaw-Rd-Wagram-NC-28396/86683803_zpid/
-"449 Saint Peter Church Rd, Randleman, NC 27317",269000,3.0,2.0,1385.0,https://www.zillow.com//homedetails/449-Saint-Peter-Church-Rd-Randleman-NC-27317/443760043_zpid/
-"1205 Blackwood Mountain Rd, Chapel Hill, NC 27516",598000,3.0,3.0,2010.0,https://www.zillow.com//homedetails/1205-Blackwood-Mountain-Rd-Chapel-Hill-NC-27516/50047881_zpid/
-"110 Browns Trail, Hampstead, NC 28443",265000,3.0,2.0,2031.0,https://www.zillow.com//homedetails/110-Browns-Trl-Hampstead-NC-28443/102107205_zpid/
-"20100 Lee Lane, Laurinburg, NC 28352",199900,3.0,2.0,1422.0,https://www.zillow.com//homedetails/20100-Lee-Ln-Laurinburg-NC-28352/93084138_zpid/
-"50 Whispering Oak Ln, Murphy, NC 28906",349900,2.0,2.0,-,https://www.zillow.com//homedetails/50-Whispering-Oak-Ln-Murphy-NC-28906/305581879_zpid/
-"8611 Frank Grier Rd #1, Charlotte, NC 28215",491500,5.0,3.0,2438.0,https://www.zillow.com//homedetails/8611-Frank-Grier-Rd-1-Charlotte-NC-28215/2052926425_zpid/
-"2216 Tate St, Charlotte, NC 28216",294900,3.0,2.0,1450.0,https://www.zillow.com//homedetails/2216-Tate-St-Charlotte-NC-28216/6179405_zpid/
-"234 Cresthaven Dr, Sanford, NC 27332",285000,4.0,3.0,2192.0,https://www.zillow.com//homedetails/234-Cresthaven-Dr-Sanford-NC-27332/71857487_zpid/
-"3113 S Point Rd, Belmont, NC 28012",248900,3.0,2.0,1182.0,https://www.zillow.com//homedetails/3113-S-Point-Rd-Belmont-NC-28012/70494951_zpid/
-"3701 E Jameson Rd, Raleigh, NC 27604",330000,3.0,2.0,1498.0,https://www.zillow.com//homedetails/3701-E-Jameson-Rd-Raleigh-NC-27604/6483519_zpid/
-"6206 Huntsboro Rd, Oxford, NC 27565",250000,3.0,2.0,1624.0,https://www.zillow.com//homedetails/6206-Huntsboro-Rd-Oxford-NC-27565/93027619_zpid/
-"118 Sleepy Ln, Shelby, NC 28152",250000,3.0,2.0,1092.0,https://www.zillow.com//homedetails/118-Sleepy-Ln-Shelby-NC-28152/78285304_zpid/
-"1117 Clifton Road, Jacksonville, NC 28540",269900,5.0,3.0,2855.0,https://www.zillow.com//homedetails/1117-Clifton-Rd-Jacksonville-NC-28540/199873111_zpid/
-"846 Mill River Road, Jacksonville, NC 28540",190000,3.0,2.0,1470.0,https://www.zillow.com//homedetails/846-Mill-River-Rd-Jacksonville-NC-28540/51551086_zpid/
-"4290 W Church Street, Farmville, NC 27828",239000,5.0,2.0,4018.0,https://www.zillow.com//homedetails/4290-W-Church-St-Farmville-NC-27828/51416154_zpid/
-"8031 Nathanael Greene Ln, Charlotte, NC 28227",350000,5.0,4.0,2624.0,https://www.zillow.com//homedetails/8031-Nathanael-Greene-Ln-Charlotte-NC-28227/6212279_zpid/
-"1845 Hose, Moravian Falls, NC 28654",145000,1.0,1.0,480.0,https://www.zillow.com//homedetails/1845-Hose-Rd-Moravian-Falls-NC-28654/248813156_zpid/
-"472 Apple Way Road, Blowing Rock, NC 28605",525000,2.0,3.0,1217.0,https://www.zillow.com//homedetails/472-Apple-Way-Blowing-Rock-NC-28605/102310203_zpid/
-"906 Roanoke St, Scotland Neck, NC 27874",85000,5.0,2.0,3366.0,https://www.zillow.com//homedetails/906-Roanoke-St-Scotland-Neck-NC-27874/84185802_zpid/
-"11319 Savannah Creek Dr, Charlotte, NC 28273",359000,3.0,3.0,2060.0,https://www.zillow.com//homedetails/11319-Savannah-Creek-Dr-Charlotte-NC-28273/239886969_zpid/
-"400 N Ashe Ave, Newton, NC 28658",186900,3.0,1.0,1796.0,https://www.zillow.com//homedetails/400-N-Ashe-Ave-Newton-NC-28658/71939844_zpid/
-"150 Stewart St, Asheville, NC 28806",285000,2.0,2.0,876.0,https://www.zillow.com//homedetails/150-Stewart-St-Asheville-NC-28806/61656645_zpid/
-"10 Aurora Drive, Whispering Pines, NC 28327",795000,4.0,4.0,3704.0,https://www.zillow.com//homedetails/10-Aurora-Dr-Whispering-Pines-NC-28327/112948717_zpid/
-"801 Ruth Ave, Kannapolis, NC 28083",235000,3.0,2.0,1348.0,https://www.zillow.com//homedetails/801-Ruth-Ave-Kannapolis-NC-28083/75008051_zpid/
-"207 N 13th Street, Wilmington, NC 28401",360000,3.0,2.0,1729.0,https://www.zillow.com//homedetails/207-N-13th-St-Wilmington-NC-28401/54301884_zpid/
-"205 Windfield Ct, Raleigh, NC 27615",625000,4.0,3.0,2030.0,https://www.zillow.com//homedetails/205-Windfield-Ct-Raleigh-NC-27615/6411446_zpid/
-"6521 Heatherbrook Ave, Charlotte, NC 28213",390000,5.0,3.0,1940.0,https://www.zillow.com//homedetails/6521-Heatherbrook-Ave-Charlotte-NC-28213/2060314394_zpid/
-"305 W Greene Street, Snow Hill, NC 28580",200000,3.0,2.0,2408.0,https://www.zillow.com//homedetails/305-W-Greene-St-Snow-Hill-NC-28580/114809007_zpid/
-"104 Crepe Myrtle Ln, Dunn, NC 28334",299900,4.0,2.0,2220.0,https://www.zillow.com//homedetails/104-Crepe-Myrtle-Ln-Dunn-NC-28334/71893617_zpid/
-"1388 Sandiwood Ct, Claremont, NC 28610",259999,4.0,2.0,2039.0,https://www.zillow.com//homedetails/1388-Sandiwood-Ct-Claremont-NC-28610/71555893_zpid/
-"407 King St, Monroe, NC 28110",250000,3.0,2.0,1941.0,https://www.zillow.com//homedetails/407-King-St-Monroe-NC-28110/6367327_zpid/
-"5621 Raddington St, Raleigh, NC 27613",525000,3.0,3.0,2315.0,https://www.zillow.com//homedetails/5621-Raddington-St-Raleigh-NC-27613/6521285_zpid/
-"623 Redbird Ln, Gastonia, NC 28056",283000,3.0,3.0,1536.0,https://www.zillow.com//homedetails/623-Redbird-Ln-Gastonia-NC-28056/5901790_zpid/
-"1450 London Dr, High Point, NC 27260",250000,4.0,3.0,1634.0,https://www.zillow.com//homedetails/1450-London-Dr-High-Point-NC-27260/6036833_zpid/
-"5445 W View St SW, Lenoir, NC 28645",299900,4.0,3.0,1950.0,https://www.zillow.com//homedetails/5445-W-View-St-SW-Lenoir-NC-28645/440703191_zpid/
-"1155 Surles Rd, Benson, NC 27504",615000,3.0,3.0,3608.0,https://www.zillow.com//homedetails/1155-Surles-Rd-Benson-NC-27504/69094748_zpid/
-"271 Parker Rd, Four Oaks, NC 27524",330000,3.0,3.0,1780.0,https://www.zillow.com//homedetails/271-Parker-Rd-Four-Oaks-NC-27524/69122511_zpid/
-"1004 Desoto Ave, Kannapolis, NC 28083",320000,5.0,3.0,2144.0,https://www.zillow.com//homedetails/1004-Desoto-Ave-Kannapolis-NC-28083/5681381_zpid/
-"1007 Drew St, Durham, NC 27701",290000,3.0,2.0,1152.0,https://www.zillow.com//homedetails/1007-Drew-St-Durham-NC-27701/98221993_zpid/
-"2033 Twilight Ln, Monroe, NC 28110",320000,4.0,3.0,1792.0,https://www.zillow.com//homedetails/2033-Twilight-Ln-Monroe-NC-28110/61793583_zpid/
-"537 & 1 Belwood Lawndale Road, Lawndale, NC 28090",650000,4.0,2.0,2473.0,https://www.zillow.com//homedetails/537-1-Belwood-Lawndale-Road-Lawndale-NC-28090/443212217_zpid/
-"1183 Sandy Plains Rd, Tryon, NC 28782",259900,3.0,2.0,1653.0,https://www.zillow.com//homedetails/1183-Sandy-Plains-Rd-Tryon-NC-28782/107057030_zpid/
-"4413 Jay Bird Circle UNIT 207, Wilmington, NC 28412",244000,2.0,2.0,1080.0,https://www.zillow.com//homedetails/4413-Jay-Bird-Cir-UNIT-207-Wilmington-NC-28412/84694717_zpid/
-"6217 Barcelona Way, Charlotte, NC 28214",450000,3.0,2.0,1648.0,https://www.zillow.com//homedetails/6217-Barcelona-Way-Charlotte-NC-28214/441143125_zpid/
-"4320 Main Street, Gibson, NC 28343",329500,5.0,2.0,3391.0,https://www.zillow.com//homedetails/4320-Main-St-Gibson-NC-28343/86684207_zpid/
-"6 Memory Lane, Cullowhee, NC 28723",239000,2.0,2.0,-,https://www.zillow.com//homedetails/6-Memory-Ln-Cullowhee-NC-28723/84711086_zpid/
-"2545 Buchanan St, Winston Salem, NC 27127",215000,4.0,2.0,1529.0,https://www.zillow.com//homedetails/2545-Buchanan-St-Winston-Salem-NC-27127/5844902_zpid/
-"2804 Fordham Ln, Raleigh, NC 27604",375000,3.0,2.0,1799.0,https://www.zillow.com//homedetails/2804-Fordham-Ln-Raleigh-NC-27604/6392501_zpid/
-"229 Shakerstone Dr, Fayetteville, NC 28311",267800,3.0,2.0,1692.0,https://www.zillow.com//homedetails/229-Shakerstone-Dr-Fayetteville-NC-28311/70594453_zpid/
-"504 E Edinborough Ave, Raeford, NC 28376",525000,5.0,4.0,4337.0,https://www.zillow.com//homedetails/504-E-Edinborough-Ave-Raeford-NC-28376/226155793_zpid/
-"884 No Bottom Rd, Warrenton, NC 27589",180000,3.0,2.0,1432.0,https://www.zillow.com//homedetails/884-No-Bottom-Rd-Warrenton-NC-27589/114874802_zpid/
-"748 Celtic Crossing Dr, High Point, NC 27265",260000,3.0,3.0,1782.0,https://www.zillow.com//homedetails/748-Celtic-Crossing-Dr-High-Point-NC-27265/71218453_zpid/
-"528 Jennings Farm Rd, Fayetteville, NC 28314",180000,3.0,2.0,1083.0,https://www.zillow.com//homedetails/528-Jennings-Farm-Rd-Fayetteville-NC-28314/53626729_zpid/
-"4912 Comelia Dr, Raleigh, NC 27603",580000,4.0,3.0,2461.0,https://www.zillow.com//homedetails/4912-Comelia-Dr-Raleigh-NC-27603/6399108_zpid/
-"746 Hawk Ridge Road, Deep Gap, NC 28618",748000,3.0,3.0,3397.0,https://www.zillow.com//homedetails/746-Hawk-Ridge-Rd-Deep-Gap-NC-28618/102269949_zpid/
-"610 Denny Rd, Greensboro, NC 27405",290000,3.0,3.0,1676.0,https://www.zillow.com//homedetails/610-Denny-Rd-Greensboro-NC-27405/5949073_zpid/
-"10112 Santa Fe Ln, Mint Hill, NC 28227",394000,3.0,2.0,1421.0,https://www.zillow.com//homedetails/10112-Santa-Fe-Ln-Mint-Hill-NC-28227/6235057_zpid/
-"568 Mahaffey Dr, Salisbury, NC 28146",229000,4.0,2.0,2052.0,https://www.zillow.com//homedetails/568-Mahaffey-Dr-Salisbury-NC-28146/93077689_zpid/
-"409 S Bluff Circle, Jacksonville, NC 28540",310000,4.0,3.0,2460.0,https://www.zillow.com//homedetails/409-S-Bluff-Cir-Jacksonville-NC-28540/117702930_zpid/
-"2608 Executive Point Dr, Monroe, NC",279313,-,-,-,https://www.zillow.com//community/monroe-nc-build-on-your-lot/30799540_plid/
-"66 N Deerhaven Ln, Asheville, NC 28803",17000000,6.0,12.0,13294.0,https://www.zillow.com//homedetails/66-N-Deerhaven-Ln-Asheville-NC-28803/295554633_zpid/
-"581 Sagee Woods Dr, Highlands, NC 28741",49999999,7.0,10.0,14540.0,https://www.zillow.com//homedetails/581-Sagee-Woods-Dr-Highlands-NC-28741/250881753_zpid/
-"6018 Viking Dr, Raleigh, NC 27612",330000,2.0,3.0,1281.0,https://www.zillow.com//homedetails/6018-Viking-Dr-Raleigh-NC-27612/71207727_zpid/
-"1320 Park Glen Dr APT 103, Raleigh, NC 27610",109900,2.0,2.0,900.0,https://www.zillow.com//homedetails/1320-Park-Glen-Dr-APT-103-Raleigh-NC-27610/132245864_zpid/
-"2533 Remington Rd, Raleigh, NC 27610",350000,3.0,2.0,1510.0,https://www.zillow.com//homedetails/2533-Remington-Rd-Raleigh-NC-27610/6406775_zpid/
-"1602 Dolphin St, Spring Lake, NC 28390",185000,4.0,3.0,1989.0,https://www.zillow.com//homedetails/1602-Dolphin-St-Spring-Lake-NC-28390/53710011_zpid/
-"9 Dewitt Street, Jacksonville, NC 28540",220000,3.0,2.0,1912.0,https://www.zillow.com//homedetails/9-Dewitt-St-Jacksonville-NC-28540/51562882_zpid/
-"250 Lake Eva Marie Dr, Raleigh, NC 27603",349900,3.0,3.0,1957.0,https://www.zillow.com//homedetails/250-Lake-Eva-Marie-Dr-Raleigh-NC-27603/69105403_zpid/
-"5139 Springview Rd, Charlotte, NC 28213",215000,3.0,2.0,1520.0,https://www.zillow.com//homedetails/5139-Springview-Rd-Charlotte-NC-28213/6190699_zpid/
-"214 Champion Drive, Hampstead, NC 28443",229950,3.0,2.0,1378.0,https://www.zillow.com//homedetails/214-Champion-Dr-Hampstead-NC-28443/102172620_zpid/
-"3004 Derby Run Road, Jacksonville, NC 28546",264900,4.0,2.0,1398.0,https://www.zillow.com//homedetails/3004-Derby-Run-Rd-Jacksonville-NC-28546/199866693_zpid/
-"99 May St, Gastonia, NC 28052",249000,3.0,2.0,1100.0,https://www.zillow.com//homedetails/99-May-St-Gastonia-NC-28052/5849499_zpid/
-"5009 Ilex Drive, Wilmington, NC 28412",347700,4.0,2.0,1300.0,https://www.zillow.com//homedetails/5009-Ilex-Dr-Wilmington-NC-28412/54341048_zpid/
-"217 Robinson Street, Rockingham, NC 28379",69900,5.0,3.0,0.0,https://www.zillow.com//homedetails/217-Robinson-St-Rockingham-NC-28379/333557360_zpid/
-"1781 33rd Street Dr SW, Hickory, NC 28602",124900,3.0,1.0,1227.0,https://www.zillow.com//homedetails/1781-33rd-Street-Dr-SW-Hickory-NC-28602/71552712_zpid/
-"719 Bear Paw Rdg, Franklin, NC 28734",819000,3.0,4.0,-,https://www.zillow.com//homedetails/719-Bear-Paw-Rdg-Franklin-NC-28734/70171608_zpid/
-"4812 Gibbons Link Rd, Charlotte, NC 28269",345000,5.0,4.0,2000.0,https://www.zillow.com//homedetails/4812-Gibbons-Link-Rd-Charlotte-NC-28269/244117457_zpid/
-"1104 E Main Street, Plymouth, NC 27962",137500,2.0,1.0,1224.0,https://www.zillow.com//homedetails/1104-E-Main-St-Plymouth-NC-27962/235579680_zpid/
-"1208 S Point Rd, Belmont, NC 28012",415000,2.0,3.0,1601.0,https://www.zillow.com//homedetails/1208-S-Point-Rd-Belmont-NC-28012/70495096_zpid/
-"1133 Stonewater Dr, Raleigh, NC 27603",369900,3.0,3.0,1968.0,https://www.zillow.com//homedetails/1133-Stonewater-Dr-Raleigh-NC-27603/50118061_zpid/
-"8125 Park Side Dr, Raleigh, NC 27612",700000,4.0,5.0,3506.0,https://www.zillow.com//homedetails/8125-Park-Side-Dr-Raleigh-NC-27612/6438720_zpid/
-"1908 Joyce St, Greensboro, NC 27405",185000,2.0,2.0,1352.0,https://www.zillow.com//homedetails/1908-Joyce-St-Greensboro-NC-27405/5929641_zpid/
-"125 Basin Ave, Kannapolis, NC 28083",269000,3.0,2.0,1200.0,https://www.zillow.com//homedetails/125-Basin-Ave-Kannapolis-NC-28083/5682553_zpid/
-"11612 Kingsley View Dr, Charlotte, NC 28277",590000,4.0,4.0,2539.0,https://www.zillow.com//homedetails/11612-Kingsley-View-Dr-Charlotte-NC-28277/65029157_zpid/
-"911 Wildwood Dr, Kings Mountain, NC 28086",415000,3.0,2.0,2315.0,https://www.zillow.com//homedetails/911-Wildwood-Dr-Kings-Mountain-NC-28086/5881214_zpid/
-"1006 Stoddard Drive S, Wilson, NC 27893",299900,3.0,2.0,2194.0,https://www.zillow.com//homedetails/1006-Stoddard-Rd-S-Wilson-NC-27893/107084958_zpid/
-"302 Zachary Way, Garner, NC 27529",450000,3.0,3.0,2309.0,https://www.zillow.com//homedetails/302-Zachary-Way-Garner-NC-27529/69102251_zpid/
-"6692 State Highway 401 S, Bunnlevel, NC 28323",249900,3.0,2.0,1387.0,https://www.zillow.com//homedetails/6692-State-Highway-401-S-Bunnlevel-NC-28323/443328191_zpid/
-"45 Bent Grass Cir, Hayesville, NC 28904",484900,2.0,3.0,2174.0,https://www.zillow.com//homedetails/45-Bent-Grass-Cir-Hayesville-NC-28904/249939711_zpid/
-"274 Hemlock Road, Banner Elk, NC 28604",495000,2.0,2.0,1394.0,https://www.zillow.com//homedetails/274-Hemlock-Rd-Banner-Elk-NC-28604/102338020_zpid/
-"100 Edgewater Lane, Richlands, NC 28574",210000,3.0,2.0,1551.0,https://www.zillow.com//homedetails/100-Edgewater-Ln-Richlands-NC-28574/51557416_zpid/
-"114 Spring Creek Lane, Wilmington, NC 28411",559000,3.0,2.0,2462.0,https://www.zillow.com//homedetails/114-Spring-Creek-Ln-Wilmington-NC-28411/54291194_zpid/
-"349 Gorman Bridge Rd, Asheville, NC 28806",180000,2.0,1.0,527.0,https://www.zillow.com//homedetails/349-Gorman-Bridge-Rd-Asheville-NC-28806/5604450_zpid/
-"345 Seneca Reef Drive, Hampstead, NC 28443",560000,4.0,3.0,3129.0,https://www.zillow.com//homedetails/345-Seneca-Reef-Dr-Hampstead-NC-28443/336859372_zpid/
-"226 Central Boulevard, Wilmington, NC 28401",559900,3.0,4.0,2000.0,https://www.zillow.com//homedetails/226-Central-Blvd-Wilmington-NC-28401/439194530_zpid/
-"105 Volusia Drive, North Topsail Beach, NC 28460",630000,4.0,3.0,1710.0,https://www.zillow.com//homedetails/105-Volusia-Dr-North-Topsail-Beach-NC-28460/79752256_zpid/
-"10000 Goodview Ct, Raleigh, NC 27613",650000,4.0,3.0,2390.0,https://www.zillow.com//homedetails/10000-Goodview-Ct-Raleigh-NC-27613/6514234_zpid/
-"7021 Red Bank Rd, Germanton, NC 27019",358000,3.0,2.0,1728.0,https://www.zillow.com//homedetails/7021-Red-Bank-Rd-Germanton-NC-27019/5822351_zpid/
-"7037 Hyde Park Dr, Indian Trail, NC 28079",695000,5.0,3.0,3568.0,https://www.zillow.com//homedetails/7037-Hyde-Park-Dr-Indian-Trail-NC-28079/113222401_zpid/
-"7513 Lost Tree Road, Wilmington, NC 28411",649900,5.0,3.0,2845.0,https://www.zillow.com//homedetails/7513-Lost-Tree-Rd-Wilmington-NC-28411/54289720_zpid/
-"121 North St, Creedmoor, NC 27522",309000,4.0,2.0,1654.0,https://www.zillow.com//homedetails/121-North-St-Creedmoor-NC-27522/103940358_zpid/
-"3050 Pleasant Ridge Rd, Summerfield, NC 27358",339900,5.0,3.0,2713.0,https://www.zillow.com//homedetails/3050-Pleasant-Ridge-Rd-Summerfield-NC-27358/6001315_zpid/
-"1585 Eagles Nest Rd, Waynesville, NC 28786",849000,3.0,3.0,2054.0,https://www.zillow.com//homedetails/1585-Eagles-Nest-Rd-Waynesville-NC-28786/65607275_zpid/
-"1878 Bards Drive SE, Bolivia, NC 28422",349875,3.0,2.0,1891.0,https://www.zillow.com//homedetails/1878-Bards-Dr-SE-Bolivia-NC-28422/92997908_zpid/
-"5706 Wadebridge Cv, Charlotte, NC 28210",600000,3.0,2.0,2046.0,https://www.zillow.com//homedetails/5706-Wadebridge-Cv-Charlotte-NC-28210/6259902_zpid/
-"3624 Sawyers Mill Dr, Apex, NC 27539",600000,4.0,3.0,3151.0,https://www.zillow.com//homedetails/3624-Sawyers-Mill-Dr-Apex-NC-27539/67553144_zpid/
-"13832 Cypress Woods Dr, Huntersville, NC 28078",389300,3.0,3.0,1897.0,https://www.zillow.com//homedetails/13832-Cypress-Woods-Dr-Huntersville-NC-28078/80447632_zpid/
-"613 S Fuquay Ave, Fuquay Varina, NC 27526",500000,4.0,2.0,2217.0,https://www.zillow.com//homedetails/613-S-Fuquay-Ave-Fuquay-Varina-NC-27526/50097406_zpid/
-"1222 Saint Johns Church Road, Hampstead, NC 28443",239999,3.0,2.0,1456.0,https://www.zillow.com//homedetails/1222-Saint-Johns-Church-Rd-Hampstead-NC-28443/102135900_zpid/
-"1099 Seminole Trail, Elk Park, NC 28622",950000,2.0,3.0,1804.0,https://www.zillow.com//homedetails/1099-Seminole-Trl-Elk-Park-NC-28622/102347153_zpid/
-"104 Annotto Bay Ln, Garner, NC 27529",369900,3.0,3.0,1893.0,https://www.zillow.com//homedetails/104-Annotto-Bay-Ln-Garner-NC-27529/65344744_zpid/
-"1705 Old State Highway 10, Hillsborough, NC 27278",285000,3.0,2.0,1682.0,https://www.zillow.com//homedetails/1705-Old-State-Highway-10-Hillsborough-NC-27278/50048319_zpid/
-"7670 Hickory Creek Dr #20, Denver, NC 28037",210000,4.0,2.0,1998.0,https://www.zillow.com//homedetails/7670-Hickory-Creek-Dr-20-Denver-NC-28037/442135241_zpid/
-"1101 Running Brook Rd, Midland, NC 28107",744500,3.0,3.0,3132.0,https://www.zillow.com//homedetails/1101-Running-Brook-Rd-Midland-NC-28107/5663870_zpid/
-"1009 Berry Street, Goldsboro, NC 27530",129900,3.0,2.0,1196.0,https://www.zillow.com//homedetails/1009-Berry-St-Goldsboro-NC-27530/78367523_zpid/
-"400 N Church St, Charlotte, NC",575000,-,-,-,https://www.zillow.com//b/400-north-church-charlotte-nc-5XpJtH/
-"380 Speedway Pl NW, Concord, NC 28027",425000,3.0,3.0,2052.0,https://www.zillow.com//homedetails/380-Speedway-Pl-NW-Concord-NC-28027/5675579_zpid/
-"108 Horseman Dr, Louisburg, NC 27549",95000,3.0,2.0,1450.0,https://www.zillow.com//homedetails/108-Horseman-Dr-Louisburg-NC-27549/66564571_zpid/
-"3413 Horton St, Raleigh, NC 27607",1150000,4.0,3.0,2459.0,https://www.zillow.com//homedetails/3413-Horton-St-Raleigh-NC-27607/6376101_zpid/
-"24 E Willow Trace Way, Clayton, NC 27527",295000,3.0,3.0,1616.0,https://www.zillow.com//homedetails/24-E-Willow-Trace-Way-Clayton-NC-27527/304712322_zpid/
-"2138 Revolution Park Dr, Charlotte, NC 28208",450000,4.0,2.0,1561.0,https://www.zillow.com//homedetails/2138-Revolution-Park-Dr-Charlotte-NC-28208/439579704_zpid/
-"6639 Ramsey Street, Fayetteville, NC 28311",415000,5.0,4.0,2890.0,https://www.zillow.com//homedetails/6639-Ramsey-St-Fayetteville-NC-28311/53689293_zpid/
-"223 Early St, Fayetteville, NC 28311",205000,4.0,2.0,2166.0,https://www.zillow.com//homedetails/223-Early-St-Fayetteville-NC-28311/53671623_zpid/
-"202 Wilshire Ln, Raeford, NC 28376",249899,4.0,2.0,1451.0,https://www.zillow.com//homedetails/202-Wilshire-Ln-Raeford-NC-28376/106992926_zpid/
-"340 Trout Pond Cir, Murphy, NC 28906",139000,2.0,2.0,1017.0,https://www.zillow.com//homedetails/340-Trout-Pond-Cir-Murphy-NC-28906/230502190_zpid/
-"18330 Great Smoky Mountain Expy, Waynesville, NC 28786",350000,2.0,2.0,2487.0,https://www.zillow.com//homedetails/18330-Great-Smoky-Mountain-Expy-Waynesville-NC-28786/65602684_zpid/
-"235 8th Avenue Dr SW, Hickory, NC 28602",189000,3.0,1.0,1153.0,https://www.zillow.com//homedetails/235-8th-Avenue-Dr-SW-Hickory-NC-28602/71941932_zpid/
-"3564 Hollywood Ridge Rd, Lenoir, NC 28645",165000,2.0,1.0,982.0,https://www.zillow.com//homedetails/3564-Hollywood-Ridge-Rd-Lenoir-NC-28645/69813855_zpid/
-"2305 Springhill Road, Greenville, NC 27858",139000,3.0,2.0,1550.0,https://www.zillow.com//homedetails/2305-Springhill-Rd-Greenville-NC-27858/51438724_zpid/
-"2104 Feathercombe Ct, Fayetteville, NC 28306",264900,3.0,3.0,1604.0,https://www.zillow.com//homedetails/2104-Feathercombe-Ct-Fayetteville-NC-28306/97591806_zpid/
-"82 Allen Pond Rd, Wadesboro, NC 28170",115000,3.0,3.0,1113.0,https://www.zillow.com//homedetails/82-Allen-Pond-Rd-Wadesboro-NC-28170/68705104_zpid/
-"8003 Belmont Stables Dr, Charlotte, NC 28216",385000,4.0,4.0,2015.0,https://www.zillow.com//homedetails/8003-Belmont-Stables-Dr-Charlotte-NC-28216/125831945_zpid/
-"256 Pine Ridge Rd, Mocksville, NC 27028",389000,3.0,1.0,1613.0,https://www.zillow.com//homedetails/256-Pine-Ridge-Rd-Mocksville-NC-27028/68720993_zpid/
-"3004 Redan Ct, Matthews, NC 28105",370000,3.0,2.0,1443.0,https://www.zillow.com//homedetails/3004-Redan-Ct-Matthews-NC-28105/6279418_zpid/
-"6270 Rosecroft Dr, Charlotte, NC",135000,-,-,-,"https://www.zillow.com//b/building/35.236305,-80.73338_ll/"
-"6915 Bushy Lake, Fayetteville, NC 28312",460000,5.0,4.0,2705.0,https://www.zillow.com//homedetails/6915-Bushy-Lake-Fayetteville-NC-28312/351713328_zpid/
-"816 Perry Rd, Troutman, NC 28166",325000,4.0,3.0,1728.0,https://www.zillow.com//homedetails/816-Perry-Rd-Troutman-NC-28166/443732527_zpid/
-"100 Brevard Rd, Asheville, NC 28806",499000,3.0,2.0,1302.0,https://www.zillow.com//homedetails/100-Brevard-Rd-Asheville-NC-28806/5607570_zpid/
-"724 E Nelson Ave, Wake Forest, NC 27587",380000,4.0,2.0,2191.0,https://www.zillow.com//homedetails/724-E-Nelson-Ave-Wake-Forest-NC-27587/6402324_zpid/
-"582 Durwood Evans Road, Beulaville, NC 28518",80000,3.0,2.0,1341.0,https://www.zillow.com//homedetails/582-Durwood-Evans-Rd-Beulaville-NC-28518/102103452_zpid/
-"2594 Cedar Valley Dr, Conover, NC 28613",299900,3.0,3.0,1976.0,https://www.zillow.com//homedetails/2594-Cedar-Valley-Dr-Conover-NC-28613/71594396_zpid/
-"117 Shavender Dr, Mooresville, NC 28117",869000,5.0,4.0,4203.0,https://www.zillow.com//homedetails/117-Shavender-Dr-Mooresville-NC-28117/60302230_zpid/
-"88 Pine Needles Dr, Lillington, NC 27546",250000,3.0,2.0,2103.0,https://www.zillow.com//homedetails/88-Pine-Needles-Dr-Lillington-NC-27546/71883182_zpid/
-"2191 Die Bend Rd, Murphy, NC 28906",498500,2.0,2.0,-,https://www.zillow.com//homedetails/2191-Die-Bend-Rd-Murphy-NC-28906/106956174_zpid/
-"606 Jerome Rd, Durham, NC 27713",595000,3.0,3.0,1986.0,https://www.zillow.com//homedetails/606-Jerome-Rd-Durham-NC-27713/242011681_zpid/
-"7422 Henderson Park Rd, Huntersville, NC 28078",400000,3.0,3.0,1918.0,https://www.zillow.com//homedetails/7422-Henderson-Park-Rd-Huntersville-NC-28078/6134698_zpid/
-"13931 Pine Harbor Rd, Charlotte, NC 28278",420000,3.0,3.0,2219.0,https://www.zillow.com//homedetails/13931-Pine-Harbor-Rd-Charlotte-NC-28278/6283314_zpid/
-"3216 High Ridge Rd, Charlotte, NC 28270",1075000,4.0,4.0,3001.0,https://www.zillow.com//homedetails/3216-High-Ridge-Rd-Charlotte-NC-28270/6321534_zpid/
-"293 Havenwood Ln, Murphy, NC 28906",339800,2.0,3.0,2016.0,https://www.zillow.com//homedetails/293-Havenwood-Ln-Murphy-NC-28906/230498784_zpid/
-"1112 Kitt Pl, Raleigh, NC 27610",270000,3.0,1.0,1420.0,https://www.zillow.com//homedetails/1112-Kitt-Pl-Raleigh-NC-27610/6409057_zpid/
-"214 Heather Glen Ln, Belmont, NC 28012",415000,3.0,2.0,1798.0,https://www.zillow.com//homedetails/214-Heather-Glen-Ln-Belmont-NC-28012/5901422_zpid/
-"3743 Crosland Rd, Winston Salem, NC 27106",314500,4.0,2.0,2044.0,https://www.zillow.com//homedetails/3743-Crosland-Rd-Winston-Salem-NC-27106/5789632_zpid/
-"2707 N Roxboro St, Durham, NC 27704",399400,4.0,2.0,1638.0,https://www.zillow.com//homedetails/2707-N-Roxboro-St-Durham-NC-27704/49980694_zpid/
-"705 Cedar Street, Elizabeth City, NC 27909",270000,4.0,3.0,2353.0,https://www.zillow.com//homedetails/705-Cedar-St-Elizabeth-City-NC-27909/107049252_zpid/
-"83 Oleander Ln, Sanford, NC 27332",392900,4.0,4.0,2054.0,https://www.zillow.com//homedetails/83-Oleander-Ln-Sanford-NC-27332/339886427_zpid/
-"2116 Woodhaven Rd, Charlotte, NC 28211",13950000,6.0,8.0,13919.0,https://www.zillow.com//homedetails/2116-Woodhaven-Rd-Charlotte-NC-28211/6263349_zpid/
-"138 Silver Tree Ln, Lake Lure, NC 28746",1600000,6.0,6.0,5099.0,https://www.zillow.com//homedetails/138-Silver-Tree-Ln-Lake-Lure-NC-28746/102144741_zpid/
-"1516 Pearces Rd, Zebulon, NC 27597",395000,4.0,4.0,4569.0,https://www.zillow.com//homedetails/1516-Pearces-Rd-Zebulon-NC-27597/6512359_zpid/
-"13917 Sugar Oats Ln, Charlotte, NC 28213",440000,4.0,3.0,2253.0,https://www.zillow.com//homedetails/13917-Sugar-Oats-Ln-Charlotte-NC-28213/166863732_zpid/
-"103 Section House Rd, Hickory, NC 28601",129900,2.0,1.0,1064.0,https://www.zillow.com//homedetails/103-Section-House-Rd-Hickory-NC-28601/71964669_zpid/
-"608 Hunter Street, Elizabeth City, NC 27909",225000,3.0,2.0,1431.0,https://www.zillow.com//homedetails/608-Hunter-St-Elizabeth-City-NC-27909/107051699_zpid/
-"297 Chartres St, Fuquay Varina, NC 27526",219900,2.0,2.0,888.0,https://www.zillow.com//homedetails/297-Chartres-St-Fuquay-Varina-NC-27526/443761236_zpid/
-"9523 Night Harbor Drive, Leland, NC 28451",269900,2.0,2.0,1020.0,https://www.zillow.com//homedetails/9523-Night-Harbor-Dr-Leland-NC-28451/81592498_zpid/
-"1642 Morningside Dr, Newton, NC 28658",170000,2.0,1.0,0.0,https://www.zillow.com//homedetails/1642-Morningside-Dr-Newton-NC-28658/71557319_zpid/
-"2508 Rambling Creek Rd, Apex, NC 27523",650000,4.0,4.0,3197.0,https://www.zillow.com//homedetails/2508-Rambling-Creek-Rd-Apex-NC-27523/248750298_zpid/
-"5745 Spence Farm Rd, Holly Springs, NC 27540",400000,3.0,3.0,2126.0,https://www.zillow.com//homedetails/5745-Spence-Farm-Rd-Holly-Springs-NC-27540/50106566_zpid/
-"203 Parkcanyon Ln, Cary, NC 27519",624000,4.0,3.0,2281.0,https://www.zillow.com//homedetails/203-Parkcanyon-Ln-Cary-NC-27519/6520003_zpid/
-"283 Old Christian Chapel Rd, New Hill, NC 27562",450000,7.0,1.0,3102.0,https://www.zillow.com//homedetails/283-Old-Christian-Chapel-Rd-New-Hill-NC-27562/217782875_zpid/
-"3703 Silver Ore Ln, Charlotte, NC 28216",264900,3.0,2.0,1092.0,https://www.zillow.com//homedetails/3703-Silver-Ore-Ln-Charlotte-NC-28216/64999923_zpid/
-"5300 Suntan Lake Dr, Raleigh, NC 27610",350000,3.0,3.0,1677.0,https://www.zillow.com//homedetails/5300-Suntan-Lake-Dr-Raleigh-NC-27610/60537888_zpid/
-"2980 Tram Rd, Fuquay Varina, NC 27526",285000,3.0,2.0,1675.0,https://www.zillow.com//homedetails/2980-Tram-Rd-Fuquay-Varina-NC-27526/6467891_zpid/
-"2122 Abelwood Rd, Charlotte, NC 28216",318999,3.0,2.0,1224.0,https://www.zillow.com//homedetails/2122-Abelwood-Rd-Charlotte-NC-28216/6180545_zpid/
-"1750 Kerner Rd, Kernersville, NC 27284",459900,3.0,3.0,2625.0,https://www.zillow.com//homedetails/1750-Kerner-Rd-Kernersville-NC-27284/65031749_zpid/
-"8537 Woodford Bridge Dr, Charlotte, NC 28216",324900,3.0,2.0,1540.0,https://www.zillow.com//homedetails/8537-Woodford-Bridge-Dr-Charlotte-NC-28216/6138820_zpid/
-"2124 N Hills Dr, Raleigh, NC 27612",575000,4.0,2.0,2047.0,https://www.zillow.com//homedetails/2124-N-Hills-Dr-Raleigh-NC-27612/6397889_zpid/
-"73 Petticoat Jct, Hayesville, NC 28904",210000,3.0,2.0,960.0,https://www.zillow.com//homedetails/73-Petticoat-Jct-Hayesville-NC-28904/236179754_zpid/
-"190 Heathergate Ln, Stanley, NC 28164",475000,3.0,3.0,2151.0,https://www.zillow.com//homedetails/190-Heathergate-Ln-Stanley-NC-28164/5891169_zpid/
-"92 Bailey Rd, Candler, NC 28715",205000,2.0,1.0,864.0,https://www.zillow.com//homedetails/92-Bailey-Rd-Candler-NC-28715/53165591_zpid/
-"1608 Dartmoor Ave NW, Concord, NC 28027",499000,4.0,3.0,2770.0,https://www.zillow.com//homedetails/1608-Dartmoor-Ave-NW-Concord-NC-28027/80204613_zpid/
-"100 Foch St, Fayetteville, NC 28306",155000,3.0,1.0,1685.0,https://www.zillow.com//homedetails/100-Foch-St-Fayetteville-NC-28306/53664649_zpid/
-"1310 Lamms Grove Road, Carthage, NC 28327",435900,4.0,3.0,2070.0,https://www.zillow.com//homedetails/1310-Lamms-Grove-Rd-Carthage-NC-28327/346994889_zpid/
-"4511 Hezekiah Pl, Charlotte, NC 28215",310000,3.0,2.0,1128.0,https://www.zillow.com//homedetails/4511-Hezekiah-Pl-Charlotte-NC-28215/6200650_zpid/
-"929 Arnold Road, Wilmington, NC 28412",399999,3.0,2.0,1901.0,https://www.zillow.com//homedetails/929-Arnold-Rd-Wilmington-NC-28412/54341261_zpid/
-"1316 Ann Street, Wilmington, NC 28401",269900,3.0,2.0,1162.0,https://www.zillow.com//homedetails/1316-Ann-St-Wilmington-NC-28401/54309572_zpid/
-"448 Johnson Dairy Rd, Mooresville, NC 28115",550000,2.0,2.0,1189.0,https://www.zillow.com//homedetails/448-Johnson-Dairy-Rd-Mooresville-NC-28115/6068216_zpid/
-"277 Archie Mountain Ln, Taylorsville, NC 28681",599900,3.0,3.0,2972.0,https://www.zillow.com//homedetails/277-Archie-Mountain-Ln-Taylorsville-NC-28681/113747157_zpid/
-"59 Myrtle Ave SW, Concord, NC 28025",237500,3.0,1.0,1064.0,https://www.zillow.com//homedetails/59-Myrtle-Ave-SW-Concord-NC-28025/5693885_zpid/
-"269 Ernest Brown Rd, Lillington, NC 27546",169500,3.0,2.0,1615.0,https://www.zillow.com//homedetails/269-Ernest-Brown-Rd-Lillington-NC-27546/71858526_zpid/
-"7719 Berry Crest Ave, Raleigh, NC 27617",625000,3.0,3.0,2721.0,https://www.zillow.com//homedetails/7719-Berry-Crest-Ave-Raleigh-NC-27617/81437228_zpid/
-"1609 Quail Grove St, Willow Spring, NC 27592",324900,3.0,3.0,1629.0,https://www.zillow.com//homedetails/1609-Quail-Grove-St-Willow-Spring-NC-27592/6543554_zpid/
-"9912 Mitchell Glen Dr, Charlotte, NC 28277",650000,4.0,3.0,2657.0,https://www.zillow.com//homedetails/9912-Mitchell-Glen-Dr-Charlotte-NC-28277/54500155_zpid/
-"12660 Boyce Mill Rd, Raleigh, NC 27613",8500000,7.0,11.0,13746.0,https://www.zillow.com//homedetails/12660-Boyce-Mill-Rd-Raleigh-NC-27613/114429956_zpid/
-"115 Highview Cir, Statesville, NC 28625",275000,3.0,3.0,2224.0,https://www.zillow.com//homedetails/115-Highview-Cir-Statesville-NC-28625/6092031_zpid/
-"146 Vertis Covington Road, Rockingham, NC 28379",69900,3.0,1.0,960.0,https://www.zillow.com//homedetails/146-Vertis-Covington-Rd-Rockingham-NC-28379/236430588_zpid/
-"4757 Gum Branch Road, Jacksonville, NC 28540",234900,3.0,2.0,1505.0,https://www.zillow.com//homedetails/4757-Gum-Branch-Rd-Jacksonville-NC-28540/51551184_zpid/
-"515 Lee Hy Dr, Kernersville, NC 27284",110000,3.0,2.0,1248.0,https://www.zillow.com//homedetails/515-Lee-Hy-Dr-Kernersville-NC-27284/439649499_zpid/
-"332 N Milford Dr, Salisbury, NC 28144",489900,4.0,3.0,3024.0,https://www.zillow.com//homedetails/332-N-Milford-Dr-Salisbury-NC-28144/75015450_zpid/
-"8173 State Highway 210 N, Angier, NC 27501",200,3.0,2.0,1800.0,https://www.zillow.com//homedetails/8173-State-Highway-210-N-Angier-NC-27501/71880987_zpid/
-"5909 Clarks Fork Dr, Raleigh, NC 27616",609000,5.0,3.0,3683.0,https://www.zillow.com//homedetails/5909-Clarks-Fork-Dr-Raleigh-NC-27616/60398434_zpid/
-"109 Oakland Ave, Broadway, NC 27505",174900,3.0,2.0,1829.0,https://www.zillow.com//homedetails/109-Oakland-Ave-Broadway-NC-27505/107019329_zpid/
-"1202 Roosevelt Dr, Chapel Hill, NC 27514",798900,4.0,3.0,2231.0,https://www.zillow.com//homedetails/1202-Roosevelt-Dr-Chapel-Hill-NC-27514/50039960_zpid/
-"3215 N Rockingham Rd, Greensboro, NC 27407",3000000,4.0,6.0,8415.0,https://www.zillow.com//homedetails/3215-N-Rockingham-Rd-Greensboro-NC-27407/6008754_zpid/
-"151 Cold Creek Ln #4, Marion, NC 28752",189000,3.0,2.0,0.0,https://www.zillow.com//homedetails/151-Cold-Creek-Ln-4-Marion-NC-28752/340010334_zpid/
-"6335 Byrd Rd, Mebane, NC 27302",475000,3.0,2.0,1670.0,https://www.zillow.com//homedetails/6335-Byrd-Rd-Mebane-NC-27302/442578405_zpid/
-"1970 Old Us Highway 64, Spring Hope, NC 27882",225000,3.0,2.0,1248.0,https://www.zillow.com//homedetails/1970-Old-Us-Highway-64-Spring-Hope-NC-27882/249924822_zpid/
-"445 Bill Allen Branch Rd, Burnsville, NC 28714",330000,2.0,1.0,1065.0,https://www.zillow.com//homedetails/445-Bill-Allen-Branch-Rd-Burnsville-NC-28714/233154470_zpid/
-"906 Delwood St, Sanford, NC 27330",249900,3.0,3.0,1653.0,https://www.zillow.com//homedetails/906-Delwood-St-Sanford-NC-27330/107011605_zpid/
-"2635 S Chipley Ford Rd, Statesville, NC 28625",250000,3.0,2.0,1436.0,https://www.zillow.com//homedetails/2635-S-Chipley-Ford-Rd-Statesville-NC-28625/6084023_zpid/
-"7330 Cassimir Place, Wilmington, NC 28412",350000,3.0,3.0,1838.0,https://www.zillow.com//homedetails/7330-Cassimir-Pl-Wilmington-NC-28412/54347830_zpid/
-"921 Dogwood Dr, Graham, NC 27253",250000,3.0,2.0,1454.0,https://www.zillow.com//homedetails/921-Dogwood-Dr-Graham-NC-27253/51240176_zpid/
-"109 Druid Hills Dr, Lexington, NC 27292",150000,3.0,2.0,1076.0,https://www.zillow.com//homedetails/109-Druid-Hills-Dr-Lexington-NC-27292/5728389_zpid/
-"7524 Henderson Park Rd, Huntersville, NC 28078",435000,4.0,3.0,1853.0,https://www.zillow.com//homedetails/7524-Henderson-Park-Rd-Huntersville-NC-28078/6134686_zpid/
-"261 Franks Cove Rd, Brevard, NC 28712",299000,2.0,2.0,1078.0,https://www.zillow.com//homedetails/261-Franks-Cove-Rd-Brevard-NC-28712/102289267_zpid/
-"4924 Myers Rd, Monroe, NC 28110",175000,2.0,2.0,994.0,https://www.zillow.com//homedetails/4924-Myers-Rd-Monroe-NC-28110/6349296_zpid/
-"1314 Waxhaw Indian Trail Rd S, Waxhaw, NC 28173",210000,3.0,2.0,1671.0,https://www.zillow.com//homedetails/1314-Waxhaw-Indian-Trail-Rd-S-Waxhaw-NC-28173/6345438_zpid/
-"714 S Scientific St, High Point, NC 27260",279000,3.0,2.0,1378.0,https://www.zillow.com//homedetails/714-S-Scientific-St-High-Point-NC-27260/6026911_zpid/
-"5303 Shasta Hill Ct, Charlotte, NC 28211",995000,4.0,3.0,2923.0,https://www.zillow.com//homedetails/5303-Shasta-Hill-Ct-Charlotte-NC-28211/6270806_zpid/
-"1578 Teague Meadow Ln, Winston Salem, NC 27107",457000,3.0,3.0,2162.0,https://www.zillow.com//homedetails/1578-Teague-Meadow-Ln-Winston-Salem-NC-27107/5776638_zpid/
-"2384 Okalina Ave, Winston Salem, NC 27105",150000,3.0,2.0,1421.0,https://www.zillow.com//homedetails/2384-Okalina-Ave-Winston-Salem-NC-27105/5761932_zpid/
-"6095 Glenacre Dr, Kernersville, NC 27284",409000,3.0,4.0,2853.0,https://www.zillow.com//homedetails/6095-Glenacre-Dr-Kernersville-NC-27284/5831946_zpid/
-"8820 Oneal Rd, Raleigh, NC 27613",900000,5.0,4.0,3833.0,https://www.zillow.com//homedetails/8820-Oneal-Rd-Raleigh-NC-27613/6417509_zpid/
-"210 Carpenter St, Gastonia, NC 28054",120000,2.0,1.0,0.0,https://www.zillow.com//homedetails/210-Carpenter-St-Gastonia-NC-28054/70501804_zpid/
-"675 Sink Lake Rd, High Point, NC 27265",187000,3.0,2.0,1582.0,https://www.zillow.com//homedetails/675-Sink-Lake-Rd-High-Point-NC-27265/53134032_zpid/
-"1817 Center St, Winston Salem, NC 27127",189800,3.0,1.0,1354.0,https://www.zillow.com//homedetails/1817-Center-St-Winston-Salem-NC-27127/5752853_zpid/
-"75 Red Fox Ln, Franklin, NC 28734",174900,3.0,2.0,1000.0,https://www.zillow.com//homedetails/75-Red-Fox-Ln-Franklin-NC-28734/65658289_zpid/
-"3811 Bison Hill Ln, Raleigh, NC 27604",275000,3.0,3.0,1421.0,https://www.zillow.com//homedetails/3811-Bison-Hill-Ln-Raleigh-NC-27604/80200779_zpid/
-"202 S 18th St, Erwin, NC 28339",199000,3.0,2.0,1269.0,https://www.zillow.com//homedetails/202-S-18th-St-Erwin-NC-28339/71872311_zpid/
-"19125 Peninsula Point Dr, Cornelius, NC 28031",17895000,6.0,9.0,12002.0,https://www.zillow.com//homedetails/19125-Peninsula-Point-Dr-Cornelius-NC-28031/6124397_zpid/
-"50224 Snug Harbor Dr LOT 271, Frisco, NC 27936",699000,4.0,3.0,2609.0,https://www.zillow.com//homedetails/50224-Snug-Harbor-Dr-LOT-271-Frisco-NC-27936/2076501255_zpid/
-"120 Willowbrook Drive, Pikeville, NC 27863",270000,3.0,2.0,1441.0,https://www.zillow.com//homedetails/120-Willowbrook-Dr-Pikeville-NC-27863/224175101_zpid/
-"54 Big Bear Dr, Pisgah Forest, NC 28768",145000,2.0,1.0,889.0,https://www.zillow.com//homedetails/54-Big-Bear-Dr-Pisgah-Forest-NC-28768/102313936_zpid/
-"1738 Burton St, Winston Salem, NC 27105",175000,3.0,2.0,1205.0,https://www.zillow.com//homedetails/1738-Burton-St-Winston-Salem-NC-27105/117618266_zpid/
-"3969 Carbonton Rd, Sanford, NC 27330",325000,3.0,2.0,1831.0,https://www.zillow.com//homedetails/3969-Carbonton-Rd-Sanford-NC-27330/107004492_zpid/
-"2664 Charles Teague Pl, Lenoir, NC 28645",189900,3.0,2.0,1413.0,https://www.zillow.com//homedetails/2664-Charles-Teague-Pl-Lenoir-NC-28645/70088747_zpid/
-"5717 Pine Street NE, Winnabow, NC 28479",199000,4.0,2.0,2035.0,https://www.zillow.com//homedetails/5717-Pine-St-NE-Winnabow-NC-28479/78267448_zpid/
-"117 S Discovery St, Rocky Mount, NC 27801",89950,3.0,2.0,2047.0,https://www.zillow.com//homedetails/117-S-Discovery-St-Rocky-Mount-NC-27801/68677417_zpid/
-"673 Cape Hickory Rd, Hickory, NC 28601",399900,4.0,2.0,2827.0,https://www.zillow.com//homedetails/673-Cape-Hickory-Rd-Hickory-NC-28601/227267204_zpid/
-"5126 Misty Ln, Oxford, NC 27565",549900,4.0,3.0,3000.0,https://www.zillow.com//homedetails/5126-Misty-Ln-Oxford-NC-27565/86678261_zpid/
-"625 Green Willow Cir, Wendell, NC 27591",419900,4.0,3.0,2260.0,https://www.zillow.com//homedetails/625-Green-Willow-Cir-Wendell-NC-27591/6430132_zpid/
-"10080 S Chicken Rd, Fairmont, NC 28340",169999,3.0,3.0,2747.0,https://www.zillow.com//homedetails/10080-S-Chicken-Rd-Fairmont-NC-28340/118978971_zpid/
-"3520 Courtland Dr, Durham, NC 27707",440000,3.0,2.0,1449.0,https://www.zillow.com//homedetails/3520-Courtland-Dr-Durham-NC-27707/49991425_zpid/
-"701 Scotts Ridge Trl, Apex, NC 27502",599900,4.0,4.0,2464.0,https://www.zillow.com//homedetails/701-Scotts-Ridge-Trl-Apex-NC-27502/53456334_zpid/
-"1916 Elmwood Dr, Gastonia, NC 28054",250000,3.0,3.0,1589.0,https://www.zillow.com//homedetails/1916-Elmwood-Dr-Gastonia-NC-28054/5854305_zpid/
-"266 Bowlick Lane, Elk Park, NC 28622",299000,2.0,2.0,1506.0,https://www.zillow.com//homedetails/266-Bowlick-Ln-Elk-Park-NC-28622/430993646_zpid/
-"651 Fowler Manning Road, Richlands, NC 28574",239000,3.0,2.0,2117.0,https://www.zillow.com//homedetails/651-Fowler-Manning-Rd-Richlands-NC-28574/199867837_zpid/
-"115 Cheviot Dr, Kernersville, NC 27284",349900,4.0,3.0,2195.0,https://www.zillow.com//homedetails/115-Cheviot-Dr-Kernersville-NC-27284/5837584_zpid/
-"5422 Glen Forest Dr, Charlotte, NC 28226",799900,4.0,3.0,2533.0,https://www.zillow.com//homedetails/5422-Glen-Forest-Dr-Charlotte-NC-28226/65010175_zpid/
-"7001 Starvalley Dr, Charlotte, NC 28210",560000,3.0,2.0,1300.0,https://www.zillow.com//homedetails/7001-Starvalley-Dr-Charlotte-NC-28210/6260756_zpid/
-"1292 McKinney Mine Rd, Spruce Pine, NC 28777",199900,3.0,2.0,2495.0,https://www.zillow.com//homedetails/1292-McKinney-Mine-Rd-Spruce-Pine-NC-28777/114815068_zpid/
-"410 Sierra Drive, Wilmington, NC 28409",450000,3.0,2.0,1492.0,https://www.zillow.com//homedetails/410-Sierra-Dr-Wilmington-NC-28409/54338700_zpid/
-"1816 Center Ridge Dr, Apex, NC 27502",1500000,5.0,6.0,5023.0,https://www.zillow.com//homedetails/1816-Center-Ridge-Dr-Apex-NC-27502/248755060_zpid/
-"1024 8th St, Statesville, NC 28677",245000,5.0,2.0,1663.0,https://www.zillow.com//homedetails/1024-8th-St-Statesville-NC-28677/6081899_zpid/
-"452 W Huckleberry Way, Rocky Point, NC 28457",399000,4.0,3.0,2033.0,https://www.zillow.com//homedetails/452-W-Huckleberry-Way-Rocky-Point-NC-28457/250382398_zpid/
-"3105 Hanging Dog Rd, Murphy, NC 28906",147500,3.0,2.0,1033.0,https://www.zillow.com//homedetails/3105-Hanging-Dog-Rd-Murphy-NC-28906/106958614_zpid/
-"6102 Joshua Tree Ct, Charlotte, NC 28227",336000,3.0,3.0,1584.0,https://www.zillow.com//homedetails/6102-Joshua-Tree-Ct-Charlotte-NC-28227/6211169_zpid/
-"811 Markham Rd, Tryon, NC 28782",125000,2.0,2.0,1177.0,https://www.zillow.com//homedetails/811-Markham-Rd-Tryon-NC-28782/232564473_zpid/
-"200 Little Big Horn Dr, Dallas, NC 28034",249900,2.0,2.0,1746.0,https://www.zillow.com//homedetails/200-Little-Big-Horn-Dr-Dallas-NC-28034/5888431_zpid/
-"1890 Rhyne Land Rd, Lincolnton, NC 28092",299900,3.0,2.0,1712.0,https://www.zillow.com//homedetails/1890-Rhyne-Land-Rd-Lincolnton-NC-28092/6111464_zpid/
-"2900 Chellowe Court, Winterville, NC 28590",232000,3.0,2.0,1377.0,https://www.zillow.com//homedetails/2900-Chellowe-Ct-Winterville-NC-28590/102238110_zpid/
-"1819 Robbie Ct, Graham, NC 27253",340000,3.0,2.0,1633.0,https://www.zillow.com//homedetails/1819-Robbie-Ct-Graham-NC-27253/51238806_zpid/
-"3004 Ridge Ave, Charlotte, NC 28208",290000,4.0,2.0,1250.0,https://www.zillow.com//homedetails/3004-Ridge-Ave-Charlotte-NC-28208/6239868_zpid/
-"184 Porch View Dr, Sylva, NC 28779",750000,5.0,3.0,-,https://www.zillow.com//homedetails/184-Porch-View-Dr-Sylva-NC-28779/84720712_zpid/
-"260 S Rocky River Rd, Sanford, NC 27330",150000,2.0,1.0,932.0,https://www.zillow.com//homedetails/260-S-Rocky-River-Rd-Sanford-NC-27330/440534358_zpid/
-"66 Hardy Rd, Wendell, NC 27591",350000,3.0,2.0,1559.0,https://www.zillow.com//homedetails/66-Hardy-Rd-Wendell-NC-27591/69098339_zpid/
-"220 Aldridge Ln, Archdale, NC 27263",299000,3.0,3.0,1808.0,https://www.zillow.com//homedetails/220-Aldridge-Ln-Archdale-NC-27263/50078451_zpid/
-"1912 Garner Glen Dr, Raleigh, NC 27603",310000,3.0,2.0,1300.0,https://www.zillow.com//homedetails/1912-Garner-Glen-Dr-Raleigh-NC-27603/6393650_zpid/
-"4182 Duff Dr, Hudson, NC 28638",239900,4.0,3.0,2481.0,https://www.zillow.com//homedetails/4182-Duff-Dr-Hudson-NC-28638/70079480_zpid/
-"44339 Us Highway 52 N, Richfield, NC 28137",375000,3.0,2.0,1784.0,https://www.zillow.com//homedetails/44339-Us-Highway-52-N-Richfield-NC-28137/71396166_zpid/
-"80 Waynes Ln, Middlesex, NC 27557",224900,3.0,2.0,1155.0,https://www.zillow.com//homedetails/80-Waynes-Ln-Middlesex-NC-27557/442612602_zpid/
-"472 Picadilly Ln, Troutman, NC 28166",273000,3.0,3.0,1435.0,https://www.zillow.com//homedetails/472-Picadilly-Ln-Troutman-NC-28166/440960363_zpid/
-"2660 Shiloh Dr, Winston Salem, NC 27106",174500,3.0,2.0,1667.0,https://www.zillow.com//homedetails/2660-Shiloh-Dr-Winston-Salem-NC-27106/5788917_zpid/
-"5329 Thistlebrook Ct, Raleigh, NC 27610",345000,3.0,2.0,1872.0,https://www.zillow.com//homedetails/5329-Thistlebrook-Ct-Raleigh-NC-27610/6487197_zpid/
-"3701 Castlegate Dr, Raleigh, NC 27616",259900,2.0,2.0,912.0,https://www.zillow.com//homedetails/3701-Castlegate-Dr-Raleigh-NC-27616/6508347_zpid/
-"9845 Swamp Fox Highway E, Tabor City, NC 28463",199900,3.0,2.0,1800.0,https://www.zillow.com//homedetails/9845-Swamp-Fox-Hwy-E-Tabor-City-NC-28463/225686555_zpid/
-"5126 Blakeshire Rd, Greensboro, NC 27406",699900,3.0,3.0,3678.0,https://www.zillow.com//homedetails/5126-Blakeshire-Rd-Greensboro-NC-27406/5982576_zpid/
-"2185 Bayside Street SW, Supply, NC 28462",287900,4.0,3.0,1852.0,https://www.zillow.com//homedetails/2185-Bayside-St-SW-Supply-NC-28462/84168638_zpid/
-"600 S Chapel St, Landis, NC 28088",199000,3.0,2.0,1550.0,https://www.zillow.com//homedetails/600-S-Chapel-St-Landis-NC-28088/75010117_zpid/
-"413 Raleigh Avenue, Carolina Beach, NC 28428",459900,2.0,2.0,800.0,https://www.zillow.com//homedetails/413-Raleigh-Ave-Carolina-Beach-NC-28428/54351951_zpid/
-"1497 Secluded Valley Rd, Marshall, NC 28753",299000,2.0,2.0,1073.0,https://www.zillow.com//homedetails/1497-Secluded-Valley-Rd-Marshall-NC-28753/233616198_zpid/
-"4413 Old Colony Rd, Raleigh, NC 27613",419900,4.0,3.0,2004.0,https://www.zillow.com//homedetails/4413-Old-Colony-Rd-Raleigh-NC-27613/6446692_zpid/
-"4 Brae Burn Dr, Arden, NC 28704",450000,4.0,3.0,3187.0,https://www.zillow.com//homedetails/4-Brae-Burn-Dr-Arden-NC-28704/5625592_zpid/
-"348 Laurelwood Lane, Boone, NC 28607",350000,2.0,3.0,882.0,https://www.zillow.com//homedetails/348-Laurelwood-Ln-Boone-NC-28607/402474743_zpid/
-"3612 Ladywood Ct, Raleigh, NC 27616",334900,3.0,2.0,1440.0,https://www.zillow.com//homedetails/3612-Ladywood-Ct-Raleigh-NC-27616/6488720_zpid/
-"102 Northwinds North Dr, Wendell, NC 27591",275000,3.0,2.0,1191.0,https://www.zillow.com//homedetails/102-Northwinds-North-Dr-Wendell-NC-27591/6550610_zpid/
-"1738 Firetower Rd, Louisburg, NC 27549",495000,3.0,2.0,2433.0,https://www.zillow.com//homedetails/1738-Firetower-Rd-Louisburg-NC-27549/49957019_zpid/
-"3639 Nc 43 Hy N, Greenville, NC 27834",269500,4.0,2.0,2527.0,https://www.zillow.com//homedetails/3639-State-Highway-43-N-Greenville-NC-27834/51443927_zpid/
-"645 Line Rd, Cameron, NC 28326",249990,3.0,2.0,1558.0,https://www.zillow.com//homedetails/645-Line-Rd-Cameron-NC-28326/71895341_zpid/
-"415 Wayfield Ln, Cary, NC 27518",949000,4.0,4.0,4068.0,https://www.zillow.com//homedetails/415-Wayfield-Ln-Cary-NC-27518/53457518_zpid/
-"207 Camden Park Drive, Goldsboro, NC 27530",289900,3.0,2.0,1698.0,https://www.zillow.com//homedetails/207-Camden-Park-Dr-Goldsboro-NC-27530/224170766_zpid/
-"507 Courtney Ln, Canton, NC 28716",200000,2.0,2.0,1120.0,https://www.zillow.com//homedetails/507-Courtney-Ln-Canton-NC-28716/65668184_zpid/
-"257 Morning Mist Dr, Boomer, NC 28606",349900,3.0,2.0,1731.0,https://www.zillow.com//homedetails/257-Morning-Mist-Dr-Boomer-NC-28606/248813139_zpid/
-"1755 N Main St, China Grove, NC 28023",240000,2.0,2.0,958.0,https://www.zillow.com//homedetails/1755-N-Main-St-China-Grove-NC-28023/75004561_zpid/
-"104 Barbee Rd SW, Concord, NC 28027",250000,3.0,2.0,1020.0,https://www.zillow.com//homedetails/104-Barbee-Rd-SW-Concord-NC-28027/5662513_zpid/
-"308 Trimble Ave, Cary, NC 27511",499999,3.0,3.0,2048.0,https://www.zillow.com//homedetails/308-Trimble-Ave-Cary-NC-27511/6506937_zpid/
-"4737 Oakview Drive SE, Southport, NC 28461",250000,3.0,2.0,1343.0,https://www.zillow.com//homedetails/4737-Oakview-Dr-SE-Southport-NC-28461/78253254_zpid/
-"4827 Camilla Dr, Charlotte, NC 28226",2499999,6.0,8.0,6964.0,https://www.zillow.com//homedetails/4827-Camilla-Dr-Charlotte-NC-28226/6295167_zpid/
-"2717 Madison Oaks Ct, Charlotte, NC 28226",1175000,6.0,5.0,5359.0,https://www.zillow.com//homedetails/2717-Madison-Oaks-Ct-Charlotte-NC-28226/80467893_zpid/
-"1208 Turnstone Drive, Rocky Mount, NC 27803",242900,3.0,3.0,1489.0,https://www.zillow.com//homedetails/1208-Turnstone-Dr-Rocky-Mount-NC-27803/75000192_zpid/
-"182 Clayton St, Winston Salem, NC 27105",194800,3.0,3.0,3068.0,https://www.zillow.com//homedetails/182-Clayton-St-Winston-Salem-NC-27105/5764512_zpid/
-"7901 Tulip Cir, Raleigh, NC 27606",702000,5.0,3.0,4112.0,https://www.zillow.com//homedetails/7901-Tulip-Cir-Raleigh-NC-27606/6465007_zpid/
-"931 E 21st St, Winston Salem, NC 27105",235000,3.0,2.0,1316.0,https://www.zillow.com//homedetails/931-E-21st-St-Winston-Salem-NC-27105/249361434_zpid/
-"28 Forest Lake Cir, Greensboro, NC 27407",379000,3.0,3.0,2658.0,https://www.zillow.com//homedetails/28-Forest-Lake-Cir-Greensboro-NC-27407/5969471_zpid/
-"374 Mills Gap Rd, Fletcher, NC 28732",365000,3.0,2.0,1427.0,https://www.zillow.com//homedetails/374-Mills-Gap-Rd-Fletcher-NC-28732/440814557_zpid/
-"6104 Howards Creek Road, Boone, NC 28607",449900,2.0,1.0,922.0,https://www.zillow.com//homedetails/6104-Howards-Creek-Rd-Boone-NC-28607/102351249_zpid/
-"166 Wallace Road, Beaufort, NC 28516",524900,2.0,2.0,1584.0,https://www.zillow.com//homedetails/166-Wallace-Rd-Beaufort-NC-28516/101992343_zpid/
-"116 Drew Ct, Clayton, NC 27520",330000,3.0,2.0,1305.0,https://www.zillow.com//homedetails/116-Drew-Ct-Clayton-NC-27520/69099155_zpid/
-"1915 Wedgedale Dr, Charlotte, NC 28210",639000,3.0,2.0,1820.0,https://www.zillow.com//homedetails/1915-Wedgedale-Dr-Charlotte-NC-28210/6259459_zpid/
-"1507 Rosewood St, Durham, NC 27701",330000,4.0,3.0,2906.0,https://www.zillow.com//homedetails/1507-Rosewood-St-Durham-NC-27701/49979119_zpid/
-"438 Old Merry Hill Road, Merry Hill, NC 27957",85000,4.0,2.0,1612.0,https://www.zillow.com//homedetails/438-Old-Merry-Hill-Rd-Merry-Hill-NC-27957/235574060_zpid/
-"154 Deer Run Rd, Canton, NC 28716",415000,2.0,3.0,1950.0,https://www.zillow.com//homedetails/154-Deer-Run-Rd-Canton-NC-28716/65617849_zpid/
-"17929 Pages Pond Ct, Davidson, NC 28036",838000,4.0,4.0,3372.0,https://www.zillow.com//homedetails/17929-Pages-Pond-Ct-Davidson-NC-28036/6128746_zpid/
-"2212 Weybridge Dr, Raleigh, NC 27615",850000,4.0,3.0,3250.0,https://www.zillow.com//homedetails/2212-Weybridge-Dr-Raleigh-NC-27615/6459580_zpid/
-"698 Lava Trl, Fayetteville, NC 28311",154999,3.0,2.0,1278.0,https://www.zillow.com//homedetails/698-Lava-Trl-Fayetteville-NC-28311/53686315_zpid/
-"12561 Talon Drive, Zebulon, NC 27597",249900,4.0,2.0,2105.0,https://www.zillow.com//homedetails/12561-Talon-Dr-Zebulon-NC-27597/74985634_zpid/
-"180 Four Andrews Dr, Harmony, NC 28634",245000,4.0,3.0,1841.0,https://www.zillow.com//homedetails/180-Four-Andrews-Dr-Harmony-NC-28634/196800763_zpid/
-"309 N Elm St, Marshville, NC 28103",175000,4.0,3.0,2370.0,https://www.zillow.com//homedetails/309-N-Elm-St-Marshville-NC-28103/6334707_zpid/
-"164 Great Neck Road, Havelock, NC 28532",549000,3.0,3.0,1996.0,https://www.zillow.com//homedetails/164-Great-Neck-Rd-Havelock-NC-28532/78295017_zpid/
-"2101 Darian Way, Waxhaw, NC 28173",825000,5.0,4.0,4587.0,https://www.zillow.com//homedetails/2101-Darian-Way-Waxhaw-NC-28173/117890884_zpid/
-"340 LAUREL PARK Road, Blowing Rock, NC 28605",13975000,5.0,7.0,8196.0,https://www.zillow.com//homedetails/340-Laurel-Park-Rd-Blowing-Rock-NC-28605/102347656_zpid/
-"7613 Rolling Meadows Ln, Huntersville, NC 28078",350000,3.0,3.0,1421.0,https://www.zillow.com//homedetails/7613-Rolling-Meadows-Ln-Huntersville-NC-28078/65003437_zpid/
-"685 Shumont Rd, Black Mountain, NC 28711",250000,2.0,1.0,576.0,https://www.zillow.com//homedetails/685-Shumont-Rd-Black-Mountain-NC-28711/5590682_zpid/
-"510 S Hoyle St, Dallas, NC 28034",159900,3.0,2.0,1040.0,https://www.zillow.com//homedetails/510-S-Hoyle-St-Dallas-NC-28034/440822942_zpid/
-"2930 Silkstream Ln, Charlotte, NC 28262",318000,3.0,2.0,1558.0,https://www.zillow.com//homedetails/2930-Silkstream-Ln-Charlotte-NC-28262/6165972_zpid/
-"315 Dusty Holw, Bostic, NC 28018",79900,3.0,1.0,924.0,https://www.zillow.com//homedetails/315-Dusty-Holw-Bostic-NC-28018/102226031_zpid/
-"2925 Coachway Dr, Fayetteville, NC 28306",259900,4.0,2.0,1550.0,https://www.zillow.com//homedetails/2925-Coachway-Dr-Fayetteville-NC-28306/53702054_zpid/
-"210 Sea Manor Drive, Surf City, NC 28445",849000,4.0,3.0,2050.0,https://www.zillow.com//homedetails/210-Sea-Manor-Dr-Surf-City-NC-28445/102129179_zpid/
-"513 2nd St, Spencer, NC 28159",200000,5.0,2.0,2584.0,https://www.zillow.com//homedetails/513-2nd-St-Spencer-NC-28159/75016516_zpid/
-"210 Preston Pines Dr, Cary, NC 27513",711000,4.0,3.0,2400.0,https://www.zillow.com//homedetails/210-Preston-Pines-Dr-Cary-NC-27513/6518240_zpid/
-"6916 Bill Poole Rd, Rougemont, NC 27572",500000,4.0,3.0,1900.0,https://www.zillow.com//homedetails/6916-Bill-Poole-Rd-Rougemont-NC-27572/251693007_zpid/
-"24 Manito Pl, Clayton, NC 27520",289000,3.0,3.0,1578.0,https://www.zillow.com//homedetails/24-Manito-Pl-Clayton-NC-27520/250040154_zpid/
-"304 Hardwood Ridge Ct, Clayton, NC 27520",390000,3.0,3.0,1554.0,https://www.zillow.com//homedetails/304-Hardwood-Ridge-Ct-Clayton-NC-27520/6450035_zpid/
-"475 Whispering Springs Ln, Topton, NC 28781",195000,3.0,2.0,2300.0,https://www.zillow.com//homedetails/475-Whispering-Springs-Ln-Topton-NC-28781/65656670_zpid/
-"4762 Polk Ford Rd, Stanfield, NC 28163",288900,3.0,2.0,1750.0,https://www.zillow.com//homedetails/4762-Polk-Ford-Rd-Stanfield-NC-28163/71395324_zpid/
-"3641 Meadow Creek Ln, Raleigh, NC 27616",290000,3.0,2.0,1308.0,https://www.zillow.com//homedetails/3641-Meadow-Creek-Ln-Raleigh-NC-27616/6500624_zpid/
-"5814 Valhalla Ct, Fayetteville, NC 28304",240000,3.0,2.0,1578.0,https://www.zillow.com//homedetails/5814-Valhalla-Ct-Fayetteville-NC-28304/53621618_zpid/
-"455 New Haw Creek Rd, Asheville City, NC 28805",435000,3.0,2.0,1120.0,https://www.zillow.com//homedetails/455-New-Haw-Creek-Rd-Asheville-City-NC-28805/5623111_zpid/
-"2505 Friendly Trl, Raleigh, NC 27610",310000,4.0,2.0,1611.0,https://www.zillow.com//homedetails/2505-Friendly-Trl-Raleigh-NC-27610/6425184_zpid/
-"125 Butterfly Creek Drive, Seven Springs, NC 28578",699900,3.0,3.0,3066.0,https://www.zillow.com//homedetails/125-Butterfly-Creek-Dr-Seven-Springs-NC-28578/224148621_zpid/
-"110 Luangthep Ln, Statesville, NC 28625",169900,4.0,2.0,1944.0,https://www.zillow.com//homedetails/110-Luangthep-Ln-Statesville-NC-28625/60305682_zpid/
-"105 Ridgewood Court, Jacksonville, NC 28546",315000,4.0,3.0,2244.0,https://www.zillow.com//homedetails/105-Ridgewood-Ct-Jacksonville-NC-28546/60827103_zpid/
-"507 Reeves Ave, Albemarle, NC 28001",225000,3.0,2.0,1359.0,https://www.zillow.com//homedetails/507-Reeves-Ave-Albemarle-NC-28001/71401707_zpid/
-"5336 Covington Cross Dr, Knightdale, NC 27545",289500,3.0,2.0,1216.0,https://www.zillow.com//homedetails/5336-Covington-Cross-Dr-Knightdale-NC-27545/6554883_zpid/
-"725 Lightspun Ln, Charlotte, NC 28216",213500,3.0,1.0,1000.0,https://www.zillow.com//homedetails/725-Lightspun-Ln-Charlotte-NC-28216/6156525_zpid/
-"574 Cat Square Rd, Lincolnton, NC 28092",269900,2.0,2.0,1321.0,https://www.zillow.com//homedetails/574-Cat-Square-Rd-Lincolnton-NC-28092/6104824_zpid/
-"3107 Farmington Dr, Greensboro, NC 27407",259000,3.0,2.0,1529.0,https://www.zillow.com//homedetails/3107-Farmington-Dr-Greensboro-NC-27407/5936580_zpid/
-"216 Foxcroft Road, Southport, NC 28461",239900,3.0,3.0,1610.0,https://www.zillow.com//homedetails/216-Foxcroft-Rd-Southport-NC-28461/81583989_zpid/
-"9435 Squirrel Hollow Ln, Charlotte, NC 28270",725000,4.0,3.0,2648.0,https://www.zillow.com//homedetails/9435-Squirrel-Hollow-Ln-Charlotte-NC-28270/6321766_zpid/
-"107 Maurice St, Monroe, NC 28112",293000,4.0,3.0,2294.0,https://www.zillow.com//homedetails/107-Maurice-St-Monroe-NC-28112/6367905_zpid/
-"117 Wilson Run, Bunnlevel, NC 28323",235000,3.0,2.0,1284.0,https://www.zillow.com//homedetails/117-Wilson-Run-Bunnlevel-NC-28323/71859235_zpid/
-"5311 Fairground Rd, Dunn, NC 28334",499900,4.0,4.0,4323.0,https://www.zillow.com//homedetails/5311-Fairground-Rd-Dunn-NC-28334/82174744_zpid/
-"5600 W Chop Way, Wilmington, NC 28412",377500,3.0,2.0,1511.0,https://www.zillow.com//homedetails/5600-W-Chop-Way-Wilmington-NC-28412/54341635_zpid/
-"3108 Eric St, Willow Spring, NC 27592",337000,3.0,3.0,1597.0,https://www.zillow.com//homedetails/3108-Eric-St-Willow-Spring-NC-27592/50104142_zpid/
-"2824 N Brevard St, Charlotte, NC 28205",549900,-,-,-,https://www.zillow.com//homedetails/2824-N-Brevard-St-Charlotte-NC-28205/6188159_zpid/
-"70 McNichol Ct, Clayton, NC 27520",390000,3.0,2.0,1675.0,https://www.zillow.com//homedetails/70-McNichol-Ct-Clayton-NC-27520/69113950_zpid/
-"15 S Indiancreek Pl, Durham, NC 27703",334900,3.0,3.0,1782.0,https://www.zillow.com//homedetails/15-S-Indiancreek-Pl-Durham-NC-27703/50011892_zpid/
-"301 Bear Track Lane UNIT 25, Lenoir, NC 28645",79000,-,-,-,https://www.zillow.com//homedetails/301-Bear-Track-Ln-25-Lenoir-NC-28645/439967023_zpid/
-"432 Park Ave, Salisbury, NC 28144",269000,6.0,2.0,4330.0,https://www.zillow.com//homedetails/432-Park-Ave-Salisbury-NC-28144/203741721_zpid/
-"2080 Ranger Rd, Murphy, NC 28906",160000,2.0,1.0,900.0,https://www.zillow.com//homedetails/2080-Ranger-Rd-Murphy-NC-28906/230505611_zpid/
-"1016 Atherton Dr, Indian Trail, NC 28079",774900,5.0,5.0,3601.0,https://www.zillow.com//homedetails/1016-Atherton-Dr-Indian-Trail-NC-28079/125116504_zpid/
-"8816 Knights Union Way, Wake Forest, NC 27587",700000,4.0,3.0,3500.0,https://www.zillow.com//homedetails/8816-Knights-Union-Way-Wake-Forest-NC-27587/215486968_zpid/
-"3102 Williams Station Road, Matthews, NC 28105",549000,5.0,4.0,2922.0,https://www.zillow.com//homedetails/3102-Williams-Station-Rd-Matthews-NC-28105/63813991_zpid/
-"2124 Caleo Cir, Charlotte, NC 28270",525000,4.0,3.0,3028.0,https://www.zillow.com//homedetails/2124-Caleo-Cir-Charlotte-NC-28270/2074099664_zpid/
-"3123 Windsor Dr, Charlotte, NC 28209",1500000,4.0,3.0,3005.0,https://www.zillow.com//homedetails/3123-Windsor-Dr-Charlotte-NC-28209/6263586_zpid/
-"18 Abbottsford Drive, Pinehurst, NC 28374",889000,4.0,4.0,4242.0,https://www.zillow.com//homedetails/18-Abbottsford-Dr-Pinehurst-NC-28374/74961046_zpid/
-"732 N Pleasant Coates Rd, Benson, NC 27504",272500,3.0,2.0,1152.0,https://www.zillow.com//homedetails/732-N-Pleasant-Coates-Rd-Benson-NC-27504/69100410_zpid/
-"8049 Serendipity Ln, Charlotte, NC 28277",525000,3.0,3.0,2098.0,https://www.zillow.com//homedetails/8049-Serendipity-Ln-Charlotte-NC-28277/6317960_zpid/
-"2523 Carya Pond Ln, Charlotte, NC 28212",194000,2.0,2.0,1149.0,https://www.zillow.com//homedetails/2523-Carya-Pond-Ln-Charlotte-NC-28212/65008254_zpid/
-"712 Country Club Road, Jacksonville, NC 28546",229900,3.0,2.0,1752.0,https://www.zillow.com//homedetails/712-Country-Club-Rd-Jacksonville-NC-28546/51556906_zpid/
-"213 Mill Creek Dr, Youngsville, NC 27596",285000,3.0,2.0,1000.0,https://www.zillow.com//homedetails/213-Mill-Creek-Dr-Youngsville-NC-27596/58354600_zpid/
-"7167 Farm Loop Path SW, Sunset Beach, NC 28468",325000,4.0,2.0,1739.0,https://www.zillow.com//homedetails/7167-Farm-Loop-Path-SW-Sunset-Beach-NC-28468/78218845_zpid/
-"78 & 126 Mountain Magnolia Dr, Leicester, NC 28748",89111,-,-,-,https://www.zillow.com//homedetails/78-126-Mountain-Magnolia-Dr-Leicester-NC-28748/2053645358_zpid/
-"208 Webb Street, Hertford, NC 27944",265000,2.0,2.0,1872.0,https://www.zillow.com//homedetails/208-Webb-St-Hertford-NC-27944/116101132_zpid/
-"106 Dunbar Lane, Jacksonville, NC 28540",299999,4.0,3.0,1904.0,https://www.zillow.com//homedetails/106-Dunbar-Ln-Jacksonville-NC-28540/51563853_zpid/
-"4165 54th Ave NE, Hickory, NC 28601",2275000,4.0,6.0,7251.0,https://www.zillow.com//homedetails/4165-54th-Ave-NE-Hickory-NC-28601/71960016_zpid/
-"114 Whitetail Ct, Raeford, NC 28376",249900,3.0,2.0,1472.0,https://www.zillow.com//homedetails/114-Whitetail-Ct-Raeford-NC-28376/248368514_zpid/
-"906 E Main St, Plymouth, NC 27962",185000,3.0,2.0,2061.0,https://www.zillow.com//homedetails/906-E-Main-St-Plymouth-NC-27962/107066702_zpid/
-"17 Moonlight Trl, Bryson City, NC 28713",293000,2.0,2.0,1074.0,https://www.zillow.com//homedetails/17-Moonlight-Trl-Bryson-City-NC-28713/107060205_zpid/
-"6701 1st Ave, Indian Trail, NC 28079",324900,3.0,2.0,1244.0,https://www.zillow.com//homedetails/6701-1st-Ave-Indian-Trail-NC-28079/6351456_zpid/
-"1425 Sky Vista Way, Raleigh, NC 27613",4750000,5.0,7.0,8859.0,https://www.zillow.com//homedetails/1425-Sky-Vista-Way-Raleigh-NC-27613/336860484_zpid/
-"4508 Southport Rd, Greensboro, NC 27410",309900,3.0,3.0,2041.0,https://www.zillow.com//homedetails/4508-Southport-Rd-Greensboro-NC-27410/6003633_zpid/
-"12 Goodwill St, Asheville, NC 28806",250000,2.0,1.0,729.0,https://www.zillow.com//homedetails/12-Goodwill-St-Asheville-NC-28806/5610078_zpid/
-"5205 Rembert Dr, Raleigh, NC 27612",649000,3.0,3.0,2775.0,https://www.zillow.com//homedetails/5205-Rembert-Dr-Raleigh-NC-27612/6413068_zpid/
-"5321 Silas Creek Pkwy, Winston Salem, NC 27106",319000,4.0,3.0,2894.0,https://www.zillow.com//homedetails/5321-Silas-Creek-Pkwy-Winston-Salem-NC-27106/5773855_zpid/
-"204 Mingocrest Dr, Knightdale, NC 27545",349900,3.0,3.0,1528.0,https://www.zillow.com//homedetails/204-Mingocrest-Dr-Knightdale-NC-27545/53455299_zpid/
-"1104 Lombar St, Raleigh, NC 27610",369900,4.0,3.0,2017.0,https://www.zillow.com//homedetails/1104-Lombar-St-Raleigh-NC-27610/81748146_zpid/
-"3809 Avalon Ave, Charlotte, NC 28208",289900,4.0,2.0,2976.0,https://www.zillow.com//homedetails/3809-Avalon-Ave-Charlotte-NC-28208/6176900_zpid/
-"6300 Calico Ct, Wake Forest, NC 27587",349500,3.0,3.0,1991.0,https://www.zillow.com//homedetails/6300-Calico-Ct-Wake-Forest-NC-27587/6527627_zpid/
-"2102 Monticello Dr, Gastonia, NC 28056",375000,3.0,3.0,2395.0,https://www.zillow.com//homedetails/2102-Monticello-Dr-Gastonia-NC-28056/5857122_zpid/
-"2613 Armstrong Cir, Gastonia, NC 28054",325000,3.0,3.0,1542.0,https://www.zillow.com//homedetails/2613-Armstrong-Cir-Gastonia-NC-28054/5858019_zpid/
-"137 Nixons Beach Road, Edenton, NC 27932",879000,4.0,3.0,2762.0,https://www.zillow.com//homedetails/137-Nixons-Beach-Rd-Edenton-NC-27932/233559276_zpid/
-"5365 N State Highway 49, Burlington, NC 27217",470000,3.0,2.0,1840.0,https://www.zillow.com//homedetails/5365-N-State-Highway-49-Burlington-NC-27217/51215328_zpid/
-"5816 Goolsby Ct, Apex, NC 27539",300000,3.0,3.0,1625.0,https://www.zillow.com//homedetails/5816-Goolsby-Ct-Apex-NC-27539/6490261_zpid/
-"138 Wackena Way, Beaufort, NC 28516",699000,3.0,2.0,2100.0,https://www.zillow.com//homedetails/138-Wackena-Way-Beaufort-NC-28516/101996409_zpid/
-"13883 Clayborn St, Midland, NC 28107",262900,2.0,3.0,1238.0,https://www.zillow.com//homedetails/13883-Clayborn-St-Midland-NC-28107/338190241_zpid/
-"46 Bear Rock Rd, Hendersonville, NC 28739",498000,2.0,2.0,1439.0,https://www.zillow.com//homedetails/46-Bear-Rock-Rd-Hendersonville-NC-28739/241562416_zpid/
-"115 Pitt St, Fayetteville, NC 28306",149500,2.0,2.0,1103.0,https://www.zillow.com//homedetails/115-Pitt-St-Fayetteville-NC-28306/53664655_zpid/
-"296 Douglas Falls Dr, Wendell, NC 27591",310000,3.0,3.0,1694.0,https://www.zillow.com//homedetails/296-Douglas-Falls-Dr-Wendell-NC-27591/331653601_zpid/
-"7333 Michaels Landing Dr, Charlotte, NC 28262",230000,2.0,2.0,1220.0,https://www.zillow.com//homedetails/7333-Michaels-Landing-Dr-Charlotte-NC-28262/65021627_zpid/
-"1411 Lineberger Ave, Gastonia, NC 28052",249800,3.0,3.0,1412.0,https://www.zillow.com//homedetails/1411-Lineberger-Ave-Gastonia-NC-28052/5853855_zpid/
-"2204 Hoot Owl Ct, Raleigh, NC 27603",309900,3.0,2.0,1245.0,https://www.zillow.com//homedetails/2204-Hoot-Owl-Ct-Raleigh-NC-27603/6512841_zpid/
-"1748 Chase High Rd, Forest City, NC",29000,-,-,-,"https://www.zillow.com//b/building/35.759575,-79.0193_ll/"
-"1909 W Friendly Ave, Greensboro, NC 27403",999900,4.0,3.0,3005.0,https://www.zillow.com//homedetails/1909-W-Friendly-Ave-Greensboro-NC-27403/5915371_zpid/
-"430 Heart Pine Dr, Wendell, NC 27591",450000,4.0,3.0,2171.0,https://www.zillow.com//homedetails/430-Heart-Pine-Dr-Wendell-NC-27591/337433859_zpid/
-"3855 Angier Ave, Durham, NC 27703",225000,3.0,1.0,1438.0,https://www.zillow.com//homedetails/3855-Angier-Ave-Durham-NC-27703/50009609_zpid/
-"614 3rd Street Pl SW, Conover, NC 28613",200000,3.0,2.0,1201.0,https://www.zillow.com//homedetails/614-3rd-Street-Pl-SW-Conover-NC-28613/71916684_zpid/
-"5517 Oregon Landing Pl, Raleigh, NC 27610",380000,5.0,3.0,2004.0,https://www.zillow.com//homedetails/5517-Oregon-Landing-Pl-Raleigh-NC-27610/60537581_zpid/
-"115 Arrowood Drive, Nashville, NC 27856",154900,4.0,2.0,1104.0,https://www.zillow.com//homedetails/115-Arrowood-Dr-Nashville-NC-27856/216885221_zpid/
-"67 Meherrin Ct, Clayton, NC 27527",495000,4.0,3.0,2544.0,https://www.zillow.com//homedetails/67-Meherrin-Ct-Clayton-NC-27527/124219264_zpid/
-"535 Brooklyn Ave, Cramerton, NC 28032",312000,2.0,2.0,1228.0,https://www.zillow.com//homedetails/535-Brooklyn-Ave-Cramerton-NC-28032/5902977_zpid/
-"206 West Rd, Angier, NC 27501",159700,3.0,1.0,1344.0,https://www.zillow.com//homedetails/206-West-Rd-Angier-NC-27501/68965838_zpid/
-"121 N Anthony St, Burlington, NC 27217",243000,4.0,2.0,1487.0,https://www.zillow.com//homedetails/121-N-Anthony-St-Burlington-NC-27217/51236296_zpid/
-"1214 Charleston Common Dr, Leland, NC",345000,-,-,-,"https://www.zillow.com//b/building/34.203964,-77.9814_ll/"
-"2900 Harper Rd, Clemmons, NC 27012",260000,3.0,2.0,1232.0,https://www.zillow.com//homedetails/2900-Harper-Rd-Clemmons-NC-27012/5806422_zpid/
-"2548 Flintshire Ln, Gastonia, NC 28056",480000,5.0,4.0,3197.0,https://www.zillow.com//homedetails/2548-Flintshire-Ln-Gastonia-NC-28056/144138649_zpid/
-"1324 Eagles Landing Dr, Charlotte, NC 28214",300000,3.0,2.0,1211.0,https://www.zillow.com//homedetails/1324-Eagles-Landing-Dr-Charlotte-NC-28214/6172340_zpid/
-"4638 Hoover Hill Rd, Trinity, NC 27370",190000,3.0,2.0,1025.0,https://www.zillow.com//homedetails/4638-Hoover-Hill-Rd-Trinity-NC-27370/50083518_zpid/
-"811 Colington Dr LOT 92, Kill Devil Hills, NC 27948",519000,4.0,4.0,1940.0,https://www.zillow.com//homedetails/811-Colington-Dr-LOT-92-Kill-Devil-Hills-NC-27948/440953218_zpid/
-"72 Cherokee Rd, Asheville, NC 28806",450000,3.0,3.0,1472.0,https://www.zillow.com//homedetails/72-Cherokee-Rd-Asheville-NC-28806/337340422_zpid/
-"7033 Rothmore St, Charlotte, NC 28215",360000,3.0,3.0,1838.0,https://www.zillow.com//homedetails/7033-Rothmore-St-Charlotte-NC-28215/6208065_zpid/
-"1314 Florida St, High Point, NC 27262",260000,3.0,2.0,1582.0,https://www.zillow.com//homedetails/1314-Florida-St-High-Point-NC-27262/6035445_zpid/
-"5315 Ruth Dr, Charlotte, NC 28215",650000,3.0,3.0,1747.0,https://www.zillow.com//homedetails/5315-Ruth-Dr-Charlotte-NC-28215/6199126_zpid/
-"5355 Covered Bridge Rd, Trinity, NC 27370",164900,3.0,2.0,1341.0,https://www.zillow.com//homedetails/5355-Covered-Bridge-Rd-Trinity-NC-27370/206386987_zpid/
-"3318 Saint Evans Rd, Charlotte, NC 28214",385000,3.0,2.0,1512.0,https://www.zillow.com//homedetails/3318-Saint-Evans-Rd-Charlotte-NC-28214/6168422_zpid/
-"1102 Hayne St, Monroe, NC 28112",39,3.0,1.0,1453.0,https://www.zillow.com//homedetails/1102-Hayne-St-Monroe-NC-28112/6368514_zpid/
-"680 Timberlane Drive, Boone, NC 28607",549000,3.0,3.0,2325.0,https://www.zillow.com//homedetails/680-Timberlane-Dr-Boone-NC-28607/102334841_zpid/
-"2510 Harvard Ave, Durham, NC 27703",457000,3.0,3.0,1854.0,https://www.zillow.com//homedetails/2510-Harvard-Ave-Durham-NC-27703/49976552_zpid/
-"620 Thistlegate Trl, Raleigh, NC 27610",325000,3.0,3.0,1681.0,https://www.zillow.com//homedetails/620-Thistlegate-Trl-Raleigh-NC-27610/6528734_zpid/
-"67 Ridge Haven Rd, Sylva, NC 28779",350000,2.0,2.0,1243.0,https://www.zillow.com//homedetails/67-Ridge-Haven-Rd-Sylva-NC-28779/84709822_zpid/
-"161 Picwyck Dr, Mooresville, NC 28115",674000,3.0,3.0,2486.0,https://www.zillow.com//homedetails/161-Picwyck-Dr-Mooresville-NC-28115/6068699_zpid/
-"128 Fallingwood Cir, Gastonia, NC 28056",485000,3.0,2.0,2377.0,https://www.zillow.com//homedetails/128-Fallingwood-Cir-Gastonia-NC-28056/5900410_zpid/
-"1017 N Sharon Amity Rd, Charlotte, NC 28211",1075000,5.0,4.0,3247.0,https://www.zillow.com//homedetails/1017-N-Sharon-Amity-Rd-Charlotte-NC-28211/6249371_zpid/
-"100 Serenity Circle, Goldsboro, NC 27530",229900,3.0,2.0,1548.0,https://www.zillow.com//homedetails/100-Serenity-Cir-Goldsboro-NC-27530/224140939_zpid/
-"130 Norman Rd, Winston Salem, NC 27106",189000,3.0,2.0,2320.0,https://www.zillow.com//homedetails/130-Norman-Rd-Winston-Salem-NC-27106/5785936_zpid/
-"82 Dula Cv, Weaverville, NC 28787",799900,4.0,3.0,2992.0,https://www.zillow.com//homedetails/82-Dula-Cv-Weaverville-NC-28787/5644990_zpid/
-"1076 Cabin Creek Rd, Oxford, NC 27565",1499000,5.0,5.0,5147.0,https://www.zillow.com//homedetails/1076-Cabin-Creek-Rd-Oxford-NC-27565/93026677_zpid/
-"109 Dawnview Ln, Waxhaw, NC 28173",389999,3.0,3.0,1886.0,https://www.zillow.com//homedetails/109-Dawnview-Ln-Waxhaw-NC-28173/58460800_zpid/
-"195 Miller Rd, Fairview, NC 28730",275000,3.0,2.0,1884.0,https://www.zillow.com//homedetails/195-Miller-Rd-Fairview-NC-28730/5631455_zpid/
-"25 Cherokee Rd, Asheville, NC 28806",230000,2.0,1.0,1238.0,https://www.zillow.com//homedetails/25-Cherokee-Rd-Asheville-NC-28806/5603107_zpid/
-"395 Washington Post Road, New Bern, NC 28562",150000,4.0,2.0,1466.0,https://www.zillow.com//homedetails/395-Washington-Post-Rd-New-Bern-NC-28562/78309662_zpid/
-"1702 Grand Barton Ct, Apex, NC 27502",624900,4.0,3.0,2704.0,https://www.zillow.com//homedetails/1702-Grand-Barton-Ct-Apex-NC-27502/6551929_zpid/
-"5674 Alan D Good Ln, Conover, NC 28613",249900,3.0,2.0,1064.0,https://www.zillow.com//homedetails/5674-Alan-D-Good-Ln-Conover-NC-28613/71958761_zpid/
-"207 Vegas Dr #11-16, Leicester, NC 28748",180000,2.0,2.0,1186.0,https://www.zillow.com//homedetails/207-Vegas-Dr-11-16-Leicester-NC-28748/441784551_zpid/
-"2508 S Scales St, Reidsville, NC 27320",259900,3.0,2.0,1318.0,https://www.zillow.com//homedetails/2508-S-Scales-St-Reidsville-NC-27320/70150714_zpid/
-"121 Sierra Woods Dr, Troutman, NC 28166",625000,3.0,3.0,2153.0,https://www.zillow.com//homedetails/121-Sierra-Woods-Dr-Troutman-NC-28166/51667482_zpid/
-"1004 Bramblegate Rd, Hope Mills, NC 28348",282000,4.0,3.0,1852.0,https://www.zillow.com//homedetails/1004-Bramblegate-Rd-Hope-Mills-NC-28348/80889213_zpid/
-"103 Birdy Pl, Morganton, NC 28655",259500,4.0,2.0,1540.0,https://www.zillow.com//homedetails/103-Birdy-Pl-Morganton-NC-28655/227231156_zpid/
-"660 Beachview Drive SE, Bolivia, NC 28422",194000,3.0,2.0,1141.0,https://www.zillow.com//homedetails/660-Beachview-Dr-SE-Bolivia-NC-28422/78236195_zpid/
-"5625 Seafield Ln, Hope Mills, NC 28348",269000,4.0,2.0,1771.0,https://www.zillow.com//homedetails/5625-Seafield-Ln-Hope-Mills-NC-28348/95286911_zpid/
-"822 Ransey Woodring Road, Todd, NC 28684",349000,2.0,3.0,2478.0,https://www.zillow.com//homedetails/822-Ransey-Woodring-Rd-1-2-Todd-NC-28684/102240079_zpid/
-"126 Oakley Dr, Harrisburg, NC 28075",450000,3.0,2.0,2150.0,https://www.zillow.com//homedetails/126-Oakley-Dr-Harrisburg-NC-28075/5655667_zpid/
-"250 Franklin Ave NW, Concord, NC 28025",275000,3.0,2.0,1412.0,https://www.zillow.com//homedetails/250-Franklin-Ave-NW-Concord-NC-28025/5684792_zpid/
-"1908 Robbins Meadow Dr, Waxhaw, NC 28173",670000,5.0,3.0,3424.0,https://www.zillow.com//homedetails/1908-Robbins-Meadow-Dr-Waxhaw-NC-28173/71429935_zpid/
-"624 Catawba Cir N, Matthews, NC 28104",379000,3.0,2.0,1536.0,https://www.zillow.com//homedetails/624-Catawba-Cir-N-Matthews-NC-28104/6356297_zpid/
-"325 Ranch Farm Rd #A-B, Raleigh, NC 27603",269900,3.0,2.0,1312.0,https://www.zillow.com//homedetails/325-Ranch-Farm-Rd-A-B-Raleigh-NC-27603/442515601_zpid/
-"131 Point Of View Dr, Mooresville, NC 28117",2385000,4.0,5.0,4687.0,https://www.zillow.com//homedetails/131-Point-Of-View-Dr-Mooresville-NC-28117/6052426_zpid/
-"8117 Tremaine Court Unit H, Charlotte, NC 28227",115000,1.0,1.0,865.0,https://www.zillow.com//homedetails/8117-Tremaine-Ct-APT-H-Charlotte-NC-28227/6213999_zpid/
-"159 Twin Creeks Dr, Stokesdale, NC 27357",330000,3.0,3.0,1505.0,https://www.zillow.com//homedetails/159-Twin-Creeks-Dr-Stokesdale-NC-27357/95060565_zpid/
-"3014 Imperial Oaks Dr, Raleigh, NC 27614",435000,3.0,3.0,2368.0,https://www.zillow.com//homedetails/3014-Imperial-Oaks-Dr-Raleigh-NC-27614/62038619_zpid/
-"6873 Brasswood Drive, Fayetteville, NC 28314",247900,3.0,2.0,1660.0,https://www.zillow.com//homedetails/6873-Brasswood-Dr-Fayetteville-NC-28314/53697929_zpid/
-"561 Deals Gap Rd, Robbinsville, NC 28771",429000,3.0,2.0,2000.0,https://www.zillow.com//homedetails/561-Deals-Gap-Rd-Robbinsville-NC-28771/107060091_zpid/
-"120 Elsa Jane Ln, Pittsboro, NC 27312",610000,4.0,3.0,2364.0,https://www.zillow.com//homedetails/120-Elsa-Jane-Ln-Pittsboro-NC-27312/74954474_zpid/
-"552 Bailey Rd, Asheville, NC 28806",299000,3.0,1.0,1153.0,https://www.zillow.com//homedetails/552-Bailey-Rd-Asheville-NC-28806/5599273_zpid/
-"631 Ivy Glen Dr, Winston Salem, NC 27127",185000,2.0,2.0,1215.0,https://www.zillow.com//homedetails/631-Ivy-Glen-Dr-Winston-Salem-NC-27127/60299673_zpid/
-"208 Boyce Ave, Jamestown, NC 27282",135200,3.0,2.0,1320.0,https://www.zillow.com//homedetails/208-Boyce-Ave-Jamestown-NC-27282/6030091_zpid/
-"8528 Westhope St, Charlotte, NC 28216",249900,2.0,2.0,1075.0,https://www.zillow.com//homedetails/8528-Westhope-St-Charlotte-NC-28216/65034531_zpid/
-"5850 Old Rural Hall Rd, Winston Salem, NC 27105",249000,3.0,2.0,1620.0,https://www.zillow.com//homedetails/5850-Old-Rural-Hall-Rd-Winston-Salem-NC-27105/5822645_zpid/
-"800 Hunters Way, Lexington, NC 27292",595000,4.0,3.0,3714.0,https://www.zillow.com//homedetails/800-Hunters-Way-Lexington-NC-27292/5728173_zpid/
--,299000,-,-,-,https://www.zillow.com//community/greater-charlotte-by-northway-homes/30183462_plid/
--,299900,-,-,-,https://www.zillow.com//community/west-preserve/30050611_plid/
+"56 Tremont St, Asheville, NC 28806",540000.0,2.0,1.0,1140.0,https://www.zillow.com//homedetails/56-Tremont-St-Asheville-NC-28806/5607120_zpid/
+"37 Braddock Way, Asheville, NC 28803",730000.0,4.0,3.0,3676.0,https://www.zillow.com//homedetails/37-Braddock-Way-Asheville-NC-28803/5621038_zpid/
+"10 McGee Hill Rd, Fairview, NC 28730",120000.0,-,-,-,https://www.zillow.com//homedetails/10-McGee-Hill-Rd-Fairview-NC-28730/5631685_zpid/
+"13 Grimes Cres, Lexington, NC 27292",104737.0,2.0,1.0,1060.0,https://www.zillow.com//homedetails/13-Grimes-Cres-Lexington-NC-27292/5721532_zpid/
+"129 E Sprague St, Winston Salem, NC 27127",301000.0,3.0,2.0,1638.0,https://www.zillow.com//homedetails/129-E-Sprague-St-Winston-Salem-NC-27127/5757469_zpid/
+"3809 Crosland Rd, Winston Salem, NC 27106",329000.0,4.0,3.0,2867.0,https://www.zillow.com//homedetails/3809-Crosland-Rd-Winston-Salem-NC-27106/5789883_zpid/
+"2685 Williams Rd, Lewisville, NC 27023",650000.0,3.0,2.0,3012.0,https://www.zillow.com//homedetails/2685-Williams-Rd-Lewisville-NC-27023/5808103_zpid/
+"2527 Shaw Ave, Gastonia, NC 28054",375000.0,3.0,2.0,1604.0,https://www.zillow.com//homedetails/2527-Shaw-Ave-Gastonia-NC-28054/5856974_zpid/
+"105 Chinaberry Ct, Gastonia, NC 28052",285500.0,3.0,2.0,1186.0,https://www.zillow.com//homedetails/105-Chinaberry-Ct-Gastonia-NC-28052/5875513_zpid/
+"1812 Tiffany Pl, Greensboro, NC 27408",505000.0,3.0,3.0,2951.0,https://www.zillow.com//homedetails/1812-Tiffany-Pl-Greensboro-NC-27408/5952066_zpid/
+"114 Elsielee Rd, Greensboro, NC 27405",90000.0,-,-,0.0,https://www.zillow.com//homedetails/114-Elsielee-Rd-Greensboro-NC-27405/5978322_zpid/
+"117 Flemingfield Rd, Greensboro, NC 27405",60000.0,-,-,0.0,https://www.zillow.com//homedetails/117-Flemingfield-Rd-Greensboro-NC-27405/5978347_zpid/
+"125 Bradford Glyn Dr, Mooresville, NC 28115",360000.0,3.0,3.0,1607.0,https://www.zillow.com//homedetails/125-Bradford-Glyn-Dr-Mooresville-NC-28115/6062391_zpid/
+"623 Highland Ridge Rd, Mooresville, NC 28115",469500.0,3.0,3.0,2338.0,https://www.zillow.com//homedetails/623-Highland-Ridge-Rd-Mooresville-NC-28115/6064354_zpid/
+"715 N Poplar St, Charlotte, NC 28202",500000.0,3.0,3.0,1506.0,https://www.zillow.com//homedetails/715-N-Poplar-St-Charlotte-NC-28202/6185107_zpid/
+"1419 N Sharon Amity Rd, Charlotte, NC 28211",134.0,5.0,4.0,4201.0,https://www.zillow.com//homedetails/1419-N-Sharon-Amity-Rd-Charlotte-NC-28211/6249462_zpid/
+"8155 Cedar Glen Dr, Charlotte, NC",-,-,-,-,"https://www.zillow.com//b/building/35.159252,-80.749084_ll/"
+"1102 N Buchanan Blvd, Durham, NC 27701",320000.0,3.0,3.0,1611.0,https://www.zillow.com//homedetails/1102-N-Buchanan-Blvd-Durham-NC-27701/49966639_zpid/
+"1216 Kendall Dr, Durham, NC 27703",244000.0,2.0,2.0,1005.0,https://www.zillow.com//homedetails/1216-Kendall-Dr-Durham-NC-27703/50006470_zpid/
+"1733 Rocky Ln, Asheboro, NC 27205",220000.0,2.0,2.0,1077.0,https://www.zillow.com//homedetails/1733-Rocky-Ln-Asheboro-NC-27205/50069933_zpid/
+"128 Earp St, Holly Springs, NC 27540",125000.0,-,-,-,https://www.zillow.com//homedetails/128-Earp-St-Holly-Springs-NC-27540/50104760_zpid/
+"1826 Stratford Rd, Burlington, NC 27217",306000.0,3.0,2.0,2128.0,https://www.zillow.com//homedetails/1826-Stratford-Rd-Burlington-NC-27217/51229420_zpid/
+"109 Sunshine Lane Unit C UNIT C, Winterville, NC 28590",208000.0,2.0,3.0,1304.0,https://www.zillow.com//homedetails/109-C-Sunshine-Ln-Winterville-NC-28590/51456479_zpid/
+"18621 Harborside Dr, Cornelius, NC",-,-,-,-,"https://www.zillow.com//b/building/35.46452,-80.89221_ll/"
+"357 Queens Haven Road, Hubert, NC 28539",143000.0,2.0,2.0,957.0,https://www.zillow.com//homedetails/357-Queens-Haven-Rd-Hubert-NC-28539/51543619_zpid/
+"696 Haw Branch Road, Beulaville, NC 28518",195000.0,4.0,2.0,1377.0,https://www.zillow.com//homedetails/696-Haw-Branch-Rd-Beulaville-NC-28518/51546599_zpid/
+"2013 Metts Avenue, Wilmington, NC 28403",407500.0,2.0,2.0,1103.0,https://www.zillow.com//homedetails/2013-Metts-Ave-Wilmington-NC-28403/54309885_zpid/
+"5412 Advantis Dr, Raleigh, NC 27610",280000.0,3.0,2.0,1055.0,https://www.zillow.com//homedetails/5412-Advantis-Dr-Raleigh-NC-27610/60537764_zpid/
+"7600 Cedarbrook Dr, Charlotte, NC 28215",495000.0,3.0,3.0,2184.0,https://www.zillow.com//homedetails/7600-Cedarbrook-Dr-Charlotte-NC-28215/63813518_zpid/
+"4317 Abernathy Pl, Harrisburg, NC 28075",698000.0,5.0,4.0,3293.0,https://www.zillow.com//homedetails/4317-Abernathy-Pl-Harrisburg-NC-28075/64457284_zpid/
+"2615 Selwyn Ave, Charlotte, NC",-,-,-,-,https://www.zillow.com//b/2615-selwyn-ave-charlotte-nc-5YQ3Xs/
+"59 Piper Rd, Wadesboro, NC 28170",127500.0,3.0,1.0,1000.0,https://www.zillow.com//homedetails/59-Piper-Rd-Wadesboro-NC-28170/68702415_zpid/
+"397 King Rd, Ramseur, NC 27316",86000.0,3.0,2.0,1034.0,https://www.zillow.com//homedetails/397-King-Rd-Ramseur-NC-27316/71203725_zpid/
+"24 Windsong Place, Whispering Pines, NC 28327",484900.0,3.0,2.0,2086.0,https://www.zillow.com//homedetails/24-Windsong-Pl-Whispering-Pines-NC-28327/74977321_zpid/
+"802 Hummingbird N, Swansboro, NC 28584",320000.0,3.0,2.0,1556.0,https://www.zillow.com//homedetails/802-Hummingbird-N-Swansboro-NC-28584/79751055_zpid/
+"201 Glen Gate Cir, Kernersville, NC 27284",224000.0,2.0,2.0,1148.0,https://www.zillow.com//homedetails/201-Glen-Gate-Cir-Kernersville-NC-27284/79887989_zpid/
+"1930 Harcourt Cir APT 103, Fayetteville, NC 28304",181900.0,3.0,2.0,1360.0,https://www.zillow.com//homedetails/1930-Harcourt-Cir-APT-103-Fayetteville-NC-28304/82766596_zpid/
+"1525 Emily Drive, Laurinburg, NC 28352",275000.0,3.0,3.0,2400.0,https://www.zillow.com//homedetails/1525-Emily-Dr-Laurinburg-NC-28352/86679185_zpid/
+"1352 21st Ave NE, Hickory, NC 28601",255000.0,2.0,2.0,1235.0,https://www.zillow.com//homedetails/1352-21st-Ave-NE-Hickory-NC-28601/89078341_zpid/
+"210 Church St, Charlotte, NC",-,-,-,-,https://www.zillow.com//apartments/charlotte-nc/210-n-church-st/5XkZPB/
+"2100 Marsh Grove Lane Unit 2301, Southport, NC 28461",482000.0,2.0,2.0,1512.0,https://www.zillow.com//homedetails/2100-Marsh-Grove-Ln-UNIT-2301-Southport-NC-28461/94871147_zpid/
+"60 Settings Blvd, Black Mountain, NC 28711",31500.0,-,-,-,https://www.zillow.com//homedetails/60-Settings-Blvd-Black-Mountain-NC-28711/96370112_zpid/
+"3930 Tasha Dr, Hope Mills, NC 28348",349000.0,5.0,4.0,2614.0,https://www.zillow.com//homedetails/3930-Tasha-Dr-Hope-Mills-NC-28348/97560974_zpid/
+"114 Gull Harbor Drive, Newport, NC 28570",421000.0,3.0,2.0,1534.0,https://www.zillow.com//homedetails/114-Gull-Harbor-Dr-Newport-NC-28570/101974401_zpid/
+"604 E Branch Drive, Newport, NC 28570",201000.0,2.0,2.0,1890.0,https://www.zillow.com//homedetails/604-E-Branch-Dr-Newport-NC-28570/101983214_zpid/
+"211 Quarry Trail, Richlands, NC 28574",231000.0,3.0,2.0,1158.0,https://www.zillow.com//homedetails/211-Quarry-Trl-Richlands-NC-28574/102176993_zpid/
+"248 Dries Dr, Old Fort, NC 28762",320000.0,3.0,2.0,2011.0,https://www.zillow.com//homedetails/248-Dries-Dr-Old-Fort-NC-28762/102182460_zpid/
+"112 Pear Tree Lane, Richlands, NC 28574",254628.0,3.0,2.0,1396.0,https://www.zillow.com//homedetails/112-Pear-Tree-Ln-Richlands-NC-28574/102235478_zpid/
+"82 Victoria Springs Dr, Flat Rock, NC 28731",344000.0,3.0,2.0,1280.0,https://www.zillow.com//homedetails/82-Victoria-Springs-Dr-Flat-Rock-NC-28731/111946999_zpid/
+"142 Epworth Rd, Littleton, NC 27850",375000.0,5.0,3.0,-,https://www.zillow.com//homedetails/142-Epworth-Rd-Littleton-NC-27850/114873537_zpid/
+"521 Ferry Ct, Wake Forest, NC 27587",674999.0,5.0,4.0,4872.0,https://www.zillow.com//homedetails/521-Ferry-Ct-Wake-Forest-NC-27587/117925293_zpid/
+"360 Woodgreen Drive, Aberdeen, NC 28315",310000.0,4.0,2.0,1517.0,https://www.zillow.com//homedetails/360-Woodgreen-Dr-Aberdeen-NC-28315/118148215_zpid/
+"1080 Deer Trail Rd, King, NC 27021",230000.0,4.0,2.0,2062.0,https://www.zillow.com//homedetails/1080-Deer-Trail-Rd-King-NC-27021/119145142_zpid/
+"152 Chollywood Dr, Mooresville, NC 28115",565000.0,5.0,5.0,3356.0,https://www.zillow.com//homedetails/152-Chollywood-Dr-Mooresville-NC-28115/123111510_zpid/
+"89 Black Cloud Dr, Louisburg, NC 27549",335000.0,3.0,2.0,1674.0,https://www.zillow.com//homedetails/89-Black-Cloud-Dr-Louisburg-NC-27549/215427016_zpid/
+"217 E Virgil Street, Whiteville, NC 28472",53000.0,4.0,1.0,1710.0,https://www.zillow.com//homedetails/217-E-Virgil-St-Whiteville-NC-28472/225692396_zpid/
+"641 Body Road Road, Elizabeth City, NC 27909",38000.0,-,0.0,-,https://www.zillow.com//homedetails/641-Body-Rd-Elizabeth-City-NC-27909/226185905_zpid/
+"21651 Crawford Lake Road, Laurel Hill, NC 28351",255000.0,2.0,2.0,1120.0,https://www.zillow.com//homedetails/21651-Crawford-Lake-Rd-Laurel-Hill-NC-28351/228135936_zpid/
+"214 Summit Ct, Troy, NC 27371",15000.0,-,-,-,https://www.zillow.com//homedetails/214-Summit-Ct-Troy-NC-27371/233079698_zpid/
+"300 Grandview Drive, Elizabeth City, NC 27909",406245.0,3.0,3.0,2295.0,https://www.zillow.com//homedetails/300-Grandview-Dr-Elizabeth-City-NC-27909/248291938_zpid/
+"5413 Weathered Rock Ct, Knightdale, NC 27545",440000.0,4.0,3.0,2601.0,https://www.zillow.com//homedetails/5413-Weathered-Rock-Ct-Knightdale-NC-27545/248748548_zpid/
+"2120 Boulder Ct, Gastonia, NC 28054",313000.0,3.0,3.0,1865.0,https://www.zillow.com//homedetails/2120-Boulder-Ct-Gastonia-NC-28054/250202602_zpid/
+"6793 Waterstone Crossing SW, Ocean Isle Beach, NC 28469",135000.0,-,0.0,-,https://www.zillow.com//homedetails/6793-Waterstone-Xing-SW-Ocean-Isle-Beach-NC-28469/250210666_zpid/
+"5353 Kincaid Place, Winnabow, NC 28479",385000.0,3.0,3.0,1987.0,https://www.zillow.com//homedetails/5353-Kincaid-Pl-Winnabow-NC-28479/304015317_zpid/
+"829 Stanly House St, Wake Forest, NC 27587",599900.0,4.0,4.0,3453.0,https://www.zillow.com//homedetails/829-Stanly-House-St-Wake-Forest-NC-27587/305124016_zpid/
+"1121 Eddisbury Cv, Waxhaw, NC 28173",559000.0,4.0,3.0,2522.0,https://www.zillow.com//homedetails/1121-Eddisbury-Cv-Waxhaw-NC-28173/305856490_zpid/
+"74 Wolfe Cove Rd, Asheville, NC 28804",925000.0,3.0,3.0,2580.0,https://www.zillow.com//homedetails/74-Wolfe-Cove-Rd-Asheville-NC-28804/306007121_zpid/
+"14 Vedder Way, Swannanoa, NC 28778",626900.0,4.0,3.0,2396.0,https://www.zillow.com//homedetails/14-Vedder-Way-Swannanoa-NC-28778/306008351_zpid/
+"55 Oxer Dr, Youngsville, NC 27596",441000.0,3.0,4.0,2340.0,https://www.zillow.com//homedetails/55-Oxer-Dr-Youngsville-NC-27596/307195171_zpid/
+"180 Kimberling Dr, Franklinton, NC 27525",370000.0,3.0,2.0,1864.0,https://www.zillow.com//homedetails/180-Kimberling-Dr-Franklinton-NC-27525/307859348_zpid/
+"1555 Grey Cliff Run, Wilmington, NC 28405",340000.0,4.0,3.0,1870.0,https://www.zillow.com//homedetails/1555-Grey-Cliff-Run-Wilmington-NC-28405/331476905_zpid/
+"137 Lands End Road, Morehead City, NC 28557",122.0,-,0.0,-,https://www.zillow.com//homedetails/137-Lands-End-Rd-Morehead-City-NC-28557/339438767_zpid/
+"508 Brown Pelican Way, Beaufort, NC 28516",162000.0,-,0.0,-,https://www.zillow.com//homedetails/508-Brown-Pelican-Way-Beaufort-NC-28516/339438986_zpid/
+"4217 Quartersaw Ln, Clemmons, NC 27012",464887.0,4.0,3.0,2141.0,https://www.zillow.com//homedetails/4217-Quartersaw-Ln-Clemmons-NC-27012/340267501_zpid/
+"3607 Wilcox Ct LOT 45, Greensboro, NC 27405",309500.0,3.0,3.0,1878.0,https://www.zillow.com//homedetails/3607-Wilcox-Ct-LOT-45-Greensboro-NC-27405/342623155_zpid/
+"0 Benson St #30-31, Mocksville, NC 27028",23000.0,-,-,0.0,https://www.zillow.com//homedetails/0-Benson-St-30-31-Mocksville-NC-27028/345184364_zpid/
+"802 Rhino Bnd, Oxford, NC",-,-,-,-,"https://www.zillow.com//b/building/36.284683,-78.576004_ll/"
+"218 Santa Fe Street, Camden, NC 27921",398995.0,3.0,3.0,1823.0,https://www.zillow.com//homedetails/218-Santa-Fe-St-Camden-NC-27921/348413454_zpid/
+"1821 Old Bramble Ln #1, Fuquay Varina, NC 27526",550200.0,4.0,3.0,2459.0,https://www.zillow.com//homedetails/1821-Old-Bramble-Ln-1-Fuquay-Varina-NC-27526/352574977_zpid/
+"7941 Wexford Waters Ln, Wake Forest, NC 27587",166.0,4.0,7.0,4576.0,https://www.zillow.com//homedetails/7941-Wexford-Waters-Ln-Wake-Forest-NC-27587/368846903_zpid/
+"122 Quail Ridge Dr #1, Mooresville, NC 28117",175.0,4.0,4.0,3229.0,https://www.zillow.com//homedetails/122-Quail-Ridge-Dr-1-Mooresville-NC-28117/439608534_zpid/
+"2617 Ritz Ln, Matthews, NC 28105",729000.0,4.0,4.0,3053.0,https://www.zillow.com//homedetails/2617-Ritz-Ln-Matthews-NC-28105/440272797_zpid/
+"6250 Scuttle Ln, Denver, NC 28037",648000.0,3.0,3.0,2164.0,https://www.zillow.com//homedetails/6250-Scuttle-Ln-Denver-NC-28037/440781586_zpid/
+"1073 Harbor Drive SW Lot 13 Hartford, Calabash, NC 28467",275500.0,4.0,2.0,1885.0,https://www.zillow.com//homedetails/1073-Harbor-Dr-SW-LOT-13-Calabash-NC-28467/440956621_zpid/
+"326 Jacob Mott Drive Lot 47 Mc, Wilmington, NC 28412",689900.0,4.0,3.0,2269.0,https://www.zillow.com//homedetails/326-Jacob-Mott-Dr-LOT-47-Mc-Wilmington-NC-28412/441148503_zpid/
+"404 S Carolina Beach Avenue S UNIT B10, Carolina Beach, NC 28428",365000.0,1.0,1.0,643.0,https://www.zillow.com//homedetails/404-S-Carolina-Beach-Ave-B-10-Carolina-Beach-NC-28428/441203918_zpid/
+"979 Us Highway 29, Reidsville, NC 27320",44000.0,-,-,0.0,https://www.zillow.com//homedetails/979-Us-Highway-29-Reidsville-NC-27320/442124745_zpid/
+"1013 E Ft Macon Road UNIT 32 8 1/2 Marina, Atlantic Beach, NC 28512",787000.0,2.0,2.0,1155.0,https://www.zillow.com//homedetails/1013-E-Fort-Macon-Road-1-2-Marina-32-8-Atlantic-Beach-NC-28512/442150365_zpid/
+"101 S Peedin Ave, Pine Level, NC 27568",175000.0,3.0,2.0,2400.0,https://www.zillow.com//homedetails/101-S-Peedin-Ave-Pine-Level-NC-27568/442453233_zpid/
+"0 Rockford Ln #7, Chapel Hill, NC 27516",450000.0,-,-,-,https://www.zillow.com//homedetails/0-Rockford-Ln-7-Chapel-Hill-NC-27516/442970217_zpid/
+"1-001 W Park Ave, Mooresville, NC",-,-,-,-,"https://www.zillow.com//b/building/35.587482,-80.79911_ll/"
+"2-002 W Park Ave, Mooresville, NC 28115",116500.0,-,-,-,https://www.zillow.com//homedetails/2-002-W-Park-Ave-Mooresville-NC-28115/443073954_zpid/
+"9265 Us Highway 15 Highway 12a Dr, Pinehurst, NC",-,-,-,-,"https://www.zillow.com//b/building/35.198746,-79.448784_ll/"
+"2641 Burke Ln, Fayetteville, NC 28306",148000.0,3.0,2.0,1118.0,https://www.zillow.com//homedetails/2641-Burke-Ln-Fayetteville-NC-28306/443282779_zpid/
+"2072 Condor Run, Wilmington, NC 28409",578414.0,4.0,3.0,2318.0,https://www.zillow.com//homedetails/2072-Condor-Run-Wilmington-NC-28409/443410920_zpid/
+"205 North Dr, Thomasville, NC 27360",85000.0,-,-,0.0,https://www.zillow.com//homedetails/205-North-Dr-Thomasville-NC-27360/443910352_zpid/
+"8308 Kerrybrook Cir, Charlotte, NC 28214",360000.0,3.0,2.0,1943.0,https://www.zillow.com//homedetails/8308-Kerrybrook-Cir-Charlotte-NC-28214/443910834_zpid/
+"251 Tuttle Rd, Hendersonville, NC 28792",340000.0,3.0,2.0,1354.0,https://www.zillow.com//homedetails/251-Tuttle-Rd-Hendersonville-NC-28792/2052955842_zpid/
+"787 Bethesda Rd #13C, Lexington, NC 27295",111500.0,-,-,0.0,https://www.zillow.com//homedetails/787-Bethesda-Rd-13C-Lexington-NC-27295/2053409764_zpid/
+"1701 Raven Way, Elizabeth City, NC 27909",260490.0,3.0,2.0,1442.0,https://www.zillow.com//homedetails/1701-Raven-Way-Elizabeth-City-NC-27909/2053520505_zpid/
+"LOT 6 Mountain Way, Lake Lure, NC 28746",90000.0,-,-,-,https://www.zillow.com//homedetails/LOT-6-Mountain-Way-Lake-Lure-NC-28746/2074735252_zpid/
+"202 Vandergrift Drive, Jacksonville, NC 28540",318000.0,3.0,3.0,1906.0,https://www.zillow.com//homedetails/202-Vandergrift-Dr-Jacksonville-NC-28540/2104499209_zpid/
+"23 Auburndale Dr, Asheville, NC 28806",540000.0,3.0,2.0,1687.0,https://www.zillow.com//homedetails/23-Auburndale-Dr-Asheville-NC-28806/5600637_zpid/
+"71 Morris St, Asheville, NC 28806",375000.0,2.0,1.0,893.0,https://www.zillow.com//homedetails/71-Morris-St-Asheville-NC-28806/5608582_zpid/
+"341 Red Fox Cir, Asheville, NC 28803",169.0,5.0,4.0,4656.0,https://www.zillow.com//homedetails/341-Red-Fox-Cir-Asheville-NC-28803/5611296_zpid/
+"36 Randall Dr, Fairview, NC 28730",875500.0,4.0,4.0,2532.0,https://www.zillow.com//homedetails/36-Randall-Dr-Fairview-NC-28730/5633511_zpid/
+"12640 Highway 601, Midland, NC 28107",275000.0,3.0,1.0,1660.0,https://www.zillow.com//homedetails/12640-Highway-601-Midland-NC-28107/5667884_zpid/
+"720 New Bowers Rd, Lexington, NC 27292",130000.0,3.0,1.0,1120.0,https://www.zillow.com//homedetails/720-New-Bowers-Rd-Lexington-NC-27292/5712563_zpid/
+"225 Bond St, Winston Salem, NC 27127",184000.0,2.0,1.0,948.0,https://www.zillow.com//homedetails/225-Bond-St-Winston-Salem-NC-27127/5751897_zpid/
+"1836 Gaston St, Winston Salem, NC 27103",399000.0,3.0,3.0,2155.0,https://www.zillow.com//homedetails/1836-Gaston-St-Winston-Salem-NC-27103/5754387_zpid/
+"1800 Mansfield St, Winston Salem, NC 27107",100000.0,2.0,1.0,794.0,https://www.zillow.com//homedetails/1800-Mansfield-St-Winston-Salem-NC-27107/5764068_zpid/
+"3919 Talcott Ave, Winston Salem, NC 27106",194900.0,3.0,1.0,1540.0,https://www.zillow.com//homedetails/3919-Talcott-Ave-Winston-Salem-NC-27106/5789676_zpid/
+"240 Post Oak Rd, Kernersville, NC 27284",409000.0,3.0,2.0,2360.0,https://www.zillow.com//homedetails/240-Post-Oak-Rd-Kernersville-NC-27284/5829581_zpid/
+"1371 Union Cross Rd, Kernersville, NC 27284",280000.0,3.0,2.0,2002.0,https://www.zillow.com//homedetails/1371-Union-Cross-Rd-Kernersville-NC-27284/5836596_zpid/
+"2041 Simmons St, Gastonia, NC 28052",350000.0,4.0,3.0,2362.0,https://www.zillow.com//homedetails/2041-Simmons-St-Gastonia-NC-28052/5849778_zpid/
+"1508 Cecelia Dr, Gastonia, NC 28054",204900.0,2.0,2.0,1393.0,https://www.zillow.com//homedetails/1508-Cecelia-Dr-Gastonia-NC-28054/5869534_zpid/
+"607 Woodland Dr, Greensboro, NC 27408",180.0,4.0,4.0,3386.0,https://www.zillow.com//homedetails/607-Woodland-Dr-Greensboro-NC-27408/5908900_zpid/
+"1601 Milan Rd, Greensboro, NC 27410",364000.0,4.0,2.0,2038.0,https://www.zillow.com//homedetails/1601-Milan-Rd-Greensboro-NC-27410/5935443_zpid/
+"1315 Rotherwood Rd, Greensboro, NC 27406",196000.0,3.0,2.0,1624.0,https://www.zillow.com//homedetails/1315-Rotherwood-Rd-Greensboro-NC-27406/5946276_zpid/
+"3406 Bardwell Rd, Greensboro, NC 27410",345000.0,3.0,3.0,1588.0,https://www.zillow.com//homedetails/3406-Bardwell-Rd-Greensboro-NC-27410/5965899_zpid/
+"3742 Sagamore Dr, Greensboro, NC 27410",430000.0,4.0,3.0,1544.0,https://www.zillow.com//homedetails/3742-Sagamore-Dr-Greensboro-NC-27410/6006145_zpid/
+"124 Orville Dr, High Point, NC 27260",400000.0,3.0,2.0,2151.0,https://www.zillow.com//homedetails/124-Orville-Dr-High-Point-NC-27260/6036922_zpid/
+"524 W Sharpe St, Statesville, NC 28677",209000.0,3.0,1.0,1437.0,https://www.zillow.com//homedetails/524-W-Sharpe-St-Statesville-NC-28677/6082047_zpid/
+"18402 Peninsula Cove Ln, Cornelius, NC 28031",470.0,4.0,6.0,5223.0,https://www.zillow.com//homedetails/18402-Peninsula-Cove-Ln-Cornelius-NC-28031/6123413_zpid/
+"1805 Valleydale Rd, Charlotte, NC 28214",452000.0,4.0,3.0,1932.0,https://www.zillow.com//homedetails/1805-Valleydale-Rd-Charlotte-NC-28214/6148916_zpid/
+"10811 S Ford Rd, Charlotte, NC 28214",450000.0,3.0,2.0,1877.0,https://www.zillow.com//homedetails/10811-S-Ford-Rd-Charlotte-NC-28214/6149288_zpid/
+"10300 Shelter Rock Ct, Charlotte, NC 28214",325000.0,4.0,3.0,1998.0,https://www.zillow.com//homedetails/10300-Shelter-Rock-Ct-Charlotte-NC-28214/6150846_zpid/
+"5424 Chasewind Dr, Charlotte, NC 28269",313500.0,3.0,3.0,1484.0,https://www.zillow.com//homedetails/5424-Chasewind-Dr-Charlotte-NC-28269/6157855_zpid/
+"10324 Rosemallow Rd, Charlotte, NC 28213",355000.0,5.0,3.0,1957.0,https://www.zillow.com//homedetails/10324-Rosemallow-Rd-Charlotte-NC-28213/6167532_zpid/
+"4616 Whispering Oaks Dr, Charlotte, NC 28213",414300.0,3.0,2.0,1877.0,https://www.zillow.com//homedetails/4616-Whispering-Oaks-Dr-Charlotte-NC-28213/6205521_zpid/
+"6605 Havenlock Pl, Charlotte, NC 28215",380000.0,4.0,3.0,2074.0,https://www.zillow.com//homedetails/6605-Havenlock-Pl-Charlotte-NC-28215/6208301_zpid/
+"7530 Alamance Dr, Charlotte, NC 28227",95000.0,-,-,-,https://www.zillow.com//homedetails/7530-Alamance-Dr-Charlotte-NC-28227/6215270_zpid/
+"5318 Carden Dr, Uninc, NC 28110",499000.0,5.0,4.0,2683.0,https://www.zillow.com//homedetails/5318-Carden-Dr-Uninc-NC-28110/6231187_zpid/
+"15342 Millview Trace Ln, Mint Hill, NC 28227",672000.0,3.0,3.0,2626.0,https://www.zillow.com//homedetails/15342-Millview-Trace-Ln-Mint-Hill-NC-28227/6236664_zpid/
+"639 Manhasset Rd, Charlotte, NC 28209",949000.0,3.0,4.0,2430.0,https://www.zillow.com//homedetails/639-Manhasset-Rd-Charlotte-NC-28209/6242457_zpid/
+"4653 Murrayhill Rd, Charlotte, NC 28209",489000.0,3.0,2.0,1080.0,https://www.zillow.com//homedetails/4653-Murrayhill-Rd-Charlotte-NC-28209/6242624_zpid/
+"2006 Dartmouth Pl, Charlotte, NC 28207",156.0,3.0,3.0,2526.0,https://www.zillow.com//homedetails/2006-Dartmouth-Pl-Charlotte-NC-28207/6246342_zpid/
+"2233 Crescent Ave, Charlotte, NC 28207",180.0,5.0,5.0,4320.0,https://www.zillow.com//homedetails/2233-Crescent-Ave-Charlotte-NC-28207/6246495_zpid/
+"2419 Tattersall Dr, Charlotte, NC 28210",940000.0,5.0,4.0,4294.0,https://www.zillow.com//homedetails/2419-Tattersall-Dr-Charlotte-NC-28210/6261487_zpid/
+"8220 Cedar Glen Dr, Charlotte, NC",-,-,-,-,"https://www.zillow.com//b/building/35.158916,-80.74948_ll/"
+"4141 David Dr, Matthews, NC 28105",365000.0,3.0,2.0,1546.0,https://www.zillow.com//homedetails/4141-David-Dr-Matthews-NC-28105/6279798_zpid/
+"2013 Lilly Pond Ct, Charlotte, NC 28273",350000.0,4.0,2.0,1552.0,https://www.zillow.com//homedetails/2013-Lilly-Pond-Ct-Charlotte-NC-28273/6284389_zpid/
+"6711 Constitution Ln, Charlotte, NC 28210",438000.0,3.0,3.0,1772.0,https://www.zillow.com//homedetails/6711-Constitution-Ln-Charlotte-NC-28210/6291627_zpid/
+"3800 Sweetgrass Ln, Charlotte, NC 28226",580000.0,3.0,2.0,1845.0,https://www.zillow.com//homedetails/3800-Sweetgrass-Ln-Charlotte-NC-28226/6299020_zpid/
+"11029 Hunter Trail Ln, Charlotte, NC",-,-,-,-,"https://www.zillow.com//b/building/35.08605,-80.868484_ll/"
+"2212 Biggers Cemetery Rd, Monroe, NC 28110",517500.0,3.0,2.0,1803.0,https://www.zillow.com//homedetails/2212-Biggers-Cemetery-Rd-Monroe-NC-28110/6358724_zpid/
+"902 N Lee St, Zebulon, NC 27597",225000.0,3.0,2.0,1077.0,https://www.zillow.com//homedetails/902-N-Lee-St-Zebulon-NC-27597/6379097_zpid/
+"1032 Manchester Dr, Cary, NC 27511",537000.0,4.0,3.0,2015.0,https://www.zillow.com//homedetails/1032-Manchester-Dr-Cary-NC-27511/6428562_zpid/
+"4705 Rembert Dr, Raleigh, NC 27612",650000.0,5.0,3.0,2725.0,https://www.zillow.com//homedetails/4705-Rembert-Dr-Raleigh-NC-27612/6432696_zpid/
+"4800 Hoyle Dr, Raleigh, NC 27604",515500.0,8.0,4.0,3180.0,https://www.zillow.com//homedetails/4800-Hoyle-Dr-Raleigh-NC-27604/6470108_zpid/
+"4724 Hoyle Dr, Raleigh, NC 27604",515500.0,8.0,4.0,3180.0,https://www.zillow.com//homedetails/4724-Hoyle-Dr-Raleigh-NC-27604/6470109_zpid/
+"805 Carrington Dr, Raleigh, NC 27615",861000.0,4.0,4.0,3464.0,https://www.zillow.com//homedetails/805-Carrington-Dr-Raleigh-NC-27615/6470134_zpid/
+"204 Willoughby Ln, Cary, NC 27513",385000.0,3.0,2.0,1188.0,https://www.zillow.com//homedetails/204-Willoughby-Ln-Cary-NC-27513/6487737_zpid/
+"5404 Rockholly Ct, Garner, NC 27529",514900.0,3.0,3.0,2503.0,https://www.zillow.com//homedetails/5404-Rockholly-Ct-Garner-NC-27529/6500766_zpid/
+"209 Kingsmill Rd, Cary, NC 27511",540000.0,3.0,3.0,2138.0,https://www.zillow.com//homedetails/209-Kingsmill-Rd-Cary-NC-27511/6502029_zpid/
+"604 Kingswood Dr, Cary, NC 27513",530000.0,4.0,3.0,1841.0,https://www.zillow.com//homedetails/604-Kingswood-Dr-Cary-NC-27513/6526652_zpid/
+"103 Picardy Village Pl, Cary, NC 27511",760000.0,4.0,4.0,3178.0,https://www.zillow.com//homedetails/103-Picardy-Village-Pl-Cary-NC-27511/6548196_zpid/
+"312 Teal Lake Dr, Holly Springs, NC 27540",383000.0,3.0,2.0,1287.0,https://www.zillow.com//homedetails/312-Teal-Lake-Dr-Holly-Springs-NC-27540/6564695_zpid/
+"800 Camden Ave, Durham, NC 27701",390000.0,3.0,3.0,2879.0,https://www.zillow.com//homedetails/800-Camden-Ave-Durham-NC-27701/49973235_zpid/
+"418 Devlin Pl, Durham, NC 27707",240000.0,3.0,2.0,1380.0,https://www.zillow.com//homedetails/418-Devlin-Pl-Durham-NC-27707/49983674_zpid/
+"5002 Carolwood Ln, Durham, NC 27713",425000.0,3.0,3.0,2013.0,https://www.zillow.com//homedetails/5002-Carolwood-Ln-Durham-NC-27713/49999164_zpid/
+"2066 Brooklyn Ave, Ramseur, NC 27316",125000.0,3.0,1.0,1068.0,https://www.zillow.com//homedetails/2066-Brooklyn-Ave-Ramseur-NC-27316/50057373_zpid/
+"992 Brooklyn Avenue Ext, Ramseur, NC 27316",212000.0,3.0,2.0,1200.0,https://www.zillow.com//homedetails/992-Brooklyn-Avenue-Ext-Ramseur-NC-27316/50057418_zpid/
+"5730 State Highway 62, Trinity, NC 27370",240000.0,3.0,2.0,1512.0,https://www.zillow.com//homedetails/5730-State-Highway-62-Trinity-NC-27370/50093183_zpid/
+"6612 Professor St, Raleigh, NC 27616",470000.0,4.0,3.0,2478.0,https://www.zillow.com//homedetails/6612-Professor-St-Raleigh-NC-27616/50120376_zpid/
+"4993 Nc 43 S, Greenville, NC 27858",154000.0,2.0,2.0,1162.0,https://www.zillow.com//homedetails/4993-State-Highway-43-S-Greenville-NC-27858/51411959_zpid/
+"801 Ernul Street, Greenville, NC 27858",262000.0,3.0,2.0,1738.0,https://www.zillow.com//homedetails/801-Ernul-St-Greenville-NC-27858/51422217_zpid/
+"791 Third Street, Ayden, NC 28513",200000.0,3.0,2.0,1175.0,https://www.zillow.com//homedetails/791-3rd-St-Ayden-NC-28513/51438649_zpid/
+"2813 Alish Trl, Mount Pleasant, NC 28124",405000.0,4.0,3.0,1947.0,https://www.zillow.com//homedetails/2813-Alish-Trl-Mount-Pleasant-NC-28124/51460940_zpid/
+"811 Belmorrow Dr, Charlotte, NC 28214",415000.0,3.0,2.0,1702.0,https://www.zillow.com//homedetails/811-Belmorrow-Dr-Charlotte-NC-28214/51530404_zpid/
+"218 S Elm Street, Swansboro, NC 28584",530000.0,6.0,4.0,2739.0,https://www.zillow.com//homedetails/218-S-Elm-St-Swansboro-NC-28584/51546197_zpid/
+"104 Cardinal Road, Jacksonville, NC 28546",183599.0,3.0,2.0,1000.0,https://www.zillow.com//homedetails/104-Cardinal-Rd-Jacksonville-NC-28546/51562376_zpid/
+"225 Coventry Park Ln, Winston Salem, NC 27104",690000.0,4.0,4.0,4160.0,https://www.zillow.com//homedetails/225-Coventry-Park-Ln-Winston-Salem-NC-27104/51627058_zpid/
+"45 Meadow View Ln, Hendersonville, NC 28739",75000.0,3.0,2.0,0.0,https://www.zillow.com//homedetails/45-Meadow-View-Ln-Hendersonville-NC-28739/51635920_zpid/
+"150 Poplar Loop Dr, Flat Rock, NC 28731",975000.0,4.0,3.0,4202.0,https://www.zillow.com//homedetails/150-Poplar-Loop-Dr-Flat-Rock-NC-28731/51641547_zpid/
+"226 E Dogwood Ln, Hendersonville, NC 28792",273500.0,2.0,1.0,988.0,https://www.zillow.com//homedetails/226-E-Dogwood-Ln-Hendersonville-NC-28792/51649664_zpid/
+"224 Sherwood Ln, Hendersonville, NC 28791",627000.0,3.0,3.0,2864.0,https://www.zillow.com//homedetails/224-Sherwood-Ln-Hendersonville-NC-28791/51656938_zpid/
+"1055 Vauxhall Dr, Apex, NC 27502",515000.0,4.0,4.0,2070.0,https://www.zillow.com//homedetails/1055-Vauxhall-Dr-Apex-NC-27502/53457543_zpid/
+"2513 Walden Woods Dr, Apex, NC 27523",725000.0,4.0,4.0,2777.0,https://www.zillow.com//homedetails/2513-Walden-Woods-Dr-Apex-NC-27523/53460008_zpid/
+"1622 Grandview Dr, Fayetteville, NC 28314",210000.0,3.0,2.0,1457.0,https://www.zillow.com//homedetails/1622-Grandview-Dr-Fayetteville-NC-28314/53703320_zpid/
+"6 High St, Castle Hayne, NC 28429",321000.0,3.0,2.0,1400.0,https://www.zillow.com//homedetails/6-High-St-Castle-Hayne-NC-28429/54281191_zpid/
+"128 Sweetwater Drive, Wilmington, NC 28411",363000.0,3.0,2.0,2069.0,https://www.zillow.com//homedetails/128-Sweetwater-Dr-Wilmington-NC-28411/54288682_zpid/
+"7429 Ern Way, Wilmington, NC 28411",320000.0,3.0,2.0,1199.0,https://www.zillow.com//homedetails/7429-Ern-Way-Wilmington-NC-28411/54289501_zpid/
+"218 Bayshore Drive, Wilmington, NC 28411",350000.0,3.0,2.0,1365.0,https://www.zillow.com//homedetails/218-Bayshore-Dr-Wilmington-NC-28411/54289917_zpid/
+"2237 Washington Street, Wilmington, NC 28401",217000.0,2.0,1.0,844.0,https://www.zillow.com//homedetails/2237-Washington-St-Wilmington-NC-28401/54323020_zpid/
+"4116 Breezewood Drive Apt 203, Wilmington, NC 28412",280000.0,2.0,2.0,1447.0,https://www.zillow.com//homedetails/4116-Breezewood-Dr-APT-203-Wilmington-NC-28412/54329534_zpid/
+"4805 Rushing Drive, Wilmington, NC 28409",453000.0,4.0,3.0,2354.0,https://www.zillow.com//homedetails/4805-Rushing-Dr-Wilmington-NC-28409/54339155_zpid/
+"375 W Poplar Dr, Hendersonville, NC 28792",180000.0,2.0,2.0,1736.0,https://www.zillow.com//homedetails/375-W-Poplar-Dr-Hendersonville-NC-28792/59896784_zpid/
+"211 Kenmont Dr, Holly Springs, NC 27540",370000.0,3.0,3.0,1704.0,https://www.zillow.com//homedetails/211-Kenmont-Dr-Holly-Springs-NC-27540/60393508_zpid/
+"193 Joe Cecil Rd, Lexington, NC 27292",250000.0,3.0,2.0,1325.0,https://www.zillow.com//homedetails/193-Joe-Cecil-Rd-Lexington-NC-27292/61459057_zpid/
+"220 Fink Ave NW, Concord, NC 28025",280000.0,3.0,2.0,1097.0,https://www.zillow.com//homedetails/220-Fink-Ave-NW-Concord-NC-28025/61654832_zpid/
+"302 Floyd Berrier Dr, Kernersville, NC 27284",250000.0,3.0,2.0,1230.0,https://www.zillow.com//homedetails/302-Floyd-Berrier-Dr-Kernersville-NC-27284/61718093_zpid/
+"135 Forest Walk Way, Mooresville, NC 28115",505000.0,4.0,3.0,2531.0,https://www.zillow.com//homedetails/135-Forest-Walk-Way-Mooresville-NC-28115/61798488_zpid/
+"955 Ramsgate Dr SW, Concord, NC 28025",292500.0,3.0,3.0,1306.0,https://www.zillow.com//homedetails/955-Ramsgate-Dr-SW-Concord-NC-28025/64881357_zpid/
+"3837 Glenlea Commons Dr, Charlotte, NC 28216",225000.0,2.0,3.0,1323.0,https://www.zillow.com//homedetails/3837-Glenlea-Commons-Dr-Charlotte-NC-28216/65006367_zpid/
+"11509 Savannah Creek Dr, Charlotte, NC 28273",245000.0,2.0,3.0,1144.0,https://www.zillow.com//homedetails/11509-Savannah-Creek-Dr-Charlotte-NC-28273/65028457_zpid/
+"659 Dobson Ct, Kernersville, NC 27284",357000.0,3.0,2.0,1684.0,https://www.zillow.com//homedetails/659-Dobson-Ct-Kernersville-NC-27284/65032207_zpid/
+"2514 Bryarton Village Way, Raleigh, NC 27606",358000.0,3.0,3.0,1809.0,https://www.zillow.com//homedetails/2514-Bryarton-Village-Way-Raleigh-NC-27606/65343913_zpid/
+"702 Jonathan Creek Rd, Waynesville, NC 28785",579000.0,2.0,3.0,3470.0,https://www.zillow.com//homedetails/702-Jonathan-Creek-Rd-Waynesville-NC-28785/65609362_zpid/
+"319 Ivy Hill Dr, Waynesville, NC 28785",445000.0,3.0,2.0,2034.0,https://www.zillow.com//homedetails/319-Ivy-Hill-Dr-Waynesville-NC-28785/65613816_zpid/
+"358 Lakeshore Dr, Franklin, NC 28734",290000.0,3.0,2.0,1540.0,https://www.zillow.com//homedetails/358-Lakeshore-Dr-Franklin-NC-28734/65637183_zpid/
+"464 Saunders Rd, Franklin, NC 28734",505000.0,4.0,1.0,-,https://www.zillow.com//homedetails/464-Saunders-Rd-Franklin-NC-28734/65679836_zpid/
+"TBD 67 Highway, Butler, TN 37640",500000.0,-,-,-,https://www.zillow.com//homedetails/67-Highway-Butler-TN-37640/66620142_zpid/
+"1820 Blandwood Avenue, Rocky Mount, NC 27801",36000.0,3.0,1.0,1073.0,https://www.zillow.com//homedetails/1820-Blandwood-Dr-Rocky-Mount-NC-27801/68677926_zpid/
+"616 Saint Lewis Road, Macclesfield, NC 27852",85000.0,3.0,2.0,1252.0,https://www.zillow.com//homedetails/616-Saint-Lewis-Rd-Macclesfield-NC-27852/68684416_zpid/
+"342 Longwood Dr, Advance, NC 27006",460000.0,4.0,4.0,3154.0,https://www.zillow.com//homedetails/342-Longwood-Dr-Advance-NC-27006/68712334_zpid/
+"121 Austine Ln, Advance, NC 27006",120000.0,3.0,2.0,1274.0,https://www.zillow.com//homedetails/121-Austine-Ln-Advance-NC-27006/68718960_zpid/
+"36 Rocking Porch Rd, Asheville, NC 28805",317500.0,3.0,2.0,1008.0,https://www.zillow.com//homedetails/36-Rocking-Porch-Rd-Asheville-NC-28805/68759095_zpid/
+"7706 Trap Way, ",300000.0,3.0,2.0,1350.0,https://www.zillow.com//homedetails/7706-Trap-Way-Wilmington-NC-28412/69139493_zpid/
+"4168 Ruritan Club Rd, Hudson, NC 28638",198000.0,3.0,2.0,1559.0,https://www.zillow.com//homedetails/4168-Ruritan-Club-Rd-Hudson-NC-28638/70083152_zpid/
+"216 S Main St, Granite Falls, NC 28630",246500.0,2.0,2.0,1519.0,https://www.zillow.com//homedetails/216-S-Main-St-Granite-Falls-NC-28630/70089898_zpid/
+"665 Quick Rd, Ruffin, NC 27326",145000.0,2.0,2.0,1632.0,https://www.zillow.com//homedetails/665-Quick-Rd-Ruffin-NC-27326/70123504_zpid/
+"301 W End Blvd, Madison, NC 27025",164000.0,3.0,2.0,1455.0,https://www.zillow.com//homedetails/301-W-End-Blvd-Madison-NC-27025/70127097_zpid/
+"135 Highland Ave, Eden, NC 27288",50000.0,2.0,1.0,772.0,https://www.zillow.com//homedetails/135-Highland-Ave-Eden-NC-27288/70144760_zpid/
+"123 Spain Drive, Hubert, NC 28539",270000.0,3.0,2.0,1601.0,https://www.zillow.com//homedetails/123-Spain-Dr-Hubert-NC-28539/70171105_zpid/
+"2619 Stagbuck Dr, Gastonia, NC 28052",345000.0,3.0,3.0,1940.0,https://www.zillow.com//homedetails/2619-Stagbuck-Dr-Gastonia-NC-28052/70503344_zpid/
+"200 Grey Elm Trl, Durham, NC 27713",350000.0,3.0,4.0,1933.0,https://www.zillow.com//homedetails/200-Grey-Elm-Trl-Durham-NC-27713/70923161_zpid/
+"1010 Westbrook Ct, Archdale, NC 27263",149000.0,2.0,2.0,864.0,https://www.zillow.com//homedetails/1010-Westbrook-Ct-Archdale-NC-27263/71220702_zpid/
+"6000 Bickett Ridge Dr, Monroe, NC 28110",576200.0,4.0,4.0,3239.0,https://www.zillow.com//homedetails/6000-Bickett-Ridge-Dr-Monroe-NC-28110/71428247_zpid/
+"125 S Isabella St, Coats, NC 27521",175000.0,2.0,1.0,838.0,https://www.zillow.com//homedetails/125-S-Isabella-St-Coats-NC-27521/71879906_zpid/
+"108 N 17th St, Erwin, NC 28339",32300.0,4.0,2.0,1728.0,https://www.zillow.com//homedetails/108-N-17th-St-Erwin-NC-28339/71879922_zpid/
+"67 Edenberry Ln, Sanford, NC 27332",145000.0,3.0,2.0,1304.0,https://www.zillow.com//homedetails/67-Edenberry-Ln-Sanford-NC-27332/71886347_zpid/
+"2601 Chestnut Ridge Church Rd, Efland, NC 27243",405000.0,2.0,3.0,1593.0,https://www.zillow.com//homedetails/2601-Chestnut-Ridge-Church-Rd-Efland-NC-27243/71898809_zpid/
+"2101 Colonial Ln, Hickory, NC 28601",265693.0,3.0,2.0,1706.0,https://www.zillow.com//homedetails/2101-Colonial-Ln-Hickory-NC-28601/71909602_zpid/
+"6986 Golden Bay Ct, Sherrills Ford, NC 28673",100.0,3.0,2.0,1888.0,https://www.zillow.com//homedetails/6986-Golden-Bay-Ct-Sherrills-Ford-NC-28673/71927049_zpid/
+"30 Juniper Creek Boulevard, Pinehurst, NC 28374",540000.0,3.0,2.0,2393.0,https://www.zillow.com//homedetails/30-Juniper-Creek-Blvd-Pinehurst-NC-28374/74968286_zpid/
+"9277 Jennifer Court NE, Leland, NC 28451",222500.0,3.0,2.0,1510.0,https://www.zillow.com//homedetails/9277-Jennifer-Ct-NE-Leland-NC-28451/78214746_zpid/
+"5276 Nighthawk Court SW, Shallotte, NC 28470",220000.0,3.0,2.0,1350.0,https://www.zillow.com//homedetails/5276-Nighthawk-Ct-SW-Shallotte-NC-28470/78219496_zpid/
+"2675 Jessica Lane SW, Supply, NC 28462",345000.0,3.0,4.0,2500.0,https://www.zillow.com//homedetails/2675-Jessica-Ln-SW-Supply-NC-28462/78223343_zpid/
+"420 Bear Creek Rd, Shelby, NC 28152",178500.0,3.0,2.0,1200.0,https://www.zillow.com//homedetails/420-Bear-Creek-Rd-Shelby-NC-28152/78279209_zpid/
+"301 Devonshire Drive, Goldsboro, NC 27530",83000.0,3.0,2.0,1512.0,https://www.zillow.com//homedetails/301-Devonshire-Dr-Goldsboro-NC-27530/78373964_zpid/
+"1107 Summerkings Ct, Raleigh, NC",-,-,-,-,"https://www.zillow.com//b/building/35.79353,-78.609406_ll/"
+"554 Medinah Dr, Winston Salem, NC 27107",680000.0,4.0,3.0,3500.0,https://www.zillow.com//homedetails/554-Medinah-Dr-Winston-Salem-NC-27107/80456972_zpid/
+"821 Martingale Ln, Davidson, NC 28036",725000.0,-,-,-,https://www.zillow.com//homedetails/821-Martingale-Ln-Davidson-NC-28036/80470506_zpid/
+"6 Bowling Green Ln, Arden, NC 28704",506000.0,3.0,3.0,1661.0,https://www.zillow.com//homedetails/6-Bowling-Green-Ln-Arden-NC-28704/80889369_zpid/
+"1107 Hunter St, Statesville, NC 28677",294000.0,3.0,2.0,1447.0,https://www.zillow.com//homedetails/1107-Hunter-St-Statesville-NC-28677/80910563_zpid/
+"4193 9th Street SE, Southport, NC 28461",165000.0,2.0,2.0,900.0,https://www.zillow.com//homedetails/4193-9th-St-SE-Southport-NC-28461/81587382_zpid/
+"2001 Weaver Forest Way, Morrisville, NC 27560",855000.0,5.0,4.0,4371.0,https://www.zillow.com//homedetails/2001-Weaver-Forest-Way-Morrisville-NC-27560/81748039_zpid/
+"113 Tanager Ln, Hendersonville, NC 28792",403000.0,3.0,2.0,1738.0,https://www.zillow.com//homedetails/113-Tanager-Ln-Hendersonville-NC-28792/81835028_zpid/
+"63 14th St SE, Hickory, NC 28602",125000.0,1.0,1.0,616.0,https://www.zillow.com//homedetails/63-14th-St-SE-Hickory-NC-28602/82176905_zpid/
+"15936 Rose Glenn Ln, Davidson, NC 28036",222338.0,2.0,2.0,1013.0,https://www.zillow.com//homedetails/15936-Rose-Glenn-Ln-Davidson-NC-28036/83968439_zpid/
+"810 Beech Street, Laurinburg, NC 28352",65000.0,3.0,1.0,1325.0,https://www.zillow.com//homedetails/810-Beech-St-Laurinburg-NC-28352/86681682_zpid/
+"1523 Ivy Trce, Wilkesboro, NC 28697",215000.0,2.0,3.0,1512.0,https://www.zillow.com//homedetails/1523-Ivy-Trce-Wilkesboro-NC-28697/86696167_zpid/
+"1650 Country Club Dr #C301, Maggie Valley, NC 28751",477000.0,3.0,2.0,1590.0,https://www.zillow.com//homedetails/1650-Country-Club-Dr-C301-Maggie-Valley-NC-28751/87880150_zpid/
+"18524 W Catawba Ave, Cornelius, NC 28031",387500.0,3.0,3.0,1816.0,https://www.zillow.com//homedetails/18524-W-Catawba-Ave-Cornelius-NC-28031/89690413_zpid/
+"6309 Rylan Ct, Browns Summit, NC 27214",394000.0,4.0,4.0,2383.0,https://www.zillow.com//homedetails/6309-Rylan-Ct-Browns-Summit-NC-27214/89691776_zpid/
+"12541 Druids Glen Dr, Pineville, NC 28134",420000.0,3.0,3.0,2338.0,https://www.zillow.com//homedetails/12541-Druids-Glen-Dr-Pineville-NC-28134/89696734_zpid/
+"15132 Aullcin Ct, Charlotte, NC 28278",723000.0,6.0,4.0,5119.0,https://www.zillow.com//homedetails/15132-Aullcin-Ct-Charlotte-NC-28278/89696924_zpid/
+"2266 Brookstone Drive SE, Bolivia, NC 28422",349000.0,3.0,2.0,1925.0,https://www.zillow.com//homedetails/2266-Brookstone-Dr-SE-Bolivia-NC-28422/92998168_zpid/
+"9756 Poverty Point, Bullock, NC 27507",725000.0,2.0,3.0,2724.0,https://www.zillow.com//homedetails/9756-Poverty-Point-Bullock-NC-27507/93020223_zpid/
+"6087 Zachary Ln, Oxford, NC 27565",251000.0,4.0,2.0,1944.0,https://www.zillow.com//homedetails/6087-Zachary-Ln-Oxford-NC-27565/93031706_zpid/
+"152 Paynetown Rd, Mount Airy, NC 27030",219000.0,3.0,2.0,1219.0,https://www.zillow.com//homedetails/152-Paynetown-Rd-Mount-Airy-NC-27030/93095410_zpid/
+"8329 Niayah Way, Raleigh, NC 27612",382500.0,3.0,3.0,1811.0,https://www.zillow.com//homedetails/8329-Niayah-Way-Raleigh-NC-27612/94723471_zpid/
+"1704 Wood Duck Court, Morehead City, NC 28557",709000.0,3.0,3.0,3007.0,https://www.zillow.com//homedetails/1704-Wood-Duck-Ct-Morehead-City-NC-28557/102007270_zpid/
+"115 Conway Road, Beaufort, NC 28516",180000.0,3.0,1.0,970.0,https://www.zillow.com//homedetails/115-Conway-Rd-Beaufort-NC-28516/102010125_zpid/
+"118 Magens Way, ",625000.0,3.0,3.0,2348.0,https://www.zillow.com//homedetails/118-Magens-Way-Cedar-Pt-NC-28584/102022292_zpid/
+"1211 Avery Street, Morehead City, NC 28557",500000.0,6.0,2.0,2122.0,https://www.zillow.com//homedetails/1211-Avery-St-Morehead-City-NC-28557/102087064_zpid/
+"36 State St, Marion, NC 28752",210000.0,3.0,1.0,1123.0,https://www.zillow.com//homedetails/36-State-St-Marion-NC-28752/102148711_zpid/
+"614 Forest Lane, Wallace, NC 28466",229900.0,3.0,3.0,1650.0,https://www.zillow.com//homedetails/614-Forest-Ln-Wallace-NC-28466/102195627_zpid/
+"216 Woodland Cir, Lake Lure, NC 28746",120.0,3.0,4.0,3896.0,https://www.zillow.com//homedetails/216-Woodland-Cir-Lake-Lure-NC-28746/102202446_zpid/
+"125 Coppers Trail, Wilmington, NC 28411",435000.0,3.0,2.0,1639.0,https://www.zillow.com//homedetails/125-Coppers-Trl-Wilmington-NC-28411/102216571_zpid/
+"310 Headwaters Drive, Hampstead, NC 28443",703000.0,3.0,3.0,2996.0,https://www.zillow.com//homedetails/310-Headwaters-Dr-Hampstead-NC-28443/102227835_zpid/
+"71 Trowbridge Ln, Brevard, NC 28712",187500.0,2.0,1.0,750.0,https://www.zillow.com//homedetails/71-Trowbridge-Ln-Brevard-NC-28712/102241447_zpid/
+"352 S Caldwell St, Brevard, NC 28712",513000.0,4.0,2.0,2209.0,https://www.zillow.com//homedetails/352-S-Caldwell-St-Brevard-NC-28712/102260287_zpid/
+"158 Sunrise Cove, Blowing Rock, NC 28605",400000.0,3.0,1.0,1008.0,https://www.zillow.com//homedetails/158-Sunrise-Cv-Blowing-Rock-NC-28605/102347571_zpid/
+"123 Hilt St, Brevard, NC 28712",630000.0,2.0,2.0,1499.0,https://www.zillow.com//homedetails/123-Hilt-St-Brevard-NC-28712/102350643_zpid/
+"107 Harvest Ln, Raeford, NC 28376",305252.0,4.0,2.0,1902.0,https://www.zillow.com//homedetails/107-Harvest-Ln-Raeford-NC-28376/106988216_zpid/
+"1790 Riddle Rd, Sanford, NC 27330",194000.0,3.0,3.0,1941.0,https://www.zillow.com//homedetails/1790-Riddle-Rd-Sanford-NC-27330/107014730_zpid/
+"271 Lake Point, Sanford, NC 27332",343700.0,3.0,3.0,2335.0,https://www.zillow.com//homedetails/271-Lake-Point-Sanford-NC-27332/107017372_zpid/
+"476 Cove Creek Ln, Weaverville, NC 28787",489975.0,3.0,2.0,1830.0,https://www.zillow.com//homedetails/476-Cove-Creek-Ln-Weaverville-NC-28787/107042989_zpid/
+"7309 Nc 222 Highway, Saratoga, NC 27873",220000.0,3.0,2.0,1698.0,https://www.zillow.com//homedetails/7309-State-Highway-222-Stantonsburg-NC-27883/107075494_zpid/
+"142 Velo Trl, Sylva, NC 28779",58500.0,-,-,-,https://www.zillow.com//homedetails/142-Velo-Trl-Sylva-NC-28779/109966118_zpid/
+"65 Southern Hills Place, Pinehurst, NC 28374",210.0,4.0,6.0,8135.0,https://www.zillow.com//homedetails/65-Southern-Hills-Pl-Pinehurst-NC-28374/112948312_zpid/
+"2563 Butterfly Trl, Randleman, NC 27317",257000.0,3.0,2.0,1236.0,https://www.zillow.com//homedetails/2563-Butterfly-Trl-Randleman-NC-27317/113194182_zpid/
+"437 Norvell St, Henderson, NC 27536",170000.0,3.0,1.0,1401.0,https://www.zillow.com//homedetails/437-Norvell-St-Henderson-NC-27536/114866898_zpid/
+"2352 33rd St NE, Hickory, NC 28601",268000.0,3.0,3.0,1530.0,https://www.zillow.com//homedetails/2352-33rd-St-NE-Hickory-NC-28601/118200839_zpid/
+"130 Virginia Water Dr, Rolesville, NC 27571",465000.0,4.0,3.0,2360.0,https://www.zillow.com//homedetails/130-Virginia-Water-Dr-Rolesville-NC-27571/119339996_zpid/
+"11514 Elizabeth Madison Ct, Charlotte, NC 28277",448000.0,3.0,3.0,1767.0,https://www.zillow.com//homedetails/11514-Elizabeth-Madison-Ct-Charlotte-NC-28277/122353050_zpid/
+"120 Wyatt Dr, Advance, NC 27006",505000.0,4.0,4.0,2705.0,https://www.zillow.com//homedetails/120-Wyatt-Dr-Advance-NC-27006/123218126_zpid/
+"14 Wells Rd, Brasstown, NC 28902",450000.0,3.0,4.0,-,https://www.zillow.com//homedetails/14-Wells-Rd-Brasstown-NC-28902/123771975_zpid/
+"1692 Old Highway 64 W, Hayesville, NC 28904",287000.0,3.0,2.0,1620.0,https://www.zillow.com//homedetails/1692-Old-Highway-64-W-Hayesville-NC-28904/123771992_zpid/
+"2067 Qualla Rd, Hayesville, NC 28904",241400.0,2.0,1.0,-,https://www.zillow.com//homedetails/2067-Qualla-Rd-Hayesville-NC-28904/123772163_zpid/
+"69 5th Ave, Asheville, NC 28806",447000.0,2.0,1.0,1120.0,https://www.zillow.com//homedetails/69-5th-Ave-Asheville-NC-28806/124396961_zpid/
+"948 Nc Highway 45, Merry Hill, NC 27957",575000.0,3.0,3.0,3016.0,https://www.zillow.com//homedetails/948-State-Highway-45n-Merry-Hill-NC-27957/126465870_zpid/
+"3920 Essex Garden Ln APT 105, Raleigh, NC 27612",595000.0,2.0,2.0,1820.0,https://www.zillow.com//homedetails/3920-Essex-Garden-Ln-APT-105-Raleigh-NC-27612/132171990_zpid/
+"2007 Temple Hills Way, Fuquay Varina, NC 27526",545500.0,4.0,3.0,2651.0,https://www.zillow.com//homedetails/2007-Temple-Hills-Way-Fuquay-Varina-NC-27526/133700837_zpid/
+"1840 Mayberry Rd, Dallas, NC 28034",680000.0,4.0,4.0,3102.0,https://www.zillow.com//homedetails/1840-Mayberry-Rd-Dallas-NC-28034/144141907_zpid/
+"42 Destination Dr, Asheville, NC 28806",460000.0,2.0,2.0,1202.0,https://www.zillow.com//homedetails/42-Destination-Dr-Asheville-NC-28806/150921340_zpid/
+"108 Pine St, Jonesville, NC 28642",127500.0,2.0,1.0,660.0,https://www.zillow.com//homedetails/108-Pine-St-Jonesville-NC-28642/194261177_zpid/
+"188 Oak Brook Dr, Mooresville, NC 28115",320000.0,3.0,3.0,2107.0,https://www.zillow.com//homedetails/188-Oak-Brook-Dr-Mooresville-NC-28115/196765652_zpid/
+"350 Centenary Ridge Dr, Clemmons, NC 27012",609000.0,4.0,3.0,2864.0,https://www.zillow.com//homedetails/350-Centenary-Ridge-Dr-Clemmons-NC-27012/197588716_zpid/
+"53 Cattle Run Lane, Carolina Shores, NC 28467",295000.0,3.0,2.0,1405.0,https://www.zillow.com//homedetails/53-Cattle-Run-Ln-Carolina-Shor-NC-28467/197948434_zpid/
+"67 Pinewood Drive, Carolina Shores, NC 28467",407900.0,3.0,2.0,1600.0,https://www.zillow.com//homedetails/67-Pinewood-Dr-Carolina-Shores-NC-28467/197974310_zpid/
+"418 27th Street, Sunset Beach, NC 28468",911000.0,4.0,4.0,1947.0,https://www.zillow.com//homedetails/418-27th-St-Sunset-Beach-NC-28468/197993332_zpid/
+"306 Village Creek Way, Salisbury, NC 28147",217000.0,3.0,3.0,1440.0,https://www.zillow.com//homedetails/306-Village-Creek-Way-Salisbury-NC-28147/203783553_zpid/
+"5506 Blackbeard Lane, New Bern, NC 28560",30000.0,-,0.0,-,https://www.zillow.com//homedetails/5506-Blackbeards-Ln-New-Bern-NC-28560/210672128_zpid/
+"3810 Lichen Lane, New Bern, NC 28562",90000.0,-,0.0,-,https://www.zillow.com//homedetails/3810-Lichen-Ln-New-Bern-NC-28562/210688773_zpid/
+"614 Moriah Church Rd, Casar, NC 28020",235000.0,-,-,-,https://www.zillow.com//homedetails/614-Moriah-Church-Rd-Casar-NC-28020/214077197_zpid/
+"85 Carriden Dr, Youngsville, NC 27596",550000.0,4.0,3.0,2654.0,https://www.zillow.com//homedetails/85-Carriden-Dr-Youngsville-NC-27596/215438668_zpid/
+"512 Oak Bluff Run, Cary, NC 27513",850000.0,4.0,4.0,3092.0,https://www.zillow.com//homedetails/512-Oak-Bluff-Run-Cary-NC-27513/215490182_zpid/
+"863 Live Oak Lane, Nashville, NC 27856",370000.0,3.0,3.0,2423.0,https://www.zillow.com//homedetails/863-Live-Oak-Ln-Nashville-NC-27856/216883009_zpid/
+"1325 Longleaf Drive E, Pinehurst, NC 28374",411000.0,3.0,2.0,1790.0,https://www.zillow.com//homedetails/1325-Longleaf-Dr-E-Pinehurst-NC-28374/217455715_zpid/
+"256 Johnson Street, Vass, NC 28394",390000.0,4.0,4.0,2475.0,https://www.zillow.com//homedetails/256-Johnson-St-Vass-NC-28394/217480606_zpid/
+"2519 Tower Hill Road, Kinston, NC 28501",155000.0,3.0,3.0,2618.0,https://www.zillow.com//homedetails/2519-Tower-Hill-Rd-Kinston-NC-28501/222875506_zpid/
+"101 Twin Oaks Place, Goldsboro, NC 27530",475000.0,5.0,4.0,3753.0,https://www.zillow.com//homedetails/101-Twin-Oaks-Pl-Goldsboro-NC-27530/224165293_zpid/
+"713 Bryce Street, Whiteville, NC 28472",290000.0,3.0,3.0,2688.0,https://www.zillow.com//homedetails/713-Bryce-St-Whiteville-NC-28472/225691705_zpid/
+"2120 Aydlett Dr, Elizabeth City, NC 27909",245000.0,3.0,2.0,1050.0,https://www.zillow.com//homedetails/2120-Aydlett-Dr-Elizabeth-City-NC-27909/226196803_zpid/
+"155 Birkdale Ct UNIT C1, Jefferson, NC 28640",295000.0,2.0,2.0,1109.0,https://www.zillow.com//homedetails/155-Birkdale-Ct-UNIT-C1-Jefferson-NC-28640/230021583_zpid/
+"544 Cobb Cir, Murphy, NC 28906",310000.0,3.0,2.0,-,https://www.zillow.com//homedetails/544-Cobb-Cir-Murphy-NC-28906/230500113_zpid/
+"130 Springdale St, Murphy, NC 28906",175000.0,4.0,3.0,2514.0,https://www.zillow.com//homedetails/130-Springdale-St-Murphy-NC-28906/230509452_zpid/
+"193 Oswell Brinson Road, Merritt, NC 28556",43750.0,-,0.0,-,https://www.zillow.com//homedetails/193-Oswell-Brinson-Rd-Merritt-NC-28556/233115084_zpid/
+"411 Reams Ave, Roxboro, NC 27573",105000.0,3.0,2.0,1525.0,https://www.zillow.com//homedetails/411-Reams-Ave-Roxboro-NC-27573/241470198_zpid/
+"1095 Lonesome Pine Rd, Murphy, NC 28906",305000.0,2.0,2.0,1008.0,https://www.zillow.com//homedetails/1095-Lonesome-Pine-Rd-Murphy-NC-28906/241900910_zpid/
+"219 Chestwood Drive, Hubert, NC 28539",299000.0,3.0,3.0,1680.0,https://www.zillow.com//homedetails/219-Chestwood-Dr-Hubert-NC-28539/245671015_zpid/
+"365 Virginia Ln, Murphy, NC 28906",335000.0,2.0,2.0,-,https://www.zillow.com//homedetails/365-Virginia-Ln-Murphy-NC-28906/247285902_zpid/
+"650 Watauga St, Raleigh, NC 27604",747000.0,3.0,4.0,1748.0,https://www.zillow.com//homedetails/650-Watauga-St-Raleigh-NC-27604/248750545_zpid/
+"121 Canford Way, Holly Springs, NC 27540",499900.0,3.0,3.0,1965.0,https://www.zillow.com//homedetails/121-Canford-Way-Holly-Springs-NC-27540/248755992_zpid/
+"341 Wyndham Forest Cir, Midland, NC 28107",470000.0,4.0,3.0,2786.0,https://www.zillow.com//homedetails/341-Wyndham-Forest-Cir-Midland-NC-28107/249249174_zpid/
+"2396 Walter Todd Road, Clarendon, NC 28432",299000.0,3.0,2.0,1980.0,https://www.zillow.com//homedetails/2396-Walter-Todd-Rd-Clarendon-NC-28432/249780800_zpid/
+"285 Old Market Road, Fountain, NC 27829",134000.0,2.0,2.0,979.0,https://www.zillow.com//homedetails/285-Old-Market-Rd-Fountain-NC-27829/249840771_zpid/
+"243 Peacock Road, Kenly, NC 27542",130000.0,2.0,2.0,1736.0,https://www.zillow.com//homedetails/243-Peacock-Ln-Kenly-NC-27542/250010132_zpid/
+"3656 Lakeview Drive SW, Supply, NC 28462",29900.0,-,0.0,-,https://www.zillow.com//homedetails/3656-Lakeview-Dr-SW-Supply-NC-28462/250210999_zpid/
+"236 Woodstaff Ave, Wake Forest, NC 27587",665000.0,5.0,4.0,3298.0,https://www.zillow.com//homedetails/236-Woodstaff-Ave-Wake-Forest-NC-27587/305120979_zpid/
+"2220 Tulls Cove Road, Winterville, NC 28590",320000.0,3.0,3.0,1820.0,https://www.zillow.com//homedetails/2220-Tulls-Cove-Rd-Winterville-NC-28590/306031272_zpid/
+"199 Liberty Lane, Carthage, NC 28327",600000.0,5.0,3.0,3100.0,https://www.zillow.com//homedetails/199-Liberty-Ln-Carthage-NC-28327/306864160_zpid/
+"1310 Harkey Creek Dr, Monroe, NC 28110",444500.0,4.0,3.0,2457.0,https://www.zillow.com//homedetails/1310-Harkey-Creek-Dr-Monroe-NC-28110/331448214_zpid/
+"1217 Perry Bluff Dr, Wake Forest, NC 27587",136.0,4.0,6.0,4482.0,https://www.zillow.com//homedetails/1217-Perry-Bluff-Dr-Wake-Forest-NC-27587/331657183_zpid/
+"1331 Channing Park Cir, Cary, NC 27519",560000.0,4.0,4.0,2524.0,https://www.zillow.com//homedetails/1331-Channing-Park-Cir-Cary-NC-27519/336867636_zpid/
+"8014 Rowling Dr, Charlotte, NC 28215",399900.0,4.0,3.0,2175.0,https://www.zillow.com//homedetails/8014-Rowling-Dr-Charlotte-NC-28215/336918569_zpid/
+"11113 Cobb Creek Ct, Charlotte, NC 28277",689000.0,3.0,3.0,2498.0,https://www.zillow.com//homedetails/11113-Cobb-Creek-Ct-Charlotte-NC-28277/338427235_zpid/
+"8101 Alderton Ln, Charlotte, NC 28215",315000.0,3.0,3.0,1560.0,https://www.zillow.com//homedetails/8101-Alderton-Ln-Charlotte-NC-28215/338431617_zpid/
+"5125 Hopkins Chapel Rd, Zebulon, NC 27597",810000.0,3.0,4.0,3000.0,https://www.zillow.com//homedetails/5125-Hopkins-Chapel-Rd-Zebulon-NC-27597/338501521_zpid/
+"203 Moffitt Branch Rd, Old Fort, NC 28762",75000.0,-,-,-,https://www.zillow.com//homedetails/203-Moffitt-Branch-Rd-Old-Fort-NC-28762/338739306_zpid/
+"243 Hawksmoore Ln, Lillington, NC 27546",305740.0,4.0,3.0,2511.0,https://www.zillow.com//homedetails/243-Hawksmoore-Ln-Lillington-NC-27546/339886526_zpid/
+"6330 Cadence Dr, Greensboro, NC 27455",559992.0,4.0,4.0,3608.0,https://www.zillow.com//homedetails/6330-Cadence-Dr-Greensboro-NC-27455/341846149_zpid/
+"905 Fairmile Dr, Greensboro, NC 27455",465000.0,4.0,3.0,2484.0,https://www.zillow.com//homedetails/905-Fairmile-Dr-Greensboro-NC-27455/341846258_zpid/
+"0 Sonny Dawes Rd #2, Semora, NC 27343",9000.0,-,-,-,https://www.zillow.com//homedetails/0-Sonny-Dawes-Rd-2-Semora-NC-27343/341986784_zpid/
+"1265 Coppergate Dr, Salisbury, NC",-,-,-,-,"https://www.zillow.com//b/building/35.647224,-80.61465_ll/"
+"Lot 141B Hickory Hollow Road, Purlear, NC 28665",32900.0,-,-,-,https://www.zillow.com//homedetails/LOT-141B-Hickory-Hollow-Rd-Purlear-NC-28665/344025643_zpid/
+"516 N Anderson Boulevard, Topsail Beach, NC 28445",138.0,4.0,3.0,2231.0,https://www.zillow.com//homedetails/516-N-Anderson-A-Blvd-Topsail-Beach-NC-28445/345171433_zpid/
+"9133 Raccoon Dr, Middlesex, NC 27557",364500.0,3.0,2.0,1799.0,https://www.zillow.com//homedetails/9133-Raccoon-Dr-Middlesex-NC-27557/347230592_zpid/
+"0 Lake Adger Pkwy LOT 4, Mill Spring, NC 28756",57500.0,-,-,-,https://www.zillow.com//homedetails/0-Lake-Adger-Pkwy-LOT-4-Mill-Spring-NC-28756/348647158_zpid/
+"620 Georgias Landing Pkwy #81, Raleigh, NC 27603",421000.0,3.0,3.0,1744.0,https://www.zillow.com//homedetails/620-Georgias-Landing-Pkwy-81-Raleigh-NC-27603/349784286_zpid/
+"1542 Tulls Creek Rd LOT 1, Moyock, NC 27958",515900.0,4.0,3.0,2250.0,https://www.zillow.com//homedetails/1542-Tulls-Creek-Rd-LOT-1-Moyock-NC-27958/350456172_zpid/
+"Chesapeake Commons St #77, Garner, NC 27529",329645.0,3.0,3.0,1698.0,https://www.zillow.com//homedetails/Chesapeake-Commons-St-77-Garner-NC-27529/351007910_zpid/
+"236 Berry Mill Ln #200, Raleigh, NC 27603",526996.0,3.0,3.0,2419.0,https://www.zillow.com//homedetails/236-Berry-Mill-Ln-200-Raleigh-NC-27603/352185595_zpid/
+"70 Dandelion Rd, Fletcher, NC 28732",497190.0,4.0,3.0,2820.0,https://www.zillow.com//homedetails/70-Dandelion-Rd-Fletcher-NC-28732/353493412_zpid/
+"0 Demaree Dr, Marion, NC 28752",18000.0,-,-,-,https://www.zillow.com//homedetails/0-Demaree-Dr-Marion-NC-28752/353690440_zpid/
+"2229 Bonnie St #30, Willow Springs, NC 27592",541315.0,4.0,3.0,2515.0,https://www.zillow.com//homedetails/2229-Bonnie-St-30-Willow-Springs-NC-27592/377584096_zpid/
+"139 White Oak Garden Way #57, Garner, NC 27529",402100.0,4.0,3.0,1949.0,https://www.zillow.com//homedetails/139-White-Oak-Garden-Way-57-Garner-NC-27529/401693185_zpid/
+"2013 Twilight Drive NE, Winnabow, NC 28479",384900.0,4.0,3.0,2069.0,https://www.zillow.com//homedetails/2013-Twilight-Dr-NE-Winnabow-NC-28479/402096378_zpid/
+"105 Eason Creek Way, Clayton, NC 27527",339900.0,3.0,2.0,1450.0,https://www.zillow.com//homedetails/105-Eason-Creek-Way-Clayton-NC-27527/420997201_zpid/
+"5985 Elk Ridge Dr LOT 2, Kernersville, NC 27284",399990.0,4.0,4.0,2551.0,https://www.zillow.com//homedetails/5985-Elk-Ridge-Dr-LOT-2-Kernersville-NC-27284/431907666_zpid/
+"5101 Maple Blossom Trl, Greensboro, NC 27455",443990.0,4.0,3.0,2404.0,https://www.zillow.com//homedetails/5101-Maple-Blossom-Trl-Greensboro-NC-27455/439153698_zpid/
+"2907 Leatherman Gap Rd, Franklin, NC 28734",435000.0,1.0,3.0,3350.0,https://www.zillow.com//homedetails/2907-Leatherman-Gap-Rd-Franklin-NC-28734/439315243_zpid/
+"5051 Sunnybrae Pl, Charlotte, NC 28262",428490.0,3.0,4.0,1952.0,https://www.zillow.com//homedetails/5051-Sunnybrae-Pl-Charlotte-NC-28262/439595047_zpid/
+"L13r Londonderry Cir #13R, Brevard, NC 28712",85000.0,-,-,-,https://www.zillow.com//homedetails/L13r-Londonderry-Cir-13R-Brevard-NC-28712/439768567_zpid/
+"116 Claudia Ln, Raeford, NC 28376",324900.0,4.0,3.0,1981.0,https://www.zillow.com//homedetails/116-Claudia-Ln-Raeford-NC-28376/439776878_zpid/
+"6344 Alfalfa Ln, Wake Forest, NC 27587",407437.0,4.0,3.0,2340.0,https://www.zillow.com//homedetails/6344-Alfalfa-Ln-Wake-Forest-NC-27587/439967075_zpid/
+"507 Birch Creek Rd, Mc Leansville, NC 27301",542500.0,3.0,2.0,2337.0,https://www.zillow.com//homedetails/507-Birch-Creek-Rd-Mc-Leansville-NC-27301/439968501_zpid/
+"60 Arbor Dr, Youngsville, NC 27596",585000.0,3.0,3.0,2445.0,https://www.zillow.com//homedetails/60-Arbor-Dr-Youngsville-NC-27596/440235976_zpid/
+"712 Constitution Dr UNIT E, Durham, NC 27705",455000.0,3.0,2.0,2169.0,https://www.zillow.com//homedetails/712-Constitution-Dr-UNIT-E-Durham-NC-27705/440257843_zpid/
+"147 Boone Rd, Stokesdale, NC 27357",329900.0,4.0,2.0,1716.0,https://www.zillow.com//homedetails/147-Boone-Rd-Stokesdale-NC-27357/440361616_zpid/
+"4120 Lurelin Ln, Charlotte, NC",-,-,-,-,"https://www.zillow.com//b/building/35.310284,-80.79133_ll/"
+"14440 Burgess Rd, Middlesex, NC 27557",900000.0,4.0,4.0,2670.0,https://www.zillow.com//homedetails/14440-Burgess-Rd-Middlesex-NC-27557/440573686_zpid/
+"0 Star View Dr, King, NC 27021",30000.0,-,-,0.0,https://www.zillow.com//homedetails/0-Star-View-Dr-King-NC-27021/440654658_zpid/
+"58 W Lakefront Dr #14, Leasburg, NC 27291",62500.0,-,-,-,https://www.zillow.com//homedetails/58-W-Lakefront-Dr-14-Leasburg-NC-27291/441695291_zpid/
+"365 Virginia Ln #5, Murphy, NC 28906",335000.0,2.0,2.0,0.0,https://www.zillow.com//homedetails/365-Virginia-Ln-5-Murphy-NC-28906/441727702_zpid/
+"2294 Dawson Cabin Road, Jacksonville, NC 28540",94000.0,-,0.0,-,https://www.zillow.com//homedetails/2294-Dawson-Cabin-Rd-Jacksonville-NC-28540/441754546_zpid/
+"404 Fifth Street, Maysville, NC 28555",239000.0,3.0,2.0,1220.0,https://www.zillow.com//homedetails/404-5th-St-Maysville-NC-28555/441780543_zpid/
+"7007 Sunrise Rd #34B, Chapel Hill, NC 27514",630000.0,-,-,-,https://www.zillow.com//homedetails/7007-Sunrise-Rd-34B-Chapel-Hill-NC-27514/441806777_zpid/
+"13645 Culp Rd, Gold Hill, NC 28071",450000.0,2.0,2.0,1649.0,https://www.zillow.com//homedetails/13645-Culp-Rd-Gold-Hill-NC-28071/441831309_zpid/
+"Lot 3 Grace Street, Snow Hill, NC 28580",17000.0,-,0.0,-,https://www.zillow.com//homedetails/3-Grace-St-Snow-Hill-NC-28580/441886979_zpid/
+"1849 E Woodstork Lane NE Lot 628, Bolivia, NC 28422",357490.0,5.0,3.0,2511.0,https://www.zillow.com//homedetails/1849-E-Woodstork-Ln-NE-LOT-628-Bolivia-NC-28422/441986595_zpid/
+"LOT 44 Creekwood Dr, Mooresville, NC 28117",140000.0,-,-,-,https://www.zillow.com//homedetails/LOT-44-Creekwood-Dr-Mooresville-NC-28117/441998990_zpid/
+"161 Emery Ave NW, Concord, NC 28027",355000.0,4.0,3.0,1735.0,https://www.zillow.com//homedetails/161-Emery-Ave-NW-Concord-NC-28027/442104357_zpid/
+"1692 Old Highway 64w #5-6, Hayesville, NC 28904",287000.0,3.0,2.0,1620.0,https://www.zillow.com//homedetails/1692-Old-Highway-64w-5-6-Hayesville-NC-28904/442122815_zpid/
+"Ashton Ln, Hendersonville, NC 28792",65000.0,-,-,-,https://www.zillow.com//homedetails/Ashton-Ln-Hendersonville-NC-28792/442264849_zpid/
+"2048 E Dixon Blvd, Shelby, NC 28152",90000.0,-,-,-,https://www.zillow.com//homedetails/2048-E-Dixon-Blvd-Shelby-NC-28152/442345210_zpid/
+"7147 Indigo Way, Denver, NC 28037",340000.0,3.0,2.0,1569.0,https://www.zillow.com//homedetails/7147-Indigo-Way-Denver-NC-28037/442427016_zpid/
+"1307 Nc Highway 11, Aulander, NC 27805",81000.0,3.0,1.0,1196.0,https://www.zillow.com//homedetails/1307-State-Highway-11-S-Aulander-NC-27805/442427031_zpid/
+"302 Bicentennial Blvd, Smithfield, NC 27577",407065.0,3.0,3.0,3005.0,https://www.zillow.com//homedetails/302-Bicentennial-Blvd-Smithfield-NC-27577/442508162_zpid/
+"14 Ravencroft Ln, Asheville, NC",-,-,-,-,https://www.zillow.com//b/14-ravencroft-ln-asheville-nc-9Bdtw9/
+"1153 Bryant Mill Rd, Ararat, NC 27007",223000.0,4.0,2.0,1680.0,https://www.zillow.com//homedetails/1153-Bryant-Mill-Rd-Ararat-NC-27007/442599910_zpid/
+"150 Adams Lane UNIT 12A, Boone, NC 28607",237000.0,2.0,2.0,900.0,https://www.zillow.com//homedetails/150-Adams-Ln-12A-Boone-NC-28607/442613972_zpid/
+"6 Mountain Song Ln, Asheville, NC 28806",790000.0,4.0,3.0,2432.0,https://www.zillow.com//homedetails/6-Mountain-Song-Ln-Asheville-NC-28806/442721595_zpid/
+"857 Clonmel Dr, Matthews, NC 28104",735350.0,4.0,4.0,3627.0,https://www.zillow.com//homedetails/857-Clonmel-Dr-Matthews-NC-28104/442721639_zpid/
+"184 Briana Marie Way, Indian Trail, NC 28079",347400.0,3.0,3.0,1823.0,https://www.zillow.com//homedetails/184-Briana-Marie-Way-Indian-Trail-NC-28079/442753871_zpid/
+"748 J C Teague Rd, Staley, NC 27355",180000.0,3.0,2.0,1769.0,https://www.zillow.com//homedetails/748-J-C-Teague-Rd-Staley-NC-27355/442764283_zpid/
+"940 Double Helix Rd, Apex, NC 27523",615000.0,4.0,4.0,2446.0,https://www.zillow.com//homedetails/940-Double-Helix-Rd-Apex-NC-27523/442868812_zpid/
+"1815 Chapelwood Rd, Denton, NC 27317",239000.0,3.0,2.0,1385.0,https://www.zillow.com//homedetails/1815-Chapelwood-Rd-Denton-NC-27317/442982738_zpid/
+"LOT 2 Cardinal Loop, Stanley, NC 28164",105000.0,-,-,-,https://www.zillow.com//homedetails/LOT-2-Cardinal-Loop-Stanley-NC-28164/443102817_zpid/
+"5704 Kirkdale Ct #34, Charlotte, NC 28208",295000.0,3.0,2.0,1078.0,https://www.zillow.com//homedetails/5704-Kirkdale-Ct-34-Charlotte-NC-28208/443104875_zpid/
+"35 Goode Rd, Mooresboro, NC 28114",15000.0,-,-,-,https://www.zillow.com//homedetails/35-Goode-Rd-Mooresboro-NC-28114/443290075_zpid/
+"550 Geneva Cir, Gastonia, NC 28056",340000.0,4.0,3.0,1489.0,https://www.zillow.com//homedetails/550-Geneva-Cir-Gastonia-NC-28056/443547292_zpid/
+"Lots 2 & 3 Us Highway 64, Robersonville, NC 27871",105000.0,-,0.0,-,https://www.zillow.com//homedetails/Lots-2-3-Us-Hwy-64-Robersonville-NC-27871/443602875_zpid/
+"2504 Lilymount Dr, Raleigh, NC 27609",255000.0,3.0,3.0,1150.0,https://www.zillow.com//homedetails/2504-Lilymount-Dr-Raleigh-NC-27609/443876708_zpid/
+"1119 Central Park Cir, Davidson, NC 28036",375000.0,3.0,3.0,1520.0,https://www.zillow.com//homedetails/1119-Central-Park-Cir-Davidson-NC-28036/443882667_zpid/
+"213 Hoskins St, High Pt, NC 27260",174500.0,2.0,2.0,1024.0,https://www.zillow.com//homedetails/213-Hoskins-St-High-Pt-NC-27260/443891708_zpid/
+"251 Green Pines Estates Dr, Kenly, NC 27542",329900.0,3.0,2.0,1758.0,https://www.zillow.com//homedetails/251-Green-Pines-Estates-Dr-Kenly-NC-27542/2053944418_zpid/
+"246 Dickey Place Dr, Marble, NC 28905",291000.0,2.0,2.0,1008.0,https://www.zillow.com//homedetails/246-Dickey-Place-Dr-Marble-NC-28905/2055838307_zpid/
+"8916 Morning Mist Rd, Charlotte, NC 28215",432000.0,3.0,3.0,2001.0,https://www.zillow.com//homedetails/8916-Morning-Mist-Rd-Charlotte-NC-28215/2057598972_zpid/
+"1602 Juniper St, Durham, NC 27703",675000.0,3.0,3.0,3353.0,https://www.zillow.com//homedetails/1602-Juniper-St-Durham-NC-27703/2057704661_zpid/
+"2630 N Nc 581 Hwy, Pikeville, NC 27863",315700.0,3.0,2.0,1637.0,https://www.zillow.com//homedetails/2630-N-State-Highway-581-Pikeville-NC-27863/2059548773_zpid/
+"345 E King St, King, NC 27021",185000.0,2.0,2.0,1094.0,https://www.zillow.com//homedetails/345-E-King-St-King-NC-27021/2065810248_zpid/
+"762 Lakeshore Ct LOT 32, Corolla, NC 27927",620000.0,4.0,2.0,1668.0,https://www.zillow.com//homedetails/762-Lakeshore-Ct-LOT-32-Corolla-NC-27927/2077152988_zpid/
+"13929 Clayborn St #96, Midland, NC 28107",257500.0,2.0,3.0,1259.0,https://www.zillow.com//homedetails/13929-Clayborn-St-96-Midland-NC-28107/2078755245_zpid/
+"3814 Sterling Pointe Drive UNIT H-4, Winterville, NC 28590",109500.0,2.0,2.0,1042.0,https://www.zillow.com//homedetails/3814-Sterling-Pointe-Dr-UNIT-H4-Winterville-NC-28590/2089004326_zpid/
+"tbd Winter Street, Jefferson, NC 28640",32500.0,-,-,-,https://www.zillow.com//homedetails/Tbd-Winter-St-Jefferson-NC-28640/2101638842_zpid/
+"805 W Club Blvd, Durham, NC 27701",445000.0,4.0,2.0,2155.0,https://www.zillow.com//homedetails/805-W-Club-Blvd-Durham-NC-27701/2113188041_zpid/
+"107 N Fork Rd, Black Mountain, NC 28711",225000.0,2.0,1.0,770.0,https://www.zillow.com//homedetails/107-N-Fork-Rd-Black-Mountain-NC-28711/5589103_zpid/
+"106 Kerlee St, Black Mountain, NC 28711",387000.0,4.0,2.0,1428.0,https://www.zillow.com//homedetails/106-Kerlee-St-Black-Mountain-NC-28711/5589393_zpid/
+"5 Woodcrest Rd, Asheville, NC 28804",890000.0,3.0,2.0,1918.0,https://www.zillow.com//homedetails/5-Woodcrest-Rd-Asheville-NC-28804/5643389_zpid/
+"16 Griffing Blvd, Asheville, NC 28804",889000.0,3.0,4.0,3213.0,https://www.zillow.com//homedetails/16-Griffing-Blvd-Asheville-NC-28804/5643423_zpid/
+"3855 Longwood Dr SW, Concord, NC 28027",400000.0,4.0,3.0,2734.0,https://www.zillow.com//homedetails/3855-Longwood-Dr-SW-Concord-NC-28027/5658728_zpid/
+"609 Westside Dr, Lexington, NC 27292",205000.0,2.0,1.0,1059.0,https://www.zillow.com//homedetails/609-Westside-Dr-Lexington-NC-27292/5722869_zpid/
+"207 Walnut St, Thomasville, NC 27360",180000.0,2.0,2.0,1138.0,https://www.zillow.com//homedetails/207-Walnut-St-Thomasville-NC-27360/5739300_zpid/
+"211 S Westwood Ave, Thomasville, NC 27360",230000.0,3.0,2.0,1280.0,https://www.zillow.com//homedetails/211-S-Westwood-Ave-Thomasville-NC-27360/5744351_zpid/
+"1113 W End Blvd, Winston Salem, NC 27101",142300.0,3.0,1.0,1233.0,https://www.zillow.com//homedetails/1113-W-End-Blvd-Winston-Salem-NC-27101/5754093_zpid/
+"1425 Nix Dr, Lewisville, NC 27023",289900.0,3.0,2.0,1394.0,https://www.zillow.com//homedetails/1425-Nix-Dr-Lewisville-NC-27023/5814922_zpid/
+"1420 Sterling Ave, Gastonia, NC 28054",237000.0,3.0,2.0,1178.0,https://www.zillow.com//homedetails/1420-Sterling-Ave-Gastonia-NC-28054/5852548_zpid/
+"310 Southridge Pkwy, Bessemer City, NC 28016",285000.0,3.0,3.0,3136.0,https://www.zillow.com//homedetails/310-Southridge-Pkwy-Bessemer-City-NC-28016/5879655_zpid/
+"805 Magnolia St, Greensboro, NC 27401",865000.0,4.0,3.0,2809.0,https://www.zillow.com//homedetails/805-Magnolia-St-Greensboro-NC-27401/5905170_zpid/
+"2304 Glenhaven Dr, Greensboro, NC 27406",170000.0,3.0,2.0,1550.0,https://www.zillow.com//homedetails/2304-Glenhaven-Dr-Greensboro-NC-27406/5927600_zpid/
+"5710 Manor Ridge Trl, Greensboro, NC 27407",306000.0,3.0,2.0,1852.0,https://www.zillow.com//homedetails/5710-Manor-Ridge-Trl-Greensboro-NC-27407/5958507_zpid/
+"205 Guilford Ave, High Point, NC 27262",164000.0,3.0,1.0,1255.0,https://www.zillow.com//homedetails/205-Guilford-Ave-High-Point-NC-27262/6032098_zpid/
+"165 Quiet Cove Rd, Mooresville, NC 28117",465000.0,3.0,3.0,1754.0,https://www.zillow.com//homedetails/165-Quiet-Cove-Rd-Mooresville-NC-28117/6054869_zpid/
+"125 Pebble Brook Ln, Mooresville, NC 28117",879000.0,4.0,3.0,3145.0,https://www.zillow.com//homedetails/125-Pebble-Brook-Ln-Mooresville-NC-28117/6057224_zpid/
+"548 Greenway Dr, Statesville, NC 28677",250000.0,3.0,2.0,1474.0,https://www.zillow.com//homedetails/548-Greenway-Dr-Statesville-NC-28677/6087145_zpid/
+"772 Fernwood Rd, Lincolnton, NC 28092",414000.0,4.0,3.0,2396.0,https://www.zillow.com//homedetails/772-Fernwood-Rd-Lincolnton-NC-28092/6112841_zpid/
+"17813 Spinnakers Reach Dr, Cornelius, NC 28031",244.0,5.0,5.0,6066.0,https://www.zillow.com//homedetails/17813-Spinnakers-Reach-Dr-Cornelius-NC-28031/6123745_zpid/
+"3900 Sofley Rd, Charlotte, NC 28206",406500.0,3.0,2.0,1410.0,https://www.zillow.com//homedetails/3900-Sofley-Rd-Charlotte-NC-28206/6189408_zpid/
+"13217 Peacock Ln, Charlotte, NC 28215",357000.0,3.0,2.0,1388.0,https://www.zillow.com//homedetails/13217-Peacock-Ln-Charlotte-NC-28215/6216966_zpid/
+"3127 Manchester Dr, Charlotte, NC 28217",365000.0,2.0,2.0,1130.0,https://www.zillow.com//homedetails/3127-Manchester-Dr-Charlotte-NC-28217/6238797_zpid/
+"7711 Quail Hill Rd, Charlotte, NC 28210",729000.0,4.0,3.0,2436.0,https://www.zillow.com//homedetails/7711-Quail-Hill-Rd-Charlotte-NC-28210/6262225_zpid/
+"6501 Park South Dr, Charlotte, NC 28210",815000.0,4.0,3.0,2377.0,https://www.zillow.com//homedetails/6501-Park-South-Dr-Charlotte-NC-28210/6265806_zpid/
+"14213 Arbor Ridge Dr, Charlotte, NC 28273",400000.0,3.0,3.0,1891.0,https://www.zillow.com//homedetails/14213-Arbor-Ridge-Dr-Charlotte-NC-28273/6286111_zpid/
+"1801 Maurice Trull Rd, Wingate, NC 28174",475499.0,3.0,2.0,1799.0,https://www.zillow.com//homedetails/1801-Maurice-Trull-Rd-Wingate-NC-28174/6334262_zpid/
+"5317 Cypress Ln, Raleigh, NC 27609",480000.0,3.0,3.0,1800.0,https://www.zillow.com//homedetails/5317-Cypress-Ln-Raleigh-NC-27609/6435670_zpid/
+"8704 Bucksport Ln, Raleigh, NC 27613",416000.0,3.0,2.0,1668.0,https://www.zillow.com//homedetails/8704-Bucksport-Ln-Raleigh-NC-27613/6468538_zpid/
+"3106 Quinley Pl, Raleigh, NC 27604",195000.0,2.0,2.0,1152.0,https://www.zillow.com//homedetails/3106-Quinley-Pl-Raleigh-NC-27604/6469482_zpid/
+"5629 Continental Way, Raleigh, NC 27610",215000.0,3.0,2.0,1452.0,https://www.zillow.com//homedetails/5629-Continental-Way-Raleigh-NC-27610/6489638_zpid/
+"217 Seaton Dr, Fuquay Varina, NC 27526",299900.0,3.0,2.0,1259.0,https://www.zillow.com//homedetails/217-Seaton-Dr-Fuquay-Varina-NC-27526/6492392_zpid/
+"212 Somerset Farm Dr, Holly Springs, NC 27540",439000.0,3.0,3.0,2218.0,https://www.zillow.com//homedetails/212-Somerset-Farm-Dr-Holly-Springs-NC-27540/6549496_zpid/
+"108 Ridge Lake Dr, Apex, NC 27539",375000.0,3.0,3.0,1500.0,https://www.zillow.com//homedetails/108-Ridge-Lake-Dr-Apex-NC-27539/6564040_zpid/
+"1429 Big Leaf Loop, Apex, NC 27502",585000.0,4.0,3.0,2159.0,https://www.zillow.com//homedetails/1429-Big-Leaf-Loop-Apex-NC-27502/6564110_zpid/
+"3066 Sledge Rd, Louisburg, NC 27549",277000.0,4.0,3.0,2052.0,https://www.zillow.com//homedetails/3066-Sledge-Rd-Louisburg-NC-27549/49963673_zpid/
+"5900 Wilma St, Durham, NC 27712",336200.0,4.0,3.0,1525.0,https://www.zillow.com//homedetails/5900-Wilma-St-Durham-NC-27712/50024201_zpid/
+"200 Caldwell St, Chapel Hill, NC 27516",500000.0,3.0,2.0,1580.0,https://www.zillow.com//homedetails/200-Caldwell-St-Chapel-Hill-NC-27516/50037421_zpid/
+"6439 Starlette Ln, Trinity, NC 27370",340000.0,4.0,3.0,2159.0,https://www.zillow.com//homedetails/6439-Starlette-Ln-Trinity-NC-27370/50092465_zpid/
+"3729 Pineview Ave, High Point, NC 27260",165000.0,2.0,1.0,1047.0,https://www.zillow.com//homedetails/3729-Pineview-Ave-High-Point-NC-27260/50093580_zpid/
+"5375 Wayne St, Raleigh, NC 27606",820000.0,2.0,3.0,4002.0,https://www.zillow.com//homedetails/5375-Wayne-St-Raleigh-NC-27606/50099629_zpid/
+"2830 Barnett Rd, Mebane, NC 27302",450000.0,3.0,3.0,2412.0,https://www.zillow.com//homedetails/2830-Barnett-Rd-Mebane-NC-27302/51215624_zpid/
+"6427 Country Club Drive, Grifton, NC 28530",231000.0,3.0,2.0,1289.0,https://www.zillow.com//homedetails/6427-Country-Club-Dr-Grifton-NC-28530/51433008_zpid/
+"2433 Windsor Chase Dr, Matthews, NC 28105",449900.0,3.0,2.0,2018.0,https://www.zillow.com//homedetails/2433-Windsor-Chase-Dr-Matthews-NC-28105/51533652_zpid/
+"103 Carolina Drive, Jacksonville, NC 28546",208000.0,3.0,2.0,1025.0,https://www.zillow.com//homedetails/103-Carolina-Dr-Jacksonville-NC-28546/51536438_zpid/
+"1385 White Oak River Road, Maysville, NC 28555",658425.0,3.0,4.0,3256.0,https://www.zillow.com//homedetails/1385-White-Oak-River-Rd-Maysville-NC-28555/51540039_zpid/
+"107 Club Lane, Jacksonville, NC 28546",205000.0,3.0,2.0,1340.0,https://www.zillow.com//homedetails/107-Club-Ln-Jacksonville-NC-28546/51557794_zpid/
+"200 Bracken Place, Jacksonville, NC 28540",364000.0,7.0,6.0,3591.0,https://www.zillow.com//homedetails/200-Bracken-Pl-Jacksonville-NC-28540/51566090_zpid/
+"2725 Chestnut Heights Rd, Winston Salem, NC 27107",245000.0,3.0,2.0,1300.0,https://www.zillow.com//homedetails/2725-Chestnut-Heights-Rd-Winston-Salem-NC-27107/51627866_zpid/
+"1899 Berea Church Rd, Hendersonville, NC 28739",107.0,4.0,4.0,3763.0,https://www.zillow.com//homedetails/1899-Berea-Church-Rd-Hendersonville-NC-28739/51637919_zpid/
+"1015 Indian Cave Rd, Hendersonville, NC 28739",535000.0,2.0,2.0,1861.0,https://www.zillow.com//homedetails/1015-Indian-Cave-Rd-Hendersonville-NC-28739/51638203_zpid/
+"50 Lofty Pine Ln, Mills River, NC 28759",674265.0,3.0,2.0,1657.0,https://www.zillow.com//homedetails/50-Lofty-Pine-Ln-Mills-River-NC-28759/51654055_zpid/
+"5820 Holland Farms Way, Raleigh, NC 27603",290000.0,3.0,2.0,1213.0,https://www.zillow.com//homedetails/5820-Holland-Farms-Way-Raleigh-NC-27603/53456113_zpid/
+"3629 Metric Dr, Hope Mills, NC 28348",108000.0,3.0,2.0,1062.0,https://www.zillow.com//homedetails/3629-Metric-Dr-Hope-Mills-NC-28348/53635191_zpid/
+"2548 Pine Springs Dr, Fayetteville, NC 28306",197000.0,3.0,2.0,2354.0,https://www.zillow.com//homedetails/2548-Pine-Springs-Dr-Fayetteville-NC-28306/53637100_zpid/
+"804 Rodie Ave, Fayetteville, NC 28304",103608.0,2.0,1.0,2313.0,https://www.zillow.com//homedetails/804-Rodie-Ave-Fayetteville-NC-28304/53638702_zpid/
+"3236 Jura Dr, Fayetteville, NC 28303",406000.0,4.0,3.0,2617.0,https://www.zillow.com//homedetails/3236-Jura-Dr-Fayetteville-NC-28303/53644300_zpid/
+"1703 Hatherleigh Pl, Fayetteville, NC 28304",285000.0,3.0,2.0,1859.0,https://www.zillow.com//homedetails/1703-Hatherleigh-Pl-Fayetteville-NC-28304/53651392_zpid/
+"1811 Harris St, Fayetteville, NC 28301",70000.0,3.0,2.0,1620.0,https://www.zillow.com//homedetails/1811-Harris-St-Fayetteville-NC-28301/53659142_zpid/
+"8708 Tin Lizza Dr, Fayetteville, NC 28314",248000.0,4.0,2.0,1826.0,https://www.zillow.com//homedetails/8708-Tin-Lizza-Dr-Fayetteville-NC-28314/53694586_zpid/
+"910 Fitzgerald Drive, Wilmington, NC 28405",315000.0,3.0,2.0,1138.0,https://www.zillow.com//homedetails/910-Fitzgerald-Dr-Wilmington-NC-28405/54294685_zpid/
+"210 Wellington Drive, Wilmington, NC 28411",520000.0,3.0,3.0,1909.0,https://www.zillow.com//homedetails/210-Wellington-Dr-Wilmington-NC-28411/54297088_zpid/
+"944 Arboretum Drive, Wilmington, NC 28405",165.0,4.0,5.0,3216.0,https://www.zillow.com//homedetails/944-Arboretum-Dr-Wilmington-NC-28405/54307545_zpid/
+"1165 Arboretum Drive, Wilmington, NC 28405",125.0,4.0,4.0,3945.0,https://www.zillow.com//homedetails/1165-Arboretum-Dr-Wilmington-NC-28405/54308158_zpid/
+"20 Pipers Neck Road, Wilmington, NC 28411",640.0,4.0,5.0,3600.0,https://www.zillow.com//homedetails/20-Pipers-Neck-Rd-Wilmington-NC-28411/54308347_zpid/
+"622 S 2nd Street Apt 1, Wilmington, NC 28401",615000.0,3.0,4.0,2578.0,https://www.zillow.com//homedetails/622-S-2nd-St-APT-1-Wilmington-NC-28401/54310750_zpid/
+"914 Queen Street, Wilmington, NC 28401",272000.0,3.0,2.0,1139.0,https://www.zillow.com//homedetails/914-Queen-St-Wilmington-NC-28401/54311353_zpid/
+"922 S 2nd Street, Wilmington, NC 28401",137000.0,2.0,1.0,0.0,https://www.zillow.com//homedetails/922-S-2nd-St-Wilmington-NC-28401/54311880_zpid/
+"921 Bryan Avenue, Wilmington, NC 28403",390000.0,4.0,2.0,1415.0,https://www.zillow.com//homedetails/921-Bryan-Ave-Wilmington-NC-28403/54314500_zpid/
+"3813 Gillette Drive, Wilmington, NC 28403",375000.0,3.0,2.0,2218.0,https://www.zillow.com//homedetails/3813-Gillette-Dr-Wilmington-NC-28403/54323699_zpid/
+"434 Lansdowne Road, Wilmington, NC 28409",530000.0,4.0,3.0,2160.0,https://www.zillow.com//homedetails/434-Lansdowne-Rd-Wilmington-NC-28409/54338054_zpid/
+"726 Emmarts Court, Wilmington, NC 28409",449000.0,3.0,3.0,1731.0,https://www.zillow.com//homedetails/726-Emmarts-Ct-Wilmington-NC-28409/54341866_zpid/
+"914 Tarpon Drive, Wilmington, NC 28409",945000.0,4.0,3.0,2651.0,https://www.zillow.com//homedetails/914-Tarpon-Dr-Wilmington-NC-28409/54348331_zpid/
+"1003 Master Gunner Ct, Indian Trail, NC 28079",450000.0,5.0,4.0,2546.0,https://www.zillow.com//homedetails/1003-Master-Gunner-Ct-Indian-Trail-NC-28079/58464317_zpid/
+"3 Stillhouse Pl, Durham, NC 27704",360000.0,3.0,3.0,1903.0,https://www.zillow.com//homedetails/3-Stillhouse-Pl-Durham-NC-27704/59713933_zpid/
+"910 Sunset Dr, Greensboro, NC 27408",225.0,6.0,9.0,7620.0,https://www.zillow.com//homedetails/910-Sunset-Dr-Greensboro-NC-27408/59955734_zpid/
+"5520 John Washington Rd, Browns Summit, NC 27214",415000.0,-,-,0.0,https://www.zillow.com//homedetails/5520-John-Washington-Rd-Browns-Summit-NC-27214/59959548_zpid/
+"8280 City Loft Ct, Raleigh, NC 27613",324900.0,2.0,3.0,1330.0,https://www.zillow.com//homedetails/8280-City-Loft-Ct-Raleigh-NC-27613/60395465_zpid/
+"1009 Shippon Ln, Waxhaw, NC 28173",355.0,5.0,10.0,10723.0,https://www.zillow.com//homedetails/1009-Shippon-Ln-Waxhaw-NC-28173/61792418_zpid/
+"7707 Konsler Dr, Charlotte, NC 28214",340000.0,3.0,3.0,1700.0,https://www.zillow.com//homedetails/7707-Konsler-Dr-Charlotte-NC-28214/65006100_zpid/
+"18538 Victoria Bay Dr, Cornelius, NC 28031",435000.0,3.0,3.0,2163.0,https://www.zillow.com//homedetails/18538-Victoria-Bay-Dr-Cornelius-NC-28031/65014114_zpid/
+"9728 Alma Blount Blvd, Charlotte, NC 28277",635000.0,4.0,4.0,2532.0,https://www.zillow.com//homedetails/9728-Alma-Blount-Blvd-Charlotte-NC-28277/65030801_zpid/
+"127 Magnolia Gardens Drive, Jacksonville, NC 28540",205000.0,3.0,2.0,1674.0,https://www.zillow.com//homedetails/127-Magnolia-Gardens-Dr-Jacksonville-NC-28540/65065562_zpid/
+"476 Orenda Dr, Franklin, NC 28734",315000.0,3.0,2.0,-,https://www.zillow.com//homedetails/476-Orenda-Dr-Franklin-NC-28734/65659382_zpid/
+"41 Chris Ln, Franklin, NC 28734",230000.0,2.0,2.0,1382.0,https://www.zillow.com//homedetails/41-Chris-Ln-Franklin-NC-28734/65664427_zpid/
+"406 Everview Ln, Waynesville, NC 28785",850000.0,3.0,3.0,2825.0,https://www.zillow.com//homedetails/406-Everview-Ln-Waynesville-NC-28785/65675068_zpid/
+"552 Meadowood Dr, Burlington, NC 27215",708000.0,5.0,5.0,4450.0,https://www.zillow.com//homedetails/552-Meadowood-Dr-Burlington-NC-27215/66531310_zpid/
+"2840 Orchard Trace Way, Raleigh, NC 27610",398000.0,5.0,3.0,3010.0,https://www.zillow.com//homedetails/2840-Orchard-Trace-Way-Raleigh-NC-27610/68318444_zpid/
+"3091 Rainbow Ave, Pfafftown, NC 27040",495000.0,3.0,2.0,2054.0,https://www.zillow.com//homedetails/3091-Rainbow-Ave-Pfafftown-NC-27040/69538106_zpid/
